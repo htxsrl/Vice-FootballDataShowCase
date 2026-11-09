@@ -25,7 +25,7 @@ export function disegnaFasce(contenitore, spec, { onScelta } = {}) {
     const C = {
       inchiostro: css("--inchiostro"), secondario: css("--secondario"), tenue: css("--tenue"), linea: css("--linea"),
       superficie: css("--superficie"), larga: css("--banda-larga"), centrale: css("--banda-centrale"), mediana: css("--mediana"),
-      gettone: css("--gettone"), gettoneTesto: css("--gettone-testo"), velo: css("--evidenzia-velo"), evidenzia: css("--evidenzia"),
+      gettone: css("--gettone"), gettoneTesto: css("--gettone-testo"), velo: css("--evidenzia-velo"), veloTenue: css("--evidenzia-velo-tenue"), evidenzia: css("--evidenzia"),
       ui: css("--font-ui"), numeri: css("--font-numeri"),
     };
     const colore = Object.fromEntries([...POSIZIONI, "senza fascia"].map((p) => [p, css(VAR_POS[p])]));
@@ -84,8 +84,9 @@ export function disegnaFasce(contenitore, spec, { onScelta } = {}) {
           const xg = cs.x - sinistra + 18;
           const largo = cs.x + cs.width - xg + 14;
           if (i === acceso) figli.push({ type: "rect", silent: true, shape: { x: xg - 14, y: y - passo / 2 + 1, width: largo, height: passo - 2, r: 3 }, style: { fill: C.velo } });
-          // un dato di tutta la squadra: un segno dell'evidenziatore su ogni riga, senza coprire il grafico
-          if (acceso === "tutte") figli.push({ type: "rect", silent: true, shape: { x: xg - 16, y: y - passo / 2 + 4, width: 4, height: passo - 8, r: 2 }, style: { fill: C.evidenzia } });
+          // un dato di tutta la squadra: tutte le righe con un velo leggero dell'evidenziatore e, più sotto, un anello
+          // attorno a ogni valore del giorno (09/11/2026: il solo trattino a sinistra non si vedeva)
+          if (acceso === "tutte") figli.push({ type: "rect", silent: true, shape: { x: xg - 14, y: y - passo / 2 + 1, width: largo, height: passo - 2, r: 3 }, style: { fill: C.veloTenue } });
           figli.push({ type: "rect", shape: { x: xg - 14, y: y - passo / 2, width: largo, height: passo }, style: { fill: "rgba(0,0,0,0)" } });
           if (r.giocatore) {
             figli.push({ type: "circle", shape: { cx: xg, cy: y, r: 10.5 }, style: { fill: C.gettone } });
@@ -104,6 +105,11 @@ export function disegnaFasce(contenitore, spec, { onScelta } = {}) {
           const xv = X(r.valore);
           const fuori = POSIZIONI.includes(r.posizione) && r.posizione !== "dentro";
           if (scuro && fuori) figli.push({ type: "circle", shape: { cx: xv, cy: y, r: 11 }, style: { fill: "none", stroke: C.evidenzia, lineWidth: 1.2, lineDash: [3, 2] } });
+          // l'anello è solo un contorno (niente riempimento): non può coprire il punto del valore, che ha il suo colore
+          if (acceso === "tutte") {
+            figli.push({ type: "circle", silent: true, shape: { cx: xv, cy: y, r: 12 }, style: { fill: "none", stroke: C.inchiostro, lineWidth: 1 } });
+            figli.push({ type: "circle", silent: true, shape: { cx: xv, cy: y, r: 9.5 }, style: { fill: "none", stroke: C.evidenzia, lineWidth: 4 } });
+          }
           figli.push({ type: "circle", shape: { cx: xv, cy: y, r: 6.5 }, style: r.posizione === "senza fascia"
             ? { fill: C.superficie, stroke: C.secondario, lineWidth: 1.5 }
             : r.posizione === "neutra" ? { fill: C.inchiostro, stroke: C.superficie, lineWidth: 2 }
