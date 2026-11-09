@@ -1,0 +1,20 @@
+{
+ "data": "2023-10-12",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 12/10/2023",
+ "testo": "## Sintesi\nLa seduta di MD-2 (due giorni prima della partita) mostra un'aderenza al carico abituale nel complesso dentro fascia per TD (distanza totale) e accelerazioni, con percentile mediano squadra rispettivamente di 73 [E2] e 53 [E5]. Decelerazioni e distanza ad alto carico metabolico (HMLD) si collocano invece su percentili mediani più alti, 91 [E6] e 87 [E7], segnalando una seduta con componente di frenata e metabolica superiore al solito per diversi giocatori. 11 giocatori su 17 risultano fuori dalla fascia larga in almeno una metrica [E1].\n## Fuori fascia\n- Edoardo Tosi: molto sopra la fascia larga P10-P90 in TD (6.603 m) [E9], HSR (corsa ad alta velocità) (748 m) [E10], SPR (sprint) (548 m) [E11], ACC (accelerazioni intense) (72) [E12], DCC (decelerazioni intense) (77) [E13] e HMLD (1.569 m) [E14].\n- Alessio Dalmasso: DCC molto sopra la fascia larga P10-P90, valore 58 [E8].\n- Matteo Basile: DCC molto sopra la fascia larga P10-P90, valore 66 [E17].\n- Luca Cerutti: HSR (32 m) e HMLD (521 m) molto sotto la fascia larga P10-P90 [E15, E16]; SPR (16 m) sotto la fascia centrale P25-P75 [E18].\n- Riccardo Benedetti: HSR (68 m) e ACC (37) sotto la fascia centrale P25-P75 [E19, E21].\n- Nicolò Serafini e Pietro Ghio: ACC (75) e DCC (49) sopra la fascia centrale P25-P75 [E20, E22].\n## Verso la partita\nNella finestra da MD-4 a MD-2 (finestra completa, 2 sedute) 6 giocatori su 17 risultano sotto il solito in alta velocità [E23]: Riccardo Benedetti, Pietro Ghio, Gabriele Longo, Luca Cerutti, Filippo Rinaldi e Simone Amato. Pietro Ghio e Luca Cerutti sono molto sotto la fascia larga P10-P90 in HSR, rispettivamente 110 m [E27] e 110 m [E31]; Riccardo Benedetti, Gabriele Longo e Filippo Rinaldi sono sotto la fascia centrale P25-P75 in HSR (120 m [E25], 316 m [E29], 140 m [E33]).\n## Spunti per lo staff\nOggi le regole non segnalano nulla.\n## Qualità del dato e limiti\nSimone Amato non ha dati nella finestra postpartita, copertura nessun dato su 1 seduta della squadra [E34]. La curva tipica è provvisoria per poche settimane regolari di dati, quindi non genera spunti autonomi. Alcuni non titolari non hanno dati della partita del 08/10/2023: il dataset non distingue se non hanno giocato o se il dato manca.",
+ "frasi_con_numeri": 11,
+ "verificate": 11,
+ "tolte": [],
+ "correzioni": [
+  {
+   "frase": "Pietro Ghio e Luca Cerutti sono molto sotto la fascia larga P10-P90 in HSR, rispettivamente 110 m [E27] e 110 m [E31]; Riccardo Benedetti, Gabriele Longo e Filippo Rinaldi sono sotto la fascia centrale P25-P75 in HSR (68 m [E25... nota: 120 m][E25], 316 m [E29], 140 m [E33]).",
+   "motivo": "numeri non presenti nelle evidenze citate: 68"
+  }
+ ],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.04898,
+ "secondi": 19.9,
+ "generato_il": "2026-10-28T09:38:00"
+}

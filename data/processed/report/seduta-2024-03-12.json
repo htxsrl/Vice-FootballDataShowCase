@@ -1,0 +1,20 @@
+{
+ "data": "2024-03-12",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 12/03/2024",
+ "testo": "## Sintesi\nLa seduta del 12/03/2024 (MD-5, cinque giorni prima della partita) mostra un'aderenza al carico abituale piuttosto bassa su diverse metriche: la distanza totale (TD), le accelerazioni intense (ACC) e la distanza ad alto carico metabolico (HMLD) hanno percentili mediani di squadra molto bassi (TD 9 [E2], ACC 5 [E5], HMLD 6 [E7]). La corsa ad alta velocità (HSR) e le decelerazioni intense (DCC) sono leggermente meno distanti dal solito, ma restano sotto mediana (HSR 29 [E3], DCC 19 [E6]). In totale 11 giocatori su 16 risultano fuori dalla fascia larga in almeno una metrica, di cui 5 ai margini [E1].\n## Fuori fascia\n- Andrea Melis: molto sotto la fascia larga P10-P90 in TD (3.083 m) [E9], ACC (34) [E10] e HMLD (313 m) [E11].\n- Elia Gariglio: molto sotto la fascia larga P10-P90 in TD (3.605 m) [E13], HSR (3 m) [E14] e ACC (35) [E15].\n- Alessio Dalmasso: molto sotto la fascia larga P10-P90 in HMLD (462 m) [E8].\n- Matteo Basile: molto sotto la fascia larga P10-P90 in HSR (9 m) [E17].\n- Edoardo Tosi: molto sotto la fascia larga P10-P90 in ACC (39) [E12].\n- Luca Cerutti: molto sotto la fascia larga P10-P90 in ACC (40) [E16]; sotto la fascia centrale P25-P75 in DCC (27) [E19].\nAltri sotto la fascia centrale P25-P75: Riccardo Benedetti in DCC (30) [E18]; Filippo Rinaldi (584 m) [E20] e Tommaso Ferrandi (602 m) [E21] in HMLD; Samuele Pinna in TD (3.443 m) [E22].\n## Spunti per lo staff\n- Verificare se il programma postpartita prevedeva meno alta velocità del solito: dopo la partita del 09/03/2024, 5 non titolari su 8 valutati sono molto sotto la loro fascia storica di HSR (mediana 14 m, contro 216 m). [E23, E24, E25, E26, E27, E28]\n## Qualità del dato e limiti\n- Riccardo Benedetti: nessun dato nella finestra postpartita (0 sedute su 1 della squadra) [E29].\n- La finestra MD-4…MD-2 non è ancora conclusa: i valori sono parziali fino al 12/03/2024.\n- Nessuna seduta registrata da MD-4 a MD-2 prima della partita del 17/03/2024.\n- Alcuni non titolari non hanno dati della partita del 09/03/2024: il dataset non distingue se non hanno giocato o se il dato manca.\n- Diverse evidenze individuali sono provvisorie, basate su 4 sedute di riferimento [E8].",
+ "frasi_con_numeri": 13,
+ "verificate": 13,
+ "tolte": [],
+ "correzioni": [
+  {
+   "frase": "- Diverse evidenze individuali sono provvisorie, basate su 4 sedute di riferimento.",
+   "motivo": "numeri senza evidenza citata"
+  }
+ ],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.04029,
+ "secondi": 14.3,
+ "generato_il": "2026-10-28T09:31:32"
+}

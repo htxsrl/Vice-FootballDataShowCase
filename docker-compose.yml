@@ -1,0 +1,29 @@
+# Vice in locale: http://localhost:8742
+# Porta scelta il 21/10/2026 perché libera e non riservata da altri container (vedi wiki/tecnica/architettura.md).
+name: vice
+
+services:
+  vice:
+    build:
+      context: .
+      args:
+        DEV: "1"                 # dipendenze di test incluse (requirements-dev.txt)
+    container_name: vice
+    env_file: .env
+    environment:
+      PYTEST_ADDOPTS: "-p no:cacheprovider"   # niente .pytest_cache nel repo montato
+    ports:
+      - "127.0.0.1:8742:8000"   # solo da questo PC
+    volumes:                     # sviluppo: codice, test, script e dati senza ricostruire l'immagine
+      - ./vice:/app/vice
+      - ./tests:/app/tests
+      - ./scripts:/app/scripts
+      - ./data:/app/data
+      - ./wiki:/app/wiki:ro      # il glossario dell'app (wiki/metodi/glossario.md) e i suoi test
+    command: uvicorn vice.main:app --host 0.0.0.0 --port 8000 --reload --reload-dir /app/vice
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8000/api/health', timeout=3)"]
+      interval: 30s
+      timeout: 5s
+      retries: 3

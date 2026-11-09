@@ -1,0 +1,15 @@
+{
+ "data": "2024-04-11",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 11/04/2024",
+ "testo": "## Sintesi\n\nLa seduta di due giorni prima della partita (MD-2) mostra accelerazioni (ACC) e decelerazioni (DCC) nettamente sotto l'abituale, con percentile mediano di squadra rispettivamente di 10 e 16 [E5, E6], mentre distanza totale (TD) e distanza ad alto carico metabolico (HMLD) si posizionano su percentili mediani di 27 e 21 [E2, E7]. Corsa ad alta velocità (HSR) e distanza in sprint (SPR) restano più in linea con l'abituale, con percentile mediano di 48 e 63 [E3, E4]. Nove giocatori su 16 risultano fuori dalla fascia larga in almeno una metrica, di cui 7 ai margini della rosa [E1].\n\n## Fuori fascia\n\n- **Andrea Melis**: HSR 6 m, molto sotto la fascia larga 93 m–421 m [E9]; SPR 0 m, molto sotto la fascia larga 40 m–281 m [E14]; DCC 19, molto sotto la fascia larga 38–64 [E10].\n- **Riccardo Benedetti**: ACC 16, molto sotto la fascia larga 30–58 [E11]; DCC 10, molto sotto la fascia larga 23–53 [E12]; TD 3.728 m, sotto la fascia centrale 4.426 m–5.634 m [E19].\n- **Tommaso Ferrandi**: DCC 15, molto sotto la fascia larga 35–74 [E13]; ACC 24, molto sotto la fascia larga 39–72 [E17]; HMLD 511 m, sotto la fascia centrale 855 m–1.060 m [E21].\n- **Alessio Dalmasso**: ACC 20, molto sotto la fascia larga 33–63 [E8]; HSR 56 m, sotto la fascia centrale 87 m–225 m [E20].\n- **Filippo Rinaldi**: ACC 28, molto sotto la fascia larga 38–69 [E16].\n- **Federico Santini**: ACC 26, molto sotto la fascia larga 35–70 [E15]; DCC 22, sotto la fascia centrale 34–52 [E18].\n\n## Verso la partita\n\nNella finestra da MD-4 a MD-2 prima della partita del 13/04/2024, 1 giocatore su 16 risulta sotto il solito in alta velocità: Simone Amato [E23]. Per lui la SPR è 16 m, sotto la fascia centrale 38 m–196 m, con riferimento abituale di 98 m [E24]; l'HSR è invece 287 m, dentro la fascia, con riferimento di 488 m [E25].\n\n## Spunti per lo staff\n\nOggi le regole non segnalano nulla.\n\n## Qualità del dato e limiti\n\nElia Gariglio e Christian Porcu non hanno alcun dato nella finestra postpartita (0 sedute su 1 disponibile) [E26, E27]. Alcuni non titolari non hanno dati della partita del 06/04/2024: non hanno giocato oppure il dato manca, il dataset non distingue i due casi.",
+ "frasi_con_numeri": 12,
+ "verificate": 12,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.02762,
+ "secondi": 12.5,
+ "generato_il": "2026-10-28T09:30:00"
+}

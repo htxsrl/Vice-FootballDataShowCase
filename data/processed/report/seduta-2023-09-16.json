@@ -1,0 +1,20 @@
+{
+ "data": "2023-09-16",
+ "tipo": "seduta",
+ "titolo": "Report della partita del 16/09/2023",
+ "testo": "## Sintesi\nLa seduta del 16/09/2023 è una partita (MD) con 14 giocatori monitorati [E1]. Nessun giocatore risulta fuori dalla fascia larga in alcuna metrica [E1], ma non è possibile confrontare il carico con una fascia tipica per le sedute MD per mancanza di storico sufficiente.\n## Fuori fascia\nNessun giocatore è fuori dalla fascia larga P10-P90 oggi: 0 giocatori su 14 [E1].\n## Titolari e non titolari\nPer i non titolari della partita del 10/09/2023, l'esito sulla corsa ad alta velocità (HSR) riguarda 8 giocatori; di questi, 7 risultano senza fascia di riferimento e 1 senza alcun dato [E2]. La finestra postpartita non è aperta, quindi il quadro sui non titolari non è ancora definitivo [E2].\n## Spunti per lo staff\nOggi le regole non segnalano nulla.\n## Qualità del dato e limiti\nLuca Cerutti non ha nessun dato nella finestra postpartita (0 sedute con dati su 1 seduta della squadra) [E3].\nNon c'è fascia di riferimento per le sedute MD: storico ancora insufficiente per questo tipo di seduta (inizio stagione).\nLo storico ha troppo poche settimane regolari per costruire una curva di carico tipica.\nPer alcuni non titolari manca il dato della partita del 10/09/2023: il dataset non distingue se non hanno giocato o se il dato è semplicemente assente.",
+ "frasi_con_numeri": 4,
+ "verificate": 4,
+ "tolte": [],
+ "correzioni": [
+  {
+   "frase": "La seduta del 16/09/2023 è una partita (MD) con 14 giocatori monitorati.",
+   "motivo": "numeri senza evidenza citata"
+  }
+ ],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.0132,
+ "secondi": 9.0,
+ "generato_il": "2026-10-28T09:38:54"
+}

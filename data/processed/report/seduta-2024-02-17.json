@@ -1,0 +1,16 @@
+{
+ "data": "2024-02-17",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 17/02/2024",
+ "testo": "## Sintesi\n\nLa seduta MD-1 (il giorno prima della partita) del 17/02/2024 risulta nel complesso in linea con il carico abituale: la distanza totale (TD) si attesta su un percentile mediano di squadra pari a 49 [E2], e anche accelerazioni (ACC), decelerazioni (DCC) e distanza ad alto carico metabolico (HMLD) restano vicine alla mediana [E5, E6, E7]. Solo la corsa ad alta velocità (HSR) mostra una mediana di squadra più bassa, con percentile 8 e 9 giocatori sotto fascia [E3]. 2 giocatori su 17 risultano fuori dalla fascia larga in almeno una metrica, con 14 giocatori ai margini [E1].\n\n## Fuori fascia\n\n- Christian Porcu: molto sopra la fascia larga su HSR con 608 m (fascia larga 2 m–124 m) [E8], distanza in sprint (SPR) con 500 m (fascia larga 0 m–61 m) [E9], HMLD con 1.162 m (fascia larga 146 m–529 m) [E10], TD con 6.802 m (fascia larga 1.975 m–3.778 m) [E11], ACC con 56 (fascia larga 15–47) [E13] e DCC con 42 (fascia larga 6–35) [E14].\n- Pietro Ghio: molto sotto la fascia larga su ACC con 19 (fascia larga 25–54) [E12], e sotto la fascia centrale su HSR con 0 m (fascia centrale 12 m–53 m) [E15].\n- Federico Santini: sotto la fascia centrale su HSR con 0 m (fascia centrale 21 m–71 m) [E16].\n- Elia Gariglio: sotto la fascia centrale su HSR con 0 m (fascia centrale 14 m–42 m) [E17].\n- Andrea Melis: sotto la fascia centrale su HSR con 11 m (fascia centrale 24 m–144 m) [E18].\n- Nicolò Serafini: sotto la fascia centrale su HSR con 2 m (fascia centrale 12 m–50 m) [E19].\n\n## Verso la partita\n\nNella finestra da MD-4 a MD-2 prima della partita del 18/02/2024, 3 giocatori su 17 risultano sotto il solito in alta velocità [E20]. Tommaso Ferrandi è sotto fascia centrale in SPR con 45 m (riferimento 167 m) [E21] e molto sotto fascia larga in HSR con 147 m (riferimento 428 m) [E22]. Riccardo Benedetti è sotto in SPR con 0 m (riferimento 38 m) [E23] ma dentro fascia in HSR con 213 m [E24]. Filippo Rinaldi è dentro fascia in SPR con 18 m [E25] ma sotto in HSR con 181 m (riferimento 393 m) [E26].\n\n## Spunti per lo staff\n\n- Verificare se il carico di MD-1 di Christian Porcu era previsto: oggi 608 m di distanza ad alta velocità (HSR), oltre la fascia storica delle sue rifiniture (fino a 124 m). [E8]\n- Valutare se serve uno stimolo di velocità per Riccardo Benedetti: da MD-4 a MD-2 ha registrato 0 m di sprint e 213 m di HSR, contro un riferimento di 38 m e 298 m per quei giorni, prima della partita del 18/02/2024. [E23, E24]\n\n## Qualità del dato e limiti\n\nChristian Porcu ha copertura parziale nella finestra da MD-4 a MD-2, con 2 sedute su 3 disponibili [E27]. Alcuni non titolari non hanno dati della partita del 11/02/2024: il dataset non distingue se non hanno giocato o se il dato manca.",
+ "frasi_con_numeri": 16,
+ "verificate": 16,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.03296,
+ "secondi": 14.1,
+ "generato_il": "2026-10-28T09:32:41",
+ "corretto_il": "2026-10-28: tolto uno spunto di velocità nato da un difetto della regola (NaN), decisione 53"
+}

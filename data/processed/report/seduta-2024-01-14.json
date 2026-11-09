@@ -1,0 +1,15 @@
+{
+ "data": "2024-01-14",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 14/01/2024",
+ "testo": "## Sintesi\n\nLa seduta del 14/01/2024 (MD+1, il giorno dopo la partita) ha mostrato un'aderenza al carico abituale elevata per la maggior parte delle metriche, con mediane di squadra al percentile 100 per distanza totale (TD), accelerazioni intense (ACC), decelerazioni intense (DCC) e distanza ad alto carico metabolico (HMLD) [E2, E5, E6, E7]. Su 9 giocatori con fascia disponibile, 7 risultano sopra fascia in TD, ACC, DCC e HMLD [E2, E5, E6, E7], mentre corsa ad alta velocità (HSR) e distanza in sprint (SPR) restano più in linea con l'abituale, con la maggioranza dei casi dentro fascia [E3, E4]. In totale 7 giocatori su 11 sono fuori dalla fascia larga in almeno una metrica [E1].\n\n## Fuori fascia\n\n- **Filippo Rinaldi**: TD 5.310 m, molto sopra fascia larga (3.609 m–4.647 m) [E15]; ACC 89, molto sopra fascia larga (36–67) [E16]; DCC 77, molto sopra fascia larga (26–58) [E17].\n- **Edoardo Tosi**: TD 5.598 m, molto sopra fascia larga (3.286 m–4.886 m) [E8]; DCC 71, molto sopra fascia larga (40–60) [E9]; ACC 70, sopra fascia centrale (31–60) [E18]; HMLD 1.012 m, sopra fascia centrale (666 m–952 m) [E19].\n- **Elia Gariglio**: TD 4.983 m, molto sopra fascia larga (3.609 m–4.647 m) [E10]; SPR 216 m, molto sopra fascia larga (1 m–204 m) [E11]; ACC 102, molto sopra fascia larga (36–67) [E12]; DCC 84, molto sopra fascia larga (26–58) [E13]; HMLD 975 m, molto sopra fascia larga (483 m–811 m) [E14].\n- **Nicolò Serafini**: HMLD 835 m, sopra fascia centrale (522 m–715 m) [E21].\n- **Mattia Bosio**: ACC 59, sopra fascia centrale (39–52) [E22].\n- **Lorenzo Cortese**: DCC 30, sotto fascia centrale (38–65) [E20].\n\n## Titolari e non titolari\n\nTutte le evidenze individuali disponibili per la seduta MD+1 riguardano non titolari, con carichi molto sopra o sopra il loro solito di ruolo in TD, SPR, ACC, DCC e HMLD [E8-E19, E21, E22], ad eccezione di Lorenzo Cortese, sotto il suo solito in DCC [E20]. Non sono disponibili evidenze individuali per i titolari in questa seduta.\n\nPer il post-partita, 9 giocatori non titolari sono in finestra di osservazione aperta sull'esito HSR dopo la partita del 13/01/2024, con 1 seduta di squadra disputata e 9 casi ancora in corso [E23].\n\n## Spunti per lo staff\n\nOggi le regole non segnalano nulla.\n\n## Qualità del dato e limiti\n\nAlcuni giocatori sono senza fascia per almeno una metrica: lo storico di ruolo o squadra non è ancora sufficiente. Alcuni non titolari non hanno dati della partita del 13/01/2024: non hanno giocato o il dato manca, il dataset non distingue i due casi. Le fasce individuali riportate sono provvisorie, basate su un numero limitato di sedute (5) e casi (6-11) [E8-E22].",
+ "frasi_con_numeri": 12,
+ "verificate": 12,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.02831,
+ "secondi": 15.1,
+ "generato_il": "2026-10-28T09:34:29"
+}

@@ -1,0 +1,15 @@
+{
+ "data": "2024-01-31",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 31/01/2024",
+ "testo": "## Sintesi\n\nLa seduta del 31/01/2024, tre giorni prima della prossima partita (MD-3), si è svolta in linea con il carico abituale della squadra: distanza totale (TD) con percentile mediano 58 [E2], corsa ad alta velocità (HSR) a 61 [E3] e distanza ad alto carico metabolico (HMLD) a 42 [E7]. Su 17 giocatori, 6 risultano fuori dalla fascia larga in almeno una metrica [E1], mentre la maggior parte del gruppo si mantiene dentro i range abituali in accelerazioni (ACC) e decelerazioni (DCC) [E5, E6].\n\n## Fuori fascia\n\n- Stefano Guidi: distanza in sprint (SPR) 94 m, molto sopra la fascia larga 6 m–64 m [E8].\n- Samuele Pinna: HSR 525 m, molto sopra la fascia larga 161 m–480 m [E9].\n- Pietro Ghio: HSR 207 m, molto sopra la fascia larga 57 m–188 m [E10].\n- Alessio Dalmasso: SPR 158 m, molto sopra la fascia larga 9 m–143 m [E12].\n- Federico Santini: decelerazioni intense (DCC) 73, molto sopra la fascia larga 28–67 [E13].\n- Elia Gariglio: HSR 24 m, molto sotto la fascia larga 54 m–213 m [E11].\n\n## Spunti per lo staff\n\n- Approfondire con lo staff lo scostamento di Samuele Pinna: negli ultimi tre allenamenti (26/01/2024, 29/01/2024 e 31/01/2024) la distanza ad alta velocità (HSR) è rimasta sopra la sua fascia storica. [E19, E20, E9]\n- Approfondire con lo staff lo scostamento di Alessio Dalmasso: negli ultimi tre allenamenti (26/01/2024, 29/01/2024 e 31/01/2024) la distanza ad alta velocità (HSR) è rimasta sopra la sua fascia storica. [E21, E22, E18]\n\n## Qualità del dato e limiti\n\n- Andrea Melis non ha dati nella finestra post-partita (0 sedute su 1 disponibile) [E23].\n- La finestra MD-4…MD-2 non è ancora conclusa: i valori relativi sono parziali fino al 31/01/2024.\n- Alcuni non titolari non hanno dati della partita del 27/01/2024: il dataset non distingue se non hanno giocato o se il dato manca.",
+ "frasi_con_numeri": 11,
+ "verificate": 11,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.02217,
+ "secondi": 9.5,
+ "generato_il": "2026-10-28T09:33:34"
+}

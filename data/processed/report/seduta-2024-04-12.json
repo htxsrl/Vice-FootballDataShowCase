@@ -1,0 +1,15 @@
+{
+ "data": "2024-04-12",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 12/04/2024",
+ "testo": "## Sintesi\n\nLa seduta del 12/04/2024, giorno MD-1 (il giorno prima della partita), mostra un'aderenza al carico abituale nella norma per distanza totale (TD), accelerazioni (ACC), decelerazioni (DCC) e distanza ad alto carico metabolico (HMLD), con percentili mediani di squadra tra 38 e 61 [E2, E5, E6, E7]. Corsa ad alta velocità (HSR) e distanza in sprint (SPR) risultano leggermente sopra l'abituale, con percentile mediano rispettivamente di 55 e 54 [E3, E4]. Tre giocatori su 17 sono fuori dalla fascia larga in almeno una metrica, con 5 ulteriori ai margini [E1].\n\n## Fuori fascia\n\n- Nicolò Serafini: HSR a 100 m, molto sopra la fascia larga (2 m-81 m) [E11].\n- Riccardo Benedetti: HMLD a 148 m, molto sotto la fascia larga (199 m-497 m) [E8]; ACC a 13, molto sotto la fascia larga (18-51) [E9]; TD a 2.198 m, sotto la fascia centrale (2.461 m-3.230 m) [E13]; DCC a 12, sotto la fascia centrale (15-28) [E16].\n- Luca Cerutti: ACC a 10, molto sotto la fascia larga (13-35) [E10].\n- Gabriele Longo: HSR a 92 m, sopra la fascia centrale (14 m-67 m) [E14]; ACC a 17, sotto la fascia centrale (24-36) [E15].\n- Christian Porcu: ACC a 18, sotto la fascia centrale (23-39) [E12].\n\n## Verso la partita\n\nNella finestra da MD-4 a MD-2 prima della partita del 13/04/2024, su 17 giocatori 1 risulta sotto il solito in alta velocità: Simone Amato [E17]. Per Amato la distanza in SPR è a 16 m, sotto la fascia centrale (38 m-196 m) [E18], mentre la distanza HSR è a 287 m, dentro la fascia abituale (riferimento 488 m) [E19].\n\n## Spunti per lo staff\n\n- Verificare se il carico di MD-1 di Nicolò Serafini era previsto: oggi 100 m di distanza ad alta velocità (HSR), oltre la fascia storica delle sue rifiniture (fino a 81 m). [E11]\n\n## Qualità del dato e limiti\n\nLuca Cerutti non ha dati nella finestra da MD-4 a MD-2 (0 sedute su 2) [E20] né in postpartita (0 su 1) [E22]. Elia Gariglio e Christian Porcu non hanno dati postpartita (0 su 1 seduta) [E21, E23]. Alcuni non titolari non hanno dati della partita del 06/04/2024: non hanno giocato o il dato manca, il dataset non distingue i due casi.",
+ "frasi_con_numeri": 13,
+ "verificate": 13,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.02415,
+ "secondi": 13.6,
+ "generato_il": "2026-10-28T09:29:47"
+}

@@ -1,0 +1,15 @@
+{
+ "data": "2024-03-16",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 16/03/2024",
+ "testo": "# Report seduta del 16/03/2024 — MD-1 (il giorno prima della partita)\n\n## Sintesi\nLa seduta di oggi, giorno MD-1, mostra per la squadra un'aderenza al carico abituale superiore alla mediana storica su quasi tutte le metriche: distanza totale (TD) al percentile 82 [E2], corsa ad alta velocità (HSR) al percentile 83 [E3], sprint (SPR) al percentile 87 [E4], distanza ad alto carico metabolico (HMLD) al percentile 83 [E7]. Su 16 giocatori, 8 risultano fuori dalla fascia larga in almeno una metrica [E1]. Le decelerazioni (DCC) risultano il parametro con più casi sopra il solito (10 su 16) [E6].\n\n## Fuori fascia\n- **Pietro Ghio**: HSR 495 m, molto sopra la fascia larga (4 m–81 m) [E13]; HMLD 966 m, molto sopra la fascia larga (228 m–552 m) [E17]; SPR 139 m, molto sopra la fascia larga (0 m–13 m) [E16]; accelerazioni (ACC) 56, sopra la fascia centrale (28–41) [E18].\n- **Elia Gariglio**: HSR 428 m, molto sopra la fascia larga (1 m–64 m) [E8]; SPR 325 m, molto sopra la fascia larga (0 m–35 m) [E9]; HMLD 759 m, molto sopra la fascia larga (140 m–438 m) [E15].\n- **Filippo Rinaldi**: TD 874 m, molto sotto la fascia larga (1.992 m–3.866 m) [E10]; HSR 390 m, molto sopra la fascia larga (2 m–72 m) [E11]; SPR 302 m, molto sopra la fascia larga (0 m–14 m) [E12]; DCC 6, molto sotto la fascia larga (11–37) [E14]; ACC 13, sotto la fascia centrale (20–38) [E21].\n- **Alessio Dalmasso**: DCC 48, sopra la fascia centrale (22–38) [E19].\n- **Tommaso Ferrandi**: DCC 43, sopra la fascia centrale (17–28) [E20].\n- **Samuele Pinna**: SPR 92 m, sopra la fascia centrale (2 m–62 m) [E22].\n\n## Verso la partita\nNella finestra da MD-4 a MD-2 prima della partita del 17/03/2024, su 16 giocatori 1 risulta sotto il solito in alta velocità: Luca Cerutti [E23]. Per Cerutti la distanza in SPR è dentro fascia (190 m, riferimento 245 m) [E24], mentre la HSR è sotto (281 m, riferimento 460 m) [E25].\n\n## Spunti per lo staff\n- Verificare se il programma prevedeva questo carico: la HSR mediana registrata oggi è 114 m, contro i 34 m delle sedute storiche di MD-1. [E26]\n- Verificare se il carico di MD-1 di Elia Gariglio era previsto: oggi 428 m di HSR, oltre la fascia storica delle sue rifiniture (fino a 64 m). [E8]\n- Verificare se il carico di MD-1 di Pietro Ghio era previsto: oggi 495 m di HSR, oltre la fascia storica delle sue rifiniture (fino a 81 m). [E13]\n\n## Qualità del dato e limiti\nAlessio Dalmasso ha copertura parziale nella finestra MD-4/MD-2 (1 seduta su 2) [E27]. Riccardo Benedetti non ha dati nel postpartita (0 sedute su 1) [E28]. Alcuni non titolari non hanno dati della partita del 09/03/2024: il dataset non distingue se non hanno giocato o se il dato manca.",
+ "frasi_con_numeri": 16,
+ "verificate": 16,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.03135,
+ "secondi": 13.6,
+ "generato_il": "2026-10-28T09:31:17"
+}

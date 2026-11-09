@@ -1,0 +1,16 @@
+{
+ "data": "2023-10-26",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 26/10/2023",
+ "testo": "## Sintesi\n\nLa seduta del 26/10/2023, due giorni prima della partita (MD-2), mostra percentili mediani di squadra centrati o poco sotto la mediana per distanza totale (TD), corsa ad alta velocità (HSR), sprint (SPR), accelerazioni intense (ACC), decelerazioni intense (DCC) e distanza ad alto carico metabolico (HMLD) [E2, E3, E4, E5, E6, E7]. Su 18 giocatori, 2 risultano fuori dalla fascia larga in almeno una metrica e altri 7 ai margini [E1]. Il quadro generale è quindi coerente con il carico abituale di un MD-2, con alcune eccezioni individuali.\n\n## Fuori fascia\n\n- **Mattia Bosio**: molto sopra la fascia larga in TD (6.050 m, fascia larga 3.623 m–5.709 m) [E8], ACC (77, fascia larga 26–65) [E9], HMLD (1.139 m, fascia larga 442 m–922 m) [E10] e DCC (66, fascia larga 22–60) [E12].\n- **Michele Valli**: molto sopra la fascia larga in ACC (76, fascia larga 37–64) [E11].\n- **Elia Gariglio**: sotto la fascia centrale in ACC (40, fascia centrale 46–60) [E13].\n- **Federico Santini**: sotto la fascia centrale in SPR (0 m, fascia centrale 13 m–70 m) [E14] e ACC (40, fascia centrale 46–60) [E15].\n- **Nicolò Serafini**: sotto la fascia centrale in SPR (0 m, fascia centrale 13 m–70 m) [E16].\n- **Alessio Dalmasso**: sotto la fascia centrale in ACC (35, fascia centrale 40–51) [E17].\n\n## Verso la partita\n\nNella finestra da MD-4 a MD-2 prima della partita del 28/10/2023, su 18 giocatori 1 risulta sotto il solito in alta velocità: Nicolò Serafini [E18]. Per lui, SPR è a 0 m contro un riferimento di 49 m, sotto la fascia centrale (17 m–134 m) [E19]; HSR è a 210 m contro un riferimento di 287 m, dentro la fascia [E20].\n\n## Spunti per lo staff\n\n- Valutare se serve uno stimolo di velocità per Nicolò Serafini: da MD-4 a MD-2 ha registrato 0 m di sprint e 210 m di HSR, contro un riferimento di 49 m e 287 m per quei giorni, prima della partita del 28/10/2023. [E19, E20]\n\n## Qualità del dato e limiti\n\nNon risultano giocatori con dati incompleti per la seduta del 26/10/2023. Si segnala che alcuni non titolari non hanno dati della partita del 22/10/2023: non hanno giocato o il dato manca, e il dataset non distingue i due casi.",
+ "frasi_con_numeri": 12,
+ "verificate": 12,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.02532,
+ "secondi": 11.5,
+ "generato_il": "2026-10-28T09:37:13",
+ "corretto_il": "2026-10-28: tolto uno spunto di velocità nato da un difetto della regola (NaN), decisione 53"
+}

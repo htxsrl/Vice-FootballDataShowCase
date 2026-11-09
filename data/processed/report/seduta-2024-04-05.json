@@ -1,0 +1,15 @@
+{
+ "data": "2024-04-05",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 05/04/2024",
+ "testo": "## Sintesi\n\nLa seduta MD-1 (il giorno prima della partita) del 05/04/2024 mostra un'aderenza al carico abituale nel complesso rispettata per distanza totale (TD) e corsa ad alta velocità (HSR), con percentile mediano squadra rispettivamente di 62 e 50 [E2, E3]. Accelerazioni (ACC), decelerazioni (DCC) e distanza ad alto carico metabolico (HMLD) mostrano percentili mediani più elevati, 78, 75 e 74 [E5, E6, E7], con più giocatori sopra la fascia centrale. Cinque giocatori su 16 risultano fuori dalla fascia larga in almeno una metrica [E1].\n\n## Fuori fascia\n\n- **Tommaso Ferrandi**: HMLD 827 m, molto sopra la fascia larga (226 m-493 m) [E13]; anche HSR 239 m, sprint 148 m, DCC 50, TD 4.320 m, tutti molto sopra la fascia larga [E11, E12, E15, E16].\n- **Federico Santini**: HSR 304 m, molto sopra la fascia larga (4 m-111 m) [E9]; anche sprint 211 m, HMLD 679 m, TD 4.362 m, molto sopra la fascia larga [E10, E14, E17].\n- **Simone Amato**: HMLD 85 m, molto sotto la fascia larga (194 m-493 m) [E8]; HSR 0 m e ACC 14, sotto la fascia centrale [E18, E19].\n- **Matteo Basile**: ACC 46, sopra la fascia centrale (28-40) [E21].\n- **Riccardo Benedetti**: DCC 37, sopra la fascia centrale (15-27) [E20].\n- **Alessio Dalmasso**: HMLD 671 m, sopra la fascia centrale (355 m-629 m) [E22].\n\n## Verso la partita\n\nDa MD-4 a MD-2 prima della partita del 06/04/2024, 5 giocatori su 17 risultano sotto il solito in alta velocità [E23]. Federico Santini è molto sotto il riferimento in HSR (112 m contro 308 m) [E27], mentre il suo sprint resta dentro fascia (8 m contro 28 m) [E26]. Pietro Ghio, Edoardo Tosi, Matteo Basile e Simone Amato sono sotto il riferimento in HSR, pur restando dentro fascia per lo sprint [E25, E29, E31, E33, E24, E28, E30, E32].\n\n## Spunti per lo staff\n\n- Verificare se il carico di MD-1 di Federico Santini era previsto: oggi 304 m di distanza ad alta velocità (HSR), oltre la fascia storica delle sue rifiniture (fino a 111 m). [E9]\n- Verificare se il carico di MD-1 di Tommaso Ferrandi era previsto: oggi 239 m di distanza ad alta velocità (HSR), oltre la fascia storica delle sue rifiniture (fino a 96 m). [E11]\n- Valutare se serve uno stimolo di velocità per Federico Santini: da MD-4 a MD-2 ha registrato 8 m di sprint e 112 m di HSR, contro un riferimento di 28 m e 308 m per quei giorni, prima della partita del 06/04/2024. [E26, E27]\n\n## Qualità del dato e limiti\n\nAndrea Melis ha copertura parziale nella finestra da MD-4 a MD-2, con dati su 1 seduta su 2 della squadra [E34]. Gabriele Longo e Simone Amato non hanno alcun dato nella finestra postpartita, su 1 seduta della squadra [E35, E36]. Alcuni non titolari non hanno dati della partita del 31/03/2024: non hanno giocato o il dato manca, il dataset non distingue i due casi.",
+ "frasi_con_numeri": 17,
+ "verificate": 17,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.03635,
+ "secondi": 14.6,
+ "generato_il": "2026-10-28T09:30:16"
+}

@@ -1,0 +1,15 @@
+{
+ "data": "2024-03-17",
+ "tipo": "seduta",
+ "titolo": "Report della partita del 17/03/2024",
+ "testo": "## Sintesi\n\nLa seduta del 17/03/2024 (MD, giorno della partita) mostra un'aderenza al carico abituale nel complesso dentro fascia per distanza totale (TD), con percentile mediano squadra a 42 [E2]. Le metriche di alta intensità risultano invece sopra il solito: corsa ad alta velocità (HSR) a percentile mediano 68 [E3] e distanza ad alto carico metabolico (HMLD) a 76 [E7]. 10 giocatori su 17 sono fuori dalla fascia larga in almeno una metrica [E1].\n\n## Fuori fascia\n\n- Federico Santini: molto sopra la fascia larga su TD (11.819 m) [E9], HSR (657 m) [E10], accelerazioni intense (ACC) (84) [E11], decelerazioni intense (DCC) (70) [E12] e HMLD (2.265 m) [E13].\n- Christian Porcu: molto sotto la fascia larga su TD, 448 m [E8].\n- Pietro Ghio: molto sopra la fascia larga su ACC (55) [E16] e DCC (46) [E17].\n- Matteo Basile: molto sotto la fascia larga su HSR (315 m) [E14] e ACC (54) [E15], e sotto la fascia centrale su distanza in sprint (SPR) (159 m) [E22].\n- Alessio Dalmasso: sopra la fascia centrale su TD (10.976 m) [E21].\n- Tommaso Ferrandi e Nicolò Serafini: sotto la fascia centrale su ACC (53 [E18] e 20 [E20] rispettivamente); Elia Gariglio sopra la fascia centrale su ACC (57) [E19].\n\n## Titolari e non titolari\n\nIl postpartita del 09/03/2024 riguarda 11 non titolari: 5 molto sotto il solito su HSR, 3 sotto il solito, 3 senza dato [E23]. La mediana dei 5 molto sotto è 14 m contro un riferimento di 216 m [E24].\nTra i casi individuali: Tommaso Ferrandi 15 m (molto sotto, riferimento 216 m) [E25], Elia Gariglio 14 m (molto sotto, riferimento 216 m) [E26], Samuele Pinna 7 m (molto sotto, riferimento 321 m) [E27], Lorenzo Cortese 60 m (molto sotto, riferimento 321 m) [E29], Filippo Rinaldi 13 m (molto sotto, riferimento 208 m) [E32]. Stefano Guidi 23 m (sotto, riferimento 268 m) [E28] ed Edoardo Tosi 41 m (sotto, riferimento 270 m) [E31] e Pietro Ghio 8 m (sotto, riferimento 265 m) [E30] sono sotto il solito ma meno marcatamente. Nella seduta odierna non emergono titolari sopra fascia nel postpartita.\n\n## Spunti per lo staff\n\nOggi le regole non segnalano nulla.\n\n## Qualità del dato e limiti\n\n- Alessio Dalmasso: copertura parziale da MD-4 a MD-2, 1 seduta su 2 [E33].\n- Federico Santini e Christian Porcu: nessun dato da MD-4 a MD-2 [E34, E35].\n- Riccardo Benedetti, Federico Santini, Christian Porcu: nessun dato nel postpartita [E36, E37, E38].\n- Avvertenza del motore: alcuni non titolari non hanno dati della partita del 09/03/2024; il dataset non distingue se non hanno giocato o se il dato manca.",
+ "frasi_con_numeri": 13,
+ "verificate": 13,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.03526,
+ "secondi": 13.6,
+ "generato_il": "2026-10-28T09:31:17"
+}

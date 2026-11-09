@@ -1,0 +1,20 @@
+{
+ "data": "2024-03-24",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 24/03/2024",
+ "testo": "## Sintesi\nLa seduta del giorno dopo la partita (MD+1) mostra una squadra su livelli medio-bassi rispetto al solito: distanza totale (TD) con percentile mediano 19 [E2], distanza ad alta velocità (HSR) con percentile mediano 39 [E3] e distanza ad alto carico metabolico (HMLD) con percentile mediano 24 [E7]. Su 7 giocatori monitorati, 2 risultano fuori dalla fascia larga in almeno una metrica [E1]. La distanza in sprint (SPR) è l'unica metrica con mediana più alta, percentile mediano 41 e 2 giocatori sopra fascia [E4].\n## Fuori fascia\n- **Luca Cerutti**: decelerazioni (DCC) a 20, molto sotto la fascia larga P10-P90 [E8]; accelerazioni (ACC) a 35, molto sotto la fascia larga P10-P90 [E11]; HMLD a 518 m, molto sotto la fascia larga P10-P90 [E12].\n- **Matteo Basile**: DCC a 59, molto sopra la fascia larga P10-P90 [E10]; TD a 3.599 m, molto sotto la fascia larga P10-P90 [E9]; HMLD a 557 m e HSR a 138 m, entrambe sotto la fascia centrale P25-P75 [E16, E17].\n- **Christian Porcu**: TD a 3.560 m, sotto la fascia centrale P25-P75 [E13]; SPR a 310 m, sopra la fascia centrale P25-P75 [E14].\n- **Samuele Pinna**: SPR a 307 m, sopra la fascia centrale P25-P75 [E15].\n## Titolari e non titolari\nI giocatori fuori fascia (Cerutti, Basile) appartengono al gruppo dei non titolari [E8, E9, E10, E11, E12, E16, E17].\n- Per i non titolari della partita del 23/03/2024 la finestra sull'esito dell'HSR postpartita è aperta, con 10 giocatori ancora in corso di osservazione [E18].\n- Nessuna evidenza fornita riguarda titolari sopra fascia nel carico postpartita.\n## Spunti per lo staff\nOggi le regole non segnalano nulla.\n## Qualità del dato e limiti\n- Elia Gariglio: copertura parziale nella finestra da MD-4 a MD-2, 1 seduta su 2 della squadra con dati [E19].\n- Lorenzo Cortese, Federico Santini, Edoardo Tosi: nessun dato nella finestra postpartita, 0 sedute su 1 della squadra [E20, E21, E22].\n- Alcuni non titolari non hanno dati della partita del 23/03/2024: non hanno giocato o il dato manca, il dataset non distingue i due casi.",
+ "frasi_con_numeri": 11,
+ "verificate": 11,
+ "tolte": [],
+ "correzioni": [
+  {
+   "frase": "- I 2 giocatori fuori fascia (Cerutti, Basile) appartengono al gruppo dei non titolari [E8, E9, E10, E11, E12, E16, E17].",
+   "motivo": "numeri non presenti nelle evidenze citate: 2"
+  }
+ ],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.03301,
+ "secondi": 13.1,
+ "generato_il": "2026-10-28T09:30:53"
+}

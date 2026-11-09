@@ -1,0 +1,15 @@
+{
+ "data": "2023-11-10",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 10/11/2023",
+ "testo": "## Sintesi\n\nLa seduta del 10/11/2023 (MD-1, il giorno prima della partita) mostra un carico nettamente superiore all'abituale per questo giorno: tutti i 18 giocatori presenti risultano fuori dalla fascia larga in almeno una metrica [E1]. Il percentile mediano di squadra è al massimo per distanza totale (TD), accelerazioni (ACC), decelerazioni (DCC) e distanza ad alto carico metabolico (HMLD), tutti a 100 [E2, E5, E6, E7], mentre la corsa ad alta velocità (HSR) è a 84 [E3] e gli sprint (SPR) a 66 [E4]. Non è il profilo tipico di una rifinitura pre-partita.\n\n## Fuori fascia\n\n- Alessio Dalmasso: molto sopra la fascia larga su TD (7.821 m) [E8], HSR (346 m) [E9], SPR (208 m) [E10], ACC (80) [E11], DCC (69) [E12] e HMLD (1.191 m) [E13].\n- Andrea Melis: molto sopra la fascia larga su TD (6.762 m) [E14], ACC (75) [E15], DCC (61) [E16] e HMLD (919 m) [E17].\n- Edoardo Tosi: sopra la fascia centrale su DCC (40) [E18], SPR (110 m) [E21] e HSR (176 m) [E22].\n- Mattia Bosio: sopra la fascia centrale su SPR (18 m) [E19].\n- Andrea Melis: sopra la fascia centrale anche su SPR (117 m) [E20].\n\n## Verso la partita\n\nNella finestra da quattro giorni prima della partita (MD-4) a due giorni prima (MD-2), con copertura completa su 2 sedute di squadra [E23], 2 giocatori risultano sotto il solito in alta velocità: Riccardo Benedetti e Pietro Ghio [E23]. Per Benedetti lo SPR è sotto la fascia centrale (8 m, riferimento 27 m) [E24], mentre l'HSR è dentro fascia (155 m, riferimento 198 m) [E25]. Per Ghio lo SPR è sotto la fascia centrale (0 m, riferimento 28 m) [E26], mentre l'HSR è dentro fascia (137 m, riferimento 212 m) [E27].\n\n## Spunti per lo staff\n\n- Verificare se il programma prevedeva questo carico: la distanza totale mediana registrata oggi è 6.746 m, contro i 2.721 m delle sedute storiche di MD-1. [E28]\n- Verificare se il carico di MD-1 di Tommaso Ferrandi era previsto: oggi 7.054 m di distanza totale, oltre la fascia storica delle sue rifiniture (fino a 3.123 m). [E29]\n- Verificare se il carico di MD-1 di Elia Gariglio era previsto: oggi 6.516 m di distanza totale, oltre la fascia storica delle sue rifiniture (fino a 3.123 m). [E30]\n\n## Qualità del dato e limiti\n\nNon risultano dati incompleti segnalati per la seduta odierna. Un'avvertenza generale: alcuni non titolari non hanno dati della partita del 04/11/2023, perché non hanno giocato o perché il dato manca, senza che il dataset distingua i due casi.",
+ "frasi_con_numeri": 13,
+ "verificate": 13,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.03031,
+ "secondi": 13.0,
+ "generato_il": "2026-10-28T09:36:22"
+}

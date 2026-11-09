@@ -1,0 +1,15 @@
+{
+ "data": "2023-10-25",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 25/10/2023",
+ "testo": "## Sintesi\n\nLa seduta del 25/10/2023 (MD-3, tre giorni prima della partita) mostra percentili mediani di squadra generalmente centrali: distanza totale (TD) al 50° percentile [E2], distanza ad alta velocità (HSR) al 45° [E3], distanza in sprint (SPR) al 61° [E4], accelerazioni (ACC) al 40° [E5], decelerazioni (DCC) al 31° [E6] e distanza ad alto carico metabolico (HMLD) al 52° [E7]. Il quadro generale è quindi in linea con il carico abituale, ma 6 giocatori su 18 risultano fuori dalla fascia larga in almeno una metrica [E1].\n\n## Fuori fascia\n\n- Gabriele Longo: TD 4.225 m, molto sotto la fascia larga P10-P90 (4.497 m - 7.113 m) [E8]; ACC 41, molto sotto la fascia larga P10-P90 (50-103) [E9]; HMLD 597 m, molto sotto la fascia larga P10-P90 (710 m - 1.364 m) [E12].\n- Andrea Melis: HSR 401 m, molto sopra la fascia larga P10-P90 (110 m - 375 m) [E15]; SPR 282 m, molto sopra la fascia larga P10-P90 (34 m - 248 m) [E16].\n- Alessio Dalmasso: SPR 98 m, molto sopra la fascia larga P10-P90 (1 m - 76 m) [E13]; HSR 180 m, sopra la fascia centrale P25-P75 (72 m - 140 m) [E21].\n- Stefano Guidi: HSR 218 m, molto sopra la fascia larga P10-P90 (55 m - 196 m) [E14].\n- Riccardo Benedetti: DCC 23, molto sotto la fascia larga P10-P90 (29-80) [E11]; HMLD 495 m, sotto la fascia centrale P25-P75 (650 m - 855 m) [E18]; ACC 38, sotto la fascia centrale P25-P75 (48-77) [E20].\n- Luca Cerutti: DCC 27, molto sotto la fascia larga P10-P90 (36-100) [E10].\n\n## Spunti per lo staff\n\nOggi le regole non segnalano nulla.\n\n## Qualità del dato e limiti\n\nNon risultano giocatori con dati incompleti [qualita_del_dato]. Si segnala che la finestra MD-4…MD-2 non è ancora conclusa, quindi i valori sono parziali fino al 25/10/2023; inoltre alcuni non titolari non hanno dati della partita del 22/10/2023, senza che il dataset distingua se non hanno giocato o se il dato manchi.",
+ "frasi_con_numeri": 8,
+ "verificate": 8,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.02352,
+ "secondi": 11.0,
+ "generato_il": "2026-10-28T09:37:15"
+}

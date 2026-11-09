@@ -1,0 +1,16 @@
+{
+ "data": "2024-02-02",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 02/02/2024",
+ "testo": "## Sintesi\n\nLa seduta del 02/02/2024, giornata MD-1 (il giorno prima della partita), ha visto la distanza totale (TD) della squadra attestarsi su un percentile mediano di 14, con 11 giocatori su 17 sotto il riferimento abituale [E2]. Anche la distanza ad alto carico metabolico (HMLD) mostra un percentile mediano di 21, con 6 giocatori sotto [E7], mentre corsa ad alta velocità (HSR), sprint (SPR), accelerazioni (ACC) e decelerazioni (DCC) restano più vicine all'abitudine [E3, E4, E5, E6]. Nel complesso l'aderenza al carico abituale è contenuta, con 3 giocatori fuori dalla fascia larga e altri 10 ai margini [E1].\n\n## Fuori fascia\n\n- Luca Cerutti: HMLD 102 m, molto sotto la fascia larga (135 m-482 m) [E8].\n- Elia Gariglio: TD 1.943 m, molto sotto la fascia larga (2.244 m-3.874 m) [E10]; HMLD 135 m e DCC 7, entrambe sotto la fascia centrale (234 m-396 m; 18-29) [E14, E13].\n- Filippo Rinaldi: DCC 10, molto sotto la fascia larga (14-38) [E9]; HMLD 174 m, sotto la fascia centrale (271 m-420 m) [E15].\n- Nicolò Serafini: HMLD 153 m, sotto la fascia centrale (236 m-445 m) [E12].\n- Andrea Melis: HSR 12 m, sotto la fascia centrale (26 m-162 m) [E11].\n\n## Verso la partita\n\nNella finestra da MD-4 a MD-2 (copertura completa, 2 sedute), 2 giocatori su 17 risultano sotto il riferimento abituale di alta velocità [E16]. Elia Gariglio ha registrato 33 m di SPR (dentro la fascia centrale 40 m-137 m) [E17] e 96 m di HSR, sotto la fascia centrale (160 m-328 m) [E18]. Pietro Ghio ha registrato 7 m di SPR e 312 m di HSR, entrambi dentro la fascia larga [E19, E20].\n\n## Spunti per lo staff\n\n- Valutare se serve uno stimolo di velocità per Pietro Ghio: da MD-4 a MD-2 ha registrato 7 m di sprint e 312 m di HSR, contro un riferimento di 31 m e 229 m per quei giorni, prima della partita del 03/02/2024. [E19, E20]\n\n## Qualità del dato e limiti\n\nAndrea Melis non ha dati nella finestra postpartita (0 sedute su 1 della squadra) [E21]. Alcuni non titolari non hanno dati della partita del 27/01/2024: il dataset non distingue se non hanno giocato o se il dato manca.",
+ "frasi_con_numeri": 14,
+ "verificate": 14,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.02574,
+ "secondi": 12.2,
+ "generato_il": "2026-10-28T09:33:29",
+ "corretto_il": "2026-10-28: tolto uno spunto di velocità nato da un difetto della regola (NaN), decisione 53"
+}

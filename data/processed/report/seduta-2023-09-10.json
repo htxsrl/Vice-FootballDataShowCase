@@ -1,0 +1,20 @@
+{
+ "data": "2023-09-10",
+ "tipo": "seduta",
+ "titolo": "Report della partita del 10/09/2023",
+ "testo": "## Sintesi\nLa seduta del 10/09/2023 è una partita (MD), con 16 giocatori monitorati. [E1] Non è possibile confrontare il carico con la fascia abituale di questo giorno, perché nello storico ci sono ancora troppo poche sedute di questo tipo per costruire una fascia di riferimento [E1].\n## Fuori fascia\nNessun giocatore risulta fuori dalla fascia larga in alcuna metrica [E1].\n## Titolari e non titolari\nNon sono disponibili dati sul confronto post-partita tra titolari e non titolari per questa seduta.\n## Spunti per lo staff\nOggi le regole non segnalano nulla.\n## Qualità del dato e limiti\n- Nessuna fascia di riferimento disponibile per le sedute di tipo MD: lo storico contiene ancora troppo poche sedute di questo tipo, essendo inizio stagione.\n- La settimana non è regolare (pausa o periodo senza dati): il confronto con il solito carico è quindi solo indicativo.\n- Troppo poche settimane regolari nello storico per costruire una curva tipica di carico.\n- Non risulta nessuna seduta registrata nel periodo da quattro giorni prima della partita (MD-4) a due giorni prima della partita (MD-2) in vista della partita del 10/09/2023.\n- Non risulta nessuna partita precedente a oggi nello storico disponibile.",
+ "frasi_con_numeri": 1,
+ "verificate": 1,
+ "tolte": [],
+ "correzioni": [
+  {
+   "frase": "La seduta del 10/09/2023 è una partita (MD), con 16 giocatori monitorati.",
+   "motivo": "numeri senza evidenza citata"
+  }
+ ],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.01151,
+ "secondi": 8.2,
+ "generato_il": "2026-10-28T09:39:04"
+}

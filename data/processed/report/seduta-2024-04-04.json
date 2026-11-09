@@ -1,0 +1,15 @@
+{
+ "data": "2024-04-04",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 04/04/2024",
+ "testo": "## Sintesi\n\nLa seduta del 04/04/2024, due giorni prima della partita (MD-2), mostra una distanza totale (TD) in linea con il solito, con percentile mediano di squadra 34 [E2]. Anche corsa ad alta velocità (HSR), sprint (SPR), accelerazioni (ACC) e decelerazioni (DCC) si collocano su percentili mediani centrali, tra 27 e 52 [E3, E4, E5, E6, E7]. Su 17 giocatori, 2 risultano fuori dalla fascia larga in almeno una metrica, con 11 giocatori ai margini [E1].\n\n## Fuori fascia\n\n- Tommaso Ferrandi: distanza totale 7.939 m, molto sopra la fascia larga (3.897 m–6.989 m) [E13]; HMLD (distanza ad alto carico metabolico) 1.639 m, molto sopra (545 m–1.196 m) [E9]; sprint 323 m, molto sopra (6 m–216 m) [E10]; HSR 488 m, molto sopra (59 m–298 m) [E11]; DCC 74, sopra la fascia centrale (44–63) [E18].\n- Simone Amato: HSR 25 m, molto sotto la fascia larga (76 m–425 m) [E12]; HMLD 329 m, molto sotto (452 m–1.287 m) [E14]; sprint 0 m, sotto la fascia centrale (32 m–116 m) [E15].\n- Edoardo Tosi: HSR 118 m, sotto la fascia centrale (155 m–408 m) [E17]; DCC 34, sotto la fascia centrale (47–65) [E19].\n- Gabriele Longo: sprint 0 m, sotto la fascia centrale (11 m–70 m) [E16].\n\n## Verso la partita\n\nDa MD-4 a MD-2 prima della partita del 06/04/2024, 5 giocatori risultano sotto il solito in alta velocità [E20]: Pietro Ghio (HSR 124 m, sotto, riferimento 221 m) [E22]; Federico Santini (HSR 112 m, molto sotto, riferimento 308 m) [E24]; Edoardo Tosi (HSR 308 m, sotto, riferimento 544 m) [E26]; Matteo Basile (HSR 227 m, sotto, riferimento 364 m) [E28]; Simone Amato (HSR 221 m, sotto, riferimento 501 m) [E30]. Lo sprint risulta invece dentro fascia per tutti questi giocatori [E21, E23, E25, E27, E29].\n\n## Spunti per lo staff\n\n- Valutare se serve uno stimolo di velocità per Federico Santini: da MD-4 a MD-2 ha registrato 8 m di sprint e 112 m di HSR, contro un riferimento di 28 m e 308 m per quei giorni, prima della partita del 06/04/2024. [E23, E24]\n\n## Qualità del dato e limiti\n\nAndrea Melis ha copertura parziale nella finestra MD-4/MD-2, con 1 seduta su 2 [E31]. Gabriele Longo e Simone Amato non hanno dati nel postpartita, 0 sedute su 1 disponibile [E32, E33]. Alcuni non titolari non hanno dati della partita del 31/03/2024: il dataset non distingue se non hanno giocato o se il dato manca.",
+ "frasi_con_numeri": 12,
+ "verificate": 12,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.03214,
+ "secondi": 12.1,
+ "generato_il": "2026-10-28T09:30:19"
+}

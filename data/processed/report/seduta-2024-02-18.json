@@ -1,0 +1,15 @@
+{
+ "data": "2024-02-18",
+ "tipo": "seduta",
+ "titolo": "Report della partita del 18/02/2024",
+ "testo": "## Sintesi\n\nLa seduta del 18/02/2024, giorno di partita (MD), mostra un'aderenza al carico abituale nella norma per la distanza totale (TD), con percentile mediano di squadra 64 [E2]. La corsa ad alta velocità (HSR) e la distanza ad alto carico metabolico (HMLD) si posizionano più in alto, con percentili mediani rispettivamente di 56 [E3] e 77 [E7]. Su 12 giocatori, 3 risultano fuori dalla fascia larga in almeno una metrica e 6 ai margini [E1].\n\n## Fuori fascia\n\n- **Lorenzo Cortese** (non titolare): molto sotto la fascia larga P10-P90 in TD, 587 m [E14]; HSR, 10 m [E15]; distanza in sprint (SPR), 0 m [E12]; accelerazioni intense (ACC), 8 [E13]; decelerazioni intense (DCC), 3 [E9]; e HMLD, 78 m [E10].\n- **Matteo Basile** (titolare): molto sopra la fascia larga P10-P90 in HMLD, 2.128 m [E11]; sopra la fascia centrale P25-P75 in TD, 10.243 m [E19]; e HSR, 706 m [E20].\n- **Alessio Dalmasso** (titolare): molto sopra la fascia larga P10-P90 in DCC, 78 [E8]; e HMLD, 1.647 m [E16]; sopra la fascia centrale P25-P75 in ACC, 69 [E18]; e HSR, 464 m [E21].\n- **Gabriele Longo** (titolare): sopra la fascia centrale P25-P75 in HSR, 907 m [E17].\n\n## Titolari e non titolari\n\nTra i non titolari della partita dell'11/02/2024, 10 giocatori su 11 risultano in linea con il solito HSR postpartita, 1 sotto [E22]; la mediana HSR dei non titolari valutati è 289 m, senza casi molto sotto di gruppo [E23]. Luca Cerutti (non titolare) registra un HSR postpartita sotto il solito, 178 m, con copertura completa dei dati [E24]. Tra i titolari, carichi sopra fascia in MD per Matteo Basile [E11, E19, E20], Alessio Dalmasso [E8, E16, E18, E21] e Gabriele Longo [E17].\n\n## Spunti per lo staff\n\nOggi le regole non segnalano nulla.\n\n## Qualità del dato e limiti\n\nChristian Porcu presenta copertura parziale nella finestra da MD-4 a MD-2, con 2 sedute su 3 disponibili [E25]. Alcuni non titolari non hanno dati della partita dell'11/02/2024: il dataset non distingue se non hanno giocato o se il dato manca.",
+ "frasi_con_numeri": 11,
+ "verificate": 11,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.02561,
+ "secondi": 12.6,
+ "generato_il": "2026-10-28T09:32:37"
+}

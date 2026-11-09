@@ -1,0 +1,15 @@
+{
+ "data": "2024-04-15",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 15/04/2024",
+ "testo": "## Sintesi\n\nLa seduta del 15/04/2024 (MD+2, due giorni dopo la partita) ha mostrato un'aderenza al carico abituale nella norma per la maggior parte della squadra, con percentili mediani in area centrale per TD (distanza totale) (54) [E2], ACC (accelerazioni intense) (53) [E5] e DCC (decelerazioni intense) (61) [E6], e leggermente sopra per HMLD (distanza ad alto carico metabolico) (66) [E7]. HSR (corsa ad alta velocità) (27) [E3] e SPR (sprint) (23) [E4] si collocano su percentili più bassi, con alcuni giocatori sotto fascia. Due giocatori su 9 risultano fuori dalla fascia larga in almeno una metrica, con altri 3 ai margini [E1].\n\n## Fuori fascia\n\n- **Edoardo Tosi**: DCC a 78, molto sopra la fascia larga (17-63) [E8].\n- **Filippo Rinaldi**: DCC a 68, molto sopra la fascia larga (5-63) [E9]; HMLD a 1.064 m, molto sopra la fascia larga (168 m-861 m) [E10]; TD a 5.521 m, sopra la fascia centrale (3.092 m-4.792 m) [E14].\n- **Simone Amato**: distanza in sprint a 13 m, sotto la fascia centrale (78 m-296 m) [E13].\n- **Pietro Ghio**: distanza in sprint a 0 m, sotto la fascia centrale (59 m-155 m) [E11]; HSR a 110 m, sotto la fascia centrale (160 m-386 m) [E15].\n- **Nicolò Serafini**: distanza in sprint a 0 m, sotto la fascia centrale (28 m-192 m) [E12].\n\n## Titolari e non titolari\n\nTra i non titolari della partita del 13/04/2024, su 10 giocatori valutati per l'HSR postpartita: 7 in linea, 2 sotto il solito, 1 senza dato [E16]. La mediana dell'HSR postpartita dei valutati è 169 m, nessun caso molto sotto di gruppo [E17].\n\nNicolò Serafini registra un HSR postpartita di 75 m, sotto il solito rispetto al riferimento di 179 m [E18]. Pietro Ghio registra un HSR postpartita di 110 m, sotto il solito rispetto al riferimento di 312 m [E19]. Non emergono dati su titolari sopra fascia nella seduta odierna.\n\n## Spunti per lo staff\n\nOggi le regole non segnalano nulla.\n\n## Qualità del dato e limiti\n\nPietro Ghio e Luca Cerutti non hanno dati nella finestra da MD-4 a MD-2 (0 sedute su 2 della squadra) [E20, E21]. Gabriele Longo non ha dati nella finestra postpartita (0 sedute su 1 della squadra) [E22]. Alcuni non titolari non hanno dati della partita del 13/04/2024: il dataset non distingue se non hanno giocato o se il dato manca.",
+ "frasi_con_numeri": 14,
+ "verificate": 14,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.0237,
+ "secondi": 14.1,
+ "generato_il": "2026-10-28T09:29:48"
+}

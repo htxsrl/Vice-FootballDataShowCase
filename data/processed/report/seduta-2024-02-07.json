@@ -1,0 +1,20 @@
+{
+ "data": "2024-02-07",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 07/02/2024",
+ "testo": "## Sintesi\nLa seduta del 07/02/2024 (MD-4, quattro giorni prima della partita) mostra un'aderenza al carico abituale nel complesso dentro fascia per la distanza totale (TD), con percentile mediano di squadra 63 e 14 giocatori dentro la fascia [E2]. La corsa ad alta velocità (HSR), gli sprint (SPR), le accelerazioni (ACC), le decelerazioni (DCC) e la distanza ad alto carico metabolico (HMLD) mostrano percentili mediani più elevati (tra 55 e 79), con un sottogruppo di giocatori sopra il solito [E3, E4, E5, E6, E7]. 7 giocatori su 16 risultano fuori dalla fascia larga in almeno una metrica, con 9 ai margini [E1].\n## Fuori fascia\n- **Gabriele Longo**: DCC a 105, molto sopra la fascia larga (22-85) [E8].\n- **Samuele Pinna**: ACC a 96, molto sopra la fascia larga (40-84) [E9]; HMLD a 1.291 m, molto sopra la fascia larga (620 m-1.226 m) [E14]; DCC a 88, sopra la fascia centrale (37-74) [E17].\n- **Lorenzo Cortese**: HSR a 499 m, molto sopra la fascia larga (128 m-394 m) [E12].\n- **Christian Porcu**: HSR a 459 m, molto sopra la fascia larga (128 m-394 m) [E13]; SPR a 285 m, molto sopra la fascia larga (16 m-242 m) [E16].\n- **Simone Amato**: ACC a 88, molto sopra la fascia larga (36-70) [E10].\n- **Tommaso Ferrandi**: SPR a 142 m, molto sopra la fascia larga (6 m-88 m) [E15].\nFuori fascia anche, non tra i primi 6: Stefano Guidi (ACC a 68, molto sopra la fascia larga 30-62) [E11]; Elia Gariglio (ACC a 36, sotto la fascia centrale 50-62) [E18]; Filippo Rinaldi (DCC a 69 e ACC a 76, sopra la fascia centrale) [E19, E20]; Federico Santini (ACC a 40, sotto la fascia centrale 50-62) [E21].\n## Spunti per lo staff\nOggi le regole non segnalano nulla.\n## Qualità del dato e limiti\nRiccardo Benedetti e Pietro Ghio non hanno dati nella finestra da MD-4 a MD-2 (0 sedute su 1 disponibile) [E22, E23]. La finestra MD-4…MD-2 non è ancora conclusa: i valori sono parziali fino al 07/02/2024. Dopo la partita del 03/02/2024 non risultano sedute postpartita registrate. Alcuni non titolari non hanno dati della partita del 03/02/2024: il dataset non distingue se non hanno giocato o se il dato manca. Tutte le evidenze individuali sono su base provvisoria (5 sedute) [E8].",
+ "frasi_con_numeri": 11,
+ "verificate": 11,
+ "tolte": [],
+ "correzioni": [
+  {
+   "frase": "Tutte le evidenze individuali sono su base provvisoria (5 sedute).",
+   "motivo": "numeri senza evidenza citata"
+  }
+ ],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.03521,
+ "secondi": 14.3,
+ "generato_il": "2026-10-28T09:33:16"
+}

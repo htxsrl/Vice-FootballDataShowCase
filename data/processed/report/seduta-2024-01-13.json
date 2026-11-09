@@ -1,0 +1,15 @@
+{
+ "data": "2024-01-13",
+ "tipo": "seduta",
+ "titolo": "Report della partita del 13/01/2024",
+ "testo": "## Sintesi\n\nLa seduta del 13/01/2024 (MD, giorno della partita) mostra un'aderenza al carico abituale nella mediana centrale per la squadra, con distanza totale (TD) al percentile 34 [E2] e distanza ad alta velocità (HSR) al percentile 31 [E3]. Cinque giocatori su 12 risultano fuori dalla fascia larga in almeno una metrica [E1]. Le accelerazioni (ACC) si posizionano leggermente sopra la mediana abituale (percentile 56) [E5], mentre distanza ad alto carico metabolico (HMLD) e HSR si attestano su percentili più bassi [E7, E3].\n\n## Fuori fascia\n\n- **Mattia Bosio**: molto sotto la fascia larga P10-P90 su TD (890 m) [E9], HSR (0 m) [E10], distanza in sprint (SPR) (0 m) [E11], ACC (11) [E12], decelerazioni (DCC) (4) [E13] e HMLD (75 m) [E14].\n- **Stefano Guidi**: molto sotto la fascia larga P10-P90 su TD (5.966 m) [E15], HSR (82 m) [E16] e HMLD (783 m) [E17]; sotto la fascia centrale P25-P75 su SPR (0 m) [E20].\n- **Matteo Basile**: molto sopra la fascia larga P10-P90 su DCC (128) [E8]; sopra la fascia centrale P25-P75 su ACC (94) [E22].\n- **Federico Santini**: sopra la fascia centrale P25-P75 su ACC (103) [E18].\n- **Tommaso Ferrandi**: sopra la fascia centrale P25-P75 su ACC (87) [E21].\n- **Simone Amato**: sotto la fascia centrale P25-P75 su SPR (77 m) [E19].\n\n## Titolari e non titolari\n\nDieci non titolari della partita del 07/01/2024 sono stati monitorati nella finestra postpartita (non più aperta): 8 in linea con il solito, 2 sotto il solito [E23]. Lorenzo Cortese registra HSR a 208 m, sotto il solito rispetto al riferimento di 321 m [E24]; Gabriele Longo registra HSR postpartita a 122 m (41% rispetto alla partita, 58% partita+postpartita), sotto il solito [E25].\n\n## Spunti per lo staff\n\nOggi le regole non segnalano nulla.\n\n## Qualità del dato e limiti\n\nNon sono dichiarati dati incompleti specifici. Avvertenza del motore: alcuni non titolari non hanno dati della partita del 07/01/2024, perché non hanno giocato o perché il dato manca, senza possibilità di distinguere le due situazioni. Le evidenze E24 ed E25 sono provvisorie, calcolate con il metodo \"somma dei riferimenti giornalieri\".",
+ "frasi_con_numeri": 11,
+ "verificate": 11,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.0264,
+ "secondi": 12.0,
+ "generato_il": "2026-10-28T09:34:33"
+}

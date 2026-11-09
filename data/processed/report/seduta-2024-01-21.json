@@ -1,0 +1,15 @@
+{
+ "data": "2024-01-21",
+ "tipo": "seduta",
+ "titolo": "Report della partita del 21/01/2024",
+ "testo": "## Sintesi\n\nLa seduta del 21/01/2024 (MD, giorno della partita) mostra un'aderenza al carico abituale diffusamente bassa: il percentile mediano della squadra è sotto la metà scala per distanza totale (42) [E2], distanza ad alta velocità (HSR, 24) [E3] e distanza ad alto carico metabolico (HMLD, 31) [E7], mentre accelerazioni (ACC) e sprint (SPR) restano più vicini al solito (56 e 44) [E5, E4]. 7 giocatori su 14 risultano fuori dalla fascia larga in almeno una metrica [E1].\n\n## Fuori fascia\n\n- **Nicolò Serafini**: molto sotto fascia larga P10-P90 in distanza totale (6.970 m, fascia 9.374 m–11.784 m) [E12], HSR (210 m, fascia 312 m–682 m) [E13], ACC (47, fascia 59–98) [E14], decelerazioni (DCC, 52, fascia 73–98) [E15] e HMLD (903 m, fascia 1.561 m–2.313 m) [E16].\n- **Gabriele Longo**: molto sotto fascia larga in distanza totale (5.536 m, fascia 7.581 m–10.725 m) [E8], HSR (309 m, fascia 446 m–865 m) [E9], ACC (39, fascia 56–102) [E10] e HMLD (1.151 m, fascia 1.279 m–2.435 m) [E11].\n- **Tommaso Ferrandi**: molto sotto fascia larga in HSR (268 m, fascia 319 m–655 m) [E17].\n- **Matteo Basile**: sotto fascia centrale P25-P75 in distanza totale (2.232 m, fascia 3.186 m–4.500 m) [E21].\n- **Federico Santini**: sopra fascia centrale in ACC (57, fascia 30–45) [E20].\n- **Nicolò Serafini**: sotto fascia centrale anche in SPR (25 m, fascia 70 m–278 m) [E18].\n\n## Titolari e non titolari\n\n- Tra i titolari, Longo e Serafini registrano i carichi più lontani dal loro solito, molto sotto fascia larga su più metriche [E8, E9, E10, E11, E12, E13, E14, E15, E16]; Longo risulta inoltre sotto fascia centrale in SPR (64 m) [E22].\n- Tra i non titolari, Basile è sotto fascia centrale in distanza totale (2.232 m) [E21], Amato sotto fascia centrale in SPR (29 m) [E19], Santini sopra fascia centrale in ACC (57) [E20].\n- Sul postpartita della gara del 13/01, su 11 non titolari 9 risultano in linea e 2 senza dato [E23].\n\n## Spunti per lo staff\n\nOggi le regole non segnalano nulla.\n\n## Qualità del dato e limiti\n\n- Elia Gariglio: copertura parziale nella finestra MD-4–MD-2, 1 seduta su 2 disponibili [E24].\n- Alessio Dalmasso e Christian Porcu: nessun dato nella finestra postpartita (0 sedute su 1) [E25, E26].\n- Alcuni non titolari non hanno dati della partita del 13/01/2024: il dataset non distingue se non hanno giocato o se il dato manca.",
+ "frasi_con_numeri": 12,
+ "verificate": 12,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.02755,
+ "secondi": 13.3,
+ "generato_il": "2026-10-28T09:34:11"
+}

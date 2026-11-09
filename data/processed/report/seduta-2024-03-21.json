@@ -1,0 +1,15 @@
+{
+ "data": "2024-03-21",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 21/03/2024",
+ "testo": "## Sintesi\n\nLa seduta del 21/03/2024 (MD-2, due giorni prima della partita) ha visto un'aderenza al carico abituale generalmente elevata, con percentili mediani di squadra alti su quasi tutte le metriche: distanza totale (TD) a 93 [E2], accelerazioni intense (ACC) e decelerazioni intense (DCC) a 81 [E5, E6], corsa ad alta velocità (HSR) e distanza ad alto carico metabolico (HMLD) a 64 [E3, E7]. Su 17 giocatori, 10 risultano fuori dalla fascia larga in almeno una metrica [E1]. Nessun giocatore risulta sotto il solito livello di alta velocità nella finestra verso la partita [E23].\n\n## Fuori fascia\n\n- Tommaso Ferrandi: molto sopra la fascia larga P10-P90 su TD (8.502 m) [E11], HSR (727 m) [E12], distanza in sprint (SPR, 364 m) [E13], ACC (94) [E14], DCC (107) [E15] e HMLD (2.022 m) [E16].\n- Alessio Dalmasso: molto sopra la fascia larga P10-P90 su HSR (487 m) [E8] e HMLD (1.472 m) [E9].\n- Luca Cerutti: molto sopra la fascia larga P10-P90 su TD (7.204 m) [E17].\n- Simone Amato: molto sopra la fascia larga P10-P90 su HSR (435 m) [E10].\n- Stefano Guidi: sopra la fascia centrale P25-P75 su TD (6.081 m) [E19].\n- Nicolò Serafini: sopra la fascia centrale P25-P75 su ACC (76) [E18] e DCC (68) [E21]; Federico Santini sopra la fascia centrale su HMLD (1.178 m) [E22]; Elia Gariglio sotto la fascia centrale su DCC (25) [E20].\n\n## Verso la partita\n\nNella finestra da quattro giorni prima della partita (MD-4) a MD-2 verso la partita del 23/03/2024, nessun giocatore risulta sotto il proprio solito livello di alta velocità (0 giocatori su 17) [E23], su una finestra completa con 2 sedute di squadra considerate.\n\n## Spunti per lo staff\n\n- Approfondire con lo staff lo scostamento di Alessio Dalmasso: negli ultimi tre allenamenti (16/03/2024, 20/03/2024 e 21/03/2024) la distanza ad alta velocità (HSR) è rimasta sopra la sua fascia storica. [E24, E25, E8]\n\n## Qualità del dato e limiti\n\nElia Gariglio ha una copertura parziale nella finestra da MD-4 a MD-2, con 1 seduta con dati su 2 sedute di squadra [E26]. Dopo la partita del 17/03/2024 non risultano sedute postpartita registrate.",
+ "frasi_con_numeri": 11,
+ "verificate": 11,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.02605,
+ "secondi": 11.0,
+ "generato_il": "2026-10-28T09:31:04"
+}

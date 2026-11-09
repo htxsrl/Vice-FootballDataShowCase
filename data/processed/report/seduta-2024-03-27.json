@@ -1,0 +1,15 @@
+{
+ "data": "2024-03-27",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 27/03/2024",
+ "testo": "## Sintesi\n\nLa seduta del 27/03/2024, quattro giorni prima della partita (MD-4), mostra un'aderenza al carico abituale non uniforme: 12 giocatori su 15 risultano fuori dalla fascia larga in almeno una metrica [E1]. La distanza ad alta velocità (HSR) presenta il percentile mediano di squadra più elevato, 93, con 10 giocatori sopra la fascia abituale [E3], mentre accelerazioni (ACC) e decelerazioni (DCC) restano su percentili mediani bassi, rispettivamente 28 e 21, con 5 giocatori sotto in entrambi i casi [E5, E6]. La distanza totale (TD) e la distanza ad alto carico metabolico (HMLD) si collocano su percentili mediani alti, 84 e 79, senza nessun giocatore sotto fascia [E2, E7].\n\n## Fuori fascia\n\n- Andrea Melis: HSR 562 m, molto sopra la fascia larga (154 m-426 m) [E10]; sprint (SPR) 446 m, molto sopra la fascia larga (84 m-303 m) [E11].\n- Filippo Rinaldi: TD 6.899 m, molto sopra la fascia larga (5.055 m-6.711 m) [E13]; HSR 417 m, molto sopra la fascia larga (71 m-259 m) [E14]; HMLD 1.370 m, molto sopra la fascia larga (745 m-1.217 m) [E15].\n- Matteo Basile: TD 6.859 m, molto sopra la fascia larga (4.354 m-6.230 m) [E16].\n- Edoardo Tosi: HSR 459 m, molto sopra la fascia larga (147 m-420 m) [E12].\n- Alessio Dalmasso: HSR 446 m, molto sopra la fascia larga (49 m-270 m) [E8]; SPR 277 m, molto sopra la fascia larga (2 m-155 m) [E9].\n- Tommaso Ferrandi: HSR 18 m, molto sotto la fascia larga (76 m-323 m) [E17]; ACC 71, sopra la fascia centrale (47-62) [E20].\n\nAltri segnali minori: Christian Porcu HSR sopra la fascia centrale (203 m-384 m) [E21]; Federico Santini ACC e DCC sotto la fascia centrale [E19, E22]; Luca Cerutti ACC sotto la fascia centrale [E18].\n\n## Spunti per lo staff\n\n- Verificare se il programma prevedeva questo carico: la distanza ad alta velocità (HSR) mediana registrata oggi è 340 m, contro i 190 m delle sedute storiche di MD-4. [E23]\n\n## Qualità del dato e limiti\n\n- Nessun dato nella finestra postpartita per Tommaso Ferrandi, Lorenzo Cortese, Andrea Melis, Federico Santini ed Edoardo Tosi (0 sedute su 1) [E24, E25, E26, E27, E28].\n- La finestra MD-4…MD-2 non è ancora conclusa: i valori sono parziali fino al 27/03/2024.\n- Alcuni non titolari non hanno dati della partita del 23/03/2024: il dataset non distingue se non hanno giocato o se il dato manca.",
+ "frasi_con_numeri": 12,
+ "verificate": 12,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.02792,
+ "secondi": 12.3,
+ "generato_il": "2026-10-28T09:30:44"
+}

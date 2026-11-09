@@ -1,0 +1,20 @@
+{
+ "data": "2023-11-01",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 01/11/2023",
+ "testo": "## Sintesi\nLa seduta del 01/11/2023 (MD-3, tre giorni prima della partita) mostra per la squadra percentili mediani moderati su quasi tutte le metriche, con distanza totale (TD) a 35 [E2], accelerazioni (ACC) a 27 [E5] e decelerazioni (DCC) a 34 [E6], in linea con un carico di aderenza centrale. La corsa ad alta velocità (HSR) e la distanza ad alto carico metabolico (HMLD) presentano percentili mediani più bassi, rispettivamente 28 [E3] e 28 [E7], con più giocatori sotto fascia che sopra. Su 18 giocatori in seduta, 7 risultano fuori dalla fascia larga in almeno una metrica [E1].\n## Fuori fascia\n- Gabriele Longo: molto sotto la fascia larga P10-P90 su distanza totale (TD) 4.077 m [E9], HSR 53 m [E10], HMLD 505 m [E11]; sotto la fascia centrale P25-P75 su distanza in sprint (SPR) 0 m [E18].\n- Michele Valli: molto sopra la fascia larga P10-P90 su HSR 636 m [E12], HMLD 1.600 m [E13], ACC 129 [E17]; sopra la fascia centrale P25-P75 su TD 7.303 m [E22].\n- Tommaso Ferrandi: molto sopra la fascia larga P10-P90 su SPR 259 m [E14], HMLD 1.307 m [E15], HSR 382 m [E16].\n- Federico Santini: molto sotto la fascia larga P10-P90 su ACC 32 [E8].\n- Edoardo Tosi: sopra la fascia centrale P25-P75 su SPR 292 m [E20].\n- Samuele Pinna: sopra la fascia centrale P25-P75 su SPR 284 m [E19].\nNicolò Serafini risulta inoltre sotto la fascia centrale P25-P75 su ACC 44 [E21]; Mattia Bosio è segnalato fuori fascia in E1 ma senza evidenza di dettaglio disponibile.\n## Spunti per lo staff\nOggi le regole non segnalano nulla.\n## Qualità del dato e limiti\nNessun dato incompleto segnalato per i giocatori citati. Avvertenze del motore: la finestra MD-4…MD-2 non è ancora conclusa, quindi i valori sono parziali fino al 01/11/2023; alcuni non titolari non hanno dati della partita del 28/10/2023, perché non hanno giocato o il dato manca, senza che il dataset distingua i due casi. L'evidenza E1 indica 7 giocatori fuori dalla fascia larga in almeno una metrica, di cui 5 \"ai margini\" [E1].",
+ "frasi_con_numeri": 11,
+ "verificate": 11,
+ "tolte": [],
+ "correzioni": [
+  {
+   "frase": "L'evidenza E1 indica 5 giocatori \"ai margini\" della fascia, dato non ulteriormente dettagliato nelle evidenze disponibili.",
+   "motivo": "numeri senza evidenza citata"
+  }
+ ],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.03512,
+ "secondi": 13.3,
+ "generato_il": "2026-10-28T09:36:57"
+}

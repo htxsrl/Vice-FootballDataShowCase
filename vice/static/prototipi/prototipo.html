@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Vice — prototipo della lavagna</title>
+  <link rel="icon" type="image/svg+xml" href="../favicon.svg">
+  <link rel="stylesheet" href="temi.css">
+</head>
+<body data-tema="chiaro">
+  <header class="testata">
+    <div class="marchio">
+      <span class="logo" aria-hidden="true">V</span>
+      <div class="marchio-testo"><strong>Vice</strong><span>vice-preparatore dell'AS New Trieste</span></div>
+    </div>
+    <div class="oggi" aria-live="polite">
+      <button type="button" class="passo" aria-label="Seduta precedente">‹</button>
+      <div class="oggi-testo">
+        <span class="giorno" id="oggi-giorno"></span>
+        <span class="md" id="oggi-md"></span>
+        <span class="partita" id="oggi-partita"></span>
+      </div>
+      <button type="button" class="passo" aria-label="Seduta successiva">›</button>
+    </div>
+    <figure class="stagione" aria-label="La stagione: una tacca per seduta, più alta per le partite; dopo oggi solo il calendario delle partite">
+      <svg id="striscia" viewBox="0 0 600 34" preserveAspectRatio="none"></svg>
+    </figure>
+    <div class="commutatore" role="group" aria-label="Tema">
+      <button type="button" data-t="chiaro" aria-pressed="true">Chiaro</button>
+      <button type="button" data-t="scuro" aria-pressed="false">Scuro</button>
+    </div>
+    <button type="button" class="palco" id="palco" aria-pressed="false">Modalità palco</button>
+  </header>
+
+  <main class="area">
+    <section class="chat" aria-label="Chat con Vice">
+      <div class="messaggi">
+        <div class="msg utente">Chi è fuori fascia oggi in alta velocità?</div>
+        <article class="msg vice">
+          <div class="linguaggi" role="group" aria-label="Linguaggio della risposta">
+            <button type="button" aria-pressed="false">Allenatore</button>
+            <button type="button" aria-pressed="true">Preparatore</button>
+            <button type="button" aria-pressed="false">Giocatore</button>
+          </div>
+          <div class="voce" id="risposta"></div>
+          <footer class="verifica">
+            <svg viewBox="0 0 16 16" aria-hidden="true"><path d="M6.2 11.4 2.8 8l1-1 2.4 2.4 6-6 1 1z"/></svg>
+            <span id="badge"></span>
+            <button type="button" class="ascolta">Ascolta</button>
+          </footer>
+        </article>
+      </div>
+      <form class="composer" onsubmit="return false">
+        <label class="carica">Trascina qui l'export GPS della seduta, oppure <u>scegli il file</u></label>
+        <a class="prova" href="#">Non hai un export? Scarica quello di prova</a>
+        <div class="riga">
+          <button type="button" class="mic" aria-label="Tieni premuto e parla"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 14a3 3 0 0 0 3-3V5a3 3 0 0 0-6 0v6a3 3 0 0 0 3 3Zm5-3a5 5 0 0 1-10 0H5a7 7 0 0 0 6 6.92V21h2v-3.08A7 7 0 0 0 19 11h-2Z"/></svg></button>
+          <textarea rows="1" placeholder="Chiedi a Vice della seduta, della settimana o di un giocatore"></textarea>
+          <button type="submit" class="invia">Chiedi</button>
+        </div>
+      </form>
+    </section>
+
+    <section class="lavagna" aria-label="Lavagna">
+      <div class="vista-testa">
+        <h2>Alta velocità oggi, rispetto alla fascia di ciascuno</h2>
+        <p class="fonte">Metri oltre 19,8 km/h nella seduta di oggi. Fascia storica di ogni giocatore per questo giorno della settimana: banda larga P10-P90, banda centrale P25-P75, trattino sulla mediana.</p>
+      </div>
+      <div id="grafico-seduta" class="grafico" role="img" aria-label="Metri ad alta velocità di ogni giocatore oggi, con la sua fascia storica"></div>
+      <ul class="legenda" id="legenda"></ul>
+      <div class="sotto-vista">
+        <section class="settimana" aria-label="La settimana in un colpo d'occhio">
+          <h3>La settimana, alta velocità</h3>
+          <div class="griglia" id="griglia"></div>
+        </section>
+      </div>
+      <p class="dicitura">Nomi dei giocatori e della squadra di fantasia; dati reali anonimi del dataset Zenodo 18986229 (Rodríguez-Fernández, CC BY 4.0).
+        Pagina di prova: la risposta di Vice è un esempio scritto a mano con i numeri del motore.</p>
+    </section>
+  </main>
+
+  <script src="../vendor/echarts/echarts.min.js"></script>
+  <script src="prototipo.js"></script>
+</body>
+</html>

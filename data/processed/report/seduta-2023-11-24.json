@@ -1,0 +1,15 @@
+{
+ "data": "2023-11-24",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 24/11/2023",
+ "testo": "## Sintesi\n\nLa seduta del 24/11/2023, giorno prima della partita (MD-1), mostra un'aderenza al carico abituale nella norma per la maggior parte delle metriche, con distanza totale (TD) a percentile mediano 82 [E2] e distanza ad alto carico metabolico (HMLD) a percentile mediano 71 [E7]. Nessun giocatore risulta fuori dalla fascia larga P10-P90 oggi [E1], anche se 13 giocatori sono segnalati ai margini. Le metriche di corsa ad alta velocità (HSR) e sprint (SPR) restano più contenute, con percentili mediani rispettivamente 57 [E3] e 33 [E4].\n\n## Fuori fascia\n\n- Matteo Basile: accelerazioni (ACC) 43, posizione sopra la fascia centrale P25-P75 [E8]; anche distanza ad alto carico metabolico (HMLD) 418 m, sopra la fascia centrale [E9], e distanza totale (TD) 3.295 m, sopra la fascia centrale [E12].\n- Edoardo Tosi: distanza totale (TD) 3.614 m, sopra la fascia centrale P25-P75 [E11].\n- Nicolò Serafini: accelerazioni (ACC) 50, sopra la fascia centrale P25-P75 [E10].\n\n## Verso la partita\n\nDa MD-4 a MD-2 prima della partita del 25/11/2023, 7 giocatori su 19 risultano sotto il solito in alta velocità [E13]: Elia Gariglio, Nicolò Serafini, Mattia Bosio, Michele Valli, Federico Santini, Gabriele Longo, Filippo Rinaldi.\n\nMattia Bosio è molto sotto la fascia larga P10-P90 in HSR, 113 m contro riferimento 387 m [E19]. Michele Valli è sotto la fascia centrale in HSR, 371 m contro riferimento 634 m [E21], e sotto anche in SPR, 30 m contro riferimento 193 m [E20]. Elia Gariglio è sotto la fascia centrale in HSR, 98 m contro riferimento 241 m [E15]. Federico Santini è sotto la fascia centrale sia in SPR, 0 m [E22], sia in HSR, 129 m [E23].\n\n## Spunti per lo staff\n\n- Valutare se serve uno stimolo di velocità per Federico Santini: da MD-4 a MD-2 ha registrato 0 m di sprint e 129 m di HSR, contro un riferimento di 38 m e 278 m per quei giorni, prima della partita del 25/11/2023. [E22, E23]\n- Valutare se serve uno stimolo di velocità per Gabriele Longo: da MD-4 a MD-2 ha registrato 0 m di sprint e 305 m di HSR, contro un riferimento di 68 m e 431 m per quei giorni, prima della partita del 25/11/2023. [E24, E25]\n\n## Qualità del dato e limiti\n\nNessun dato incompleto segnalato per la seduta odierna. Dopo la partita del 19/11/2023 non risultano sedute postpartita registrate. Alcuni non titolari non hanno dati della partita del 19/11/2023: non è possibile distinguere se non hanno giocato o se il dato manca.",
+ "frasi_con_numeri": 13,
+ "verificate": 13,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.02766,
+ "secondi": 12.2,
+ "generato_il": "2026-10-28T09:35:39"
+}

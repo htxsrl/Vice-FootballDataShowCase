@@ -1,0 +1,15 @@
+{
+ "data": "2023-12-01",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 01/12/2023",
+ "testo": "## Sintesi\n\nLa seduta del giorno prima della partita (MD-1) ha mostrato un'aderenza al carico abituale spostata verso l'alto su quasi tutte le metriche: distanza totale (TD), decelerazioni intense (DCC) e distanza ad alto carico metabolico (HMLD) hanno percentili mediani di squadra rispettivamente 87, 87 e 88, con la maggioranza dei giocatori sopra la propria fascia abituale [E2, E6, E7]. Accelerazioni intense (ACC) seguono lo stesso andamento con percentile mediano 82 [E5], mentre corsa ad alta velocità (HSR) e sprint (SPR) restano più contenute, con percentile mediano 60 e 54 [E3, E4]. Sette giocatori su 17 risultano fuori dalla fascia larga in almeno una metrica [E1].\n\n## Fuori fascia\n\n- **Samuele Pinna**: DCC a 58, molto sopra la fascia larga (8-30) [E8]; inoltre HMLD a 565 m, molto sopra la fascia larga (135 m-515 m) [E17].\n- **Matteo Basile**: HSR a 59 m, molto sopra la fascia larga (1 m-48 m) [E13]; SPR a 34 m, molto sopra la fascia larga (0 m-19 m) [E10]; DCC a 52, molto sopra la fascia larga (17-45) [E9]; HMLD a 590 m, molto sopra la fascia larga (170 m-528 m) [E16].\n- **Federico Santini**: DCC a 49, molto sopra la fascia larga (12-41) [E12].\n- **Edoardo Tosi**: DCC a 42, molto sopra la fascia larga (7-40) [E11].\n- **Simone Amato**: HSR a 68 m, molto sopra la fascia larga (1 m-53 m) [E14]; HMLD a 437 m, sopra la fascia centrale (252 m-364 m) [E22].\n- **Mattia Bosio**: ACC a 47, molto sopra la fascia larga (15-42) [E15]; HMLD a 505 m, sopra la fascia centrale (259 m-381 m) [E19].\n\n## Verso la partita\n\nNella finestra da MD-4 a MD-2 prima della partita del 02/12/2023, un solo giocatore risulta sotto il solito in alta velocità: Samuele Pinna [E23]. Per lui la distanza in sprint è dentro la fascia abituale, a 166 m contro un riferimento di 325 m [E24], mentre la distanza HSR è sotto, a 317 m contro un riferimento di 569 m [E25].\n\n## Spunti per lo staff\n\n- Verificare se il carico di MD-1 di Matteo Basile era previsto: oggi 59 m di HSR, oltre la fascia storica delle sue rifiniture (fino a 48 m). [E13]\n- Verificare se il carico di MD-1 di Simone Amato era previsto: oggi 68 m di HSR, oltre la fascia storica delle sue rifiniture (fino a 53 m). [E14]\n- Approfondire con lo staff lo scostamento di Stefano Guidi: negli ultimi tre allenamenti (29/11/2023, 30/11/2023 e 01/12/2023) la HSR è rimasta sopra la sua fascia storica. [E26, E27, E28]\n\n## Qualità del dato e limiti\n\nSimone Amato ha copertura parziale nella finestra MD-4/MD-2 (1 seduta su 2) [E29]. Samuele Pinna, Federico Santini e Simone Amato non hanno dati nella finestra postpartita (0 sedute su 1) [E30, E31, E32]. Alcuni non titolari non hanno dati della partita del 25/11/2023: il dataset non distingue se non hanno giocato o se il dato manca.",
+ "frasi_con_numeri": 16,
+ "verificate": 16,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.03169,
+ "secondi": 13.4,
+ "generato_il": "2026-10-28T09:35:20"
+}

@@ -1,0 +1,20 @@
+{
+ "data": "2023-11-16",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 16/11/2023",
+ "testo": "## Sintesi\nLa seduta del 16/11/2023, tre giorni prima della partita (MD-3), mostra un'aderenza al carico abituale nel complesso dentro i limiti per distanza totale (TD) e decelerazioni (DCC), con percentile mediano di squadra rispettivamente di 73 [E2] e 26 [E6]. La corsa ad alta velocità (HSR) si colloca su un percentile mediano di 79 [E3], con 8 giocatori sopra la fascia centrale su 17 [E3]. Dieci giocatori su 17 risultano fuori dalla fascia larga in almeno una metrica [E1].\n## Fuori fascia\n- Michele Valli: HSR 911 m, molto sopra la fascia larga (160 m–424 m) [E12]; HMLD (distanza ad alto carico metabolico) 1.827 m, molto sopra la fascia larga 772 m–1.438 m [E13].\n- Alessio Dalmasso: HMLD 1.142 m, molto sopra la fascia larga 522 m–1.065 m [E10]; sprint 169 m, molto sopra la fascia larga 7 m–107 m [E9]; HSR 290 m, molto sopra la fascia larga 67 m–191 m [E8].\n- Stefano Guidi: HSR 326 m, molto sopra la fascia larga 61 m–222 m [E14]; TD 6.534 m, sopra la fascia centrale 5.226 m–5.747 m [E18]; HMLD 1.088 m, sopra la fascia centrale 682 m–839 m [E21].\n- Andrea Melis: sprint 419 m, molto sopra la fascia larga 57 m–275 m [E17]; HMLD 1.178 m, sopra la fascia centrale 705 m–1.068 m [E20].\n- Lorenzo Cortese: HSR 477 m, molto sopra la fascia larga 119 m–439 m [E11].\n- Tommaso Ferrandi: DCC 21, molto sotto la fascia larga 41–91 [E15]; ACC (accelerazioni intense) 27, molto sotto la fascia larga 45–89 [E16].\n## Spunti per lo staff\nOggi le regole non segnalano nulla.\n## Qualità del dato e limiti\n- Christian Porcu non ha dati nella finestra postpartita: nessuna seduta coperta su 1 disputata dalla squadra [E23].\n- La finestra MD-4…MD-2 non è ancora conclusa: i valori sono parziali fino al 16/11/2023.\n- Alcuni non titolari non hanno dati della partita dell'11/11/2023: non è possibile distinguere se non hanno giocato o se il dato manca.",
+ "frasi_con_numeri": 10,
+ "verificate": 10,
+ "tolte": [],
+ "correzioni": [
+  {
+   "frase": "- Michele Valli: HSR 911 m, molto sopra la fascia larga (119 m–439 m era quella attesa per altri, per lui 160 m–424 m) [E12]; HMLD 1.827 m, molto sopra la fascia larga 772 m–1.438 m [E13].",
+   "motivo": "numeri non presenti nelle evidenze citate: 119, 439"
+  }
+ ],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.03612,
+ "secondi": 13.2,
+ "generato_il": "2026-10-28T09:36:07"
+}

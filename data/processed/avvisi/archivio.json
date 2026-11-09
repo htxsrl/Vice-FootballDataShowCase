@@ -1,0 +1,5418 @@
+{
+ "firma": "4e342be5fb14cdfb",
+ "giorni": {
+  "2023-09-10": [],
+  "2023-09-11": [],
+  "2023-09-13": [],
+  "2023-09-14": [
+   {
+    "famiglia": "positivo",
+    "data": "2023-09-14",
+    "testo": "Da segnalare: prima della partita del 16/09 tutti i 18 giocatori valutati hanno avuto la loro alta velocità solita da MD-4 a MD-2.",
+    "giocatore_id": null,
+    "giocatore": null,
+    "riassunto": false,
+    "gravita": 0.0,
+    "evidenze": [],
+    "metriche": [
+     "hsr",
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "53f8ee0f345a",
+    "priorita": 8,
+    "categoria": "informa",
+    "nome_famiglia": "Note positive"
+   }
+  ],
+  "2023-09-15": [
+   {
+    "famiglia": "positivo",
+    "data": "2023-09-15",
+    "testo": "Da segnalare: prima della partita del 16/09 tutti i 18 giocatori valutati hanno avuto la loro alta velocità solita da MD-4 a MD-2.",
+    "giocatore_id": null,
+    "giocatore": null,
+    "riassunto": false,
+    "gravita": 0.0,
+    "evidenze": [],
+    "metriche": [
+     "hsr",
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "f664aa5796b5",
+    "priorita": 8,
+    "categoria": "informa",
+    "nome_famiglia": "Note positive"
+   }
+  ],
+  "2023-09-16": [],
+  "2023-09-18": [],
+  "2023-09-20": [],
+  "2023-09-21": [
+   {
+    "famiglia": "positivo",
+    "data": "2023-09-21",
+    "testo": "Da segnalare: prima della partita del 23/09 tutti i 18 giocatori valutati hanno avuto la loro alta velocità solita da MD-4 a MD-2.",
+    "giocatore_id": null,
+    "giocatore": null,
+    "riassunto": false,
+    "gravita": 0.0,
+    "evidenze": [],
+    "metriche": [
+     "hsr",
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "e52509b5c829",
+    "priorita": 8,
+    "categoria": "informa",
+    "nome_famiglia": "Note positive"
+   }
+  ],
+  "2023-09-22": [
+   {
+    "famiglia": "positivo",
+    "data": "2023-09-22",
+    "testo": "Da segnalare: prima della partita del 23/09 tutti i 18 giocatori valutati hanno avuto la loro alta velocità solita da MD-4 a MD-2.",
+    "giocatore_id": null,
+    "giocatore": null,
+    "riassunto": false,
+    "gravita": 0.0,
+    "evidenze": [],
+    "metriche": [
+     "hsr",
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "1bc96f3d6da3",
+    "priorita": 8,
+    "categoria": "informa",
+    "nome_famiglia": "Note positive"
+   }
+  ],
+  "2023-09-23": [],
+  "2023-09-25": [],
+  "2023-09-27": [],
+  "2023-09-28": [
+   {
+    "famiglia": "positivo",
+    "data": "2023-09-28",
+    "testo": "Da segnalare: prima della partita del 30/09 tutti i 19 giocatori valutati hanno avuto la loro alta velocità solita da MD-4 a MD-2.",
+    "giocatore_id": null,
+    "giocatore": null,
+    "riassunto": false,
+    "gravita": 0.0,
+    "evidenze": [],
+    "metriche": [
+     "hsr",
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "29503541107f",
+    "priorita": 8,
+    "categoria": "informa",
+    "nome_famiglia": "Note positive"
+   }
+  ],
+  "2023-09-29": [
+   {
+    "famiglia": "positivo",
+    "data": "2023-09-29",
+    "testo": "Da segnalare: prima della partita del 30/09 tutti i 19 giocatori valutati hanno avuto la loro alta velocità solita da MD-4 a MD-2.",
+    "giocatore_id": null,
+    "giocatore": null,
+    "riassunto": false,
+    "gravita": 0.0,
+    "evidenze": [],
+    "metriche": [
+     "hsr",
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "4e5d27d94ccb",
+    "priorita": 8,
+    "categoria": "informa",
+    "nome_famiglia": "Note positive"
+   }
+  ],
+  "2023-09-30": [],
+  "2023-10-04": [],
+  "2023-10-05": [],
+  "2023-10-06": [
+   {
+    "famiglia": "positivo",
+    "data": "2023-10-06",
+    "testo": "Da segnalare: prima della partita del 08/10 tutti i 19 giocatori valutati hanno avuto la loro alta velocità solita da MD-4 a MD-2.",
+    "giocatore_id": null,
+    "giocatore": null,
+    "riassunto": false,
+    "gravita": 0.0,
+    "evidenze": [],
+    "metriche": [
+     "hsr",
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "b239c0ceb0b8",
+    "priorita": 8,
+    "categoria": "informa",
+    "nome_famiglia": "Note positive"
+   }
+  ],
+  "2023-10-07": [
+   {
+    "famiglia": "positivo",
+    "data": "2023-10-07",
+    "testo": "Da segnalare: prima della partita del 08/10 tutti i 19 giocatori valutati hanno avuto la loro alta velocità solita da MD-4 a MD-2.",
+    "giocatore_id": null,
+    "giocatore": null,
+    "riassunto": false,
+    "gravita": 0.0,
+    "evidenze": [],
+    "metriche": [
+     "hsr",
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "3dbf6e7cf678",
+    "priorita": 8,
+    "categoria": "informa",
+    "nome_famiglia": "Note positive"
+   }
+  ],
+  "2023-10-08": [],
+  "2023-10-09": [],
+  "2023-10-11": [
+   {
+    "famiglia": "dato",
+    "data": "2023-10-11",
+    "testo": "Verificare il dato: Lorenzo Cortese non ha dati nelle ultime due sedute (09/10 e 11/10), dopo che c'erano nelle precedenti.",
+    "giocatore_id": 9,
+    "giocatore": "Lorenzo Cortese",
+    "riassunto": false,
+    "gravita": 0.0,
+    "evidenze": [],
+    "metriche": [],
+    "chiude": null,
+    "urgente": false,
+    "id": "d9493cc38907",
+    "priorita": 0,
+    "categoria": "dato",
+    "nome_famiglia": "Qualità del dato"
+   },
+   {
+    "famiglia": "dato",
+    "data": "2023-10-11",
+    "testo": "Verificare il dato: Federico Santini non ha dati nelle ultime due sedute (09/10 e 11/10), dopo che c'erano nelle precedenti.",
+    "giocatore_id": 13,
+    "giocatore": "Federico Santini",
+    "riassunto": false,
+    "gravita": 0.0,
+    "evidenze": [],
+    "metriche": [],
+    "chiude": null,
+    "urgente": false,
+    "id": "88c63186fd05",
+    "priorita": 0,
+    "categoria": "dato",
+    "nome_famiglia": "Qualità del dato"
+   }
+  ],
+  "2023-10-12": [],
+  "2023-10-13": [],
+  "2023-10-14": [],
+  "2023-10-16": [
+   {
+    "famiglia": "rientro",
+    "data": "2023-10-16",
+    "testo": "Federico Santini è tornato dopo 9 giorni senza dati (quattro sedute). Vice non sa perché mancava.",
+    "giocatore_id": 13,
+    "giocatore": "Federico Santini",
+    "riassunto": false,
+    "gravita": 4.0,
+    "evidenze": [
+     "seduta/2023-10-16/13/td"
+    ],
+    "metriche": [
+     "td"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "7f157065047f",
+    "priorita": 6,
+    "categoria": "informa",
+    "nome_famiglia": "Rientro dopo un'assenza"
+   }
+  ],
+  "2023-10-18": [
+   {
+    "famiglia": "rientro",
+    "data": "2023-10-18",
+    "testo": "Lorenzo Cortese è tornato dopo 11 giorni senza dati (cinque sedute). Vice non sa perché mancava.",
+    "giocatore_id": 9,
+    "giocatore": "Lorenzo Cortese",
+    "riassunto": false,
+    "gravita": 5.0,
+    "evidenze": [
+     "seduta/2023-10-18/9/td"
+    ],
+    "metriche": [
+     "td"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "dd5a08de4464",
+    "priorita": 6,
+    "categoria": "informa",
+    "nome_famiglia": "Rientro dopo un'assenza"
+   }
+  ],
+  "2023-10-19": [],
+  "2023-10-20": [
+   {
+    "famiglia": "positivo",
+    "data": "2023-10-20",
+    "testo": "Da segnalare: prima della partita del 22/10 tutti i 19 giocatori valutati hanno avuto la loro alta velocità solita da MD-4 a MD-2.",
+    "giocatore_id": null,
+    "giocatore": null,
+    "riassunto": false,
+    "gravita": 0.0,
+    "evidenze": [],
+    "metriche": [
+     "hsr",
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "026428e2266b",
+    "priorita": 8,
+    "categoria": "informa",
+    "nome_famiglia": "Note positive"
+   }
+  ],
+  "2023-10-22": [],
+  "2023-10-23": [
+   {
+    "famiglia": "reparto",
+    "data": "2023-10-23",
+    "testo": "Verificare se le esercitazioni espongono Michele Valli allo sprint quanto gli altri terzini: nelle ultime sei sedute condivise ha fatto meno di tutti in tutte e sei.",
+    "giocatore_id": 10,
+    "giocatore": "Michele Valli",
+    "riassunto": true,
+    "gravita": 1.0,
+    "evidenze": [],
+    "metriche": [
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "eb66fde591d4",
+    "priorita": 7,
+    "categoria": "azione",
+    "nome_famiglia": "Scarto di reparto"
+   },
+   {
+    "famiglia": "positivo",
+    "data": "2023-10-23",
+    "testo": "Da segnalare: in partita Tommaso Ferrandi è sopra il suo solito di alta velocità da due gare di fila da titolare (582 m e 688 m; di solito fino a 476 m). Il contesto della partita conta: non è un giudizio di rendimento.",
+    "giocatore_id": 1,
+    "giocatore": "Tommaso Ferrandi",
+    "riassunto": true,
+    "gravita": 0.0,
+    "evidenze": [],
+    "metriche": [
+     "hsr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "9aab5f6d99cb",
+    "priorita": 8,
+    "categoria": "informa",
+    "nome_famiglia": "Note positive"
+   },
+   {
+    "famiglia": "dato",
+    "data": "2023-10-23",
+    "testo": "Verificare il dato: Simone Amato non ha dati nelle ultime due sedute (20/10 e 23/10), dopo che c'erano nelle precedenti.",
+    "giocatore_id": 20,
+    "giocatore": "Simone Amato",
+    "riassunto": false,
+    "gravita": 0.0,
+    "evidenze": [],
+    "metriche": [],
+    "chiude": null,
+    "urgente": false,
+    "id": "52593be5d786",
+    "priorita": 0,
+    "categoria": "dato",
+    "nome_famiglia": "Qualità del dato"
+   }
+  ],
+  "2023-10-25": [],
+  "2023-10-26": [
+   {
+    "famiglia": "velocita",
+    "data": "2023-10-26",
+    "testo": "Valutare se serve uno stimolo di velocità per Nicolò Serafini: da MD-4 a MD-2 ha registrato 0 m di sprint e 210 m di HSR, contro un riferimento di 49 m e 287 m per quei giorni, prima della partita del 28/10/2023.",
+    "giocatore_id": 3,
+    "giocatore": "Nicolò Serafini",
+    "riassunto": false,
+    "gravita": 1.0,
+    "evidenze": [
+     "velocita/2023-10-28/3/spr",
+     "velocita/2023-10-28/3/hsr"
+    ],
+    "metriche": [
+     "hsr",
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "1b7157dc1e7b",
+    "priorita": 2,
+    "categoria": "azione",
+    "nome_famiglia": "Alta velocità prima della partita"
+   },
+   {
+    "famiglia": "positivo",
+    "data": "2023-10-26",
+    "testo": "Da segnalare: Lorenzo Cortese è di nuovo nel suo carico abituale in distanza, alta velocità e sprint, 8 giorni dopo il rientro.",
+    "giocatore_id": 9,
+    "giocatore": "Lorenzo Cortese",
+    "riassunto": false,
+    "gravita": 0.0,
+    "evidenze": [
+     "seduta/2023-10-26/9/td",
+     "seduta/2023-10-26/9/hsr",
+     "seduta/2023-10-26/9/spr"
+    ],
+    "metriche": [
+     "td",
+     "hsr",
+     "spr"
+    ],
+    "chiude": "rientro",
+    "urgente": false,
+    "id": "1e02ce4fe84d",
+    "priorita": 8,
+    "categoria": "informa",
+    "nome_famiglia": "Note positive"
+   }
+  ],
+  "2023-10-27": [],
+  "2023-10-28": [],
+  "2023-10-30": [],
+  "2023-11-01": [
+   {
+    "famiglia": "insolito",
+    "data": "2023-11-01",
+    "testo": "Verificare se il carico di Tommaso Ferrandi a MD-3 era previsto: alta velocità 382 m (fascia larga 26-257 m) e sprint 259 m (fascia larga 0-95 m).",
+    "giocatore_id": 1,
+    "giocatore": "Tommaso Ferrandi",
+    "riassunto": false,
+    "gravita": 2.7148846960167714,
+    "evidenze": [
+     "seduta/2023-11-01/1/hsr",
+     "seduta/2023-11-01/1/spr"
+    ],
+    "metriche": [
+     "hsr",
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "d81e86278e33",
+    "priorita": 3,
+    "categoria": "azione",
+    "nome_famiglia": "Carico insolito"
+   },
+   {
+    "famiglia": "insolito",
+    "data": "2023-11-01",
+    "testo": "Verificare se il carico di Michele Valli a MD-3 era previsto: alta velocità 636 m (fascia larga 121-386 m).",
+    "giocatore_id": 10,
+    "giocatore": "Michele Valli",
+    "riassunto": false,
+    "gravita": 1.6476683937823837,
+    "evidenze": [
+     "seduta/2023-11-01/10/hsr"
+    ],
+    "metriche": [
+     "hsr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "aae782f50e51",
+    "priorita": 3,
+    "categoria": "azione",
+    "nome_famiglia": "Carico insolito"
+   }
+  ],
+  "2023-11-02": [
+   {
+    "famiglia": "velocita",
+    "data": "2023-11-02",
+    "testo": "Valutare se serve uno stimolo di velocità per Nicolò Serafini: da MD-4 a MD-2 ha registrato 0 m di sprint e 149 m di HSR, contro un riferimento di 49 m e 261 m per quei giorni, prima della partita del 04/11/2023.",
+    "giocatore_id": 3,
+    "giocatore": "Nicolò Serafini",
+    "riassunto": false,
+    "gravita": 1.0,
+    "evidenze": [
+     "velocita/2023-11-04/3/spr",
+     "velocita/2023-11-04/3/hsr"
+    ],
+    "metriche": [
+     "hsr",
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "7b53cefa8a09",
+    "priorita": 2,
+    "categoria": "azione",
+    "nome_famiglia": "Alta velocità prima della partita"
+   },
+   {
+    "famiglia": "velocita",
+    "data": "2023-11-02",
+    "testo": "Valutare se serve uno stimolo di velocità per Gabriele Longo: da MD-4 a MD-2 ha registrato 0 m di sprint e 127 m di HSR, contro un riferimento di 201 m e 525 m per quei giorni, prima della partita del 04/11/2023.",
+    "giocatore_id": 14,
+    "giocatore": "Gabriele Longo",
+    "riassunto": false,
+    "gravita": 1.0,
+    "evidenze": [
+     "velocita/2023-11-04/14/spr",
+     "velocita/2023-11-04/14/hsr"
+    ],
+    "metriche": [
+     "hsr",
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "bcf28ad27078",
+    "priorita": 2,
+    "categoria": "azione",
+    "nome_famiglia": "Alta velocità prima della partita"
+   },
+   {
+    "famiglia": "settimana",
+    "data": "2023-11-02",
+    "testo": "Valutare se c'è margine per Gabriele Longo: finora gli allenamenti valgono in distanza totale l'80% della sua partita, contro una mediana di squadra del 130% e in alta velocità il 16% della sua partita, contro una mediana di squadra del 70%; di solito, a questo punto della settimana, gli sta più vicino.",
+    "giocatore_id": 14,
+    "giocatore": "Gabriele Longo",
+    "riassunto": false,
+    "gravita": 2.404780344663816,
+    "evidenze": [
+     "partita/2023-11-02/14/td/settimana",
+     "partita/2023-11-02/14/hsr/settimana"
+    ],
+    "metriche": [
+     "td",
+     "hsr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "3fc368dc04df",
+    "priorita": 4,
+    "categoria": "azione",
+    "nome_famiglia": "Settimana sopra o sotto il solito"
+   }
+  ],
+  "2023-11-03": [
+   {
+    "famiglia": "insolito",
+    "data": "2023-11-03",
+    "testo": "Verificare se la seduta di oggi (MD-1) era prevista più carica del solito: tre giocatori sono molto oltre la loro fascia larga (Elia Gariglio, Federico Santini e Tommaso Ferrandi).",
+    "giocatore_id": null,
+    "giocatore": null,
+    "riassunto": false,
+    "gravita": 3.0,
+    "evidenze": [
+     "seduta/2023-11-03/1/spr",
+     "seduta/2023-11-03/2/hsr",
+     "seduta/2023-11-03/2/spr",
+     "seduta/2023-11-03/13/hsr"
+    ],
+    "metriche": [
+     "hsr",
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "b9034784ceee",
+    "priorita": 3,
+    "categoria": "azione",
+    "nome_famiglia": "Carico insolito"
+   },
+   {
+    "famiglia": "calo",
+    "data": "2023-11-03",
+    "testo": "Approfondire con il giocatore e lo staff: nelle ultime due settimane, in tre sedute, Gabriele Longo ha fatto meno distanza totale del suo solito, mentre la squadra in quelle sedute era nella norma (25/10, 01/11 e 03/11).",
+    "giocatore_id": 14,
+    "giocatore": "Gabriele Longo",
+    "riassunto": false,
+    "gravita": 3.0,
+    "evidenze": [
+     "seduta/2023-10-25/14/td",
+     "seduta/2023-11-01/14/td",
+     "seduta/2023-11-03/14/td"
+    ],
+    "metriche": [
+     "td"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "e2686f806c37",
+    "priorita": 5,
+    "categoria": "azione",
+    "nome_famiglia": "Calo persistente"
+   }
+  ],
+  "2023-11-04": [],
+  "2023-11-06": [],
+  "2023-11-08": [],
+  "2023-11-09": [
+   {
+    "famiglia": "insolito",
+    "data": "2023-11-09",
+    "testo": "Verificare se il programma prevedeva questo carico: la distanza totale mediana registrata oggi è 6.452 m, contro i 4.994 m delle sedute storiche di MD-2.",
+    "giocatore_id": null,
+    "giocatore": null,
+    "riassunto": false,
+    "gravita": 50.0,
+    "evidenze": [
+     "settimana/2023-11-09/tutti/td"
+    ],
+    "metriche": [
+     "td"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "a4bab19216dd",
+    "priorita": 3,
+    "categoria": "azione",
+    "nome_famiglia": "Carico insolito"
+   },
+   {
+    "famiglia": "insolito",
+    "data": "2023-11-09",
+    "testo": "Verificare se il programma prevedeva questo carico: la distanza ad alta velocità (HSR) mediana registrata oggi è 257 m, contro i 156 m delle sedute storiche di MD-2.",
+    "giocatore_id": null,
+    "giocatore": null,
+    "riassunto": false,
+    "gravita": 50.0,
+    "evidenze": [
+     "settimana/2023-11-09/tutti/hsr"
+    ],
+    "metriche": [
+     "hsr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "9fd276f49315",
+    "priorita": 3,
+    "categoria": "azione",
+    "nome_famiglia": "Carico insolito"
+   },
+   {
+    "famiglia": "insolito",
+    "data": "2023-11-09",
+    "testo": "Verificare se il carico di Nicolò Serafini a MD-2 era previsto: alta velocità 364 m (fascia larga 58-261 m).",
+    "giocatore_id": 3,
+    "giocatore": "Nicolò Serafini",
+    "riassunto": false,
+    "gravita": 1.3946360153256705,
+    "evidenze": [
+     "seduta/2023-11-09/3/hsr"
+    ],
+    "metriche": [
+     "hsr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "45d508a54bc2",
+    "priorita": 3,
+    "categoria": "azione",
+    "nome_famiglia": "Carico insolito"
+   }
+  ],
+  "2023-11-10": [
+   {
+    "famiglia": "insolito",
+    "data": "2023-11-10",
+    "testo": "Verificare se il programma prevedeva questo carico: la distanza totale mediana registrata oggi è 6.746 m, contro i 2.721 m delle sedute storiche di MD-1.",
+    "giocatore_id": null,
+    "giocatore": null,
+    "riassunto": false,
+    "gravita": 50.0,
+    "evidenze": [
+     "settimana/2023-11-10/tutti/td"
+    ],
+    "metriche": [
+     "td"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "bef35f160f85",
+    "priorita": 3,
+    "categoria": "azione",
+    "nome_famiglia": "Carico insolito"
+   },
+   {
+    "famiglia": "insolito",
+    "data": "2023-11-10",
+    "testo": "Verificare se la seduta di oggi (MD-1) era prevista più carica del solito: 18 giocatori sono molto oltre la loro fascia larga (Alessio Dalmasso, Andrea Melis, Edoardo Tosi, Elia Gariglio, Federico Santini, Filippo Rinaldi, Gabriele Longo, Lorenzo Cortese, Luca Cerutti, Matteo Basile, Mattia Bosio, Michele Valli, Nicolò Serafini, Pietro Ghio, Riccardo Benedetti, Samuele Pinna, Stefano Guidi e Tommaso Ferrandi).",
+    "giocatore_id": null,
+    "giocatore": null,
+    "riassunto": false,
+    "gravita": 18.0,
+    "evidenze": [
+     "seduta/2023-11-10/1/td",
+     "seduta/2023-11-10/1/hsr",
+     "seduta/2023-11-10/1/spr",
+     "seduta/2023-11-10/1/dcc",
+     "seduta/2023-11-10/2/td",
+     "seduta/2023-11-10/3/td",
+     "seduta/2023-11-10/3/dcc",
+     "seduta/2023-11-10/4/td",
+     "seduta/2023-11-10/4/hsr",
+     "seduta/2023-11-10/4/spr",
+     "seduta/2023-11-10/4/dcc",
+     "seduta/2023-11-10/5/td",
+     "seduta/2023-11-10/5/dcc",
+     "seduta/2023-11-10/6/td",
+     "seduta/2023-11-10/6/dcc",
+     "seduta/2023-11-10/7/td",
+     "seduta/2023-11-10/7/dcc",
+     "seduta/2023-11-10/8/td",
+     "seduta/2023-11-10/8/hsr",
+     "seduta/2023-11-10/8/dcc",
+     "seduta/2023-11-10/9/td",
+     "seduta/2023-11-10/10/td",
+     "seduta/2023-11-10/10/dcc",
+     "seduta/2023-11-10/11/td",
+     "seduta/2023-11-10/11/dcc",
+     "seduta/2023-11-10/12/td",
+     "seduta/2023-11-10/12/dcc",
+     "seduta/2023-11-10/13/td",
+     "seduta/2023-11-10/13/dcc",
+     "seduta/2023-11-10/14/td",
+     "seduta/2023-11-10/14/dcc",
+     "seduta/2023-11-10/15/td",
+     "seduta/2023-11-10/16/td",
+     "seduta/2023-11-10/17/td",
+     "seduta/2023-11-10/17/hsr",
+     "seduta/2023-11-10/17/dcc",
+     "seduta/2023-11-10/18/td",
+     "seduta/2023-11-10/18/dcc"
+    ],
+    "metriche": [
+     "td",
+     "hsr",
+     "spr",
+     "dcc"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "047d81b5b95e",
+    "priorita": 3,
+    "categoria": "azione",
+    "nome_famiglia": "Carico insolito"
+   }
+  ],
+  "2023-11-11": [],
+  "2023-11-12": [],
+  "2023-11-14": [
+   {
+    "famiglia": "dato",
+    "data": "2023-11-14",
+    "testo": "Verificare il dato: Federico Santini non ha dati nelle ultime due sedute (12/11 e 14/11), dopo che c'erano nelle precedenti.",
+    "giocatore_id": 13,
+    "giocatore": "Federico Santini",
+    "riassunto": false,
+    "gravita": 0.0,
+    "evidenze": [],
+    "metriche": [],
+    "chiude": null,
+    "urgente": false,
+    "id": "a79acff74cc5",
+    "priorita": 0,
+    "categoria": "dato",
+    "nome_famiglia": "Qualità del dato"
+   }
+  ],
+  "2023-11-15": [],
+  "2023-11-16": [
+   {
+    "famiglia": "insolito",
+    "data": "2023-11-16",
+    "testo": "Verificare se la seduta di oggi (MD-3) era prevista più carica del solito: cinque giocatori sono molto oltre la loro fascia larga (Alessio Dalmasso, Andrea Melis, Edoardo Tosi, Michele Valli e Stefano Guidi).",
+    "giocatore_id": null,
+    "giocatore": null,
+    "riassunto": false,
+    "gravita": 5.0,
+    "evidenze": [
+     "seduta/2023-11-16/4/hsr",
+     "seduta/2023-11-16/4/spr",
+     "seduta/2023-11-16/8/hsr",
+     "seduta/2023-11-16/10/hsr",
+     "seduta/2023-11-16/11/hsr",
+     "seduta/2023-11-16/11/spr",
+     "seduta/2023-11-16/15/hsr"
+    ],
+    "metriche": [
+     "hsr",
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "0c70f28c32ae",
+    "priorita": 3,
+    "categoria": "azione",
+    "nome_famiglia": "Carico insolito"
+   }
+  ],
+  "2023-11-18": [
+   {
+    "famiglia": "positivo",
+    "data": "2023-11-18",
+    "testo": "Da segnalare: prima della partita del 19/11 tutti i 17 giocatori valutati hanno avuto la loro alta velocità solita da MD-4 a MD-2.",
+    "giocatore_id": null,
+    "giocatore": null,
+    "riassunto": false,
+    "gravita": 0.0,
+    "evidenze": [],
+    "metriche": [
+     "hsr",
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "de086120a688",
+    "priorita": 8,
+    "categoria": "informa",
+    "nome_famiglia": "Note positive"
+   }
+  ],
+  "2023-11-19": [],
+  "2023-11-22": [
+   {
+    "famiglia": "insolito",
+    "data": "2023-11-22",
+    "testo": "Verificare se il carico di Alessio Dalmasso a MD-3 era previsto: alta velocità 273 m (fascia larga 71-217 m).",
+    "giocatore_id": 4,
+    "giocatore": "Alessio Dalmasso",
+    "riassunto": false,
+    "gravita": 1.2609699769053115,
+    "evidenze": [
+     "seduta/2023-11-22/4/hsr"
+    ],
+    "metriche": [
+     "hsr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "ed3eb59086d3",
+    "priorita": 3,
+    "categoria": "azione",
+    "nome_famiglia": "Carico insolito"
+   },
+   {
+    "famiglia": "rientro",
+    "data": "2023-11-22",
+    "testo": "Federico Santini è tornato dopo 12 giorni senza dati (cinque sedute): oggi ha fatto il 53% della sua distanza abituale per MD-3. Vice non sa perché mancava.",
+    "giocatore_id": 13,
+    "giocatore": "Federico Santini",
+    "riassunto": false,
+    "gravita": 5.0,
+    "evidenze": [
+     "seduta/2023-11-22/13/td"
+    ],
+    "metriche": [
+     "td"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "a4dfb2b2a9ad",
+    "priorita": 6,
+    "categoria": "informa",
+    "nome_famiglia": "Rientro dopo un'assenza"
+   },
+   {
+    "famiglia": "calo",
+    "data": "2023-11-22",
+    "testo": "Approfondire con il giocatore e lo staff: nelle ultime quattro settimane Federico Santini ha fatto meno alta velocità e sprint di due-tre mesi fa, negli stessi giorni prima della partita (scarto mediano: alta velocità -38%, sprint -100%).",
+    "giocatore_id": 13,
+    "giocatore": "Federico Santini",
+    "riassunto": true,
+    "gravita": 100.0,
+    "evidenze": [],
+    "metriche": [
+     "hsr",
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "3d3d9702e8bc",
+    "priorita": 5,
+    "categoria": "azione",
+    "nome_famiglia": "Calo persistente"
+   },
+   {
+    "famiglia": "calo",
+    "data": "2023-11-22",
+    "testo": "Approfondire con il giocatore e lo staff: nelle ultime quattro settimane Gabriele Longo ha fatto meno alta velocità e sprint di due-tre mesi fa, negli stessi giorni prima della partita (scarto mediano: alta velocità -49%, sprint -78%).",
+    "giocatore_id": 14,
+    "giocatore": "Gabriele Longo",
+    "riassunto": true,
+    "gravita": 77.6157345464276,
+    "evidenze": [],
+    "metriche": [
+     "hsr",
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "02397a0793ba",
+    "priorita": 5,
+    "categoria": "azione",
+    "nome_famiglia": "Calo persistente"
+   },
+   {
+    "famiglia": "calo",
+    "data": "2023-11-22",
+    "testo": "Approfondire con il giocatore e lo staff: nelle ultime quattro settimane Luca Cerutti ha fatto meno alta velocità e sprint di due-tre mesi fa, negli stessi giorni prima della partita (scarto mediano: alta velocità -34%, sprint -43%).",
+    "giocatore_id": 16,
+    "giocatore": "Luca Cerutti",
+    "riassunto": true,
+    "gravita": 42.75862068965517,
+    "evidenze": [],
+    "metriche": [
+     "hsr",
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "defd66a44c24",
+    "priorita": 5,
+    "categoria": "azione",
+    "nome_famiglia": "Calo persistente"
+   },
+   {
+    "famiglia": "calo",
+    "data": "2023-11-22",
+    "testo": "Approfondire con il giocatore e lo staff: nelle ultime quattro settimane Elia Gariglio ha fatto meno alta velocità di due-tre mesi fa, negli stessi giorni prima della partita (scarto mediano: alta velocità -39%).",
+    "giocatore_id": 2,
+    "giocatore": "Elia Gariglio",
+    "riassunto": true,
+    "gravita": 39.33333333333333,
+    "evidenze": [],
+    "metriche": [
+     "hsr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "4052e85a06e1",
+    "priorita": 5,
+    "categoria": "azione",
+    "nome_famiglia": "Calo persistente"
+   },
+   {
+    "famiglia": "calo",
+    "data": "2023-11-22",
+    "testo": "Approfondire con il giocatore e lo staff: nelle ultime quattro settimane Riccardo Benedetti ha fatto meno alta velocità di due-tre mesi fa, negli stessi giorni prima della partita (scarto mediano: alta velocità -38%).",
+    "giocatore_id": 6,
+    "giocatore": "Riccardo Benedetti",
+    "riassunto": true,
+    "gravita": 38.297872340425535,
+    "evidenze": [],
+    "metriche": [
+     "hsr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "ef668fab5d48",
+    "priorita": 5,
+    "categoria": "azione",
+    "nome_famiglia": "Calo persistente"
+   }
+  ],
+  "2023-11-23": [
+   {
+    "famiglia": "velocita",
+    "data": "2023-11-23",
+    "testo": "Valutare se serve uno stimolo di velocità per cinque giocatori (Federico Santini, Filippo Rinaldi, Gabriele Longo, Mattia Bosio e Nicolò Serafini): da MD-4 a MD-2 hanno registrato poco sprint o poca alta velocità rispetto al loro solito, prima della partita del 25/11.",
+    "giocatore_id": null,
+    "giocatore": null,
+    "riassunto": false,
+    "gravita": 5.0,
+    "evidenze": [
+     "velocita/2023-11-25/13/spr",
+     "velocita/2023-11-25/13/hsr",
+     "velocita/2023-11-25/14/spr",
+     "velocita/2023-11-25/14/hsr",
+     "velocita/2023-11-25/17/spr",
+     "velocita/2023-11-25/17/hsr",
+     "velocita/2023-11-25/3/spr",
+     "velocita/2023-11-25/3/hsr",
+     "velocita/2023-11-25/7/spr",
+     "velocita/2023-11-25/7/hsr"
+    ],
+    "metriche": [
+     "hsr",
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "0576a8eaa05d",
+    "priorita": 2,
+    "categoria": "azione",
+    "nome_famiglia": "Alta velocità prima della partita"
+   },
+   {
+    "famiglia": "insolito",
+    "data": "2023-11-23",
+    "testo": "Verificare se il carico di Gabriele Longo a MD-2 era previsto: decelerazioni 97 (fascia larga 25-70).",
+    "giocatore_id": 14,
+    "giocatore": "Gabriele Longo",
+    "riassunto": false,
+    "gravita": 1.3876122355805816,
+    "evidenze": [
+     "seduta/2023-11-23/14/dcc"
+    ],
+    "metriche": [
+     "dcc"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "ff7d4d3c7905",
+    "priorita": 3,
+    "categoria": "azione",
+    "nome_famiglia": "Carico insolito"
+   },
+   {
+    "famiglia": "insolito",
+    "data": "2023-11-23",
+    "testo": "Verificare se il carico di Christian Porcu a MD-2 era previsto: decelerazioni 96 (fascia larga 25-69).",
+    "giocatore_id": 19,
+    "giocatore": "Christian Porcu",
+    "riassunto": false,
+    "gravita": 1.3846153846153848,
+    "evidenze": [
+     "seduta/2023-11-23/19/dcc"
+    ],
+    "metriche": [
+     "dcc"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "7ef1ec90ba18",
+    "priorita": 3,
+    "categoria": "azione",
+    "nome_famiglia": "Carico insolito"
+   }
+  ],
+  "2023-11-24": [],
+  "2023-11-25": [],
+  "2023-11-27": [
+   {
+    "famiglia": "calo",
+    "data": "2023-11-27",
+    "testo": "Approfondire con il giocatore e lo staff: nelle ultime quattro settimane Stefano Guidi ha fatto meno sprint di due-tre mesi fa, negli stessi giorni prima della partita (scarto mediano: sprint -65%).",
+    "giocatore_id": 8,
+    "giocatore": "Stefano Guidi",
+    "riassunto": true,
+    "gravita": 64.51612903225806,
+    "evidenze": [],
+    "metriche": [
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "8d425141f804",
+    "priorita": 5,
+    "categoria": "azione",
+    "nome_famiglia": "Calo persistente"
+   }
+  ],
+  "2023-11-29": [
+   {
+    "famiglia": "insolito",
+    "data": "2023-11-29",
+    "testo": "Verificare se il programma prevedeva questo carico: la distanza ad alta velocità (HSR) mediana registrata oggi è 308 m, contro i 174 m delle sedute storiche di MD-3.",
+    "giocatore_id": null,
+    "giocatore": null,
+    "riassunto": false,
+    "gravita": 44.90909090909091,
+    "evidenze": [
+     "settimana/2023-11-29/tutti/hsr"
+    ],
+    "metriche": [
+     "hsr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "13ad24e47bf1",
+    "priorita": 3,
+    "categoria": "azione",
+    "nome_famiglia": "Carico insolito"
+   },
+   {
+    "famiglia": "insolito",
+    "data": "2023-11-29",
+    "testo": "Verificare se la seduta di oggi (MD-3) era prevista più carica del solito: tre giocatori sono molto oltre la loro fascia larga (Filippo Rinaldi, Nicolò Serafini e Riccardo Benedetti).",
+    "giocatore_id": null,
+    "giocatore": null,
+    "riassunto": false,
+    "gravita": 3.0,
+    "evidenze": [
+     "seduta/2023-11-29/3/hsr",
+     "seduta/2023-11-29/6/hsr",
+     "seduta/2023-11-29/17/hsr"
+    ],
+    "metriche": [
+     "hsr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "c13c1891f222",
+    "priorita": 3,
+    "categoria": "azione",
+    "nome_famiglia": "Carico insolito"
+   },
+   {
+    "famiglia": "positivo",
+    "data": "2023-11-29",
+    "testo": "Da segnalare: Federico Santini è di nuovo nel suo carico abituale in distanza, alta velocità e sprint, 7 giorni dopo il rientro.",
+    "giocatore_id": 13,
+    "giocatore": "Federico Santini",
+    "riassunto": false,
+    "gravita": 0.0,
+    "evidenze": [
+     "seduta/2023-11-29/13/td",
+     "seduta/2023-11-29/13/hsr",
+     "seduta/2023-11-29/13/spr"
+    ],
+    "metriche": [
+     "td",
+     "hsr",
+     "spr"
+    ],
+    "chiude": "rientro",
+    "urgente": false,
+    "id": "d1afa1608300",
+    "priorita": 8,
+    "categoria": "informa",
+    "nome_famiglia": "Note positive"
+   },
+   {
+    "famiglia": "dato",
+    "data": "2023-11-29",
+    "testo": "Verificare il dato: Michele Valli non ha dati nelle ultime due sedute (27/11 e 29/11), dopo che c'erano nelle precedenti.",
+    "giocatore_id": 10,
+    "giocatore": "Michele Valli",
+    "riassunto": false,
+    "gravita": 0.0,
+    "evidenze": [],
+    "metriche": [],
+    "chiude": null,
+    "urgente": false,
+    "id": "252e27b433f7",
+    "priorita": 0,
+    "categoria": "dato",
+    "nome_famiglia": "Qualità del dato"
+   },
+   {
+    "famiglia": "dato",
+    "data": "2023-11-29",
+    "testo": "Verificare il dato: Andrea Melis non ha dati nelle ultime due sedute (27/11 e 29/11), dopo che c'erano nelle precedenti.",
+    "giocatore_id": 11,
+    "giocatore": "Andrea Melis",
+    "riassunto": false,
+    "gravita": 0.0,
+    "evidenze": [],
+    "metriche": [],
+    "chiude": null,
+    "urgente": false,
+    "id": "677f57e24e9e",
+    "priorita": 0,
+    "categoria": "dato",
+    "nome_famiglia": "Qualità del dato"
+   },
+   {
+    "famiglia": "dato",
+    "data": "2023-11-29",
+    "testo": "Verificare il dato: Christian Porcu non ha dati nelle ultime due sedute (27/11 e 29/11), dopo che c'erano nelle precedenti.",
+    "giocatore_id": 19,
+    "giocatore": "Christian Porcu",
+    "riassunto": false,
+    "gravita": 0.0,
+    "evidenze": [],
+    "metriche": [],
+    "chiude": null,
+    "urgente": false,
+    "id": "5c9ad279da46",
+    "priorita": 0,
+    "categoria": "dato",
+    "nome_famiglia": "Qualità del dato"
+   }
+  ],
+  "2023-11-30": [
+   {
+    "famiglia": "insolito",
+    "data": "2023-11-30",
+    "testo": "Verificare se il carico di Stefano Guidi a MD-2 era previsto: alta velocità 231 m (fascia larga 57-158 m).",
+    "giocatore_id": 8,
+    "giocatore": "Stefano Guidi",
+    "riassunto": false,
+    "gravita": 1.4633484162895927,
+    "evidenze": [
+     "seduta/2023-11-30/8/hsr"
+    ],
+    "metriche": [
+     "hsr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "c6f900f92ff4",
+    "priorita": 3,
+    "categoria": "azione",
+    "nome_famiglia": "Carico insolito"
+   },
+   {
+    "famiglia": "insolito",
+    "data": "2023-11-30",
+    "testo": "Verificare se il carico di Riccardo Benedetti a MD-2 era previsto: alta velocità 231 m (fascia larga 57-172 m).",
+    "giocatore_id": 6,
+    "giocatore": "Riccardo Benedetti",
+    "riassunto": false,
+    "gravita": 1.3396851698425836,
+    "evidenze": [
+     "seduta/2023-11-30/6/hsr"
+    ],
+    "metriche": [
+     "hsr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "870b806dd741",
+    "priorita": 3,
+    "categoria": "azione",
+    "nome_famiglia": "Carico insolito"
+   },
+   {
+    "famiglia": "rientro",
+    "data": "2023-11-30",
+    "testo": "Simone Amato è tornato dopo 42 giorni senza dati (23 sedute): oggi ha fatto l'85% della sua distanza abituale per MD-2. Vice non sa perché mancava.",
+    "giocatore_id": 20,
+    "giocatore": "Simone Amato",
+    "riassunto": false,
+    "gravita": 23.0,
+    "evidenze": [
+     "seduta/2023-11-30/20/td"
+    ],
+    "metriche": [
+     "td"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "15add4cb51a1",
+    "priorita": 6,
+    "categoria": "informa",
+    "nome_famiglia": "Rientro dopo un'assenza"
+   }
+  ],
+  "2023-12-01": [
+   {
+    "famiglia": "insolito",
+    "data": "2023-12-01",
+    "testo": "Verificare se la seduta di oggi (MD-1) era prevista più carica del solito: tre giocatori sono molto oltre la loro fascia larga (Matteo Basile, Samuele Pinna e Simone Amato).",
+    "giocatore_id": null,
+    "giocatore": null,
+    "riassunto": false,
+    "gravita": 3.0,
+    "evidenze": [
+     "seduta/2023-12-01/5/dcc",
+     "seduta/2023-12-01/18/spr",
+     "seduta/2023-12-01/20/hsr"
+    ],
+    "metriche": [
+     "hsr",
+     "spr",
+     "dcc"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "7608c815685b",
+    "priorita": 3,
+    "categoria": "azione",
+    "nome_famiglia": "Carico insolito"
+   },
+   {
+    "famiglia": "positivo",
+    "data": "2023-12-01",
+    "testo": "Da segnalare: Simone Amato è di nuovo nel suo carico abituale in distanza, alta velocità e sprint, 1 giorni dopo il rientro.",
+    "giocatore_id": 20,
+    "giocatore": "Simone Amato",
+    "riassunto": false,
+    "gravita": 0.0,
+    "evidenze": [
+     "seduta/2023-12-01/20/td",
+     "seduta/2023-12-01/20/hsr",
+     "seduta/2023-12-01/20/spr"
+    ],
+    "metriche": [
+     "td",
+     "hsr",
+     "spr"
+    ],
+    "chiude": "rientro",
+    "urgente": false,
+    "id": "0b9b9b980458",
+    "priorita": 8,
+    "categoria": "informa",
+    "nome_famiglia": "Note positive"
+   }
+  ],
+  "2023-12-16": [],
+  "2023-12-18": [
+   {
+    "famiglia": "insolito",
+    "data": "2023-12-18",
+    "testo": "Verificare il carico postpartita registrato oggi per Luca Cerutti: 3.330 m di distanza totale a MD+2, oltre la fascia storica dei titolari (fino a 3.180 m). Il dato non misura lo stato di recupero.",
+    "giocatore_id": 16,
+    "giocatore": "Luca Cerutti",
+    "riassunto": false,
+    "gravita": 92.10084033613445,
+    "evidenze": [
+     "seduta/2023-12-18/16/td"
+    ],
+    "metriche": [
+     "td"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "f098e09ee998",
+    "priorita": 3,
+    "categoria": "azione",
+    "nome_famiglia": "Carico insolito"
+   },
+   {
+    "famiglia": "rientro",
+    "data": "2023-12-18",
+    "testo": "Andrea Melis è tornato dopo 24 giorni senza dati (quattro sedute). Vice non sa perché mancava.",
+    "giocatore_id": 11,
+    "giocatore": "Andrea Melis",
+    "riassunto": false,
+    "gravita": 4.0,
+    "evidenze": [
+     "seduta/2023-12-18/11/td"
+    ],
+    "metriche": [
+     "td"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "77d007c5fb5b",
+    "priorita": 6,
+    "categoria": "informa",
+    "nome_famiglia": "Rientro dopo un'assenza"
+   },
+   {
+    "famiglia": "calo",
+    "data": "2023-12-18",
+    "testo": "Approfondire con il giocatore e lo staff: nelle ultime quattro settimane Gabriele Longo ha fatto meno sprint di due-tre mesi fa, negli stessi giorni prima della partita (scarto mediano: sprint -39%).",
+    "giocatore_id": 14,
+    "giocatore": "Gabriele Longo",
+    "riassunto": true,
+    "gravita": 38.57142857142858,
+    "evidenze": [],
+    "metriche": [
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "51d52b6fbd04",
+    "priorita": 5,
+    "categoria": "azione",
+    "nome_famiglia": "Calo persistente"
+   },
+   {
+    "famiglia": "calo",
+    "data": "2023-12-18",
+    "testo": "Approfondire con il giocatore e lo staff: nelle ultime quattro settimane Samuele Pinna ha fatto meno sprint di due-tre mesi fa, negli stessi giorni prima della partita (scarto mediano: sprint -37%).",
+    "giocatore_id": 5,
+    "giocatore": "Samuele Pinna",
+    "riassunto": true,
+    "gravita": 37.09305466104336,
+    "evidenze": [],
+    "metriche": [
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "b65d3f9f81d8",
+    "priorita": 5,
+    "categoria": "azione",
+    "nome_famiglia": "Calo persistente"
+   },
+   {
+    "famiglia": "calo",
+    "data": "2023-12-18",
+    "testo": "Approfondire con il giocatore e lo staff: nelle ultime quattro settimane Elia Gariglio ha fatto meno sprint di due-tre mesi fa, negli stessi giorni prima della partita (scarto mediano: sprint -25%).",
+    "giocatore_id": 2,
+    "giocatore": "Elia Gariglio",
+    "riassunto": true,
+    "gravita": 25.423728813559322,
+    "evidenze": [],
+    "metriche": [
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "3e7c7352a34e",
+    "priorita": 5,
+    "categoria": "azione",
+    "nome_famiglia": "Calo persistente"
+   },
+   {
+    "famiglia": "positivo",
+    "data": "2023-12-18",
+    "testo": "Da segnalare: in partita Tommaso Ferrandi è sopra il suo solito di alta velocità da due gare di fila da titolare (639 m e 554 m; di solito fino a 487 m). Il contesto della partita conta: non è un giudizio di rendimento.",
+    "giocatore_id": 1,
+    "giocatore": "Tommaso Ferrandi",
+    "riassunto": true,
+    "gravita": 0.0,
+    "evidenze": [],
+    "metriche": [
+     "hsr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "86d017851eb5",
+    "priorita": 8,
+    "categoria": "informa",
+    "nome_famiglia": "Note positive"
+   }
+  ],
+  "2024-01-02": [
+   {
+    "famiglia": "dato",
+    "data": "2024-01-02",
+    "testo": "Verificare il dato: Lorenzo Cortese non ha dati nelle ultime due sedute (18/12 e 02/01), dopo che c'erano nelle precedenti.",
+    "giocatore_id": 9,
+    "giocatore": "Lorenzo Cortese",
+    "riassunto": false,
+    "gravita": 0.0,
+    "evidenze": [],
+    "metriche": [],
+    "chiude": null,
+    "urgente": false,
+    "id": "cc7e89e4711e",
+    "priorita": 0,
+    "categoria": "dato",
+    "nome_famiglia": "Qualità del dato"
+   }
+  ],
+  "2024-01-03": [],
+  "2024-01-04": [],
+  "2024-01-06": [
+   {
+    "famiglia": "insolito",
+    "data": "2024-01-06",
+    "testo": "Verificare se la seduta di oggi (MD-1) era prevista più carica del solito: quattro giocatori sono molto oltre la loro fascia larga (Andrea Melis, Mattia Bosio, Nicolò Serafini e Simone Amato).",
+    "giocatore_id": null,
+    "giocatore": null,
+    "riassunto": false,
+    "gravita": 4.0,
+    "evidenze": [
+     "seduta/2024-01-06/3/hsr",
+     "seduta/2024-01-06/3/spr",
+     "seduta/2024-01-06/3/dcc",
+     "seduta/2024-01-06/7/hsr",
+     "seduta/2024-01-06/7/spr",
+     "seduta/2024-01-06/11/dcc",
+     "seduta/2024-01-06/20/hsr"
+    ],
+    "metriche": [
+     "hsr",
+     "spr",
+     "dcc"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "85f0f2d5103b",
+    "priorita": 3,
+    "categoria": "azione",
+    "nome_famiglia": "Carico insolito"
+   }
+  ],
+  "2024-01-07": [],
+  "2024-01-08": [
+   {
+    "famiglia": "rientro",
+    "data": "2024-01-08",
+    "testo": "Lorenzo Cortese è tornato dopo 38 giorni senza dati (cinque sedute). Vice non sa perché mancava.",
+    "giocatore_id": 9,
+    "giocatore": "Lorenzo Cortese",
+    "riassunto": false,
+    "gravita": 5.0,
+    "evidenze": [
+     "seduta/2024-01-08/9/td"
+    ],
+    "metriche": [
+     "td"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "4248eb24d8c0",
+    "priorita": 6,
+    "categoria": "informa",
+    "nome_famiglia": "Rientro dopo un'assenza"
+   },
+   {
+    "famiglia": "calo",
+    "data": "2024-01-08",
+    "testo": "Approfondire con il giocatore e lo staff: nelle ultime quattro settimane Pietro Ghio ha fatto meno sprint di due-tre mesi fa, negli stessi giorni prima della partita (scarto mediano: sprint -100%).",
+    "giocatore_id": 12,
+    "giocatore": "Pietro Ghio",
+    "riassunto": true,
+    "gravita": 100.0,
+    "evidenze": [],
+    "metriche": [
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "b17b169b1949",
+    "priorita": 5,
+    "categoria": "azione",
+    "nome_famiglia": "Calo persistente"
+   },
+   {
+    "famiglia": "calo",
+    "data": "2024-01-08",
+    "testo": "Approfondire con il giocatore e lo staff: nelle ultime quattro settimane Luca Cerutti ha fatto meno alta velocità e sprint di due-tre mesi fa, negli stessi giorni prima della partita (scarto mediano: alta velocità -62%, sprint -81%).",
+    "giocatore_id": 16,
+    "giocatore": "Luca Cerutti",
+    "riassunto": true,
+    "gravita": 81.4814814814815,
+    "evidenze": [],
+    "metriche": [
+     "hsr",
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "dda4f882d8bf",
+    "priorita": 5,
+    "categoria": "azione",
+    "nome_famiglia": "Calo persistente"
+   },
+   {
+    "famiglia": "calo",
+    "data": "2024-01-08",
+    "testo": "Approfondire con il giocatore e lo staff: nelle ultime quattro settimane Alessio Dalmasso ha fatto meno alta velocità e sprint di due-tre mesi fa, negli stessi giorni prima della partita (scarto mediano: alta velocità -62%, sprint -71%).",
+    "giocatore_id": 4,
+    "giocatore": "Alessio Dalmasso",
+    "riassunto": true,
+    "gravita": 71.42857142857143,
+    "evidenze": [],
+    "metriche": [
+     "hsr",
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "04b9d9285e33",
+    "priorita": 5,
+    "categoria": "azione",
+    "nome_famiglia": "Calo persistente"
+   },
+   {
+    "famiglia": "calo",
+    "data": "2024-01-08",
+    "testo": "Approfondire con il giocatore e lo staff: nelle ultime quattro settimane Riccardo Benedetti ha fatto meno sprint di due-tre mesi fa, negli stessi giorni prima della partita (scarto mediano: sprint -63%).",
+    "giocatore_id": 6,
+    "giocatore": "Riccardo Benedetti",
+    "riassunto": true,
+    "gravita": 63.15789473684211,
+    "evidenze": [],
+    "metriche": [
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "511809184dfc",
+    "priorita": 5,
+    "categoria": "azione",
+    "nome_famiglia": "Calo persistente"
+   },
+   {
+    "famiglia": "calo",
+    "data": "2024-01-08",
+    "testo": "Approfondire con il giocatore e lo staff: nelle ultime quattro settimane Edoardo Tosi ha fatto meno alta velocità e sprint di due-tre mesi fa, negli stessi giorni prima della partita (scarto mediano: alta velocità -49%, sprint -55%).",
+    "giocatore_id": 15,
+    "giocatore": "Edoardo Tosi",
+    "riassunto": true,
+    "gravita": 54.93562231759657,
+    "evidenze": [],
+    "metriche": [
+     "hsr",
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "06c32f39feca",
+    "priorita": 5,
+    "categoria": "azione",
+    "nome_famiglia": "Calo persistente"
+   }
+  ],
+  "2024-01-10": [
+   {
+    "famiglia": "insolito",
+    "data": "2024-01-10",
+    "testo": "Verificare se il programma prevedeva questo carico: la distanza totale mediana registrata oggi è 4.511 m, contro i 5.573 m delle sedute storiche di MD-3.",
+    "giocatore_id": null,
+    "giocatore": null,
+    "riassunto": false,
+    "gravita": 44.49367088607595,
+    "evidenze": [
+     "settimana/2024-01-10/tutti/td"
+    ],
+    "metriche": [
+     "td"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "c093567a4896",
+    "priorita": 3,
+    "categoria": "azione",
+    "nome_famiglia": "Carico insolito"
+   }
+  ],
+  "2024-01-11": [
+   {
+    "famiglia": "insolito",
+    "data": "2024-01-11",
+    "testo": "Verificare se il carico di Pietro Ghio a MD-2 era previsto: decelerazioni 67 (fascia larga 34-53).",
+    "giocatore_id": 12,
+    "giocatore": "Pietro Ghio",
+    "riassunto": false,
+    "gravita": 1.2699917071437032,
+    "evidenze": [
+     "seduta/2024-01-11/12/dcc"
+    ],
+    "metriche": [
+     "dcc"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "3ecb2b899ba1",
+    "priorita": 3,
+    "categoria": "azione",
+    "nome_famiglia": "Carico insolito"
+   }
+  ],
+  "2024-01-12": [],
+  "2024-01-13": [],
+  "2024-01-14": [
+   {
+    "famiglia": "calo",
+    "data": "2024-01-14",
+    "testo": "Approfondire con il giocatore e lo staff: nelle ultime quattro settimane Samuele Pinna ha fatto meno sprint di due-tre mesi fa, negli stessi giorni prima della partita (scarto mediano: sprint -27%).",
+    "giocatore_id": 5,
+    "giocatore": "Samuele Pinna",
+    "riassunto": true,
+    "gravita": 26.66666666666667,
+    "evidenze": [],
+    "metriche": [
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "4fe2e5051c73",
+    "priorita": 5,
+    "categoria": "azione",
+    "nome_famiglia": "Calo persistente"
+   }
+  ],
+  "2024-01-16": [
+   {
+    "famiglia": "rientro",
+    "data": "2024-01-16",
+    "testo": "Christian Porcu è tornato dopo 53 giorni senza dati (14 sedute). Vice non sa perché mancava.",
+    "giocatore_id": 19,
+    "giocatore": "Christian Porcu",
+    "riassunto": false,
+    "gravita": 14.0,
+    "evidenze": [
+     "seduta/2024-01-16/19/td"
+    ],
+    "metriche": [
+     "td"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "baa14416702c",
+    "priorita": 6,
+    "categoria": "informa",
+    "nome_famiglia": "Rientro dopo un'assenza"
+   }
+  ],
+  "2024-01-17": [],
+  "2024-01-18": [
+   {
+    "famiglia": "insolito",
+    "data": "2024-01-18",
+    "testo": "Verificare se il carico di Samuele Pinna a MD-3 era previsto: alta velocità 548 m (fascia larga 139-432 m).",
+    "giocatore_id": 5,
+    "giocatore": "Samuele Pinna",
+    "riassunto": false,
+    "gravita": 1.268559877408627,
+    "evidenze": [
+     "seduta/2024-01-18/5/hsr"
+    ],
+    "metriche": [
+     "hsr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "8742d5f5e082",
+    "priorita": 3,
+    "categoria": "azione",
+    "nome_famiglia": "Carico insolito"
+   }
+  ],
+  "2024-01-20": [
+   {
+    "famiglia": "settimana",
+    "data": "2024-01-20",
+    "testo": "Valutare se c'è margine per Tommaso Ferrandi: finora gli allenamenti valgono in alta velocità l'81% della sua partita, contro una mediana di squadra del 151%; di solito, a questo punto della settimana, gli sta più vicino.",
+    "giocatore_id": 1,
+    "giocatore": "Tommaso Ferrandi",
+    "riassunto": false,
+    "gravita": 1.3080660496561267,
+    "evidenze": [
+     "partita/2024-01-20/1/hsr/settimana"
+    ],
+    "metriche": [
+     "hsr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "c6063b4e9c23",
+    "priorita": 4,
+    "categoria": "azione",
+    "nome_famiglia": "Settimana sopra o sotto il solito"
+   },
+   {
+    "famiglia": "positivo",
+    "data": "2024-01-20",
+    "testo": "Da segnalare: Christian Porcu è di nuovo nel suo carico abituale in distanza, alta velocità e sprint, 4 giorni dopo il rientro.",
+    "giocatore_id": 19,
+    "giocatore": "Christian Porcu",
+    "riassunto": false,
+    "gravita": 0.0,
+    "evidenze": [
+     "seduta/2024-01-20/19/td",
+     "seduta/2024-01-20/19/hsr",
+     "seduta/2024-01-20/19/spr"
+    ],
+    "metriche": [
+     "td",
+     "hsr",
+     "spr"
+    ],
+    "chiude": "rientro",
+    "urgente": false,
+    "id": "f5fa1e6f0449",
+    "priorita": 8,
+    "categoria": "informa",
+    "nome_famiglia": "Note positive"
+   }
+  ],
+  "2024-01-21": [],
+  "2024-01-22": [
+   {
+    "famiglia": "calo",
+    "data": "2024-01-22",
+    "testo": "Approfondire con il giocatore e lo staff: nelle ultime quattro settimane Lorenzo Cortese ha fatto meno sprint di due-tre mesi fa, negli stessi giorni prima della partita (scarto mediano: sprint -41%).",
+    "giocatore_id": 9,
+    "giocatore": "Lorenzo Cortese",
+    "riassunto": true,
+    "gravita": 40.625,
+    "evidenze": [],
+    "metriche": [
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "2a63bf233e96",
+    "priorita": 5,
+    "categoria": "azione",
+    "nome_famiglia": "Calo persistente"
+   },
+   {
+    "famiglia": "calo",
+    "data": "2024-01-22",
+    "testo": "Approfondire con il giocatore e lo staff: nelle ultime quattro settimane Tommaso Ferrandi ha fatto meno alta velocità e sprint di due-tre mesi fa, negli stessi giorni prima della partita (scarto mediano: alta velocità -26%, sprint -26%).",
+    "giocatore_id": 1,
+    "giocatore": "Tommaso Ferrandi",
+    "riassunto": true,
+    "gravita": 26.409495548961427,
+    "evidenze": [],
+    "metriche": [
+     "hsr",
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "422bac9dcb10",
+    "priorita": 5,
+    "categoria": "azione",
+    "nome_famiglia": "Calo persistente"
+   },
+   {
+    "famiglia": "calo",
+    "data": "2024-01-22",
+    "testo": "Approfondire con il giocatore e lo staff: nelle ultime quattro settimane Luca Cerutti ha fatto meno sprint di due-tre mesi fa, negli stessi giorni prima della partita (scarto mediano: sprint -25%).",
+    "giocatore_id": 16,
+    "giocatore": "Luca Cerutti",
+    "riassunto": true,
+    "gravita": 25.229357798165143,
+    "evidenze": [],
+    "metriche": [
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "61e1f443990a",
+    "priorita": 5,
+    "categoria": "azione",
+    "nome_famiglia": "Calo persistente"
+   }
+  ],
+  "2024-01-24": [
+   {
+    "famiglia": "positivo",
+    "data": "2024-01-24",
+    "testo": "Da segnalare: Lorenzo Cortese è di nuovo nel suo carico abituale in distanza, alta velocità e sprint, 16 giorni dopo il rientro.",
+    "giocatore_id": 9,
+    "giocatore": "Lorenzo Cortese",
+    "riassunto": false,
+    "gravita": 0.0,
+    "evidenze": [
+     "seduta/2024-01-24/9/td",
+     "seduta/2024-01-24/9/hsr",
+     "seduta/2024-01-24/9/spr"
+    ],
+    "metriche": [
+     "td",
+     "hsr",
+     "spr"
+    ],
+    "chiude": "rientro",
+    "urgente": false,
+    "id": "ee6eda1171a8",
+    "priorita": 8,
+    "categoria": "informa",
+    "nome_famiglia": "Note positive"
+   },
+   {
+    "famiglia": "dato",
+    "data": "2024-01-24",
+    "testo": "Verificare il dato: Mattia Bosio non ha dati nelle ultime due sedute (22/01 e 24/01), dopo che c'erano nelle precedenti.",
+    "giocatore_id": 7,
+    "giocatore": "Mattia Bosio",
+    "riassunto": false,
+    "gravita": 0.0,
+    "evidenze": [],
+    "metriche": [],
+    "chiude": null,
+    "urgente": false,
+    "id": "436d4a32f118",
+    "priorita": 0,
+    "categoria": "dato",
+    "nome_famiglia": "Qualità del dato"
+   },
+   {
+    "famiglia": "dato",
+    "data": "2024-01-24",
+    "testo": "Verificare il dato: Andrea Melis non ha dati nelle ultime due sedute (22/01 e 24/01), dopo che c'erano nelle precedenti.",
+    "giocatore_id": 11,
+    "giocatore": "Andrea Melis",
+    "riassunto": false,
+    "gravita": 0.0,
+    "evidenze": [],
+    "metriche": [],
+    "chiude": null,
+    "urgente": false,
+    "id": "4810e9be4cce",
+    "priorita": 0,
+    "categoria": "dato",
+    "nome_famiglia": "Qualità del dato"
+   }
+  ],
+  "2024-01-25": [
+   {
+    "famiglia": "insolito",
+    "data": "2024-01-25",
+    "testo": "Verificare se il programma prevedeva questo carico: la distanza totale mediana registrata oggi è 6.836 m, contro i 5.202 m delle sedute storiche di MD-2.",
+    "giocatore_id": null,
+    "giocatore": null,
+    "riassunto": false,
+    "gravita": 50.0,
+    "evidenze": [
+     "settimana/2024-01-25/tutti/td"
+    ],
+    "metriche": [
+     "td"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "72d5967b1ef7",
+    "priorita": 3,
+    "categoria": "azione",
+    "nome_famiglia": "Carico insolito"
+   },
+   {
+    "famiglia": "insolito",
+    "data": "2024-01-25",
+    "testo": "Verificare se il programma prevedeva questo carico: la distanza ad alta velocità (HSR) mediana registrata oggi è 396 m, contro i 163 m delle sedute storiche di MD-2.",
+    "giocatore_id": null,
+    "giocatore": null,
+    "riassunto": false,
+    "gravita": 50.0,
+    "evidenze": [
+     "settimana/2024-01-25/tutti/hsr"
+    ],
+    "metriche": [
+     "hsr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "69ec8585168c",
+    "priorita": 3,
+    "categoria": "azione",
+    "nome_famiglia": "Carico insolito"
+   },
+   {
+    "famiglia": "insolito",
+    "data": "2024-01-25",
+    "testo": "Verificare se la seduta di oggi (MD-2) era prevista più carica del solito: dieci giocatori sono molto oltre la loro fascia larga (Alessio Dalmasso, Christian Porcu, Federico Santini, Gabriele Longo, Matteo Basile, Pietro Ghio, Riccardo Benedetti, Samuele Pinna, Simone Amato e Stefano Guidi).",
+    "giocatore_id": null,
+    "giocatore": null,
+    "riassunto": false,
+    "gravita": 10.0,
+    "evidenze": [
+     "seduta/2024-01-25/4/hsr",
+     "seduta/2024-01-25/4/spr",
+     "seduta/2024-01-25/5/hsr",
+     "seduta/2024-01-25/5/dcc",
+     "seduta/2024-01-25/6/spr",
+     "seduta/2024-01-25/8/hsr",
+     "seduta/2024-01-25/8/spr",
+     "seduta/2024-01-25/12/hsr",
+     "seduta/2024-01-25/13/hsr",
+     "seduta/2024-01-25/13/spr",
+     "seduta/2024-01-25/14/td",
+     "seduta/2024-01-25/18/hsr",
+     "seduta/2024-01-25/19/spr",
+     "seduta/2024-01-25/20/hsr"
+    ],
+    "metriche": [
+     "td",
+     "hsr",
+     "spr",
+     "dcc"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "bf3749c743d2",
+    "priorita": 3,
+    "categoria": "azione",
+    "nome_famiglia": "Carico insolito"
+   }
+  ],
+  "2024-01-26": [
+   {
+    "famiglia": "insolito",
+    "data": "2024-01-26",
+    "testo": "Verificare se il programma prevedeva questo carico: la distanza ad alta velocità (HSR) mediana registrata oggi è 136 m, contro i 40 m delle sedute storiche di MD-1.",
+    "giocatore_id": null,
+    "giocatore": null,
+    "riassunto": false,
+    "gravita": 50.0,
+    "evidenze": [
+     "settimana/2024-01-26/tutti/hsr"
+    ],
+    "metriche": [
+     "hsr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "4cc72173e911",
+    "priorita": 3,
+    "categoria": "azione",
+    "nome_famiglia": "Carico insolito"
+   },
+   {
+    "famiglia": "insolito",
+    "data": "2024-01-26",
+    "testo": "Verificare se la seduta di oggi (MD-1) era prevista più carica del solito: sei giocatori sono molto oltre la loro fascia larga (Federico Santini, Lorenzo Cortese, Pietro Ghio, Riccardo Benedetti, Simone Amato e Stefano Guidi).",
+    "giocatore_id": null,
+    "giocatore": null,
+    "riassunto": false,
+    "gravita": 6.0,
+    "evidenze": [
+     "seduta/2024-01-26/6/hsr",
+     "seduta/2024-01-26/6/spr",
+     "seduta/2024-01-26/8/hsr",
+     "seduta/2024-01-26/9/hsr",
+     "seduta/2024-01-26/12/hsr",
+     "seduta/2024-01-26/13/hsr",
+     "seduta/2024-01-26/20/hsr"
+    ],
+    "metriche": [
+     "hsr",
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "36a2c9f07f3e",
+    "priorita": 3,
+    "categoria": "azione",
+    "nome_famiglia": "Carico insolito"
+   },
+   {
+    "famiglia": "positivo",
+    "data": "2024-01-26",
+    "testo": "Da segnalare: prima della partita del 27/01 tutti i 17 giocatori valutati hanno avuto la loro alta velocità solita da MD-4 a MD-2.",
+    "giocatore_id": null,
+    "giocatore": null,
+    "riassunto": false,
+    "gravita": 0.0,
+    "evidenze": [],
+    "metriche": [
+     "hsr",
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "139b22d191a7",
+    "priorita": 8,
+    "categoria": "informa",
+    "nome_famiglia": "Note positive"
+   }
+  ],
+  "2024-01-27": [],
+  "2024-01-29": [
+   {
+    "famiglia": "richiamo",
+    "data": "2024-01-29",
+    "testo": "Valutare se serve un richiamo per Federico Santini: non è partito titolare il 27/01/2024 e nelle sedute postpartita registrate ha fatto 0 m di HSR, sotto la sua fascia storica (129-357 m); della partita non ci sono dati.",
+    "giocatore_id": 13,
+    "giocatore": "Federico Santini",
+    "riassunto": false,
+    "gravita": 1.0,
+    "evidenze": [
+     "compensazione/2024-01-27/13/hsr"
+    ],
+    "metriche": [
+     "hsr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "30bfac4d86a5",
+    "priorita": 1,
+    "categoria": "azione",
+    "nome_famiglia": "Richiamo dopo la partita"
+   },
+   {
+    "famiglia": "richiamo",
+    "data": "2024-01-29",
+    "testo": "Valutare se serve un richiamo per Filippo Rinaldi: non è partito titolare il 27/01/2024 e nelle sedute postpartita registrate ha fatto 2 m di HSR, sotto la sua fascia storica (129-357 m); della partita non ci sono dati.",
+    "giocatore_id": 17,
+    "giocatore": "Filippo Rinaldi",
+    "riassunto": false,
+    "gravita": 0.989501312335958,
+    "evidenze": [
+     "compensazione/2024-01-27/17/hsr"
+    ],
+    "metriche": [
+     "hsr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "24bff7eb4382",
+    "priorita": 1,
+    "categoria": "azione",
+    "nome_famiglia": "Richiamo dopo la partita"
+   },
+   {
+    "famiglia": "insolito",
+    "data": "2024-01-29",
+    "testo": "Verificare il carico postpartita registrato oggi per Tommaso Ferrandi: 43 m di distanza ad alta velocità (HSR) a MD+2, oltre la fascia storica dei titolari (fino a 26 m). Il dato non misura lo stato di recupero.",
+    "giocatore_id": 1,
+    "giocatore": "Tommaso Ferrandi",
+    "riassunto": false,
+    "gravita": 100.0,
+    "evidenze": [
+     "seduta/2024-01-29/1/hsr"
+    ],
+    "metriche": [
+     "hsr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "8ef060885c71",
+    "priorita": 3,
+    "categoria": "azione",
+    "nome_famiglia": "Carico insolito"
+   },
+   {
+    "famiglia": "calo",
+    "data": "2024-01-29",
+    "testo": "Approfondire con il giocatore e lo staff: nelle ultime quattro settimane Pietro Ghio ha fatto meno sprint di due-tre mesi fa, negli stessi giorni prima della partita (scarto mediano: sprint -39%).",
+    "giocatore_id": 12,
+    "giocatore": "Pietro Ghio",
+    "riassunto": true,
+    "gravita": 39.39393939393939,
+    "evidenze": [],
+    "metriche": [
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "8fef56d8255b",
+    "priorita": 5,
+    "categoria": "azione",
+    "nome_famiglia": "Calo persistente"
+   },
+   {
+    "famiglia": "calo",
+    "data": "2024-01-29",
+    "testo": "Approfondire con il giocatore e lo staff: nelle ultime quattro settimane Matteo Basile ha fatto meno alta velocità di due-tre mesi fa, negli stessi giorni prima della partita (scarto mediano: alta velocità -36%).",
+    "giocatore_id": 18,
+    "giocatore": "Matteo Basile",
+    "riassunto": true,
+    "gravita": 36.345776031434184,
+    "evidenze": [],
+    "metriche": [
+     "hsr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "fe45984ddcb9",
+    "priorita": 5,
+    "categoria": "azione",
+    "nome_famiglia": "Calo persistente"
+   },
+   {
+    "famiglia": "reparto",
+    "data": "2024-01-29",
+    "testo": "Verificare se le esercitazioni espongono Simone Amato allo sprint quanto gli altri attaccanti: nelle ultime quattro sedute condivise ha fatto meno di tutti in tre su quattro.",
+    "giocatore_id": 20,
+    "giocatore": "Simone Amato",
+    "riassunto": true,
+    "gravita": 0.75,
+    "evidenze": [],
+    "metriche": [
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "a2347e427900",
+    "priorita": 7,
+    "categoria": "azione",
+    "nome_famiglia": "Scarto di reparto"
+   }
+  ],
+  "2024-01-31": [
+   {
+    "famiglia": "rientro",
+    "data": "2024-01-31",
+    "testo": "Andrea Melis è tornato dopo 11 giorni senza dati (cinque sedute): oggi ha fatto il 102% della sua distanza abituale per MD-3. Vice non sa perché mancava.",
+    "giocatore_id": 11,
+    "giocatore": "Andrea Melis",
+    "riassunto": false,
+    "gravita": 5.0,
+    "evidenze": [
+     "seduta/2024-01-31/11/td"
+    ],
+    "metriche": [
+     "td"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "e119d3150271",
+    "priorita": 6,
+    "categoria": "informa",
+    "nome_famiglia": "Rientro dopo un'assenza"
+   },
+   {
+    "famiglia": "dato",
+    "data": "2024-01-31",
+    "testo": "Verificare il dato: Gabriele Longo non ha dati nelle ultime due sedute (29/01 e 31/01), dopo che c'erano nelle precedenti.",
+    "giocatore_id": 14,
+    "giocatore": "Gabriele Longo",
+    "riassunto": false,
+    "gravita": 0.0,
+    "evidenze": [],
+    "metriche": [],
+    "chiude": null,
+    "urgente": false,
+    "id": "87a460250b62",
+    "priorita": 0,
+    "categoria": "dato",
+    "nome_famiglia": "Qualità del dato"
+   }
+  ],
+  "2024-02-01": [
+   {
+    "famiglia": "velocita",
+    "data": "2024-02-01",
+    "testo": "Valutare se serve uno stimolo di velocità per Pietro Ghio: da MD-4 a MD-2 ha registrato 7 m di sprint e 312 m di HSR, contro un riferimento di 31 m e 229 m per quei giorni, prima della partita del 03/02/2024.",
+    "giocatore_id": 12,
+    "giocatore": "Pietro Ghio",
+    "riassunto": false,
+    "gravita": 0.7734104046242775,
+    "evidenze": [
+     "velocita/2024-02-03/12/spr",
+     "velocita/2024-02-03/12/hsr"
+    ],
+    "metriche": [
+     "hsr",
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "2a0ca5ceff5d",
+    "priorita": 2,
+    "categoria": "azione",
+    "nome_famiglia": "Alta velocità prima della partita"
+   },
+   {
+    "famiglia": "settimana",
+    "data": "2024-02-01",
+    "testo": "Verificare se per Riccardo Benedetti era prevista una settimana più carica di quella dei compagni: finora gli allenamenti valgono in alta velocità il 318% della sua partita, contro una mediana di squadra del 108%; di solito, a questo punto della settimana, gli sta più vicino.",
+    "giocatore_id": 6,
+    "giocatore": "Riccardo Benedetti",
+    "riassunto": false,
+    "gravita": 1.4483143636863072,
+    "evidenze": [
+     "partita/2024-02-01/6/hsr/settimana"
+    ],
+    "metriche": [
+     "hsr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "1d0b5188f2d1",
+    "priorita": 4,
+    "categoria": "azione",
+    "nome_famiglia": "Settimana sopra o sotto il solito"
+   },
+   {
+    "famiglia": "positivo",
+    "data": "2024-02-01",
+    "testo": "Da segnalare: Andrea Melis è di nuovo nel suo carico abituale in distanza, alta velocità e sprint, 1 giorni dopo il rientro.",
+    "giocatore_id": 11,
+    "giocatore": "Andrea Melis",
+    "riassunto": false,
+    "gravita": 0.0,
+    "evidenze": [
+     "seduta/2024-02-01/11/td",
+     "seduta/2024-02-01/11/hsr",
+     "seduta/2024-02-01/11/spr"
+    ],
+    "metriche": [
+     "td",
+     "hsr",
+     "spr"
+    ],
+    "chiude": "rientro",
+    "urgente": false,
+    "id": "926093090db0",
+    "priorita": 8,
+    "categoria": "informa",
+    "nome_famiglia": "Note positive"
+   }
+  ],
+  "2024-02-02": [],
+  "2024-02-03": [],
+  "2024-02-06": [
+   {
+    "famiglia": "rientro",
+    "data": "2024-02-06",
+    "testo": "Gabriele Longo è tornato dopo 11 giorni senza dati (quattro sedute). Vice non sa perché mancava.",
+    "giocatore_id": 14,
+    "giocatore": "Gabriele Longo",
+    "riassunto": false,
+    "gravita": 4.0,
+    "evidenze": [
+     "seduta/2024-02-06/14/td"
+    ],
+    "metriche": [
+     "td"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "280e54183204",
+    "priorita": 6,
+    "categoria": "informa",
+    "nome_famiglia": "Rientro dopo un'assenza"
+   },
+   {
+    "famiglia": "calo",
+    "data": "2024-02-06",
+    "testo": "Approfondire con il giocatore e lo staff: nelle ultime quattro settimane Filippo Rinaldi ha fatto meno sprint di due-tre mesi fa, negli stessi giorni prima della partita (scarto mediano: sprint -66%).",
+    "giocatore_id": 17,
+    "giocatore": "Filippo Rinaldi",
+    "riassunto": true,
+    "gravita": 66.34615384615384,
+    "evidenze": [],
+    "metriche": [
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "ff70aec938de",
+    "priorita": 5,
+    "categoria": "azione",
+    "nome_famiglia": "Calo persistente"
+   },
+   {
+    "famiglia": "calo",
+    "data": "2024-02-06",
+    "testo": "Approfondire con il giocatore e lo staff: nelle ultime quattro settimane Federico Santini ha fatto meno sprint di due-tre mesi fa, negli stessi giorni prima della partita (scarto mediano: sprint -42%).",
+    "giocatore_id": 13,
+    "giocatore": "Federico Santini",
+    "riassunto": true,
+    "gravita": 42.22222222222223,
+    "evidenze": [],
+    "metriche": [
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "7bb5c32ba7af",
+    "priorita": 5,
+    "categoria": "azione",
+    "nome_famiglia": "Calo persistente"
+   },
+   {
+    "famiglia": "calo",
+    "data": "2024-02-06",
+    "testo": "Approfondire con il giocatore e lo staff: nelle ultime quattro settimane Edoardo Tosi ha fatto meno sprint di due-tre mesi fa, negli stessi giorni prima della partita (scarto mediano: sprint -34%).",
+    "giocatore_id": 15,
+    "giocatore": "Edoardo Tosi",
+    "riassunto": true,
+    "gravita": 34.48717948717949,
+    "evidenze": [],
+    "metriche": [
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "38c8f1247578",
+    "priorita": 5,
+    "categoria": "azione",
+    "nome_famiglia": "Calo persistente"
+   },
+   {
+    "famiglia": "calo",
+    "data": "2024-02-06",
+    "testo": "Approfondire con il giocatore e lo staff: nelle ultime quattro settimane Nicolò Serafini ha fatto meno alta velocità di due-tre mesi fa, negli stessi giorni prima della partita (scarto mediano: alta velocità -27%).",
+    "giocatore_id": 3,
+    "giocatore": "Nicolò Serafini",
+    "riassunto": true,
+    "gravita": 27.226890756302524,
+    "evidenze": [],
+    "metriche": [
+     "hsr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "adb08958541b",
+    "priorita": 5,
+    "categoria": "azione",
+    "nome_famiglia": "Calo persistente"
+   }
+  ],
+  "2024-02-07": [],
+  "2024-02-08": [],
+  "2024-02-10": [
+   {
+    "famiglia": "settimana",
+    "data": "2024-02-10",
+    "testo": "Verificare se per Lorenzo Cortese era prevista una settimana più carica di quella dei compagni: finora gli allenamenti valgono in alta velocità il 176% della sua partita, contro una mediana di squadra del 106%; di solito, a questo punto della settimana, gli sta più vicino.",
+    "giocatore_id": 9,
+    "giocatore": "Lorenzo Cortese",
+    "riassunto": false,
+    "gravita": 1.3102997420326938,
+    "evidenze": [
+     "partita/2024-02-10/9/hsr/settimana"
+    ],
+    "metriche": [
+     "hsr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "f21ba2820b32",
+    "priorita": 4,
+    "categoria": "azione",
+    "nome_famiglia": "Settimana sopra o sotto il solito"
+   },
+   {
+    "famiglia": "positivo",
+    "data": "2024-02-10",
+    "testo": "Da segnalare: prima della partita del 11/02 tutti i 18 giocatori valutati hanno avuto la loro alta velocità solita da MD-4 a MD-2.",
+    "giocatore_id": null,
+    "giocatore": null,
+    "riassunto": false,
+    "gravita": 0.0,
+    "evidenze": [],
+    "metriche": [
+     "hsr",
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "95d8f70a8d07",
+    "priorita": 8,
+    "categoria": "informa",
+    "nome_famiglia": "Note positive"
+   },
+   {
+    "famiglia": "positivo",
+    "data": "2024-02-10",
+    "testo": "Da segnalare: Gabriele Longo è di nuovo nel suo carico abituale in distanza, alta velocità e sprint, 4 giorni dopo il rientro.",
+    "giocatore_id": 14,
+    "giocatore": "Gabriele Longo",
+    "riassunto": false,
+    "gravita": 0.0,
+    "evidenze": [
+     "seduta/2024-02-10/14/td",
+     "seduta/2024-02-10/14/hsr",
+     "seduta/2024-02-10/14/spr"
+    ],
+    "metriche": [
+     "td",
+     "hsr",
+     "spr"
+    ],
+    "chiude": "rientro",
+    "urgente": false,
+    "id": "57e41ba330e3",
+    "priorita": 8,
+    "categoria": "informa",
+    "nome_famiglia": "Note positive"
+   }
+  ],
+  "2024-02-11": [],
+  "2024-02-12": [
+   {
+    "famiglia": "insolito",
+    "data": "2024-02-12",
+    "testo": "Verificare se il programma prevedeva questo carico: la distanza totale mediana dei non titolari registrata oggi è 7.788 m, contro i 4.276 m delle sedute storiche di MD+1.",
+    "giocatore_id": null,
+    "giocatore": null,
+    "riassunto": false,
+    "gravita": 50.0,
+    "evidenze": [
+     "settimana/2024-02-12/non titolari/td"
+    ],
+    "metriche": [
+     "td"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "68a233169b13",
+    "priorita": 3,
+    "categoria": "azione",
+    "nome_famiglia": "Carico insolito"
+   },
+   {
+    "famiglia": "calo",
+    "data": "2024-02-12",
+    "testo": "Approfondire con il giocatore e lo staff: nelle ultime quattro settimane Tommaso Ferrandi ha fatto meno alta velocità e sprint di due-tre mesi fa, negli stessi giorni prima della partita (scarto mediano: alta velocità -46%, sprint -60%).",
+    "giocatore_id": 1,
+    "giocatore": "Tommaso Ferrandi",
+    "riassunto": true,
+    "gravita": 59.87460815047022,
+    "evidenze": [],
+    "metriche": [
+     "hsr",
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "be83d3f1e615",
+    "priorita": 5,
+    "categoria": "azione",
+    "nome_famiglia": "Calo persistente"
+   },
+   {
+    "famiglia": "calo",
+    "data": "2024-02-12",
+    "testo": "Approfondire con il giocatore e lo staff: nelle ultime quattro settimane Mattia Bosio ha fatto meno alta velocità di due-tre mesi fa, negli stessi giorni prima della partita (scarto mediano: alta velocità -34%).",
+    "giocatore_id": 7,
+    "giocatore": "Mattia Bosio",
+    "riassunto": true,
+    "gravita": 34.14229725655713,
+    "evidenze": [],
+    "metriche": [
+     "hsr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "9d2f9b738bf2",
+    "priorita": 5,
+    "categoria": "azione",
+    "nome_famiglia": "Calo persistente"
+   },
+   {
+    "famiglia": "dato",
+    "data": "2024-02-12",
+    "testo": "Verificare il dato: Edoardo Tosi non ha dati nelle ultime due sedute (10/02 e 12/02), dopo che c'erano nelle precedenti.",
+    "giocatore_id": 15,
+    "giocatore": "Edoardo Tosi",
+    "riassunto": false,
+    "gravita": 0.0,
+    "evidenze": [],
+    "metriche": [],
+    "chiude": null,
+    "urgente": false,
+    "id": "4306659d5934",
+    "priorita": 0,
+    "categoria": "dato",
+    "nome_famiglia": "Qualità del dato"
+   }
+  ],
+  "2024-02-14": [
+   {
+    "famiglia": "calo",
+    "data": "2024-02-14",
+    "testo": "Approfondire con il giocatore e lo staff: nelle ultime due settimane, in quattro sedute, Tommaso Ferrandi ha fatto meno alta velocità del suo solito, mentre la squadra in quelle sedute era nella norma (01/02, 08/02, 10/02 e 14/02).",
+    "giocatore_id": 1,
+    "giocatore": "Tommaso Ferrandi",
+    "riassunto": false,
+    "gravita": 4.0,
+    "evidenze": [
+     "seduta/2024-02-01/1/hsr",
+     "seduta/2024-02-08/1/hsr",
+     "seduta/2024-02-10/1/hsr",
+     "seduta/2024-02-14/1/hsr"
+    ],
+    "metriche": [
+     "hsr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "bdcc90dc1440",
+    "priorita": 5,
+    "categoria": "azione",
+    "nome_famiglia": "Calo persistente"
+   }
+  ],
+  "2024-02-15": [
+   {
+    "famiglia": "insolito",
+    "data": "2024-02-15",
+    "testo": "Verificare se il carico di Matteo Basile a MD-3 era previsto: decelerazioni 112 (fascia larga 47-87).",
+    "giocatore_id": 18,
+    "giocatore": "Matteo Basile",
+    "riassunto": false,
+    "gravita": 1.2908833254605574,
+    "evidenze": [
+     "seduta/2024-02-15/18/dcc"
+    ],
+    "metriche": [
+     "dcc"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "991e7095bc44",
+    "priorita": 3,
+    "categoria": "azione",
+    "nome_famiglia": "Carico insolito"
+   },
+   {
+    "famiglia": "calo",
+    "data": "2024-02-15",
+    "testo": "Approfondire con il giocatore e lo staff: nelle ultime due settimane, in tre sedute, Tommaso Ferrandi ha fatto meno distanza totale del suo solito, mentre la squadra in quelle sedute era nella norma (08/02, 14/02 e 15/02).",
+    "giocatore_id": 1,
+    "giocatore": "Tommaso Ferrandi",
+    "riassunto": false,
+    "gravita": 3.0,
+    "evidenze": [
+     "seduta/2024-02-08/1/td",
+     "seduta/2024-02-14/1/td",
+     "seduta/2024-02-15/1/td"
+    ],
+    "metriche": [
+     "td"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "fbb07f5afba2",
+    "priorita": 5,
+    "categoria": "azione",
+    "nome_famiglia": "Calo persistente"
+   }
+  ],
+  "2024-02-16": [
+   {
+    "famiglia": "velocita",
+    "data": "2024-02-16",
+    "testo": "Valutare se serve uno stimolo di velocità per Riccardo Benedetti: da MD-4 a MD-2 ha registrato 0 m di sprint e 213 m di HSR, contro un riferimento di 38 m e 298 m per quei giorni, prima della partita del 18/02/2024.",
+    "giocatore_id": 6,
+    "giocatore": "Riccardo Benedetti",
+    "riassunto": false,
+    "gravita": 1.0,
+    "evidenze": [
+     "velocita/2024-02-18/6/spr",
+     "velocita/2024-02-18/6/hsr"
+    ],
+    "metriche": [
+     "hsr",
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "241d5aa92dc3",
+    "priorita": 2,
+    "categoria": "azione",
+    "nome_famiglia": "Alta velocità prima della partita"
+   },
+   {
+    "famiglia": "velocita",
+    "data": "2024-02-16",
+    "testo": "Valutare se serve uno stimolo di velocità per Tommaso Ferrandi: da MD-4 a MD-2 ha registrato 45 m di sprint e 147 m di HSR, contro un riferimento di 167 m e 428 m per quei giorni, prima della partita del 18/02/2024.",
+    "giocatore_id": 1,
+    "giocatore": "Tommaso Ferrandi",
+    "riassunto": false,
+    "gravita": 0.7299393741452163,
+    "evidenze": [
+     "velocita/2024-02-18/1/spr",
+     "velocita/2024-02-18/1/hsr"
+    ],
+    "metriche": [
+     "hsr",
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "d61ada61f809",
+    "priorita": 2,
+    "categoria": "azione",
+    "nome_famiglia": "Alta velocità prima della partita"
+   },
+   {
+    "famiglia": "insolito",
+    "data": "2024-02-16",
+    "testo": "Verificare se il programma prevedeva questo carico: la distanza totale mediana registrata oggi è 1.986 m, contro i 5.397 m delle sedute storiche di MD-2.",
+    "giocatore_id": null,
+    "giocatore": null,
+    "riassunto": false,
+    "gravita": 50.0,
+    "evidenze": [
+     "settimana/2024-02-16/tutti/td"
+    ],
+    "metriche": [
+     "td"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "8a9176b89055",
+    "priorita": 3,
+    "categoria": "azione",
+    "nome_famiglia": "Carico insolito"
+   }
+  ],
+  "2024-02-17": [
+   {
+    "famiglia": "insolito",
+    "data": "2024-02-17",
+    "testo": "Verificare se il carico di Christian Porcu a MD-1 era previsto: distanza totale 6.802 m (fascia larga 1.975-3.778 m), alta velocità 608 m (fascia larga 2-124 m) e sprint 500 m (fascia larga 0-61 m).",
+    "giocatore_id": 19,
+    "giocatore": "Christian Porcu",
+    "riassunto": false,
+    "gravita": 8.156606851549753,
+    "evidenze": [
+     "seduta/2024-02-17/19/td",
+     "seduta/2024-02-17/19/hsr",
+     "seduta/2024-02-17/19/spr"
+    ],
+    "metriche": [
+     "td",
+     "hsr",
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "7a81a0a60330",
+    "priorita": 3,
+    "categoria": "azione",
+    "nome_famiglia": "Carico insolito"
+   }
+  ],
+  "2024-02-18": [],
+  "2024-02-19": [
+   {
+    "famiglia": "insolito",
+    "data": "2024-02-19",
+    "testo": "Verificare se il programma prevedeva questo carico: la distanza totale mediana dei non titolari registrata oggi è 8.320 m, contro i 4.358 m delle sedute storiche di MD+1.",
+    "giocatore_id": null,
+    "giocatore": null,
+    "riassunto": false,
+    "gravita": 50.0,
+    "evidenze": [
+     "settimana/2024-02-19/non titolari/td"
+    ],
+    "metriche": [
+     "td"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "966e1b877214",
+    "priorita": 3,
+    "categoria": "azione",
+    "nome_famiglia": "Carico insolito"
+   }
+  ],
+  "2024-02-21": [
+   {
+    "famiglia": "insolito",
+    "data": "2024-02-21",
+    "testo": "Verificare se il programma prevedeva questo carico: la distanza ad alta velocità (HSR) mediana registrata oggi è 376 m, contro i 174 m delle sedute storiche di MD-3.",
+    "giocatore_id": null,
+    "giocatore": null,
+    "riassunto": false,
+    "gravita": 50.0,
+    "evidenze": [
+     "settimana/2024-02-21/tutti/hsr"
+    ],
+    "metriche": [
+     "hsr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "175e9bd0bb7b",
+    "priorita": 3,
+    "categoria": "azione",
+    "nome_famiglia": "Carico insolito"
+   },
+   {
+    "famiglia": "insolito",
+    "data": "2024-02-21",
+    "testo": "Verificare se la seduta di oggi (MD-3) era prevista più carica del solito: sette giocatori sono molto oltre la loro fascia larga (Alessio Dalmasso, Edoardo Tosi, Lorenzo Cortese, Nicolò Serafini, Pietro Ghio, Simone Amato e Tommaso Ferrandi).",
+    "giocatore_id": null,
+    "giocatore": null,
+    "riassunto": false,
+    "gravita": 7.0,
+    "evidenze": [
+     "seduta/2024-02-21/1/hsr",
+     "seduta/2024-02-21/3/hsr",
+     "seduta/2024-02-21/4/hsr",
+     "seduta/2024-02-21/4/spr",
+     "seduta/2024-02-21/4/dcc",
+     "seduta/2024-02-21/9/dcc",
+     "seduta/2024-02-21/12/hsr",
+     "seduta/2024-02-21/12/dcc",
+     "seduta/2024-02-21/15/hsr",
+     "seduta/2024-02-21/15/spr",
+     "seduta/2024-02-21/15/dcc",
+     "seduta/2024-02-21/20/hsr"
+    ],
+    "metriche": [
+     "hsr",
+     "spr",
+     "dcc"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "a1c00a52470c",
+    "priorita": 3,
+    "categoria": "azione",
+    "nome_famiglia": "Carico insolito"
+   },
+   {
+    "famiglia": "rientro",
+    "data": "2024-02-21",
+    "testo": "Edoardo Tosi è tornato dopo 13 giorni senza dati (sette sedute): oggi ha fatto il 110% della sua distanza abituale per MD-3. Vice non sa perché mancava.",
+    "giocatore_id": 15,
+    "giocatore": "Edoardo Tosi",
+    "riassunto": false,
+    "gravita": 7.0,
+    "evidenze": [
+     "seduta/2024-02-21/15/td"
+    ],
+    "metriche": [
+     "td"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "2be9d8c13eaa",
+    "priorita": 6,
+    "categoria": "informa",
+    "nome_famiglia": "Rientro dopo un'assenza"
+   }
+  ],
+  "2024-02-22": [
+   {
+    "famiglia": "settimana",
+    "data": "2024-02-22",
+    "testo": "Valutare se c'è margine per Elia Gariglio: finora gli allenamenti valgono in alta velocità il 46% della sua partita, contro una mediana di squadra del 188%; di solito, a questo punto della settimana, gli sta più vicino.",
+    "giocatore_id": 2,
+    "giocatore": "Elia Gariglio",
+    "riassunto": false,
+    "gravita": 2.0782239266621994,
+    "evidenze": [
+     "partita/2024-02-22/2/hsr/settimana"
+    ],
+    "metriche": [
+     "hsr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "8a7685e31a17",
+    "priorita": 4,
+    "categoria": "azione",
+    "nome_famiglia": "Settimana sopra o sotto il solito"
+   },
+   {
+    "famiglia": "positivo",
+    "data": "2024-02-22",
+    "testo": "Da segnalare: Edoardo Tosi è di nuovo nel suo carico abituale in distanza, alta velocità e sprint, 1 giorni dopo il rientro.",
+    "giocatore_id": 15,
+    "giocatore": "Edoardo Tosi",
+    "riassunto": false,
+    "gravita": 0.0,
+    "evidenze": [
+     "seduta/2024-02-22/15/td",
+     "seduta/2024-02-22/15/hsr",
+     "seduta/2024-02-22/15/spr"
+    ],
+    "metriche": [
+     "td",
+     "hsr",
+     "spr"
+    ],
+    "chiude": "rientro",
+    "urgente": false,
+    "id": "debb6dc9dbaa",
+    "priorita": 8,
+    "categoria": "informa",
+    "nome_famiglia": "Note positive"
+   },
+   {
+    "famiglia": "dato",
+    "data": "2024-02-22",
+    "testo": "Verificare il dato: Samuele Pinna non ha dati nelle ultime due sedute (21/02 e 22/02), dopo che c'erano nelle precedenti.",
+    "giocatore_id": 5,
+    "giocatore": "Samuele Pinna",
+    "riassunto": false,
+    "gravita": 0.0,
+    "evidenze": [],
+    "metriche": [],
+    "chiude": null,
+    "urgente": false,
+    "id": "a2d1b3cf6046",
+    "priorita": 0,
+    "categoria": "dato",
+    "nome_famiglia": "Qualità del dato"
+   }
+  ],
+  "2024-02-23": [
+   {
+    "famiglia": "insolito",
+    "data": "2024-02-23",
+    "testo": "Verificare se il carico di Simone Amato a MD-1 era previsto: sprint 21 m (fascia larga 0-8 m).",
+    "giocatore_id": 20,
+    "giocatore": "Simone Amato",
+    "riassunto": false,
+    "gravita": 2.7308794357504955,
+    "evidenze": [
+     "seduta/2024-02-23/20/spr"
+    ],
+    "metriche": [
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "fc701af081e6",
+    "priorita": 3,
+    "categoria": "azione",
+    "nome_famiglia": "Carico insolito"
+   },
+   {
+    "famiglia": "insolito",
+    "data": "2024-02-23",
+    "testo": "Verificare se il carico di Christian Porcu a MD-1 era previsto: alta velocità 205 m (fascia larga 2-128 m) e sprint 128 m (fascia larga 0-66 m).",
+    "giocatore_id": 19,
+    "giocatore": "Christian Porcu",
+    "riassunto": false,
+    "gravita": 1.9335347432024157,
+    "evidenze": [
+     "seduta/2024-02-23/19/hsr",
+     "seduta/2024-02-23/19/spr"
+    ],
+    "metriche": [
+     "hsr",
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "e94ce8b85998",
+    "priorita": 3,
+    "categoria": "azione",
+    "nome_famiglia": "Carico insolito"
+   }
+  ],
+  "2024-02-24": [],
+  "2024-02-27": [
+   {
+    "famiglia": "reparto",
+    "data": "2024-02-27",
+    "testo": "Verificare se le esercitazioni espongono Gabriele Longo allo sprint quanto gli altri esterni: nelle ultime otto sedute condivise ha fatto meno di tutti in sei su otto.",
+    "giocatore_id": 14,
+    "giocatore": "Gabriele Longo",
+    "riassunto": true,
+    "gravita": 0.75,
+    "evidenze": [],
+    "metriche": [
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "3356e0ad8eb3",
+    "priorita": 7,
+    "categoria": "azione",
+    "nome_famiglia": "Scarto di reparto"
+   },
+   {
+    "famiglia": "positivo",
+    "data": "2024-02-27",
+    "testo": "Da segnalare: in partita Alessio Dalmasso è sopra il suo solito di alta velocità da due gare di fila da titolare (464 m e 646 m; di solito fino a 356 m). Il contesto della partita conta: non è un giudizio di rendimento.",
+    "giocatore_id": 4,
+    "giocatore": "Alessio Dalmasso",
+    "riassunto": true,
+    "gravita": 0.0,
+    "evidenze": [],
+    "metriche": [
+     "hsr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "7d59893b51d5",
+    "priorita": 8,
+    "categoria": "informa",
+    "nome_famiglia": "Note positive"
+   },
+   {
+    "famiglia": "positivo",
+    "data": "2024-02-27",
+    "testo": "Da segnalare: in partita Matteo Basile è sopra il suo solito di alta velocità da due gare di fila da titolare (706 m e 689 m; di solito fino a 553 m). Il contesto della partita conta: non è un giudizio di rendimento.",
+    "giocatore_id": 18,
+    "giocatore": "Matteo Basile",
+    "riassunto": true,
+    "gravita": 0.0,
+    "evidenze": [],
+    "metriche": [
+     "hsr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "66caede7272b",
+    "priorita": 8,
+    "categoria": "informa",
+    "nome_famiglia": "Note positive"
+   },
+   {
+    "famiglia": "dato",
+    "data": "2024-02-27",
+    "testo": "Verificare il dato: lo sprint di Tommaso Ferrandi (211 m) supera l'alta velocità (201 m), che lo comprende.",
+    "giocatore_id": 1,
+    "giocatore": "Tommaso Ferrandi",
+    "riassunto": false,
+    "gravita": 0.0,
+    "evidenze": [],
+    "metriche": [
+     "hsr",
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": true,
+    "id": "d6fb3a986ba8",
+    "priorita": 0,
+    "categoria": "dato",
+    "nome_famiglia": "Qualità del dato"
+   }
+  ],
+  "2024-02-28": [
+   {
+    "famiglia": "insolito",
+    "data": "2024-02-28",
+    "testo": "Verificare se il carico di Federico Santini a MD-3 era previsto: alta velocità 372 m (fascia larga 77-262 m).",
+    "giocatore_id": 13,
+    "giocatore": "Federico Santini",
+    "riassunto": false,
+    "gravita": 1.4213973799126618,
+    "evidenze": [
+     "seduta/2024-02-28/13/hsr"
+    ],
+    "metriche": [
+     "hsr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "60c1bb398cbc",
+    "priorita": 3,
+    "categoria": "azione",
+    "nome_famiglia": "Carico insolito"
+   },
+   {
+    "famiglia": "rientro",
+    "data": "2024-02-28",
+    "testo": "Samuele Pinna è tornato dopo 9 giorni senza dati (quattro sedute): oggi ha fatto il 108% della sua distanza abituale per MD-3. Vice non sa perché mancava.",
+    "giocatore_id": 5,
+    "giocatore": "Samuele Pinna",
+    "riassunto": false,
+    "gravita": 4.0,
+    "evidenze": [
+     "seduta/2024-02-28/5/td"
+    ],
+    "metriche": [
+     "td"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "c8b3e3cb76f1",
+    "priorita": 6,
+    "categoria": "informa",
+    "nome_famiglia": "Rientro dopo un'assenza"
+   },
+   {
+    "famiglia": "dato",
+    "data": "2024-02-28",
+    "testo": "Verificare il dato: Christian Porcu non ha dati nelle ultime due sedute (27/02 e 28/02), dopo che c'erano nelle precedenti.",
+    "giocatore_id": 19,
+    "giocatore": "Christian Porcu",
+    "riassunto": false,
+    "gravita": 0.0,
+    "evidenze": [],
+    "metriche": [],
+    "chiude": null,
+    "urgente": false,
+    "id": "cab73843a9f7",
+    "priorita": 0,
+    "categoria": "dato",
+    "nome_famiglia": "Qualità del dato"
+   }
+  ],
+  "2024-03-01": [
+   {
+    "famiglia": "settimana",
+    "data": "2024-03-01",
+    "testo": "Valutare se c'è margine per Elia Gariglio: finora gli allenamenti valgono in alta velocità il 36% della sua partita, contro una mediana di squadra del 98%; di solito, a questo punto della settimana, gli sta più vicino.",
+    "giocatore_id": 2,
+    "giocatore": "Elia Gariglio",
+    "riassunto": false,
+    "gravita": 1.3180918068480871,
+    "evidenze": [
+     "partita/2024-03-01/2/hsr/settimana"
+    ],
+    "metriche": [
+     "hsr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "e688be18a572",
+    "priorita": 4,
+    "categoria": "azione",
+    "nome_famiglia": "Settimana sopra o sotto il solito"
+   },
+   {
+    "famiglia": "positivo",
+    "data": "2024-03-01",
+    "testo": "Da segnalare: prima della partita del 02/03 tutti i 17 giocatori valutati hanno avuto la loro alta velocità solita da MD-4 a MD-2.",
+    "giocatore_id": null,
+    "giocatore": null,
+    "riassunto": false,
+    "gravita": 0.0,
+    "evidenze": [],
+    "metriche": [
+     "hsr",
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "d24234f5d107",
+    "priorita": 8,
+    "categoria": "informa",
+    "nome_famiglia": "Note positive"
+   },
+   {
+    "famiglia": "positivo",
+    "data": "2024-03-01",
+    "testo": "Da segnalare: Samuele Pinna è di nuovo nel suo carico abituale in distanza, alta velocità e sprint, 2 giorni dopo il rientro.",
+    "giocatore_id": 5,
+    "giocatore": "Samuele Pinna",
+    "riassunto": false,
+    "gravita": 0.0,
+    "evidenze": [
+     "seduta/2024-03-01/5/td",
+     "seduta/2024-03-01/5/hsr",
+     "seduta/2024-03-01/5/spr"
+    ],
+    "metriche": [
+     "td",
+     "hsr",
+     "spr"
+    ],
+    "chiude": "rientro",
+    "urgente": false,
+    "id": "15298ba20a5f",
+    "priorita": 8,
+    "categoria": "informa",
+    "nome_famiglia": "Note positive"
+   }
+  ],
+  "2024-03-02": [],
+  "2024-03-04": [
+   {
+    "famiglia": "insolito",
+    "data": "2024-03-04",
+    "testo": "Verificare se il programma prevedeva questo carico: la distanza totale mediana dei non titolari registrata oggi è 3.703 m, contro i 4.680 m delle sedute storiche di MD+2.",
+    "giocatore_id": null,
+    "giocatore": null,
+    "riassunto": false,
+    "gravita": 50.0,
+    "evidenze": [
+     "settimana/2024-03-04/non titolari/td"
+    ],
+    "metriche": [
+     "td"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "9decf828eeda",
+    "priorita": 3,
+    "categoria": "azione",
+    "nome_famiglia": "Carico insolito"
+   },
+   {
+    "famiglia": "calo",
+    "data": "2024-03-04",
+    "testo": "Approfondire con il giocatore e lo staff: nelle ultime quattro settimane Stefano Guidi ha fatto meno alta velocità e sprint di due-tre mesi fa, negli stessi giorni prima della partita (scarto mediano: alta velocità -49%, sprint -86%).",
+    "giocatore_id": 8,
+    "giocatore": "Stefano Guidi",
+    "riassunto": true,
+    "gravita": 86.0,
+    "evidenze": [],
+    "metriche": [
+     "hsr",
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "297a40862b5a",
+    "priorita": 5,
+    "categoria": "azione",
+    "nome_famiglia": "Calo persistente"
+   },
+   {
+    "famiglia": "calo",
+    "data": "2024-03-04",
+    "testo": "Approfondire con il giocatore e lo staff: nelle ultime quattro settimane Nicolò Serafini ha fatto meno sprint di due-tre mesi fa, negli stessi giorni prima della partita (scarto mediano: sprint -70%).",
+    "giocatore_id": 3,
+    "giocatore": "Nicolò Serafini",
+    "riassunto": true,
+    "gravita": 69.67213114754098,
+    "evidenze": [],
+    "metriche": [
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "b184fc6297e4",
+    "priorita": 5,
+    "categoria": "azione",
+    "nome_famiglia": "Calo persistente"
+   },
+   {
+    "famiglia": "calo",
+    "data": "2024-03-04",
+    "testo": "Approfondire con il giocatore e lo staff: nelle ultime quattro settimane Matteo Basile ha fatto meno alta velocità e sprint di due-tre mesi fa, negli stessi giorni prima della partita (scarto mediano: alta velocità -31%, sprint -51%).",
+    "giocatore_id": 18,
+    "giocatore": "Matteo Basile",
+    "riassunto": true,
+    "gravita": 51.23376623376623,
+    "evidenze": [],
+    "metriche": [
+     "hsr",
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "292435dbf2ec",
+    "priorita": 5,
+    "categoria": "azione",
+    "nome_famiglia": "Calo persistente"
+   },
+   {
+    "famiglia": "calo",
+    "data": "2024-03-04",
+    "testo": "Approfondire con il giocatore e lo staff: nelle ultime quattro settimane Federico Santini ha fatto meno sprint di due-tre mesi fa, negli stessi giorni prima della partita (scarto mediano: sprint -43%).",
+    "giocatore_id": 13,
+    "giocatore": "Federico Santini",
+    "riassunto": true,
+    "gravita": 42.77777777777777,
+    "evidenze": [],
+    "metriche": [
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "9bbe8a673246",
+    "priorita": 5,
+    "categoria": "azione",
+    "nome_famiglia": "Calo persistente"
+   },
+   {
+    "famiglia": "calo",
+    "data": "2024-03-04",
+    "testo": "Approfondire con il giocatore e lo staff: nelle ultime quattro settimane Pietro Ghio ha fatto meno alta velocità di due-tre mesi fa, negli stessi giorni prima della partita (scarto mediano: alta velocità -43%).",
+    "giocatore_id": 12,
+    "giocatore": "Pietro Ghio",
+    "riassunto": true,
+    "gravita": 42.592592592592595,
+    "evidenze": [],
+    "metriche": [
+     "hsr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "fae47b95d094",
+    "priorita": 5,
+    "categoria": "azione",
+    "nome_famiglia": "Calo persistente"
+   }
+  ],
+  "2024-03-06": [
+   {
+    "famiglia": "rientro",
+    "data": "2024-03-06",
+    "testo": "Christian Porcu è tornato dopo 12 giorni senza dati (quattro sedute): oggi ha fatto il 102% della sua distanza abituale per MD-3. Vice non sa perché mancava.",
+    "giocatore_id": 19,
+    "giocatore": "Christian Porcu",
+    "riassunto": false,
+    "gravita": 4.0,
+    "evidenze": [
+     "seduta/2024-03-06/19/td"
+    ],
+    "metriche": [
+     "td"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "3e917469d2d2",
+    "priorita": 6,
+    "categoria": "informa",
+    "nome_famiglia": "Rientro dopo un'assenza"
+   },
+   {
+    "famiglia": "dato",
+    "data": "2024-03-06",
+    "testo": "Verificare il dato: Edoardo Tosi non ha dati nelle ultime due sedute (04/03 e 06/03), dopo che c'erano nelle precedenti.",
+    "giocatore_id": 15,
+    "giocatore": "Edoardo Tosi",
+    "riassunto": false,
+    "gravita": 0.0,
+    "evidenze": [],
+    "metriche": [],
+    "chiude": null,
+    "urgente": false,
+    "id": "5181fbd4c7a7",
+    "priorita": 0,
+    "categoria": "dato",
+    "nome_famiglia": "Qualità del dato"
+   }
+  ],
+  "2024-03-07": [
+   {
+    "famiglia": "velocita",
+    "data": "2024-03-07",
+    "testo": "Valutare se serve uno stimolo di velocità per Gabriele Longo: da MD-4 a MD-2 ha registrato 9 m di sprint e 596 m di HSR, contro un riferimento di 72 m e 485 m per quei giorni, prima della partita del 09/03/2024.",
+    "giocatore_id": 14,
+    "giocatore": "Gabriele Longo",
+    "riassunto": false,
+    "gravita": 0.8753206772703951,
+    "evidenze": [
+     "velocita/2024-03-09/14/spr",
+     "velocita/2024-03-09/14/hsr"
+    ],
+    "metriche": [
+     "hsr",
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "7e3db4af7fc8",
+    "priorita": 2,
+    "categoria": "azione",
+    "nome_famiglia": "Alta velocità prima della partita"
+   },
+   {
+    "famiglia": "settimana",
+    "data": "2024-03-07",
+    "testo": "Valutare se c'è margine per Samuele Pinna: finora gli allenamenti valgono in alta velocità il 128% della sua partita, contro una mediana di squadra del 187%; di solito, a questo punto della settimana, gli sta più vicino.",
+    "giocatore_id": 5,
+    "giocatore": "Samuele Pinna",
+    "riassunto": false,
+    "gravita": 1.394503832849931,
+    "evidenze": [
+     "partita/2024-03-07/5/hsr/settimana"
+    ],
+    "metriche": [
+     "hsr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "daa670cf683b",
+    "priorita": 4,
+    "categoria": "azione",
+    "nome_famiglia": "Settimana sopra o sotto il solito"
+   },
+   {
+    "famiglia": "positivo",
+    "data": "2024-03-07",
+    "testo": "Da segnalare: Christian Porcu è di nuovo nel suo carico abituale in distanza, alta velocità e sprint, 1 giorni dopo il rientro.",
+    "giocatore_id": 19,
+    "giocatore": "Christian Porcu",
+    "riassunto": false,
+    "gravita": 0.0,
+    "evidenze": [
+     "seduta/2024-03-07/19/td",
+     "seduta/2024-03-07/19/hsr",
+     "seduta/2024-03-07/19/spr"
+    ],
+    "metriche": [
+     "td",
+     "hsr",
+     "spr"
+    ],
+    "chiude": "rientro",
+    "urgente": false,
+    "id": "b3fa9d54d193",
+    "priorita": 8,
+    "categoria": "informa",
+    "nome_famiglia": "Note positive"
+   }
+  ],
+  "2024-03-08": [],
+  "2024-03-09": [],
+  "2024-03-10": [
+   {
+    "famiglia": "insolito",
+    "data": "2024-03-10",
+    "testo": "Verificare se il programma prevedeva questo carico: la distanza ad alta velocità (HSR) mediana dei non titolari registrata oggi è 14 m, contro i 278 m delle sedute storiche di MD+1.",
+    "giocatore_id": null,
+    "giocatore": null,
+    "riassunto": false,
+    "gravita": 50.0,
+    "evidenze": [
+     "settimana/2024-03-10/non titolari/hsr"
+    ],
+    "metriche": [
+     "hsr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "1a6a2af1d946",
+    "priorita": 3,
+    "categoria": "azione",
+    "nome_famiglia": "Carico insolito"
+   },
+   {
+    "famiglia": "rientro",
+    "data": "2024-03-10",
+    "testo": "Edoardo Tosi è tornato dopo 9 giorni senza dati (quattro sedute): oggi ha fatto il 106% della sua distanza abituale per MD+1. Vice non sa perché mancava.",
+    "giocatore_id": 15,
+    "giocatore": "Edoardo Tosi",
+    "riassunto": false,
+    "gravita": 4.0,
+    "evidenze": [
+     "seduta/2024-03-10/15/td"
+    ],
+    "metriche": [
+     "td"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "c6f4b09e03d7",
+    "priorita": 6,
+    "categoria": "informa",
+    "nome_famiglia": "Rientro dopo un'assenza"
+   },
+   {
+    "famiglia": "calo",
+    "data": "2024-03-10",
+    "testo": "Approfondire con il giocatore e lo staff: nelle ultime quattro settimane Filippo Rinaldi ha fatto meno sprint di due-tre mesi fa, negli stessi giorni prima della partita (scarto mediano: sprint -91%).",
+    "giocatore_id": 17,
+    "giocatore": "Filippo Rinaldi",
+    "riassunto": true,
+    "gravita": 90.74074074074075,
+    "evidenze": [],
+    "metriche": [
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "95826190c555",
+    "priorita": 5,
+    "categoria": "azione",
+    "nome_famiglia": "Calo persistente"
+   }
+  ],
+  "2024-03-12": [
+   {
+    "famiglia": "richiamo",
+    "data": "2024-03-12",
+    "testo": "Verificare se il programma postpartita prevedeva meno alta velocità del solito: dopo la partita del 09/03/2024, 5 non titolari su 8 valutati sono molto sotto la loro fascia storica di HSR (mediana 14 m, contro 216 m).",
+    "giocatore_id": null,
+    "giocatore": null,
+    "riassunto": false,
+    "gravita": 3.0,
+    "evidenze": [
+     "compensazione/2024-03-09/gruppo/hsr",
+     "compensazione/2024-03-09/1/hsr",
+     "compensazione/2024-03-09/2/hsr",
+     "compensazione/2024-03-09/5/hsr",
+     "compensazione/2024-03-09/9/hsr",
+     "compensazione/2024-03-09/17/hsr"
+    ],
+    "metriche": [
+     "hsr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "58f46b1c9a75",
+    "priorita": 1,
+    "categoria": "azione",
+    "nome_famiglia": "Richiamo dopo la partita"
+   },
+   {
+    "famiglia": "dato",
+    "data": "2024-03-12",
+    "testo": "Verificare il dato: Federico Santini non ha dati nelle ultime due sedute (10/03 e 12/03), dopo che c'erano nelle precedenti.",
+    "giocatore_id": 13,
+    "giocatore": "Federico Santini",
+    "riassunto": false,
+    "gravita": 0.0,
+    "evidenze": [],
+    "metriche": [],
+    "chiude": null,
+    "urgente": false,
+    "id": "44716705244e",
+    "priorita": 0,
+    "categoria": "dato",
+    "nome_famiglia": "Qualità del dato"
+   },
+   {
+    "famiglia": "dato",
+    "data": "2024-03-12",
+    "testo": "Verificare il dato: Christian Porcu non ha dati nelle ultime due sedute (10/03 e 12/03), dopo che c'erano nelle precedenti.",
+    "giocatore_id": 19,
+    "giocatore": "Christian Porcu",
+    "riassunto": false,
+    "gravita": 0.0,
+    "evidenze": [],
+    "metriche": [],
+    "chiude": null,
+    "urgente": false,
+    "id": "95e3a8abef2a",
+    "priorita": 0,
+    "categoria": "dato",
+    "nome_famiglia": "Qualità del dato"
+   }
+  ],
+  "2024-03-13": [],
+  "2024-03-14": [
+   {
+    "famiglia": "positivo",
+    "data": "2024-03-14",
+    "testo": "Da segnalare: Edoardo Tosi è di nuovo nel suo carico abituale in distanza, alta velocità e sprint, 4 giorni dopo il rientro.",
+    "giocatore_id": 15,
+    "giocatore": "Edoardo Tosi",
+    "riassunto": false,
+    "gravita": 0.0,
+    "evidenze": [
+     "seduta/2024-03-14/15/td",
+     "seduta/2024-03-14/15/hsr",
+     "seduta/2024-03-14/15/spr"
+    ],
+    "metriche": [
+     "td",
+     "hsr",
+     "spr"
+    ],
+    "chiude": "rientro",
+    "urgente": false,
+    "id": "d85eb93335c7",
+    "priorita": 8,
+    "categoria": "informa",
+    "nome_famiglia": "Note positive"
+   }
+  ],
+  "2024-03-16": [
+   {
+    "famiglia": "insolito",
+    "data": "2024-03-16",
+    "testo": "Verificare se il programma prevedeva questo carico: la distanza ad alta velocità (HSR) mediana registrata oggi è 114 m, contro i 34 m delle sedute storiche di MD-1.",
+    "giocatore_id": null,
+    "giocatore": null,
+    "riassunto": false,
+    "gravita": 45.696721311475414,
+    "evidenze": [
+     "settimana/2024-03-16/tutti/hsr"
+    ],
+    "metriche": [
+     "hsr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "82afb5be5c12",
+    "priorita": 3,
+    "categoria": "azione",
+    "nome_famiglia": "Carico insolito"
+   },
+   {
+    "famiglia": "insolito",
+    "data": "2024-03-16",
+    "testo": "Verificare se la seduta di oggi (MD-1) era prevista più carica del solito: cinque giocatori sono molto oltre la loro fascia larga (Elia Gariglio, Filippo Rinaldi, Gabriele Longo, Pietro Ghio e Simone Amato).",
+    "giocatore_id": null,
+    "giocatore": null,
+    "riassunto": false,
+    "gravita": 5.0,
+    "evidenze": [
+     "seduta/2024-03-16/2/hsr",
+     "seduta/2024-03-16/2/spr",
+     "seduta/2024-03-16/12/hsr",
+     "seduta/2024-03-16/12/spr",
+     "seduta/2024-03-16/12/dcc",
+     "seduta/2024-03-16/14/hsr",
+     "seduta/2024-03-16/17/hsr",
+     "seduta/2024-03-16/17/spr",
+     "seduta/2024-03-16/20/dcc"
+    ],
+    "metriche": [
+     "hsr",
+     "spr",
+     "dcc"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "d64d916fcb18",
+    "priorita": 3,
+    "categoria": "azione",
+    "nome_famiglia": "Carico insolito"
+   },
+   {
+    "famiglia": "settimana",
+    "data": "2024-03-16",
+    "testo": "Verificare se per Pietro Ghio era prevista una settimana più carica di quella dei compagni: finora gli allenamenti valgono in alta velocità il 309% della sua partita, contro una mediana di squadra del 136%; di solito, a questo punto della settimana, gli sta più vicino.",
+    "giocatore_id": 12,
+    "giocatore": "Pietro Ghio",
+    "riassunto": false,
+    "gravita": 1.3583803248970814,
+    "evidenze": [
+     "partita/2024-03-16/12/hsr/settimana"
+    ],
+    "metriche": [
+     "hsr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "cf0afdbd5bbd",
+    "priorita": 4,
+    "categoria": "azione",
+    "nome_famiglia": "Settimana sopra o sotto il solito"
+   }
+  ],
+  "2024-03-17": [],
+  "2024-03-20": [
+   {
+    "famiglia": "insolito",
+    "data": "2024-03-20",
+    "testo": "Verificare se il carico di Federico Santini a MD-3 era previsto: alta velocità 387 m (fascia larga 78-270 m).",
+    "giocatore_id": 13,
+    "giocatore": "Federico Santini",
+    "riassunto": false,
+    "gravita": 1.4359925788497216,
+    "evidenze": [
+     "seduta/2024-03-20/13/hsr"
+    ],
+    "metriche": [
+     "hsr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "2e9b75ca95e1",
+    "priorita": 3,
+    "categoria": "azione",
+    "nome_famiglia": "Carico insolito"
+   },
+   {
+    "famiglia": "rientro",
+    "data": "2024-03-20",
+    "testo": "Federico Santini è tornato dopo 12 giorni senza dati (cinque sedute): oggi ha fatto il 102% della sua distanza abituale per MD-3. Vice non sa perché mancava.",
+    "giocatore_id": 13,
+    "giocatore": "Federico Santini",
+    "riassunto": false,
+    "gravita": 5.0,
+    "evidenze": [
+     "seduta/2024-03-20/13/td"
+    ],
+    "metriche": [
+     "td"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "c6bd71c1296d",
+    "priorita": 6,
+    "categoria": "informa",
+    "nome_famiglia": "Rientro dopo un'assenza"
+   },
+   {
+    "famiglia": "rientro",
+    "data": "2024-03-20",
+    "testo": "Christian Porcu è tornato dopo 12 giorni senza dati (cinque sedute): oggi ha fatto l'86% della sua distanza abituale per MD-3. Vice non sa perché mancava.",
+    "giocatore_id": 19,
+    "giocatore": "Christian Porcu",
+    "riassunto": false,
+    "gravita": 5.0,
+    "evidenze": [
+     "seduta/2024-03-20/19/td"
+    ],
+    "metriche": [
+     "td"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "6955502fecc6",
+    "priorita": 6,
+    "categoria": "informa",
+    "nome_famiglia": "Rientro dopo un'assenza"
+   },
+   {
+    "famiglia": "reparto",
+    "data": "2024-03-20",
+    "testo": "Verificare se le esercitazioni espongono Gabriele Longo allo sprint quanto gli altri esterni: nelle ultime otto sedute condivise ha fatto meno di tutti in sei su otto.",
+    "giocatore_id": 14,
+    "giocatore": "Gabriele Longo",
+    "riassunto": true,
+    "gravita": 0.75,
+    "evidenze": [],
+    "metriche": [
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "21db72fba9de",
+    "priorita": 7,
+    "categoria": "azione",
+    "nome_famiglia": "Scarto di reparto"
+   },
+   {
+    "famiglia": "positivo",
+    "data": "2024-03-20",
+    "testo": "Da segnalare: in partita Simone Amato è sopra il suo solito di alta velocità da due gare di fila da titolare (782 m e 755 m; di solito fino a 641 m). Il contesto della partita conta: non è un giudizio di rendimento.",
+    "giocatore_id": 20,
+    "giocatore": "Simone Amato",
+    "riassunto": true,
+    "gravita": 0.0,
+    "evidenze": [],
+    "metriche": [
+     "hsr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "690e7c3691c7",
+    "priorita": 8,
+    "categoria": "informa",
+    "nome_famiglia": "Note positive"
+   }
+  ],
+  "2024-03-21": [
+   {
+    "famiglia": "insolito",
+    "data": "2024-03-21",
+    "testo": "Verificare se il carico di Tommaso Ferrandi a MD-2 era previsto: distanza totale 8.502 m (fascia larga 3.892-6.608 m), alta velocità 727 m (fascia larga 59-291 m), sprint 364 m (fascia larga 6-166 m) e decelerazioni 107 (fascia larga 35-69).",
+    "giocatore_id": 1,
+    "giocatore": "Tommaso Ferrandi",
+    "riassunto": false,
+    "gravita": 2.495423340961099,
+    "evidenze": [
+     "seduta/2024-03-21/1/td",
+     "seduta/2024-03-21/1/hsr",
+     "seduta/2024-03-21/1/spr",
+     "seduta/2024-03-21/1/dcc"
+    ],
+    "metriche": [
+     "td",
+     "hsr",
+     "spr",
+     "dcc"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "7c8fc5a2a984",
+    "priorita": 3,
+    "categoria": "azione",
+    "nome_famiglia": "Carico insolito"
+   },
+   {
+    "famiglia": "insolito",
+    "data": "2024-03-21",
+    "testo": "Verificare se il carico di Alessio Dalmasso a MD-2 era previsto: alta velocità 487 m (fascia larga 64-276 m) e sprint 310 m (fascia larga 5-186 m).",
+    "giocatore_id": 4,
+    "giocatore": "Alessio Dalmasso",
+    "riassunto": false,
+    "gravita": 1.7635799275737212,
+    "evidenze": [
+     "seduta/2024-03-21/4/hsr",
+     "seduta/2024-03-21/4/spr"
+    ],
+    "metriche": [
+     "hsr",
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "b460112a8264",
+    "priorita": 3,
+    "categoria": "azione",
+    "nome_famiglia": "Carico insolito"
+   },
+   {
+    "famiglia": "settimana",
+    "data": "2024-03-21",
+    "testo": "Verificare se per Tommaso Ferrandi era prevista una settimana più carica di quella dei compagni: finora gli allenamenti valgono in alta velocità il 202% della sua partita, contro una mediana di squadra del 107%; di solito, a questo punto della settimana, gli sta più vicino.",
+    "giocatore_id": 1,
+    "giocatore": "Tommaso Ferrandi",
+    "riassunto": false,
+    "gravita": 1.3470926992834968,
+    "evidenze": [
+     "partita/2024-03-21/1/hsr/settimana"
+    ],
+    "metriche": [
+     "hsr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "0cf84eeba604",
+    "priorita": 4,
+    "categoria": "azione",
+    "nome_famiglia": "Settimana sopra o sotto il solito"
+   },
+   {
+    "famiglia": "dato",
+    "data": "2024-03-21",
+    "testo": "Verificare il dato: Andrea Melis non ha dati nelle ultime due sedute (20/03 e 21/03), dopo che c'erano nelle precedenti.",
+    "giocatore_id": 11,
+    "giocatore": "Andrea Melis",
+    "riassunto": false,
+    "gravita": 0.0,
+    "evidenze": [],
+    "metriche": [],
+    "chiude": null,
+    "urgente": false,
+    "id": "60b2921221eb",
+    "priorita": 0,
+    "categoria": "dato",
+    "nome_famiglia": "Qualità del dato"
+   }
+  ],
+  "2024-03-22": [
+   {
+    "famiglia": "positivo",
+    "data": "2024-03-22",
+    "testo": "Da segnalare: prima della partita del 23/03 tutti i 17 giocatori valutati hanno avuto la loro alta velocità solita da MD-4 a MD-2.",
+    "giocatore_id": null,
+    "giocatore": null,
+    "riassunto": false,
+    "gravita": 0.0,
+    "evidenze": [],
+    "metriche": [
+     "hsr",
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "b75d24e316a9",
+    "priorita": 8,
+    "categoria": "informa",
+    "nome_famiglia": "Note positive"
+   },
+   {
+    "famiglia": "positivo",
+    "data": "2024-03-22",
+    "testo": "Da segnalare: Christian Porcu è di nuovo nel suo carico abituale in distanza, alta velocità e sprint, 2 giorni dopo il rientro.",
+    "giocatore_id": 19,
+    "giocatore": "Christian Porcu",
+    "riassunto": false,
+    "gravita": 0.0,
+    "evidenze": [
+     "seduta/2024-03-22/19/td",
+     "seduta/2024-03-22/19/hsr",
+     "seduta/2024-03-22/19/spr"
+    ],
+    "metriche": [
+     "td",
+     "hsr",
+     "spr"
+    ],
+    "chiude": "rientro",
+    "urgente": false,
+    "id": "c2a48ae7f6da",
+    "priorita": 8,
+    "categoria": "informa",
+    "nome_famiglia": "Note positive"
+   }
+  ],
+  "2024-03-23": [],
+  "2024-03-24": [
+   {
+    "famiglia": "calo",
+    "data": "2024-03-24",
+    "testo": "Approfondire con il giocatore e lo staff: nelle ultime quattro settimane Federico Santini ha fatto meno sprint di due-tre mesi fa, negli stessi giorni prima della partita (scarto mediano: sprint -77%).",
+    "giocatore_id": 13,
+    "giocatore": "Federico Santini",
+    "riassunto": true,
+    "gravita": 77.34375,
+    "evidenze": [],
+    "metriche": [
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "60c1c24d0e69",
+    "priorita": 5,
+    "categoria": "azione",
+    "nome_famiglia": "Calo persistente"
+   },
+   {
+    "famiglia": "calo",
+    "data": "2024-03-24",
+    "testo": "Approfondire con il giocatore e lo staff: nelle ultime quattro settimane Christian Porcu ha fatto meno alta velocità e sprint di due-tre mesi fa, negli stessi giorni prima della partita (scarto mediano: alta velocità -26%, sprint -30%).",
+    "giocatore_id": 19,
+    "giocatore": "Christian Porcu",
+    "riassunto": true,
+    "gravita": 30.418250950570346,
+    "evidenze": [],
+    "metriche": [
+     "hsr",
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "fbfa4f2f8617",
+    "priorita": 5,
+    "categoria": "azione",
+    "nome_famiglia": "Calo persistente"
+   },
+   {
+    "famiglia": "reparto",
+    "data": "2024-03-24",
+    "testo": "Verificare se le esercitazioni espongono Luca Cerutti all'alta velocità quanto gli altri esterni: nelle ultime otto sedute condivise ha fatto meno di tutti in sei su otto.",
+    "giocatore_id": 16,
+    "giocatore": "Luca Cerutti",
+    "riassunto": true,
+    "gravita": 0.75,
+    "evidenze": [],
+    "metriche": [
+     "hsr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "f899318f977d",
+    "priorita": 7,
+    "categoria": "azione",
+    "nome_famiglia": "Scarto di reparto"
+   },
+   {
+    "famiglia": "positivo",
+    "data": "2024-03-24",
+    "testo": "Da segnalare: in partita Riccardo Benedetti è sopra il suo solito di alta velocità da due gare di fila da titolare (433 m e 337 m; di solito fino a 251 m). Il contesto della partita conta: non è un giudizio di rendimento.",
+    "giocatore_id": 6,
+    "giocatore": "Riccardo Benedetti",
+    "riassunto": true,
+    "gravita": 0.0,
+    "evidenze": [],
+    "metriche": [
+     "hsr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "040255e82ee7",
+    "priorita": 8,
+    "categoria": "informa",
+    "nome_famiglia": "Note positive"
+   }
+  ],
+  "2024-03-26": [
+   {
+    "famiglia": "rientro",
+    "data": "2024-03-26",
+    "testo": "Andrea Melis è tornato dopo 10 giorni senza dati (quattro sedute). Vice non sa perché mancava.",
+    "giocatore_id": 11,
+    "giocatore": "Andrea Melis",
+    "riassunto": false,
+    "gravita": 4.0,
+    "evidenze": [
+     "seduta/2024-03-26/11/td"
+    ],
+    "metriche": [
+     "td"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "feb1d1f287d8",
+    "priorita": 6,
+    "categoria": "informa",
+    "nome_famiglia": "Rientro dopo un'assenza"
+   },
+   {
+    "famiglia": "dato",
+    "data": "2024-03-26",
+    "testo": "Verificare il dato: Gabriele Longo non ha dati nelle ultime due sedute (24/03 e 26/03), dopo che c'erano nelle precedenti.",
+    "giocatore_id": 14,
+    "giocatore": "Gabriele Longo",
+    "riassunto": false,
+    "gravita": 0.0,
+    "evidenze": [],
+    "metriche": [],
+    "chiude": null,
+    "urgente": false,
+    "id": "4780a76f62c3",
+    "priorita": 0,
+    "categoria": "dato",
+    "nome_famiglia": "Qualità del dato"
+   },
+   {
+    "famiglia": "dato",
+    "data": "2024-03-26",
+    "testo": "Verificare il dato: Simone Amato non ha dati nelle ultime due sedute (24/03 e 26/03), dopo che c'erano nelle precedenti.",
+    "giocatore_id": 20,
+    "giocatore": "Simone Amato",
+    "riassunto": false,
+    "gravita": 0.0,
+    "evidenze": [],
+    "metriche": [],
+    "chiude": null,
+    "urgente": false,
+    "id": "b23015e5edce",
+    "priorita": 0,
+    "categoria": "dato",
+    "nome_famiglia": "Qualità del dato"
+   }
+  ],
+  "2024-03-27": [
+   {
+    "famiglia": "insolito",
+    "data": "2024-03-27",
+    "testo": "Verificare se il programma prevedeva questo carico: la distanza ad alta velocità (HSR) mediana registrata oggi è 340 m, contro i 190 m delle sedute storiche di MD-4.",
+    "giocatore_id": null,
+    "giocatore": null,
+    "riassunto": false,
+    "gravita": 50.0,
+    "evidenze": [
+     "settimana/2024-03-27/tutti/hsr"
+    ],
+    "metriche": [
+     "hsr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "ecbf68b6d5fc",
+    "priorita": 3,
+    "categoria": "azione",
+    "nome_famiglia": "Carico insolito"
+   }
+  ],
+  "2024-03-28": [
+   {
+    "famiglia": "insolito",
+    "data": "2024-03-28",
+    "testo": "Verificare se il carico di Nicolò Serafini a MD-3 era previsto: alta velocità 427 m (fascia larga 60-259 m).",
+    "giocatore_id": 3,
+    "giocatore": "Nicolò Serafini",
+    "riassunto": false,
+    "gravita": 1.6454720616570442,
+    "evidenze": [
+     "seduta/2024-03-28/3/hsr"
+    ],
+    "metriche": [
+     "hsr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "ccfea2fb92d7",
+    "priorita": 3,
+    "categoria": "azione",
+    "nome_famiglia": "Carico insolito"
+   }
+  ],
+  "2024-03-30": [
+   {
+    "famiglia": "positivo",
+    "data": "2024-03-30",
+    "testo": "Da segnalare: prima della partita del 31/03 tutti i 15 giocatori valutati hanno avuto la loro alta velocità solita da MD-4 a MD-2.",
+    "giocatore_id": null,
+    "giocatore": null,
+    "riassunto": false,
+    "gravita": 0.0,
+    "evidenze": [],
+    "metriche": [
+     "hsr",
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "464b801f7bf3",
+    "priorita": 8,
+    "categoria": "informa",
+    "nome_famiglia": "Note positive"
+   }
+  ],
+  "2024-03-31": [],
+  "2024-04-01": [
+   {
+    "famiglia": "rientro",
+    "data": "2024-04-01",
+    "testo": "Elia Gariglio è tornato dopo 10 giorni senza dati (cinque sedute): oggi ha fatto il 99% della sua distanza abituale per MD+1. Vice non sa perché mancava.",
+    "giocatore_id": 2,
+    "giocatore": "Elia Gariglio",
+    "riassunto": false,
+    "gravita": 5.0,
+    "evidenze": [
+     "seduta/2024-04-01/2/td"
+    ],
+    "metriche": [
+     "td"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "e82b9bf9299a",
+    "priorita": 6,
+    "categoria": "informa",
+    "nome_famiglia": "Rientro dopo un'assenza"
+   },
+   {
+    "famiglia": "calo",
+    "data": "2024-04-01",
+    "testo": "Approfondire con il giocatore e lo staff: nelle ultime quattro settimane Gabriele Longo ha fatto meno sprint di due-tre mesi fa, negli stessi giorni prima della partita (scarto mediano: sprint -37%).",
+    "giocatore_id": 14,
+    "giocatore": "Gabriele Longo",
+    "riassunto": true,
+    "gravita": 36.63768115942029,
+    "evidenze": [],
+    "metriche": [
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "2e251bacbf57",
+    "priorita": 5,
+    "categoria": "azione",
+    "nome_famiglia": "Calo persistente"
+   },
+   {
+    "famiglia": "calo",
+    "data": "2024-04-01",
+    "testo": "Approfondire con il giocatore e lo staff: nelle ultime quattro settimane Samuele Pinna ha fatto meno alta velocità e sprint di due-tre mesi fa, negli stessi giorni prima della partita (scarto mediano: alta velocità -32%, sprint -32%).",
+    "giocatore_id": 5,
+    "giocatore": "Samuele Pinna",
+    "riassunto": true,
+    "gravita": 32.14285714285714,
+    "evidenze": [],
+    "metriche": [
+     "hsr",
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "3ff5b1d9857c",
+    "priorita": 5,
+    "categoria": "azione",
+    "nome_famiglia": "Calo persistente"
+   },
+   {
+    "famiglia": "calo",
+    "data": "2024-04-01",
+    "testo": "Approfondire con il giocatore e lo staff: nelle ultime quattro settimane Luca Cerutti ha fatto meno sprint di due-tre mesi fa, negli stessi giorni prima della partita (scarto mediano: sprint -30%).",
+    "giocatore_id": 16,
+    "giocatore": "Luca Cerutti",
+    "riassunto": true,
+    "gravita": 30.127076740506332,
+    "evidenze": [],
+    "metriche": [
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "9210b13ac817",
+    "priorita": 5,
+    "categoria": "azione",
+    "nome_famiglia": "Calo persistente"
+   },
+   {
+    "famiglia": "dato",
+    "data": "2024-04-01",
+    "testo": "Verificare il dato: Tommaso Ferrandi non ha dati nelle ultime due sedute (30/03 e 01/04), dopo che c'erano nelle precedenti.",
+    "giocatore_id": 1,
+    "giocatore": "Tommaso Ferrandi",
+    "riassunto": false,
+    "gravita": 0.0,
+    "evidenze": [],
+    "metriche": [],
+    "chiude": null,
+    "urgente": false,
+    "id": "29a97c3c4410",
+    "priorita": 0,
+    "categoria": "dato",
+    "nome_famiglia": "Qualità del dato"
+   }
+  ],
+  "2024-04-03": [
+   {
+    "famiglia": "rientro",
+    "data": "2024-04-03",
+    "testo": "Gabriele Longo è tornato dopo 12 giorni senza dati (sei sedute): oggi ha fatto il 106% della sua distanza abituale per MD-3. Vice non sa perché mancava.",
+    "giocatore_id": 14,
+    "giocatore": "Gabriele Longo",
+    "riassunto": false,
+    "gravita": 6.0,
+    "evidenze": [
+     "seduta/2024-04-03/14/td"
+    ],
+    "metriche": [
+     "td"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "dda1ac646c59",
+    "priorita": 6,
+    "categoria": "informa",
+    "nome_famiglia": "Rientro dopo un'assenza"
+   },
+   {
+    "famiglia": "rientro",
+    "data": "2024-04-03",
+    "testo": "Simone Amato è tornato dopo 12 giorni senza dati (sei sedute): oggi ha fatto il 79% della sua distanza abituale per MD-3. Vice non sa perché mancava.",
+    "giocatore_id": 20,
+    "giocatore": "Simone Amato",
+    "riassunto": false,
+    "gravita": 6.0,
+    "evidenze": [
+     "seduta/2024-04-03/20/td"
+    ],
+    "metriche": [
+     "td"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "529fade731f2",
+    "priorita": 6,
+    "categoria": "informa",
+    "nome_famiglia": "Rientro dopo un'assenza"
+   },
+   {
+    "famiglia": "positivo",
+    "data": "2024-04-03",
+    "testo": "Da segnalare: Elia Gariglio è di nuovo nel suo carico abituale in distanza, alta velocità e sprint, 2 giorni dopo il rientro.",
+    "giocatore_id": 2,
+    "giocatore": "Elia Gariglio",
+    "riassunto": false,
+    "gravita": 0.0,
+    "evidenze": [
+     "seduta/2024-04-03/2/td",
+     "seduta/2024-04-03/2/hsr",
+     "seduta/2024-04-03/2/spr"
+    ],
+    "metriche": [
+     "td",
+     "hsr",
+     "spr"
+    ],
+    "chiude": "rientro",
+    "urgente": false,
+    "id": "2ef05383282e",
+    "priorita": 8,
+    "categoria": "informa",
+    "nome_famiglia": "Note positive"
+   },
+   {
+    "famiglia": "dato",
+    "data": "2024-04-03",
+    "testo": "Verificare il dato: Stefano Guidi non ha dati nelle ultime due sedute (01/04 e 03/04), dopo che c'erano nelle precedenti.",
+    "giocatore_id": 8,
+    "giocatore": "Stefano Guidi",
+    "riassunto": false,
+    "gravita": 0.0,
+    "evidenze": [],
+    "metriche": [],
+    "chiude": null,
+    "urgente": false,
+    "id": "abd346aade8a",
+    "priorita": 0,
+    "categoria": "dato",
+    "nome_famiglia": "Qualità del dato"
+   },
+   {
+    "famiglia": "dato",
+    "data": "2024-04-03",
+    "testo": "Verificare il dato: Andrea Melis non ha dati nelle ultime due sedute (01/04 e 03/04), dopo che c'erano nelle precedenti.",
+    "giocatore_id": 11,
+    "giocatore": "Andrea Melis",
+    "riassunto": false,
+    "gravita": 0.0,
+    "evidenze": [],
+    "metriche": [],
+    "chiude": null,
+    "urgente": false,
+    "id": "51b51314fb6c",
+    "priorita": 0,
+    "categoria": "dato",
+    "nome_famiglia": "Qualità del dato"
+   }
+  ],
+  "2024-04-04": [
+   {
+    "famiglia": "velocita",
+    "data": "2024-04-04",
+    "testo": "Valutare se serve uno stimolo di velocità per Federico Santini: da MD-4 a MD-2 ha registrato 8 m di sprint e 112 m di HSR, contro un riferimento di 28 m e 308 m per quei giorni, prima della partita del 06/04/2024.",
+    "giocatore_id": 13,
+    "giocatore": "Federico Santini",
+    "riassunto": false,
+    "gravita": 0.7103519212401733,
+    "evidenze": [
+     "velocita/2024-04-06/13/spr",
+     "velocita/2024-04-06/13/hsr"
+    ],
+    "metriche": [
+     "hsr",
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "b0467afe3c1a",
+    "priorita": 2,
+    "categoria": "azione",
+    "nome_famiglia": "Alta velocità prima della partita"
+   },
+   {
+    "famiglia": "insolito",
+    "data": "2024-04-04",
+    "testo": "Verificare se il carico di Tommaso Ferrandi a MD-2 era previsto: alta velocità 488 m (fascia larga 59-298 m).",
+    "giocatore_id": 1,
+    "giocatore": "Tommaso Ferrandi",
+    "riassunto": false,
+    "gravita": 1.63769060341457,
+    "evidenze": [
+     "seduta/2024-04-04/1/hsr"
+    ],
+    "metriche": [
+     "hsr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "d005eeeda14d",
+    "priorita": 3,
+    "categoria": "azione",
+    "nome_famiglia": "Carico insolito"
+   },
+   {
+    "famiglia": "positivo",
+    "data": "2024-04-04",
+    "testo": "Da segnalare: Andrea Melis è di nuovo nel suo carico abituale in distanza, alta velocità e sprint, 9 giorni dopo il rientro.",
+    "giocatore_id": 11,
+    "giocatore": "Andrea Melis",
+    "riassunto": false,
+    "gravita": 0.0,
+    "evidenze": [
+     "seduta/2024-04-04/11/td",
+     "seduta/2024-04-04/11/hsr",
+     "seduta/2024-04-04/11/spr"
+    ],
+    "metriche": [
+     "td",
+     "hsr",
+     "spr"
+    ],
+    "chiude": "rientro",
+    "urgente": false,
+    "id": "4097559ca698",
+    "priorita": 8,
+    "categoria": "informa",
+    "nome_famiglia": "Note positive"
+   }
+  ],
+  "2024-04-05": [
+   {
+    "famiglia": "insolito",
+    "data": "2024-04-05",
+    "testo": "Verificare se il carico di Federico Santini a MD-1 era previsto: alta velocità 304 m (fascia larga 4-111 m) e sprint 211 m (fascia larga 0-24 m).",
+    "giocatore_id": 13,
+    "giocatore": "Federico Santini",
+    "riassunto": false,
+    "gravita": 8.848517830847044,
+    "evidenze": [
+     "seduta/2024-04-05/13/hsr",
+     "seduta/2024-04-05/13/spr"
+    ],
+    "metriche": [
+     "hsr",
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "0466966930c0",
+    "priorita": 3,
+    "categoria": "azione",
+    "nome_famiglia": "Carico insolito"
+   },
+   {
+    "famiglia": "insolito",
+    "data": "2024-04-05",
+    "testo": "Verificare se il carico di Tommaso Ferrandi a MD-1 era previsto: alta velocità 239 m (fascia larga 1-96 m) e sprint 148 m (fascia larga 0-51 m).",
+    "giocatore_id": 1,
+    "giocatore": "Tommaso Ferrandi",
+    "riassunto": false,
+    "gravita": 2.902703163639464,
+    "evidenze": [
+     "seduta/2024-04-05/1/hsr",
+     "seduta/2024-04-05/1/spr"
+    ],
+    "metriche": [
+     "hsr",
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "a88d5e204768",
+    "priorita": 3,
+    "categoria": "azione",
+    "nome_famiglia": "Carico insolito"
+   },
+   {
+    "famiglia": "calo",
+    "data": "2024-04-05",
+    "testo": "Approfondire con il giocatore e lo staff: nelle ultime due settimane, in tre sedute, Simone Amato ha fatto meno distanza totale del suo solito, mentre la squadra in quelle sedute era nella norma (03/04, 04/04 e 05/04).",
+    "giocatore_id": 20,
+    "giocatore": "Simone Amato",
+    "riassunto": false,
+    "gravita": 3.0,
+    "evidenze": [
+     "seduta/2024-04-03/20/td",
+     "seduta/2024-04-04/20/td",
+     "seduta/2024-04-05/20/td"
+    ],
+    "metriche": [
+     "td"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "3b81122e883e",
+    "priorita": 5,
+    "categoria": "azione",
+    "nome_famiglia": "Calo persistente"
+   }
+  ],
+  "2024-04-06": [],
+  "2024-04-08": [
+   {
+    "famiglia": "richiamo",
+    "data": "2024-04-08",
+    "testo": "Valutare se serve un richiamo per Simone Amato: non è partito titolare il 06/04/2024 e nelle sedute postpartita registrate ha fatto 0 m di HSR, sotto la sua fascia storica (169-377 m); con la partita arriva al 27% del suo HSR di riferimento.",
+    "giocatore_id": 20,
+    "giocatore": "Simone Amato",
+    "riassunto": false,
+    "gravita": 1.0,
+    "evidenze": [
+     "compensazione/2024-04-06/20/hsr"
+    ],
+    "metriche": [
+     "hsr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "1dad7e23f095",
+    "priorita": 1,
+    "categoria": "azione",
+    "nome_famiglia": "Richiamo dopo la partita"
+   },
+   {
+    "famiglia": "insolito",
+    "data": "2024-04-08",
+    "testo": "Verificare se il programma prevedeva questo carico: la distanza totale mediana dei non titolari registrata oggi è 3.015 m, contro i 4.601 m delle sedute storiche di MD+2.",
+    "giocatore_id": null,
+    "giocatore": null,
+    "riassunto": false,
+    "gravita": 50.0,
+    "evidenze": [
+     "settimana/2024-04-08/non titolari/td"
+    ],
+    "metriche": [
+     "td"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "b8cae9bf844c",
+    "priorita": 3,
+    "categoria": "azione",
+    "nome_famiglia": "Carico insolito"
+   },
+   {
+    "famiglia": "rientro",
+    "data": "2024-04-08",
+    "testo": "Stefano Guidi è tornato dopo 9 giorni senza dati (quattro sedute): oggi ha fatto il 64% della sua distanza abituale per MD+2. Vice non sa perché mancava.",
+    "giocatore_id": 8,
+    "giocatore": "Stefano Guidi",
+    "riassunto": false,
+    "gravita": 4.0,
+    "evidenze": [
+     "seduta/2024-04-08/8/td"
+    ],
+    "metriche": [
+     "td"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "6d9385c1cea5",
+    "priorita": 6,
+    "categoria": "informa",
+    "nome_famiglia": "Rientro dopo un'assenza"
+   },
+   {
+    "famiglia": "calo",
+    "data": "2024-04-08",
+    "testo": "Approfondire con il giocatore e lo staff: nelle ultime quattro settimane Matteo Basile ha fatto meno sprint di due-tre mesi fa, negli stessi giorni prima della partita (scarto mediano: sprint -32%).",
+    "giocatore_id": 18,
+    "giocatore": "Matteo Basile",
+    "riassunto": true,
+    "gravita": 32.05254515599343,
+    "evidenze": [],
+    "metriche": [
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "7c2725e591b7",
+    "priorita": 5,
+    "categoria": "azione",
+    "nome_famiglia": "Calo persistente"
+   }
+  ],
+  "2024-04-10": [
+   {
+    "famiglia": "calo",
+    "data": "2024-04-10",
+    "testo": "Approfondire con il giocatore e lo staff: nelle ultime due settimane, in cinque sedute, Simone Amato ha fatto meno alta velocità, sprint e distanza totale del suo solito, mentre la squadra in quelle sedute era nella norma (03/04, 04/04, 05/04, 08/04 e 10/04).",
+    "giocatore_id": 20,
+    "giocatore": "Simone Amato",
+    "riassunto": false,
+    "gravita": 5.0,
+    "evidenze": [
+     "seduta/2024-04-04/20/hsr",
+     "seduta/2024-04-05/20/hsr",
+     "seduta/2024-04-10/20/hsr",
+     "seduta/2024-04-04/20/spr",
+     "seduta/2024-04-08/20/spr",
+     "seduta/2024-04-10/20/spr",
+     "seduta/2024-04-03/20/td",
+     "seduta/2024-04-04/20/td",
+     "seduta/2024-04-05/20/td",
+     "seduta/2024-04-10/20/td"
+    ],
+    "metriche": [
+     "hsr",
+     "spr",
+     "td"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "f65cec65ded7",
+    "priorita": 5,
+    "categoria": "azione",
+    "nome_famiglia": "Calo persistente"
+   },
+   {
+    "famiglia": "positivo",
+    "data": "2024-04-10",
+    "testo": "Da segnalare: Gabriele Longo è di nuovo nel suo carico abituale in distanza, alta velocità e sprint, 7 giorni dopo il rientro.",
+    "giocatore_id": 14,
+    "giocatore": "Gabriele Longo",
+    "riassunto": false,
+    "gravita": 0.0,
+    "evidenze": [
+     "seduta/2024-04-10/14/td",
+     "seduta/2024-04-10/14/hsr",
+     "seduta/2024-04-10/14/spr"
+    ],
+    "metriche": [
+     "td",
+     "hsr",
+     "spr"
+    ],
+    "chiude": "rientro",
+    "urgente": false,
+    "id": "e51153135eba",
+    "priorita": 8,
+    "categoria": "informa",
+    "nome_famiglia": "Note positive"
+   },
+   {
+    "famiglia": "dato",
+    "data": "2024-04-10",
+    "testo": "Verificare il dato: Pietro Ghio non ha dati nelle ultime due sedute (08/04 e 10/04), dopo che c'erano nelle precedenti.",
+    "giocatore_id": 12,
+    "giocatore": "Pietro Ghio",
+    "riassunto": false,
+    "gravita": 0.0,
+    "evidenze": [],
+    "metriche": [],
+    "chiude": null,
+    "urgente": false,
+    "id": "74c8e8f8072e",
+    "priorita": 0,
+    "categoria": "dato",
+    "nome_famiglia": "Qualità del dato"
+   }
+  ],
+  "2024-04-11": [
+   {
+    "famiglia": "insolito",
+    "data": "2024-04-11",
+    "testo": "Verificare se il carico di Nicolò Serafini a MD-2 era previsto: sprint 105 m (fascia larga 0-48 m).",
+    "giocatore_id": 3,
+    "giocatore": "Nicolò Serafini",
+    "riassunto": false,
+    "gravita": 2.196969696969697,
+    "evidenze": [
+     "seduta/2024-04-11/3/spr"
+    ],
+    "metriche": [
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "9dcb782ea625",
+    "priorita": 3,
+    "categoria": "azione",
+    "nome_famiglia": "Carico insolito"
+   },
+   {
+    "famiglia": "settimana",
+    "data": "2024-04-11",
+    "testo": "Valutare se c'è margine per Simone Amato: finora gli allenamenti valgono in alta velocità il 48% della sua partita, contro una mediana di squadra del 128%; di solito, a questo punto della settimana, gli sta più vicino.",
+    "giocatore_id": 20,
+    "giocatore": "Simone Amato",
+    "riassunto": false,
+    "gravita": 2.2059313231617126,
+    "evidenze": [
+     "partita/2024-04-11/20/hsr/settimana"
+    ],
+    "metriche": [
+     "hsr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "27c60d2c8864",
+    "priorita": 4,
+    "categoria": "azione",
+    "nome_famiglia": "Settimana sopra o sotto il solito"
+   }
+  ],
+  "2024-04-12": [
+   {
+    "famiglia": "rientro",
+    "data": "2024-04-12",
+    "testo": "Luca Cerutti è tornato dopo 8 giorni senza dati (quattro sedute): oggi ha fatto il 99% della sua distanza abituale per MD-1. Vice non sa perché mancava.",
+    "giocatore_id": 16,
+    "giocatore": "Luca Cerutti",
+    "riassunto": false,
+    "gravita": 4.0,
+    "evidenze": [
+     "seduta/2024-04-12/16/td"
+    ],
+    "metriche": [
+     "td"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "10184dfaecbb",
+    "priorita": 6,
+    "categoria": "informa",
+    "nome_famiglia": "Rientro dopo un'assenza"
+   },
+   {
+    "famiglia": "positivo",
+    "data": "2024-04-12",
+    "testo": "Da segnalare: Simone Amato è tornato nel suo carico abituale in alta velocità e distanza totale nelle ultime due sedute, dopo un periodo sotto il suo solito.",
+    "giocatore_id": 20,
+    "giocatore": "Simone Amato",
+    "riassunto": false,
+    "gravita": 0.0,
+    "evidenze": [
+     "seduta/2024-04-12/20/hsr",
+     "seduta/2024-04-12/20/td"
+    ],
+    "metriche": [
+     "hsr",
+     "td"
+    ],
+    "chiude": "calo",
+    "urgente": false,
+    "id": "3feed4e8c4b8",
+    "priorita": 8,
+    "categoria": "informa",
+    "nome_famiglia": "Note positive"
+   }
+  ],
+  "2024-04-13": [],
+  "2024-04-15": [
+   {
+    "famiglia": "rientro",
+    "data": "2024-04-15",
+    "testo": "Pietro Ghio è tornato dopo 10 giorni senza dati (quattro sedute): oggi ha fatto il 96% della sua distanza abituale per MD+2. Vice non sa perché mancava.",
+    "giocatore_id": 12,
+    "giocatore": "Pietro Ghio",
+    "riassunto": false,
+    "gravita": 4.0,
+    "evidenze": [
+     "seduta/2024-04-15/12/td"
+    ],
+    "metriche": [
+     "td"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "77bdae4bfab2",
+    "priorita": 6,
+    "categoria": "informa",
+    "nome_famiglia": "Rientro dopo un'assenza"
+   },
+   {
+    "famiglia": "positivo",
+    "data": "2024-04-15",
+    "testo": "Da segnalare: Stefano Guidi è di nuovo nel suo carico abituale in distanza, alta velocità e sprint, 7 giorni dopo il rientro.",
+    "giocatore_id": 8,
+    "giocatore": "Stefano Guidi",
+    "riassunto": false,
+    "gravita": 0.0,
+    "evidenze": [
+     "seduta/2024-04-15/8/td",
+     "seduta/2024-04-15/8/hsr",
+     "seduta/2024-04-15/8/spr"
+    ],
+    "metriche": [
+     "td",
+     "hsr",
+     "spr"
+    ],
+    "chiude": "rientro",
+    "urgente": false,
+    "id": "27d50d9905a1",
+    "priorita": 8,
+    "categoria": "informa",
+    "nome_famiglia": "Note positive"
+   },
+   {
+    "famiglia": "calo",
+    "data": "2024-04-15",
+    "testo": "Approfondire con il giocatore e lo staff: nelle ultime quattro settimane Lorenzo Cortese ha fatto meno sprint di due-tre mesi fa, negli stessi giorni prima della partita (scarto mediano: sprint -50%).",
+    "giocatore_id": 9,
+    "giocatore": "Lorenzo Cortese",
+    "riassunto": true,
+    "gravita": 50.349650349650354,
+    "evidenze": [],
+    "metriche": [
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "5b2f6f27fd08",
+    "priorita": 5,
+    "categoria": "azione",
+    "nome_famiglia": "Calo persistente"
+   },
+   {
+    "famiglia": "calo",
+    "data": "2024-04-15",
+    "testo": "Approfondire con il giocatore e lo staff: nelle ultime quattro settimane Simone Amato ha fatto meno sprint di due-tre mesi fa, negli stessi giorni prima della partita (scarto mediano: sprint -32%).",
+    "giocatore_id": 20,
+    "giocatore": "Simone Amato",
+    "riassunto": true,
+    "gravita": 31.58581116327596,
+    "evidenze": [],
+    "metriche": [
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "e7b15f17b61b",
+    "priorita": 5,
+    "categoria": "azione",
+    "nome_famiglia": "Calo persistente"
+   }
+  ],
+  "2024-04-17": [
+   {
+    "famiglia": "calo",
+    "data": "2024-04-17",
+    "testo": "Approfondire con il giocatore e lo staff: nelle ultime due settimane, in cinque sedute, Simone Amato ha fatto meno sprint del suo solito, mentre la squadra in quelle sedute era nella norma (04/04, 08/04, 10/04, 11/04 e 17/04).",
+    "giocatore_id": 20,
+    "giocatore": "Simone Amato",
+    "riassunto": false,
+    "gravita": 5.0,
+    "evidenze": [
+     "seduta/2024-04-04/20/spr",
+     "seduta/2024-04-08/20/spr",
+     "seduta/2024-04-10/20/spr",
+     "seduta/2024-04-11/20/spr",
+     "seduta/2024-04-17/20/spr"
+    ],
+    "metriche": [
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "502ac875135a",
+    "priorita": 5,
+    "categoria": "azione",
+    "nome_famiglia": "Calo persistente"
+   },
+   {
+    "famiglia": "calo",
+    "data": "2024-04-17",
+    "testo": "Approfondire con il giocatore e lo staff: nelle ultime due settimane, in quattro sedute, Riccardo Benedetti ha fatto meno distanza totale del suo solito, mentre la squadra in quelle sedute era nella norma (04/04, 11/04, 12/04 e 17/04).",
+    "giocatore_id": 6,
+    "giocatore": "Riccardo Benedetti",
+    "riassunto": false,
+    "gravita": 4.0,
+    "evidenze": [
+     "seduta/2024-04-04/6/td",
+     "seduta/2024-04-11/6/td",
+     "seduta/2024-04-12/6/td",
+     "seduta/2024-04-17/6/td"
+    ],
+    "metriche": [
+     "td"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "80528cff9a63",
+    "priorita": 5,
+    "categoria": "azione",
+    "nome_famiglia": "Calo persistente"
+   },
+   {
+    "famiglia": "positivo",
+    "data": "2024-04-17",
+    "testo": "Da segnalare: Luca Cerutti è di nuovo nel suo carico abituale in distanza, alta velocità e sprint, 5 giorni dopo il rientro.",
+    "giocatore_id": 16,
+    "giocatore": "Luca Cerutti",
+    "riassunto": false,
+    "gravita": 0.0,
+    "evidenze": [
+     "seduta/2024-04-17/16/td",
+     "seduta/2024-04-17/16/hsr",
+     "seduta/2024-04-17/16/spr"
+    ],
+    "metriche": [
+     "td",
+     "hsr",
+     "spr"
+    ],
+    "chiude": "rientro",
+    "urgente": false,
+    "id": "b748711aba22",
+    "priorita": 8,
+    "categoria": "informa",
+    "nome_famiglia": "Note positive"
+   },
+   {
+    "famiglia": "dato",
+    "data": "2024-04-17",
+    "testo": "Verificare il dato: Tommaso Ferrandi non ha dati nelle ultime due sedute (15/04 e 17/04), dopo che c'erano nelle precedenti.",
+    "giocatore_id": 1,
+    "giocatore": "Tommaso Ferrandi",
+    "riassunto": false,
+    "gravita": 0.0,
+    "evidenze": [],
+    "metriche": [],
+    "chiude": null,
+    "urgente": false,
+    "id": "618d70bc194c",
+    "priorita": 0,
+    "categoria": "dato",
+    "nome_famiglia": "Qualità del dato"
+   }
+  ],
+  "2024-04-18": [
+   {
+    "famiglia": "dato",
+    "data": "2024-04-18",
+    "testo": "Verificare il dato: Stefano Guidi non ha dati nelle ultime due sedute (17/04 e 18/04), dopo che c'erano nelle precedenti.",
+    "giocatore_id": 8,
+    "giocatore": "Stefano Guidi",
+    "riassunto": false,
+    "gravita": 0.0,
+    "evidenze": [],
+    "metriche": [],
+    "chiude": null,
+    "urgente": false,
+    "id": "b1f8ae346f50",
+    "priorita": 0,
+    "categoria": "dato",
+    "nome_famiglia": "Qualità del dato"
+   }
+  ],
+  "2024-04-19": [
+   {
+    "famiglia": "insolito",
+    "data": "2024-04-19",
+    "testo": "Verificare se il carico di Matteo Basile a MD-1 era previsto: alta velocità 69 m (fascia larga 2-53 m).",
+    "giocatore_id": 18,
+    "giocatore": "Matteo Basile",
+    "riassunto": false,
+    "gravita": 1.3111827709317052,
+    "evidenze": [
+     "seduta/2024-04-19/18/hsr"
+    ],
+    "metriche": [
+     "hsr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "1e34d486c645",
+    "priorita": 3,
+    "categoria": "azione",
+    "nome_famiglia": "Carico insolito"
+   },
+   {
+    "famiglia": "calo",
+    "data": "2024-04-19",
+    "testo": "Approfondire con il giocatore e lo staff: nelle ultime due settimane, in quattro sedute, Christian Porcu ha fatto meno distanza totale del suo solito, mentre la squadra in quelle sedute era nella norma (11/04, 12/04, 18/04 e 19/04).",
+    "giocatore_id": 19,
+    "giocatore": "Christian Porcu",
+    "riassunto": false,
+    "gravita": 4.0,
+    "evidenze": [
+     "seduta/2024-04-11/19/td",
+     "seduta/2024-04-12/19/td",
+     "seduta/2024-04-18/19/td",
+     "seduta/2024-04-19/19/td"
+    ],
+    "metriche": [
+     "td"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "0bc5fe594c49",
+    "priorita": 5,
+    "categoria": "azione",
+    "nome_famiglia": "Calo persistente"
+   },
+   {
+    "famiglia": "positivo",
+    "data": "2024-04-19",
+    "testo": "Da segnalare: Riccardo Benedetti è tornato nel suo carico abituale in distanza totale nelle ultime due sedute, dopo un periodo sotto il suo solito.",
+    "giocatore_id": 6,
+    "giocatore": "Riccardo Benedetti",
+    "riassunto": false,
+    "gravita": 0.0,
+    "evidenze": [
+     "seduta/2024-04-19/6/td"
+    ],
+    "metriche": [
+     "td"
+    ],
+    "chiude": "calo",
+    "urgente": false,
+    "id": "677b1f17bf11",
+    "priorita": 8,
+    "categoria": "informa",
+    "nome_famiglia": "Note positive"
+   }
+  ],
+  "2024-04-20": [],
+  "2024-04-23": [
+   {
+    "famiglia": "insolito",
+    "data": "2024-04-23",
+    "testo": "Verificare se il programma prevedeva questo carico: la distanza totale mediana registrata oggi è 3.872 m, contro i 5.756 m delle sedute storiche di MD-4.",
+    "giocatore_id": null,
+    "giocatore": null,
+    "riassunto": false,
+    "gravita": 50.0,
+    "evidenze": [
+     "settimana/2024-04-23/tutti/td"
+    ],
+    "metriche": [
+     "td"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "afb8ecc3763e",
+    "priorita": 3,
+    "categoria": "azione",
+    "nome_famiglia": "Carico insolito"
+   },
+   {
+    "famiglia": "insolito",
+    "data": "2024-04-23",
+    "testo": "Verificare se il programma prevedeva questo carico: la distanza ad alta velocità (HSR) mediana registrata oggi è 106 m, contro i 208 m delle sedute storiche di MD-4.",
+    "giocatore_id": null,
+    "giocatore": null,
+    "riassunto": false,
+    "gravita": 50.0,
+    "evidenze": [
+     "settimana/2024-04-23/tutti/hsr"
+    ],
+    "metriche": [
+     "hsr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "dc17b4769415",
+    "priorita": 3,
+    "categoria": "azione",
+    "nome_famiglia": "Carico insolito"
+   },
+   {
+    "famiglia": "rientro",
+    "data": "2024-04-23",
+    "testo": "Tommaso Ferrandi è tornato dopo 11 giorni senza dati (quattro sedute): oggi ha fatto l'82% della sua distanza abituale per MD-4. Vice non sa perché mancava.",
+    "giocatore_id": 1,
+    "giocatore": "Tommaso Ferrandi",
+    "riassunto": false,
+    "gravita": 4.0,
+    "evidenze": [
+     "seduta/2024-04-23/1/td"
+    ],
+    "metriche": [
+     "td"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "5325efa6da1c",
+    "priorita": 6,
+    "categoria": "informa",
+    "nome_famiglia": "Rientro dopo un'assenza"
+   },
+   {
+    "famiglia": "calo",
+    "data": "2024-04-23",
+    "testo": "Approfondire con il giocatore e lo staff: nelle ultime quattro settimane Pietro Ghio ha fatto meno sprint di due-tre mesi fa, negli stessi giorni prima della partita (scarto mediano: sprint -44%).",
+    "giocatore_id": 12,
+    "giocatore": "Pietro Ghio",
+    "riassunto": true,
+    "gravita": 44.36507936507937,
+    "evidenze": [],
+    "metriche": [
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "03021729f14e",
+    "priorita": 5,
+    "categoria": "azione",
+    "nome_famiglia": "Calo persistente"
+   }
+  ],
+  "2024-04-24": [
+   {
+    "famiglia": "insolito",
+    "data": "2024-04-24",
+    "testo": "Verificare se il carico di Stefano Guidi a MD-3 era previsto: alta velocità 360 m (fascia larga 77-258 m) e sprint 139 m (fascia larga 3-69 m).",
+    "giocatore_id": 8,
+    "giocatore": "Stefano Guidi",
+    "riassunto": false,
+    "gravita": 2.023735992235067,
+    "evidenze": [
+     "seduta/2024-04-24/8/hsr",
+     "seduta/2024-04-24/8/spr"
+    ],
+    "metriche": [
+     "hsr",
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "670ff373c474",
+    "priorita": 3,
+    "categoria": "azione",
+    "nome_famiglia": "Carico insolito"
+   },
+   {
+    "famiglia": "rientro",
+    "data": "2024-04-24",
+    "testo": "Stefano Guidi è tornato dopo 9 giorni senza dati (quattro sedute): oggi ha fatto il 66% della sua distanza abituale per MD-3. Vice non sa perché mancava.",
+    "giocatore_id": 8,
+    "giocatore": "Stefano Guidi",
+    "riassunto": false,
+    "gravita": 4.0,
+    "evidenze": [
+     "seduta/2024-04-24/8/td"
+    ],
+    "metriche": [
+     "td"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "88429dda4e90",
+    "priorita": 6,
+    "categoria": "informa",
+    "nome_famiglia": "Rientro dopo un'assenza"
+   },
+   {
+    "famiglia": "dato",
+    "data": "2024-04-24",
+    "testo": "Verificare il dato: Federico Santini non ha dati nelle ultime due sedute (23/04 e 24/04), dopo che c'erano nelle precedenti.",
+    "giocatore_id": 13,
+    "giocatore": "Federico Santini",
+    "riassunto": false,
+    "gravita": 0.0,
+    "evidenze": [],
+    "metriche": [],
+    "chiude": null,
+    "urgente": false,
+    "id": "83eef94f0fbd",
+    "priorita": 0,
+    "categoria": "dato",
+    "nome_famiglia": "Qualità del dato"
+   },
+   {
+    "famiglia": "dato",
+    "data": "2024-04-24",
+    "testo": "Verificare il dato: Christian Porcu non ha dati nelle ultime due sedute (23/04 e 24/04), dopo che c'erano nelle precedenti.",
+    "giocatore_id": 19,
+    "giocatore": "Christian Porcu",
+    "riassunto": false,
+    "gravita": 0.0,
+    "evidenze": [],
+    "metriche": [],
+    "chiude": null,
+    "urgente": false,
+    "id": "4db93066520c",
+    "priorita": 0,
+    "categoria": "dato",
+    "nome_famiglia": "Qualità del dato"
+   }
+  ],
+  "2024-04-26": [
+   {
+    "famiglia": "insolito",
+    "data": "2024-04-26",
+    "testo": "Verificare se il carico di Simone Amato a MD-1 era previsto: alta velocità 159 m (fascia larga 1-84 m).",
+    "giocatore_id": 20,
+    "giocatore": "Simone Amato",
+    "riassunto": false,
+    "gravita": 1.8940438871473357,
+    "evidenze": [
+     "seduta/2024-04-26/20/hsr"
+    ],
+    "metriche": [
+     "hsr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "6ccc9bd58ada",
+    "priorita": 3,
+    "categoria": "azione",
+    "nome_famiglia": "Carico insolito"
+   },
+   {
+    "famiglia": "positivo",
+    "data": "2024-04-26",
+    "testo": "Da segnalare: Tommaso Ferrandi è di nuovo nel suo carico abituale in distanza, alta velocità e sprint, 3 giorni dopo il rientro.",
+    "giocatore_id": 1,
+    "giocatore": "Tommaso Ferrandi",
+    "riassunto": false,
+    "gravita": 0.0,
+    "evidenze": [
+     "seduta/2024-04-26/1/td",
+     "seduta/2024-04-26/1/hsr",
+     "seduta/2024-04-26/1/spr"
+    ],
+    "metriche": [
+     "td",
+     "hsr",
+     "spr"
+    ],
+    "chiude": "rientro",
+    "urgente": false,
+    "id": "c568dc68987a",
+    "priorita": 8,
+    "categoria": "informa",
+    "nome_famiglia": "Note positive"
+   }
+  ],
+  "2024-04-27": [],
+  "2024-05-08": [
+   {
+    "famiglia": "insolito",
+    "data": "2024-05-08",
+    "testo": "Verificare se il programma prevedeva questo carico: la distanza totale mediana registrata oggi è 3.855 m, contro i 5.649 m delle sedute storiche di MD-3.",
+    "giocatore_id": null,
+    "giocatore": null,
+    "riassunto": false,
+    "gravita": 50.0,
+    "evidenze": [
+     "settimana/2024-05-08/tutti/td"
+    ],
+    "metriche": [
+     "td"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "bb02489f7bca",
+    "priorita": 3,
+    "categoria": "azione",
+    "nome_famiglia": "Carico insolito"
+   },
+   {
+    "famiglia": "insolito",
+    "data": "2024-05-08",
+    "testo": "Verificare se il programma prevedeva questo carico: la distanza ad alta velocità (HSR) mediana registrata oggi è 50 m, contro i 198 m delle sedute storiche di MD-3.",
+    "giocatore_id": null,
+    "giocatore": null,
+    "riassunto": false,
+    "gravita": 50.0,
+    "evidenze": [
+     "settimana/2024-05-08/tutti/hsr"
+    ],
+    "metriche": [
+     "hsr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "099366a824ad",
+    "priorita": 3,
+    "categoria": "azione",
+    "nome_famiglia": "Carico insolito"
+   },
+   {
+    "famiglia": "rientro",
+    "data": "2024-05-08",
+    "testo": "Federico Santini è tornato dopo 19 giorni senza dati (tre sedute): oggi ha fatto il 65% della sua distanza abituale per MD-3. Vice non sa perché mancava.",
+    "giocatore_id": 13,
+    "giocatore": "Federico Santini",
+    "riassunto": false,
+    "gravita": 3.0,
+    "evidenze": [
+     "seduta/2024-05-08/13/td"
+    ],
+    "metriche": [
+     "td"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "00523d96b691",
+    "priorita": 6,
+    "categoria": "informa",
+    "nome_famiglia": "Rientro dopo un'assenza"
+   },
+   {
+    "famiglia": "calo",
+    "data": "2024-05-08",
+    "testo": "Approfondire con il giocatore e lo staff: nelle ultime quattro settimane Riccardo Benedetti ha fatto meno sprint di due-tre mesi fa, negli stessi giorni prima della partita (scarto mediano: sprint -67%).",
+    "giocatore_id": 6,
+    "giocatore": "Riccardo Benedetti",
+    "riassunto": true,
+    "gravita": 66.66666666666667,
+    "evidenze": [],
+    "metriche": [
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "8a95883b9250",
+    "priorita": 5,
+    "categoria": "azione",
+    "nome_famiglia": "Calo persistente"
+   },
+   {
+    "famiglia": "calo",
+    "data": "2024-05-08",
+    "testo": "Approfondire con il giocatore e lo staff: nelle ultime quattro settimane Christian Porcu ha fatto meno alta velocità e sprint di due-tre mesi fa, negli stessi giorni prima della partita (scarto mediano: alta velocità -50%, sprint -52%).",
+    "giocatore_id": 19,
+    "giocatore": "Christian Porcu",
+    "riassunto": true,
+    "gravita": 51.93621867881548,
+    "evidenze": [],
+    "metriche": [
+     "hsr",
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "1f54b9c7c451",
+    "priorita": 5,
+    "categoria": "azione",
+    "nome_famiglia": "Calo persistente"
+   },
+   {
+    "famiglia": "calo",
+    "data": "2024-05-08",
+    "testo": "Approfondire con il giocatore e lo staff: nelle ultime quattro settimane Tommaso Ferrandi ha fatto meno alta velocità di due-tre mesi fa, negli stessi giorni prima della partita (scarto mediano: alta velocità -29%).",
+    "giocatore_id": 1,
+    "giocatore": "Tommaso Ferrandi",
+    "riassunto": true,
+    "gravita": 29.27314659822192,
+    "evidenze": [],
+    "metriche": [
+     "hsr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "b0da87d71ac1",
+    "priorita": 5,
+    "categoria": "azione",
+    "nome_famiglia": "Calo persistente"
+   },
+   {
+    "famiglia": "calo",
+    "data": "2024-05-08",
+    "testo": "Approfondire con il giocatore e lo staff: nelle ultime quattro settimane Alessio Dalmasso ha fatto meno alta velocità di due-tre mesi fa, negli stessi giorni prima della partita (scarto mediano: alta velocità -25%).",
+    "giocatore_id": 4,
+    "giocatore": "Alessio Dalmasso",
+    "riassunto": true,
+    "gravita": 25.423395553691275,
+    "evidenze": [],
+    "metriche": [
+     "hsr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "4c3b0d72fa98",
+    "priorita": 5,
+    "categoria": "azione",
+    "nome_famiglia": "Calo persistente"
+   },
+   {
+    "famiglia": "positivo",
+    "data": "2024-05-08",
+    "testo": "Da segnalare: in partita Alessio Dalmasso è sopra il suo solito di alta velocità da due gare di fila da titolare (493 m e 576 m; di solito fino a 447 m). Il contesto della partita conta: non è un giudizio di rendimento.",
+    "giocatore_id": 4,
+    "giocatore": "Alessio Dalmasso",
+    "riassunto": true,
+    "gravita": 0.0,
+    "evidenze": [],
+    "metriche": [
+     "hsr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "d5acbf3a685f",
+    "priorita": 8,
+    "categoria": "informa",
+    "nome_famiglia": "Note positive"
+   }
+  ],
+  "2024-05-09": [
+   {
+    "famiglia": "velocita",
+    "data": "2024-05-09",
+    "testo": "Valutare se serve uno stimolo di velocità per dieci giocatori (Christian Porcu, Gabriele Longo, Lorenzo Cortese, Luca Cerutti, Matteo Basile, Nicolò Serafini, Pietro Ghio, Simone Amato, Stefano Guidi e Tommaso Ferrandi): da MD-4 a MD-2 hanno registrato poco sprint o poca alta velocità rispetto al loro solito, prima della partita del 11/05.",
+    "giocatore_id": null,
+    "giocatore": null,
+    "riassunto": false,
+    "gravita": 10.0,
+    "evidenze": [
+     "velocita/2024-05-11/12/spr",
+     "velocita/2024-05-11/12/hsr",
+     "velocita/2024-05-11/14/spr",
+     "velocita/2024-05-11/14/hsr",
+     "velocita/2024-05-11/20/spr",
+     "velocita/2024-05-11/20/hsr",
+     "velocita/2024-05-11/1/spr",
+     "velocita/2024-05-11/1/hsr",
+     "velocita/2024-05-11/9/spr",
+     "velocita/2024-05-11/9/hsr",
+     "velocita/2024-05-11/3/spr",
+     "velocita/2024-05-11/3/hsr",
+     "velocita/2024-05-11/8/spr",
+     "velocita/2024-05-11/8/hsr",
+     "velocita/2024-05-11/16/spr",
+     "velocita/2024-05-11/16/hsr",
+     "velocita/2024-05-11/19/spr",
+     "velocita/2024-05-11/19/hsr",
+     "velocita/2024-05-11/18/spr",
+     "velocita/2024-05-11/18/hsr"
+    ],
+    "metriche": [
+     "hsr",
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "02d6e2bcef2f",
+    "priorita": 2,
+    "categoria": "azione",
+    "nome_famiglia": "Alta velocità prima della partita"
+   },
+   {
+    "famiglia": "settimana",
+    "data": "2024-05-09",
+    "testo": "Verificare se per Andrea Melis era prevista una settimana più carica di quella dei compagni: finora gli allenamenti valgono in alta velocità il 91% della sua partita, contro una mediana di squadra del 32%; di solito, a questo punto della settimana, gli sta più vicino.",
+    "giocatore_id": 11,
+    "giocatore": "Andrea Melis",
+    "riassunto": false,
+    "gravita": 2.4618506424488564,
+    "evidenze": [
+     "partita/2024-05-09/11/hsr/settimana"
+    ],
+    "metriche": [
+     "hsr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "0b6094b37472",
+    "priorita": 4,
+    "categoria": "azione",
+    "nome_famiglia": "Settimana sopra o sotto il solito"
+   },
+   {
+    "famiglia": "settimana",
+    "data": "2024-05-09",
+    "testo": "Valutare se c'è margine per Pietro Ghio: finora gli allenamenti valgono in alta velocità il 13% della sua partita, contro una mediana di squadra del 32%; di solito, a questo punto della settimana, gli sta più vicino.",
+    "giocatore_id": 12,
+    "giocatore": "Pietro Ghio",
+    "riassunto": false,
+    "gravita": 1.848134668983707,
+    "evidenze": [
+     "partita/2024-05-09/12/hsr/settimana"
+    ],
+    "metriche": [
+     "hsr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "2ab796ad8c9a",
+    "priorita": 4,
+    "categoria": "azione",
+    "nome_famiglia": "Settimana sopra o sotto il solito"
+   },
+   {
+    "famiglia": "dato",
+    "data": "2024-05-09",
+    "testo": "Verificare il dato: Filippo Rinaldi non ha dati nelle ultime due sedute (08/05 e 09/05), dopo che c'erano nelle precedenti.",
+    "giocatore_id": 17,
+    "giocatore": "Filippo Rinaldi",
+    "riassunto": false,
+    "gravita": 0.0,
+    "evidenze": [],
+    "metriche": [],
+    "chiude": null,
+    "urgente": false,
+    "id": "0c9c2a09e715",
+    "priorita": 0,
+    "categoria": "dato",
+    "nome_famiglia": "Qualità del dato"
+   }
+  ],
+  "2024-05-10": [
+   {
+    "famiglia": "insolito",
+    "data": "2024-05-10",
+    "testo": "Verificare se il carico di Andrea Melis a MD-1 era previsto: distanza totale 5.210 m (fascia larga 2.226-3.705 m), alta velocità 399 m (fascia larga 13-178 m) e sprint 298 m (fascia larga 0-103 m).",
+    "giocatore_id": 11,
+    "giocatore": "Andrea Melis",
+    "riassunto": false,
+    "gravita": 2.8925298959465784,
+    "evidenze": [
+     "seduta/2024-05-10/11/td",
+     "seduta/2024-05-10/11/hsr",
+     "seduta/2024-05-10/11/spr"
+    ],
+    "metriche": [
+     "td",
+     "hsr",
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "e6a94d2abab1",
+    "priorita": 3,
+    "categoria": "azione",
+    "nome_famiglia": "Carico insolito"
+   },
+   {
+    "famiglia": "insolito",
+    "data": "2024-05-10",
+    "testo": "Verificare se il carico di Tommaso Ferrandi a MD-1 era previsto: alta velocità 196 m (fascia larga 2-125 m) e sprint 110 m (fascia larga 0-71 m).",
+    "giocatore_id": 1,
+    "giocatore": "Tommaso Ferrandi",
+    "riassunto": false,
+    "gravita": 1.5678220911102312,
+    "evidenze": [
+     "seduta/2024-05-10/1/hsr",
+     "seduta/2024-05-10/1/spr"
+    ],
+    "metriche": [
+     "hsr",
+     "spr"
+    ],
+    "chiude": null,
+    "urgente": false,
+    "id": "04fa5c43e737",
+    "priorita": 3,
+    "categoria": "azione",
+    "nome_famiglia": "Carico insolito"
+   },
+   {
+    "famiglia": "positivo",
+    "data": "2024-05-10",
+    "testo": "Da segnalare: Stefano Guidi è di nuovo nel suo carico abituale in distanza, alta velocità e sprint, 16 giorni dopo il rientro.",
+    "giocatore_id": 8,
+    "giocatore": "Stefano Guidi",
+    "riassunto": false,
+    "gravita": 0.0,
+    "evidenze": [
+     "seduta/2024-05-10/8/td",
+     "seduta/2024-05-10/8/hsr",
+     "seduta/2024-05-10/8/spr"
+    ],
+    "metriche": [
+     "td",
+     "hsr",
+     "spr"
+    ],
+    "chiude": "rientro",
+    "urgente": false,
+    "id": "3beac7823b9c",
+    "priorita": 8,
+    "categoria": "informa",
+    "nome_famiglia": "Note positive"
+   }
+  ]
+ }
+}

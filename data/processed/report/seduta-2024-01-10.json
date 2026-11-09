@@ -1,0 +1,15 @@
+{
+ "data": "2024-01-10",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 10/01/2024",
+ "testo": "## Sintesi\n\nLa seduta di MD-3 (tre giorni prima della partita, MD-3) mostra una distanza totale (TD) della squadra molto bassa rispetto all'abituale: percentile mediano di 10, con 15 giocatori su 18 sotto la fascia di riferimento [E2]. Anche corsa ad alta velocità (HSR), sprint (SPR) e distanza ad alto carico metabolico (HMLD) si collocano su percentili mediani bassi (29, 34 e 40) [E3, E4, E7], mentre accelerazioni (ACC) e decelerazioni (DCC) restano più in linea con l'abituale (percentili 51 e 47) [E5, E6]. In generale la seduta risulta sottotono rispetto al carico storico di MD-3.\n\n## Fuori fascia\n\n- Edoardo Tosi: TD 3.476 m, molto sotto la fascia larga (4.659 m–7.329 m) [E10]; HMLD 646 m, molto sotto la fascia larga (699 m–1.191 m) [E13].\n- Tommaso Ferrandi: TD 4.467 m, molto sotto la fascia larga (4.836 m–6.700 m) [E12].\n- Stefano Guidi: TD 4.414 m, molto sotto la fascia larga (4.749 m–6.502 m) [E11].\n- Riccardo Benedetti: TD 4.276 m, molto sotto la fascia larga (4.544 m–6.272 m) [E9].\n- Gabriele Longo: TD 4.077 m, molto sotto la fascia larga (4.245 m–6.580 m) [E8].\n- Simone Amato: ACC 89, sopra la fascia centrale (45–74) [E18].\n\nAltri fuori fascia centrale (dentro la larga): Andrea Melis su TD [E15], Alessio Dalmasso su HSR e ACC [E14, E17], Lorenzo Cortese su SPR [E16].\n\n## Spunti per lo staff\n\n- Verificare se il programma prevedeva questo carico: la distanza totale mediana registrata oggi è 4.511 m, contro i 5.573 m delle sedute storiche di MD-3. [E19]\n\n## Qualità del dato e limiti\n\n- Nessun dato incompleto segnalato dal motore.\n- La finestra MD-4…MD-2 non è ancora conclusa: i valori sono parziali fino al 10/01/2024.\n- Alcuni non titolari non hanno dati della partita del 07/01/2024: non è possibile distinguere se non hanno giocato o se il dato manca.",
+ "frasi_con_numeri": 10,
+ "verificate": 10,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.02158,
+ "secondi": 9.6,
+ "generato_il": "2026-10-28T09:34:43"
+}

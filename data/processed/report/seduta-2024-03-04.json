@@ -1,0 +1,15 @@
+{
+ "data": "2024-03-04",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 04/03/2024",
+ "testo": "## Sintesi\n\nLa seduta di allenamento del 04/03/2024 (MD+2, due giorni dopo la partita) mostra una distanza totale (TD) sistematicamente bassa rispetto al solito, con tutti i 7 giocatori sotto la mediana di gruppo [E2]. Al contrario, corsa ad alta velocità (HSR) e sprint (SPR) risultano sopra l'abituale per la maggioranza della squadra, con percentili mediani rispettivamente di 80 e 86 [E3, E4]. Accelerazioni (ACC) e decelerazioni (DCC) restano invece dentro i valori abituali per quasi tutti [E5, E6].\n\n## Fuori fascia\n\n- Filippo Rinaldi: TD 2.146 m, molto sotto la fascia larga (3.021 m–5.480 m) [E9].\n- Simone Amato: TD 3.864 m, molto sotto la fascia larga (4.092 m–5.278 m) [E8].\n- Samuele Pinna: distanza in SPR 361 m, molto sopra la fascia larga (2 m–324 m) [E10].\n- Elia Gariglio: TD 3.703 m, molto sotto la fascia larga (3.913 m–5.487 m) [E11].\n- Alessio Dalmasso: TD 4.019 m, sotto la fascia centrale (4.486 m–5.658 m) [E12]; SPR 285 m, sopra la fascia centrale (45 m–154 m) [E13].\n- Filippo Rinaldi: distanza ad alto carico metabolico (HMLD) 347 m, sotto la fascia centrale (584 m–810 m) [E15].\n\nIn totale 4 giocatori su 7 sono fuori dalla fascia larga in almeno una metrica [E1].\n\n## Titolari e non titolari\n\nTutti i giocatori monitorati oggi sono non titolari della partita del 02/03/2024. Rispetto al loro solito, Rinaldi, Amato, Gariglio e Dalmasso mostrano TD sotto fascia [E9, E8, E11, E12], mentre Pinna, Dalmasso, Amato e Gariglio mostrano SPR o HSR sopra fascia [E10, E13, E14, E16].\n\nPer l'HSR postpartita dei non titolari, 7 giocatori valutati risultano in linea, con mediana 362 m e nessuno molto sotto [E17, E18].\n\n## Spunti per lo staff\n\n- Verificare se il programma prevedeva questo carico: la distanza totale mediana dei non titolari registrata oggi è 3.703 m, contro i 4.680 m delle sedute storiche di MD+2. [E19]\n- Approfondire con lo staff lo scostamento di Samuele Pinna: negli ultimi tre allenamenti (28/02/2024, 01/03/2024 e 04/03/2024) la distanza ad alta velocità (HSR) è rimasta sopra la sua fascia storica. [E20, E21, E22]\n\n## Qualità del dato e limiti\n\nSamuele Pinna ha copertura parziale nella finestra MD-4/MD-2 (1 seduta su 2) [E23]. Christian Porcu non ha dati né nella finestra MD-4/MD-2 (0 su 2) [E24] né in postpartita (0 su 1) [E25]. Alcuni non titolari non hanno dati della partita del 02/03/2024: il dataset non distingue se non hanno giocato o se il dato manca [avvertenza].",
+ "frasi_con_numeri": 15,
+ "verificate": 15,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.02543,
+ "secondi": 14.7,
+ "generato_il": "2026-10-28T09:31:59"
+}

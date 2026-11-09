@@ -1,0 +1,15 @@
+{
+ "data": "2023-11-02",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 02/11/2023",
+ "testo": "## Sintesi\n\nLa seduta del 02/11/2023 (MD-2, due giorni prima della partita) mostra un'aderenza al carico abituale nella parte bassa della distribuzione per la squadra: la distanza totale (TD) si ferma a un percentile mediano di 23 [E2], mentre le accelerazioni (ACC) sono il dato più distante dal solito con percentile mediano di 6 e 11 giocatori sotto fascia [E5]. La corsa ad alta velocità (HSR) risulta la metrica più in linea con l'abituale, con percentile mediano di 36 e 15 giocatori dentro fascia [E3]. In totale 8 giocatori su 18 risultano fuori dalla fascia larga in almeno una metrica [E1].\n\n## Fuori fascia\n\n- **Gabriele Longo**: molto sotto la fascia larga in TD con 2.810 m (fascia larga 4.115 m–6.328 m) [E8], in ACC con 17 (fascia larga 39–71) [E9] e in HMLD (distanza ad alto carico metabolico) con 311 m (fascia larga 466 m–1.104 m) [E10].\n- **Luca Cerutti**: molto sotto la fascia larga in ACC con 21 (fascia larga 39–71) [E11].\n- **Edoardo Tosi**: molto sotto la fascia larga in ACC con 25 (fascia larga 38–68) [E14].\n- **Elia Gariglio**: molto sotto la fascia larga in ACC con 35 (fascia larga 41–71) [E17].\n- **Stefano Guidi**: molto sotto la fascia larga in ACC con 31 (fascia larga 36–56) [E13].\n- **Lorenzo Cortese**: molto sotto la fascia larga in TD con 3.837 m (fascia larga 4.115 m–6.328 m) [E16].\n\n## Verso la partita\n\nNella finestra da quattro giorni prima della partita (MD-4) a MD-2 verso la partita del 04/11/2023, con copertura completa su 2 sedute [E23], 3 giocatori risultano sotto il riferimento abituale di alta velocità: Nicolò Serafini, Andrea Melis e Gabriele Longo [E23]. Serafini ha 0 m di sprint (SPR) contro un riferimento di 49 m [E24], pur rimanendo dentro fascia in HSR con 149 m su riferimento 261 m [E25]. Melis è dentro fascia in SPR con 133 m [E26] ma sotto in HSR con 249 m contro riferimento 544 m [E27]. Longo risulta sotto in entrambe: 0 m di SPR contro 201 m [E28] e 127 m di HSR contro 525 m [E29].\n\n## Spunti per lo staff\n\n- Valutare se serve uno stimolo di velocità per Nicolò Serafini: da MD-4 a MD-2 ha registrato 0 m di sprint e 149 m di HSR, contro un riferimento di 49 m e 261 m per quei giorni, prima della partita del 04/11/2023. [E24, E25]\n- Valutare se serve uno stimolo di velocità per Gabriele Longo: da MD-4 a MD-2 ha registrato 0 m di sprint e 127 m di HSR, contro un riferimento di 201 m e 525 m per quei giorni, prima della partita del 04/11/2023. [E28, E29]\n\n## Qualità del dato e limiti\n\nNessun dato incompleto segnalato per la seduta odierna. Avvertenza generale: alcuni non titolari non hanno dati della partita del 28/10/2023, senza distinzione nel dataset tra mancata partecipazione e dato mancante.",
+ "frasi_con_numeri": 15,
+ "verificate": 15,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.03195,
+ "secondi": 13.5,
+ "generato_il": "2026-10-28T09:36:52"
+}

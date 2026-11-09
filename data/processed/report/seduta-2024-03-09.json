@@ -1,0 +1,15 @@
+{
+ "data": "2024-03-09",
+ "tipo": "seduta",
+ "titolo": "Report della partita del 09/03/2024",
+ "testo": "## Sintesi\n\nLa seduta del 09/03/2024 (MD, giorno della partita) mostra un'aderenza al carico abituale nel complesso dentro fascia, con percentili mediani di squadra tra 38 e 64 su tutte le metriche [E2, E3, E4, E5, E6, E7]. Su 12 giocatori, 3 risultano fuori dalla fascia larga in almeno una metrica [E1]. La distanza totale (TD) e la distanza ad alto carico metabolico (HMLD) sono le metriche con più casi fuori fascia, mentre decelerazioni (DCC) e accelerazioni (ACC) restano più contenute [E2, E5, E6, E7].\n\n## Fuori fascia\n\n- Simone Amato: ACC a 111, molto sopra la fascia larga (P10-P90: 65-103) [E8]; TD a 10.536 m, molto sopra la fascia larga (7.036 m-10.243 m) [E12]; HMLD a 2.199 m, molto sopra la fascia larga (1.344 m-2.040 m) [E9]; HSR (corsa ad alta velocità) a 782 m, sopra la fascia centrale (P25-P75: 426 m-650 m) [E16].\n- Tommaso Ferrandi: TD a 5.589 m, molto sopra la fascia larga (1.733 m-5.035 m) [E14]; HMLD a 932 m, molto sopra la fascia larga (205 m-902 m) [E15]; DCC a 47, sopra la fascia centrale (23-39) [E20].\n- Stefano Guidi: HMLD a 10 m, molto sotto la fascia larga (63 m-766 m) [E10]; DCC a 0, molto sotto la fascia larga (4-37) [E11]; ACC a 1, molto sotto la fascia larga (3-39) [E13].\n- Andrea Melis: ACC a 55, sotto la fascia centrale (66-80) [E17]; HMLD a 1.454 m, sotto la fascia centrale (1.608 m-1.832 m) [E19].\n- Nicolò Serafini: HMLD a 1.573 m, sotto la fascia centrale (1.772 m-2.207 m) [E18].\n\n## Titolari e non titolari\n\nTra i titolari, Simone Amato risulta molto sopra il proprio abituale su ACC, TD e HMLD, e sopra su HSR [E8, E12, E9, E16]; Andrea Melis e Nicolò Serafini mostrano invece valori sotto fascia centrale su ACC e HMLD [E17, E19, E18].\nTra i non titolari, Tommaso Ferrandi risulta molto sopra su TD e HMLD e sopra su DCC [E14, E15, E20], mentre Stefano Guidi è molto sotto su HMLD, DCC e ACC [E10, E11, E13].\n\n## Spunti per lo staff\n\nOggi le regole non segnalano nulla.\n\n## Qualità del dato e limiti\n\nEdoardo Tosi non ha dati nella finestra da MD-4 a MD-2 (0 sedute su 2) né in postpartita (0 su 1) [E23, E24]. Christian Porcu non ha dati postpartita (0 su 1) [E25]. Alcuni non titolari non hanno dati della partita del 02/03/2024: non hanno giocato o il dato manca, il dataset non distingue i due casi. La finestra postpartita risulta chiusa, con 7 giocatori valutati su 9 non titolari, mediana HSR a 362 m [E21, E22].",
+ "frasi_con_numeri": 12,
+ "verificate": 12,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.02712,
+ "secondi": 12.8,
+ "generato_il": "2026-10-28T09:31:42"
+}

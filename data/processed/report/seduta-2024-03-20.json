@@ -1,0 +1,15 @@
+{
+ "data": "2024-03-20",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 20/03/2024",
+ "testo": "## Sintesi\n\nLa seduta di tre giorni prima della partita (MD-3) mostra un'aderenza al carico abituale mista: la distanza ad alta velocità (HSR) e la distanza in sprint (SPR) si collocano sopra la mediana storica della squadra, con percentile mediano rispettivamente di 73 [E3] e 70 [E4], mentre le accelerazioni intense (ACC) risultano nettamente sotto, con percentile mediano di 10 [E5]. La distanza totale (TD) e la distanza ad alto carico metabolico (HMLD) restano invece dentro la fascia abituale per la maggior parte del gruppo [E2, E7]. Su 16 giocatori in seduta, 9 risultano fuori dalla fascia larga in almeno una metrica [E1].\n\n## Fuori fascia\n\n- Federico Santini: HSR 387 m, molto sopra la fascia larga P10-P90 (78 m–270 m) [E8].\n- Tommaso Ferrandi: ACC 26, molto sotto la fascia larga P10-P90 (41–80) [E12].\n- Riccardo Benedetti: HSR 267 m, molto sopra la fascia larga P10-P90 (52 m–218 m) [E16].\n- Stefano Guidi: ACC 32, molto sotto la fascia larga P10-P90 (45–79) [E9]; decelerazioni intense (DCC) 28, molto sotto la fascia larga P10-P90 (35–64) [E13].\n- Edoardo Tosi: ACC 31, molto sotto la fascia larga P10-P90 (39–86) [E15].\n- Matteo Basile: ACC 31, molto sotto la fascia larga P10-P90 (42–92) [E10].\n\n## Spunti per lo staff\n\n- Approfondire con lo staff lo scostamento di Pietro Ghio: negli ultimi tre allenamenti (14/03/2024, 16/03/2024 e 20/03/2024) la distanza ad alta velocità (HSR) è rimasta sopra la sua fascia storica. [E23, E24, E25]\n- Approfondire con lo staff lo scostamento di Riccardo Benedetti: negli ultimi tre allenamenti (14/03/2024, 16/03/2024 e 20/03/2024) la distanza ad alta velocità (HSR) è rimasta sopra la sua fascia storica. [E26, E27, E16]\n\n## Qualità del dato e limiti\n\nNessun dato incompleto segnalato per i giocatori. Valgono due avvertenze generali: la finestra MD-4…MD-2 non è ancora conclusa, quindi i valori sono parziali fino al 20/03/2024; dopo la partita del 17/03/2024 non risultano sedute postpartita (MD+1) registrate.",
+ "frasi_con_numeri": 11,
+ "verificate": 11,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.0248,
+ "secondi": 10.3,
+ "generato_il": "2026-10-28T09:31:09"
+}

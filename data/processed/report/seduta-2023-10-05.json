@@ -1,0 +1,15 @@
+{
+ "data": "2023-10-05",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 05/10/2023",
+ "testo": "## Sintesi\n\nLa seduta del 05/10/2023 (MD-3, tre giorni prima della partita) ha coinvolto 19 giocatori, con l'aderenza al carico abituale che si attesta su percentili mediani elevati per distanza totale (TD) [E2], corsa ad alta velocità (HSR) [E3], sprint (SPR) [E4] e accelerazioni intense (ACC) [E5], mentre decelerazioni intense (DCC) [E6] e distanza ad alto carico metabolico (HMLD) [E7] si collocano su valori più contenuti. 15 giocatori su 19 risultano fuori dalla fascia larga in almeno una metrica, di cui 3 ai margini del gruppo [E1].\n\n## Fuori fascia\n\n- Alessio Dalmasso: SPR 128 m, molto sopra la fascia larga (1 m-77 m) [E8]\n- Elia Gariglio: TD 7.345 m, SPR 131 m, ACC 123, DCC 104, tutte molto sopra le rispettive fasce larghe [E10, E11, E12, E13]\n- Filippo Rinaldi: HSR 311 m, molto sopra la fascia larga (68 m-254 m) [E15]\n- Luca Cerutti: TD 7.794 m, molto sopra la fascia larga (4.942 m-7.127 m) [E17]\n- Edoardo Tosi: ACC 101, molto sopra la fascia larga (24-83) [E9]\n- Lorenzo Cortese: ACC 109, molto sopra la fascia larga (50-88) [E16]\n- Federico Santini: HMLD 708 m, molto sotto la fascia larga (813 m-1.250 m); DCC 39, sotto la fascia centrale (58-73) [E14, E20]\n\n## Spunti per lo staff\n\nOggi le regole non segnalano nulla.\n\n## Qualità del dato e limiti\n\n- Nessun dato incompleto segnalato per i giocatori monitorati.\n- Storico ancora limitato: poche settimane regolari disponibili per costruire la curva tipica.\n- La finestra MD-4…MD-2 non è ancora conclusa: i valori restano parziali fino al 05/10/2023.\n- Dopo la partita del 30/09/2023 non risultano sedute postpartita (MD+1) registrate.\n- Tutte le evidenze individuali [E8-E22] sono basate su 3 sedute e sono etichettate come provvisorie, con un numero di casi compreso tra 9 e 13.",
+ "frasi_con_numeri": 9,
+ "verificate": 9,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.02319,
+ "secondi": 10.4,
+ "generato_il": "2026-10-28T09:38:23"
+}

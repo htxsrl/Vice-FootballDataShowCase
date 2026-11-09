@@ -1,0 +1,17 @@
+.env
+.env.*
+.git
+.DS_Store
+.local
+wiki
+!wiki/metodi/glossario.md
+data/raw
+# il prototipo dell'identità visiva (M4.0, decisione 38) resta solo in locale, non nel link pubblico
+vice/static/prototipi
+data/cache
+tests
+scripts
+__pycache__
+*.pyc
+.pytest_cache
+.venv

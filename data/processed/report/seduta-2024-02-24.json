@@ -1,0 +1,15 @@
+{
+ "data": "2024-02-24",
+ "tipo": "seduta",
+ "titolo": "Report della partita del 24/02/2024",
+ "testo": "## Sintesi\n\nLa seduta di partita del 24/02/2024 mostra un carico complessivo in linea con la distanza totale (TD) abituale, mediana al percentile 71 [E2], ma con intensità molto elevata su corsa ad alta velocità (HSR), sprint (SPR) e distanza ad alto carico metabolico (HMLD): HSR al percentile 96 [E3], SPR all'87 [E4] e HMLD all'89 [E7]. Accelerazioni (ACC) e decelerazioni (DCC) risultano più aderenti al solito, con mediane rispettivamente all'80° [E5] e 75° percentile [E6]. In totale 13 giocatori su 16 sono fuori dalla fascia larga in almeno una metrica [E1].\n\n## Fuori fascia\n\n- Alessio Dalmasso: molto sopra su HSR (646 m, fascia larga 132-472 m) [E8], SPR (425 m, fascia larga 25-316 m) [E9] e HMLD (1.788 m, fascia larga 1.066-1.588 m) [E10].\n- Andrea Melis: molto sotto su HSR (239 m, fascia larga 327-754 m) [E11] e sotto su TD (7.749 m, fascia centrale 9.740-10.417 m) [E20].\n- Gabriele Longo: molto sopra su HSR (1.155 m, fascia larga 340-943 m) [E15].\n- Federico Santini: molto sopra su HSR (762 m, fascia larga 315-692 m) [E13] e sopra su HMLD (2.475 m, fascia centrale 1.790-2.294 m) [E19].\n- Nicolò Serafini: molto sopra su HSR (501 m, fascia larga 26-350 m) [E16].\n- Filippo Rinaldi ed Elia Gariglio: molto sopra su HSR (475 m [E14] e 427 m [E12], fascia larga 26-350 m).\n\n## Titolari e non titolari\n\nTra i non titolari della partita del 18/02/2024, 6 giocatori su 10 risultano in linea con il solito carico di HSR postpartita, 1 sotto il solito e 3 senza dato [E23]; la mediana HSR dei valutati è 350 m, senza casi molto sotto [E24]. Elia Gariglio, non titolare, mostra HSR postpartita sotto il solito (46 m contro un riferimento di 220 m, fascia larga 33-303 m) [E25]. Tra i titolari, oltre a Dalmasso, Longo, Santini e Serafini già segnalati molto sopra su HSR, si notano sopra fascia centrale Riccardo Benedetti su ACC (73, fascia centrale 44-60) [E17], Luca Cerutti su SPR (627 m, fascia centrale 287-509 m) [E18], e Tommaso Ferrandi su ACC (88, fascia centrale 61-79) [E21] e HSR (671 m, fascia centrale 398-500 m) [E22].\n\n## Spunti per lo staff\n\nOggi le regole non segnalano nulla.\n\n## Qualità del dato e limiti\n\nSamuele Pinna non ha dati nella finestra da MD-4 (quattro giorni prima della partita) a MD-2 (0 sedute su 2) [E26]. Edoardo Tosi, Christian Porcu e Simone Amato non hanno dati nella finestra postpartita (0 sedute su 1) [E27, E28, E29]. Alcuni non titolari non hanno dati della partita del 18/02/2024: non hanno giocato o il dato manca, il dataset non distingue i due casi.",
+ "frasi_con_numeri": 14,
+ "verificate": 14,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.02993,
+ "secondi": 14.3,
+ "generato_il": "2026-10-28T09:32:16"
+}

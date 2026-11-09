@@ -1,0 +1,15 @@
+{
+ "data": "2024-03-23",
+ "tipo": "seduta",
+ "titolo": "Report della partita del 23/03/2024",
+ "testo": "## Sintesi\n\nLa seduta del 23/03/2024, giorno di partita (MD), mostra un carico complessivo sopra l'abituale per la maggior parte della squadra: la distanza totale (TD) si attesta a un percentile mediano di 82, con 7 giocatori sopra fascia e solo 2 sotto [E2]. Anche la distanza ad alto carico metabolico (HMLD) segue questo andamento, con percentile mediano 83 [E7]. Corsa ad alta velocità (HSR), sprint (SPR), accelerazioni (ACC) e decelerazioni (DCC) risultano tutte con mediane di percentile tra 68 e 76, coerenti con un carico di gara elevato [E3, E4, E5, E6].\n\n## Fuori fascia\n\n5 giocatori su 13 sono fuori dalla fascia larga in almeno una metrica [E1].\n\n- **Edoardo Tosi**: TD 10.813 m, molto sopra fascia larga (1.878-4.696 m) [E8]; DCC 81, molto sopra fascia larga (19-52) [E9]; HMLD 1.711 m, molto sopra fascia larga (290-1.024 m) [E10].\n- **Matteo Basile**: TD 6.925 m, molto sopra fascia larga (2.261-4.774 m) [E11]; ACC 70, molto sopra fascia larga (24-56) [E12]; DCC 83, molto sopra fascia larga (19-52) [E13]; HMLD 1.254 m, molto sopra fascia larga (400-939 m) [E14]; HSR 398 m, sopra fascia centrale (166-294 m) [E18].\n- **Nicolò Serafini**: TD 6.537 m, molto sotto fascia larga (9.097-11.661 m) [E15]; HSR 199 m, molto sotto fascia larga (284-637 m) [E16]; DCC 42, molto sotto fascia larga (63-96) [E17]; ACC 52, sotto fascia centrale (64-76) [E19].\n- **Filippo Rinaldi**: TD 4.715 m, sopra fascia centrale (1.854-3.109 m) [E22]; DCC 46, sopra fascia centrale (23-40) [E20].\n- **Lorenzo Cortese**: ACC 63, sopra fascia centrale (38-56) [E21].\n\n## Titolari e non titolari\n\nTra i titolari, Nicolò Serafini mostra un carico postpartita molto sotto il proprio abituale su TD, HSR e DCC, con ACC sotto fascia centrale [E15, E16, E17, E19].\n\nTra i non titolari, Edoardo Tosi, Matteo Basile e Filippo Rinaldi presentano valori sopra il loro carico abituale: Tosi e Basile molto sopra su più metriche (TD, DCC, HMLD, e per Basile anche ACC e HSR) [E8, E9, E10, E11, E12, E13, E14, E18], Rinaldi sopra fascia centrale su TD e DCC [E22, E20]. Lorenzo Cortese, non titolare, è sopra fascia centrale su ACC [E21].\n\n## Spunti per lo staff\n\nOggi le regole non segnalano nulla.\n\n## Qualità del dato e limiti\n\nElia Gariglio ha una copertura parziale nella finestra da MD-4 a MD-2, con 1 seduta su 2 registrate per la squadra [E24].\n\nDopo la partita del 17/03/2024 non risultano sedute postpartita registrate per 10 giocatori non titolari; la finestra post-gara non è aperta [E23].",
+ "frasi_con_numeri": 14,
+ "verificate": 14,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.02785,
+ "secondi": 14.1,
+ "generato_il": "2026-10-28T09:30:59"
+}

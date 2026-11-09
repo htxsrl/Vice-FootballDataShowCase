@@ -1,0 +1,15 @@
+{
+ "data": "2024-04-03",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 03/04/2024",
+ "testo": "## Sintesi\n\nLa seduta del 03/04/2024 (MD-3, tre giorni prima della partita) mostra un'aderenza al carico abituale nella norma per distanza totale (TD) e distanza ad alto carico metabolico (HMLD), con percentile mediano di squadra rispettivamente di 49 [E2] e 49 [E7]. Corsa ad alta velocità (HSR), sprint (SPR), accelerazioni (ACC) e decelerazioni (DCC) si collocano su percentili mediani più alti, tra 62 e 76 [E4, E5, E6, E6], segno di una seduta orientata agli stimoli di alta intensità. Su 16 giocatori, 5 risultano fuori dalla fascia larga in almeno una metrica, con 6 ai margini [E1].\n\n## Fuori fascia\n\n- Federico Santini: HSR 34 m, molto sotto fascia larga P10-P90 (78 m–273 m) [E8]; HMLD 543 m, molto sotto fascia larga (643 m–1.157 m) [E13]; TD 4.166 m, sotto fascia centrale P25-P75 (4.917 m–6.049 m) [E17].\n- Filippo Rinaldi: HSR 294 m, molto sopra fascia larga (42 m–275 m) [E14].\n- Riccardo Benedetti: DCC 73, molto sopra fascia larga (23–59) [E10]; ACC 72, molto sopra fascia larga (34–65) [E12]; HMLD 959 m, sopra fascia centrale (581 m–837 m) [E18].\n- Luca Cerutti: DCC 24, molto sotto fascia larga (30–66) [E9]; HMLD 656 m, sotto fascia centrale (776 m–1.085 m) [E15].\n- Elia Gariglio: SPR 124 m, molto sopra fascia larga (6 m–97 m) [E11]; HSR 211 m, sopra fascia centrale (86 m–152 m) [E19].\n- Simone Amato: TD 4.346 m, sotto fascia centrale (5.096 m–6.025 m) [E16].\n\n## Spunti per lo staff\n\nOggi le regole non segnalano nulla.\n\n## Qualità del dato e limiti\n\nGabriele Longo e Simone Amato non hanno dati nella finestra postpartita, con copertura nulla (0 sedute su 1) [E20, E21]. La finestra MD-4…MD-2 non è ancora conclusa: i valori sono parziali fino al 03/04/2024. Alcuni non titolari non hanno dati della partita del 31/03/2024: il dataset non distingue se non hanno giocato o se il dato manca.",
+ "frasi_con_numeri": 10,
+ "verificate": 10,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.02259,
+ "secondi": 11.2,
+ "generato_il": "2026-10-28T09:30:27"
+}

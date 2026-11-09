@@ -1,0 +1,20 @@
+{
+ "data": "2023-10-06",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 06/10/2023",
+ "testo": "## Sintesi\nLa seduta di MD-2 (due giorni prima della partita, MD-2) mostra una distanza totale (TD) sistematicamente contenuta, con percentile mediano di squadra pari a 0 [E2] e 17 giocatori su 18 sotto il consueto. Anche la distanza ad alto carico metabolico (HMLD) risulta bassa, con percentile mediano di 10 [E7], mentre accelerazioni (ACC) e decelerazioni (DCC) restano in linea con l'abituale, con percentili mediani rispettivamente di 47 [E5] e 46 [E6]. In totale 13 giocatori su 18 risultano fuori dalla fascia larga in almeno una metrica [E1].\n## Fuori fascia\n- Alessio Dalmasso: DCC a 48, molto sopra la fascia larga 30-44 [E8]; TD a 4.602 m, sotto la fascia centrale 4.964 m-5.780 m [E18].\n- Elia Gariglio: TD a 3.881 m, molto sotto la fascia larga 4.843 m-6.359 m [E9].\n- Federico Santini: TD a 3.835 m, molto sotto la fascia larga 4.843 m-6.359 m [E10]; HMLD a 495 m, molto sotto la fascia larga 640 m-1.054 m [E11].\n- Nicolò Serafini: TD a 3.962 m, molto sotto la fascia larga 4.843 m-6.359 m [E15].\n- Pietro Ghio: TD a 3.910 m, molto sotto la fascia larga 4.761 m-6.253 m [E16]; corsa ad alta velocità (HSR) a 64 m, molto sotto la fascia larga 88 m-210 m [E17].\n- Filippo Rinaldi: TD a 4.122 m, molto sotto la fascia larga 4.843 m-6.359 m [E12].\nAltri fuori fascia centrale ma dentro la larga: Gabriele Longo e Lorenzo Cortese su TD [E13, E14], Riccardo Benedetti su TD e HMLD [E20, E22], Gabriele Longo su HMLD [E21], Mattia Bosio su HSR [E19].\n## Verso la partita\nNessun giocatore risulta sotto il solito livello di alta velocità nella finestra da MD-4 a MD-2 [E23], su 19 giocatori monitorati e 3 sedute di squadra, con copertura incompleta per 1 giocatore.\n## Spunti per lo staff\nOggi le regole non segnalano nulla.\n## Qualità del dato e limiti\nAndrea Melis ha copertura parziale nella finestra da MD-4 a MD-2, con dati disponibili per 2 sedute su 3 [E24]. Le evidenze sui singoli giocatori sono provvisorie, basate su 3 sedute storiche con un numero di casi di confronto che varia da 9 a 13 per metrica [E8][E19][E9]. Si segnala inoltre che le settimane regolari nello storico sono troppo poche per costruire la curva tipica, e che dopo la partita del 30/09/2023 non risultano sedute postpartita registrate.",
+ "frasi_con_numeri": 13,
+ "verificate": 13,
+ "tolte": [],
+ "correzioni": [
+  {
+   "frase": "Le evidenze sui singoli giocatori sono provvisorie, basate su 3 sedute storiche con un numero di casi di confronto che varia da 9 a 13 per metrica.",
+   "motivo": "numeri senza evidenza citata"
+  }
+ ],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.03852,
+ "secondi": 15.0,
+ "generato_il": "2026-10-28T09:38:15"
+}

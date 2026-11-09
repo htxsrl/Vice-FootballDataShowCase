@@ -1,0 +1,20 @@
+{
+ "data": "2023-11-06",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 06/11/2023",
+ "testo": "## Sintesi\nLa seduta del 06/11/2023 (MD+2, due giorni dopo la partita) mostra un'aderenza al carico abituale sbilanciata: la distanza totale (TD) è su percentile mediano basso [E2], mentre corsa ad alta velocità (HSR) e distanza in sprint (SPR) risultano su percentili mediani molto alti, con nessun giocatore sotto fascia in queste due metriche [E3, E4]. Le accelerazioni (ACC) sono su percentile mediano basso [E5], le decelerazioni (DCC) vicine alla fascia centrale [E6] e la distanza ad alto carico metabolico (HMLD) in linea [E7]. In totale 11 giocatori su 16 sono fuori dalla fascia larga in almeno una metrica [E1].\n## Fuori fascia\n- Edoardo Tosi: HSR 577 m, molto sopra la fascia larga (151 m-443 m) [E10]; SPR 528 m, molto sopra la fascia larga (20 m-323 m) [E11]; ACC 34, molto sotto la fascia larga (41-97) [E12].\n- Elia Gariglio: HSR 489 m, molto sopra la fascia larga (114 m-359 m) [E13]; SPR 437 m, molto sopra la fascia larga (11 m-242 m) [E14].\n- Filippo Rinaldi: HSR 540 m, molto sopra la fascia larga (114 m-359 m) [E15].\n- Gabriele Longo: HSR 515 m, molto sopra la fascia larga (96 m-390 m) [E16]; ACC 47, molto sotto la fascia larga (55-113) [E17]; TD 3.986 m, sotto la fascia centrale (4.712 m-5.709 m) [E22].\n- Alessio Dalmasso: DCC 32, molto sopra la fascia larga (0-15) [E8]; HMLD 316 m, molto sopra la fascia larga (22 m-256 m) [E9]; SPR 14 m, sopra la fascia centrale (0 m-6 m) [E18].\n- Stefano Guidi: ACC 42, sotto la fascia centrale (55-84) [E21].\n## Titolari e non titolari\nTra i titolari, Alessio Dalmasso è molto sopra fascia larga in DCC e HMLD [E8, E9] e sopra fascia centrale in SPR [E18]; anche Andrea Melis è sopra fascia centrale in SPR [E19] e in HSR post-partita [E24].\nTra i non titolari, l'HSR postpartita risulta in linea con il solito per 9 giocatori su 9 con dato disponibile [E23]; tuttavia nella seduta odierna diversi non titolari (Tosi, Gariglio, Rinaldi, Longo) mostrano HSR/SPR molto sopra fascia larga [E10, E11, E13, E14, E15, E16], mentre Pinna e Guidi sono sotto fascia centrale in ACC [E20, E21].\n## Spunti per lo staff\nOggi le regole non segnalano nulla.\n## Qualità del dato e limiti\nNessun dato incompleto segnalato dal motore. Avvertenza: alcuni non titolari non hanno dati della partita del 04/11/2023, non è possibile distinguere se non hanno giocato o se il dato manca. Tutte le evidenze individuali sono etichettate come provvisorie, con numero di casi e sedute che variano da caso a caso (ad esempio 6-9 casi e 3-4 sedute) [E8][E10][E13][E20][E21].",
+ "frasi_con_numeri": 10,
+ "verificate": 10,
+ "tolte": [],
+ "correzioni": [
+  {
+   "frase": "Tutte le evidenze individuali sono etichettate come provvisorie, con numero di casi e sedute limitati (3-9 casi, 3-4 sedute).",
+   "motivo": "numeri senza evidenza citata"
+  }
+ ],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.03953,
+ "secondi": 16.9,
+ "generato_il": "2026-10-28T09:36:39"
+}

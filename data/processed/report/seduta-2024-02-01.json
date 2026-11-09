@@ -1,0 +1,16 @@
+{
+ "data": "2024-02-01",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 01/02/2024",
+ "testo": "## Sintesi\n\nLa seduta del 01/02/2024 (MD-2, due giorni prima della partita) mostra un'aderenza al carico abituale nel complesso dentro i valori attesi, con percentili mediani di squadra tra 34 e 79 su distanza totale (TD), distanza ad alta velocità (HSR), sprint (SPR), accelerazioni (ACC), decelerazioni (DCC) e distanza ad alto carico metabolico (HMLD) [E2, E3, E4, E5, E6, E7]. Su 17 giocatori, 4 risultano fuori dalla fascia larga in almeno una metrica, mentre altri 10 sono segnalati ai margini [E1]. Le decelerazioni (DCC) sono la metrica con più giocatori sopra la fascia centrale (8 su 17) [E6].\n\n## Fuori fascia\n\n- Simone Amato: HMLD a 1.252 m, molto sopra la fascia larga (442 m–1.144 m) [E11]; TD a 6.270 m, molto sopra la fascia larga (3.531 m–6.075 m) [E12].\n- Federico Santini: HMLD a 1.279 m, molto sopra la fascia larga (497 m–1.104 m) [E8].\n- Stefano Guidi: DCC a 63, molto sopra la fascia larga (31–58) [E9].\n- Lorenzo Cortese: DCC a 76, molto sopra la fascia larga (30–68) [E10]; HMLD a 1.175 m, sopra la fascia centrale (616 m–1.046 m) [E17].\n- Nicolò Serafini: HMLD a 1.199 m, sopra la fascia centrale (571 m–1.025 m) [E13].\n- Pietro Ghio: DCC a 64, sopra la fascia centrale (41–52) [E15].\n\n## Verso la partita\n\nNella finestra da MD-4 a MD-2 prima della partita del 03/02/2024, con copertura completa su 2 sedute, 2 giocatori su 17 risultano sotto il solito in alta velocità [E18]. Elia Gariglio ha registrato 33 m di SPR (dentro la fascia, riferimento 103 m) e 96 m di HSR, sotto la fascia centrale (riferimento 248 m) [E19, E20]. Pietro Ghio ha registrato 7 m di SPR e 312 m di HSR, entrambi dentro la fascia, con riferimenti rispettivi di 31 m e 229 m [E21, E22].\n\n## Spunti per lo staff\n\n- Valutare se serve uno stimolo di velocità per Pietro Ghio: da MD-4 a MD-2 ha registrato 7 m di sprint e 312 m di HSR, contro un riferimento di 31 m e 229 m per quei giorni, prima della partita del 03/02/2024. [E21, E22]\n- Approfondire con lo staff lo scostamento di Samuele Pinna: negli ultimi tre allenamenti (29/01/2024, 31/01/2024 e 01/02/2024) la distanza ad alta velocità (HSR) è rimasta sopra la sua fascia storica. [E23, E24, E25]\n\n## Qualità del dato e limiti\n\nAndrea Melis non ha dati nella finestra postpartita (0 sedute su 1 disponibile) [E26]. Alcuni giocatori non titolari non hanno dati della partita del 27/01/2024: il dataset non distingue se non hanno giocato o se il dato manca.",
+ "frasi_con_numeri": 16,
+ "verificate": 16,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.02906,
+ "secondi": 13.5,
+ "generato_il": "2026-10-28T09:33:30",
+ "corretto_il": "2026-10-28: tolto uno spunto di velocità nato da un difetto della regola (NaN), decisione 53"
+}

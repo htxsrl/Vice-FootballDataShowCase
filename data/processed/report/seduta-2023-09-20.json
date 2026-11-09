@@ -1,0 +1,15 @@
+{
+ "data": "2023-09-20",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 20/09/2023",
+ "testo": "## Sintesi\n\nLa seduta MD-3 (tre giorni prima della partita) del 20/09/2023 ha coinvolto 18 giocatori, nessuno dei quali risulta fuori dalla fascia larga in alcuna metrica [E1]. Non è possibile un confronto affidabile con il carico abituale di questo tipo di giornata, perché lo storico contiene ancora troppo poche sedute MD-3 per costruire una fascia di riferimento.\n\n## Fuori fascia\n\nNessun giocatore è fuori dalla fascia larga P10-P90 in nessuna metrica [E1].\n\n## Spunti per lo staff\n\nOggi le regole non segnalano nulla.\n\n## Qualità del dato e limiti\n\n- Nessuna fascia di riferimento disponibile per le sedute MD-3: lo storico ha ancora troppo poche sedute di questo tipo, essendo inizio stagione.\n- Lo storico ha ancora troppo poche settimane regolari per costruire una curva tipica di carico.\n- La finestra MD-4…MD-2 non è ancora conclusa: i valori relativi sono parziali fino al 20/09/2023.\n- Alcuni non titolari non hanno dati della partita del 16/09/2023: non hanno giocato oppure il dato manca, il dataset non distingue i due casi.",
+ "frasi_con_numeri": 1,
+ "verificate": 1,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.00836,
+ "secondi": 5.4,
+ "generato_il": "2026-10-28T09:38:45"
+}

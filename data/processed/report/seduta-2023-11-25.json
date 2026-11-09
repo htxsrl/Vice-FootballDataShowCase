@@ -1,0 +1,20 @@
+{
+ "data": "2023-11-25",
+ "tipo": "seduta",
+ "titolo": "Report della partita del 25/11/2023",
+ "testo": "## Sintesi\nLa seduta di MD (giorno della partita) del 25/11/2023 mostra un'aderenza al carico abituale nel complesso nella fascia centrale per la squadra, con percentili mediani compresi tra 25 e 51 sulle varie metriche ([E2], [E3], [E4], [E5], [E6], [E7]). Sei giocatori su 13 risultano fuori dalla fascia larga in almeno una metrica, di cui 4 ai margini ([E1]). La distanza ad alto carico metabolico (HMLD) è la metrica con il percentile mediano più basso (25), con 5 giocatori sotto ([E7]).\n## Fuori fascia\n- Edoardo Tosi: distanza totale (TD) 7.380 m, molto sotto fascia larga 9.390 m–11.007 m; accelerazioni (ACC) 41, molto sotto fascia larga 68–93; decelerazioni (DCC) 59, molto sotto fascia larga 76–106 ([E8], [E9], [E10]).\n- Matteo Basile: TD 6.602 m, molto sotto fascia larga 7.384 m–10.276 m; ACC 55, molto sotto fascia larga 65–105; HMLD 1.192 m, molto sotto fascia larga 1.395 m–1.938 m ([E13], [E14], [E15]).\n- Federico Santini: HSR (corsa ad alta velocità) 12 m, molto sotto fascia larga 45 m–402 m; HMLD 173 m, molto sotto fascia larga 334 m–945 m ([E11], [E12]).\n- Nicolò Serafini: HMLD 1.400 m, molto sotto fascia larga 1.588 m–2.278 m; DCC 65, sotto fascia centrale 77–92 ([E16], [E18]).\n- Samuele Pinna: distanza in sprint (SPR) 376 m, molto sopra fascia larga 28 m–300 m; HSR 532 m, sopra fascia centrale 171 m–448 m ([E17], [E22]).\n- Tommaso Ferrandi: presente tra i fuori fascia in E1, senza evidenza di dettaglio disponibile.\n## Titolari e non titolari\nTra i titolari, oltre a Tosi e Basile (molto sotto in più metriche, vedi sopra), Gabriele Longo mostra SPR 40 m, sotto fascia centrale 182 m–374 m ([E19]), e Basile anche DCC 67, sotto fascia centrale 83–99 ([E20]).\nTra i non titolari, Mattia Bosio mostra SPR 61 m, sotto fascia centrale 109 m–250 m ([E21]); Pinna risulta sopra in SPR e HSR ([E17], [E22]).\nSul postpartita della partita del 19/11/2023, 11 non titolari non hanno sedute registrate (finestra non aperta) ([E23]).\n## Spunti per lo staff\nOggi le regole non segnalano nulla.\n## Qualità del dato e limiti\nNon risultano sedute postpartita registrate dopo la partita del 19/11/2023.\nAlcuni non titolari non hanno dati della partita del 19/11/2023: non è possibile distinguere se non hanno giocato o se il dato manca.\nPer Tommaso Ferrandi, incluso tra i giocatori fuori fascia in E1, non è disponibile un'evidenza di dettaglio nei dati forniti.",
+ "frasi_con_numeri": 11,
+ "verificate": 11,
+ "tolte": [],
+ "correzioni": [
+  {
+   "frase": "Per Tommaso Ferrandi, incluso tra i 6 giocatori fuori fascia in E1, non è disponibile un'evidenza di dettaglio nei dati forniti.",
+   "motivo": "numeri senza evidenza citata"
+  }
+ ],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.03763,
+ "secondi": 16.0,
+ "generato_il": "2026-10-28T09:35:41"
+}

@@ -1,0 +1,15 @@
+{
+ "data": "2024-03-22",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 22/03/2024",
+ "testo": "## Sintesi\n\nLa seduta del 22/03/2024, giorno MD-1 (il giorno prima della partita), ha visto la squadra muoversi su valori di distanza totale (TD) in linea con l'abituale, con percentile mediano a 67 [E2]. Le metriche di intensità più alta si sono invece collocate su livelli alti rispetto al solito, con corsa ad alta velocità (HSR) e sprint (SPR) entrambe a percentile mediano 74 [E3, E4], e accelerazioni (ACC) e decelerazioni (DCC) poco sopra la mediana consueta [E5, E6]. Su 17 giocatori in seduta, 2 risultano fuori dalla fascia larga in almeno una metrica, con altri 8 ai margini [E1].\n\n## Fuori fascia\n\n- Lorenzo Cortese: distanza totale (TD) a 2.127 m, molto sotto la fascia larga (2.294 m - 3.521 m) [E9]; stesso giocatore anche sotto la fascia centrale (25-38) sulle accelerazioni (ACC), con 17 [E11].\n- Riccardo Benedetti: corsa ad alta velocità (HSR) a 114 m, molto sopra la fascia larga (2 m - 104 m) [E8].\n- Federico Santini: HSR a 113 m, sopra la fascia centrale (20 m - 71 m) [E12].\n- Nicolò Serafini: HSR a 83 m, sopra la fascia centrale (11 m - 43 m) [E13].\n- Elia Gariglio: decelerazioni (DCC) a 33, sopra la fascia centrale (16-30) [E10]; stesso giocatore anche sopra la fascia centrale (24-39) sulle accelerazioni (ACC), con 47 [E14].\n\n## Verso la partita\n\nNella finestra da quattro giorni prima della partita (MD-4) a due giorni prima della partita (MD-2), nessun giocatore risulta sotto il solito livello di alta velocità, su 17 giocatori analizzati e 2 sedute di squadra [E15].\n\n## Spunti per lo staff\n\n- Verificare se il carico di MD-1 di Riccardo Benedetti era previsto: oggi 114 m di distanza ad alta velocità (HSR), oltre la fascia storica delle sue rifiniture (fino a 104 m). [E8]\n- Approfondire con lo staff lo scostamento di Nicolò Serafini: negli ultimi tre allenamenti (20/03/2024, 21/03/2024 e 22/03/2024) la distanza ad alta velocità (HSR) è rimasta sopra la sua fascia storica. [E16, E17, E13]\n\n## Qualità del dato e limiti\n\nElia Gariglio ha copertura parziale nella finestra da MD-4 a MD-2, con 1 seduta su 2 registrata [E18]. Dopo la partita del 17/03/2024 non risultano sedute postpartita registrate.",
+ "frasi_con_numeri": 12,
+ "verificate": 12,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.02131,
+ "secondi": 11.4,
+ "generato_il": "2026-10-28T09:31:03"
+}

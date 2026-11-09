@@ -1,0 +1,15 @@
+{
+ "data": "2023-10-28",
+ "tipo": "seduta",
+ "titolo": "Report della partita del 28/10/2023",
+ "testo": "## Sintesi\n\nLa seduta del 28/10/2023, giorno di partita (MD), mostra un'aderenza al carico abituale nella parte bassa delle fasce per le metriche di volume e alta intensità: distanza totale (TD) con percentile mediano di squadra 26 [E2], corsa ad alta velocità (HSR) a 21 [E3] e distanza ad alto carico metabolico (HMLD) a 30 [E7]. Accelerazioni (ACC) e decelerazioni (DCC) restano più centrate, con percentili mediani rispettivamente di 58 [E5] e 46 [E6]. 7 giocatori su 14 risultano fuori dalla fascia larga in almeno una metrica [E1].\n\n## Fuori fascia\n\n- Edoardo Tosi: molto sotto la fascia larga P10-P90 su TD (1.969 m) [E9], HSR (65 m) [E10], distanza in sprint (SPR) (39 m) [E11] e HMLD (315 m) [E12].\n- Gabriele Longo: molto sotto la fascia larga P10-P90 su HSR (349 m) [E13] e SPR (31 m) [E14].\n- Alessio Dalmasso: molto sotto la fascia larga P10-P90 su HSR (121 m) [E8].\n- Matteo Basile: molto sotto la fascia larga P10-P90 su HSR (323 m) [E15].\n- Mattia Bosio: molto sotto la fascia larga P10-P90 su HSR (141 m) [E16], e sotto la fascia centrale P25-P75 su SPR (62 m) [E22].\n- Michele Valli: molto sotto la fascia larga P10-P90 su SPR (15 m) [E17].\n\n## Titolari e non titolari\n\n- Tra i non titolari, Edoardo Tosi è molto sotto la fascia larga P10-P90 su più metriche (TD, HSR, SPR, HMLD) [E9, E10, E11, E12]; Samuele Pinna è sotto la fascia centrale P25-P75 su HSR (104 m) [E21]; Mattia Bosio è sotto su SPR (62 m) [E22] oltre a molto sotto su HSR [E16].\n- Tra i titolari, Andrea Melis è sopra la fascia centrale P25-P75 su SPR (551 m) [E18] e Federico Santini è sopra su ACC (102) [E19]; Nicolò Serafini è sotto la fascia centrale P25-P75 su TD (9.103 m) [E20].\n- Per il postpartita della gara del 22/10/2023, 9 non titolari risultano senza fascia sull'esito HSR, finestra non aperta [E23].\n\n## Spunti per lo staff\n\nOggi le regole non segnalano nulla.\n\n## Qualità del dato e limiti\n\n- Nessun dato incompleto dichiarato tra le metriche della seduta odierna.\n- Alcuni non titolari non hanno dati della partita del 22/10/2023: non hanno giocato o il dato manca, il dataset non distingue i due casi.\n- La finestra per il confronto postpartita del 22/10/2023 non è aperta: l'evidenza E23 è da considerare provvisoria rispetto a confronti futuri.",
+ "frasi_con_numeri": 11,
+ "verificate": 11,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.02636,
+ "secondi": 12.1,
+ "generato_il": "2026-10-28T09:37:04"
+}

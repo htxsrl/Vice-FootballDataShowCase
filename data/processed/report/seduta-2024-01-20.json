@@ -1,0 +1,32 @@
+{
+ "data": "2024-01-20",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 20/01/2024",
+ "testo": "## Sintesi\nLa seduta del 20/01/2024 (MD-1, il giorno prima della partita) si è svolta in linea con il carico abituale della squadra: i percentili mediani di TD (distanza totale) (33) [E2], HSR (corsa ad alta velocità) (22) [E3], sprint (34) [E4] e HMLD (distanza ad alto carico metabolico) (33) [E7] restano dentro o vicino alla fascia abituale, mentre ACC (accelerazioni intense) (62) [E5] e DCC (decelerazioni intense) (54) [E6] si collocano su valori centrali. Nessun giocatore risulta fuori dalla fascia larga P10-P90 in questa seduta, con 11 giocatori ai margini [E1].\n## Fuori fascia\n- Filippo Rinaldi: HSR 2 m, sotto la fascia centrale P25-P75 (15 m - 56 m) [E8].\n- Edoardo Tosi: HSR 12 m, sotto la fascia centrale P25-P75 (40 m - 142 m) [E9]; inoltre ACC 20, sotto la fascia centrale P25-P75 (23 - 35) [E11].\n- Andrea Melis: HSR 16 m, sotto la fascia centrale P25-P75 (27 m - 167 m) [E10].\n- Luca Cerutti: ACC 35, sopra la fascia centrale P25-P75 (16 - 30) [E12].\n## Verso la partita\nNella finestra da MD-4 a MD-2 prima della partita del 21/01/2024, su 19 giocatori e 2 sedute di squadra, 1 solo giocatore risulta sotto il solito in alta velocità: Matteo Basile [E13]. Per lui la distanza in sprint (86 m) resta dentro la fascia abituale [E14], mentre la distanza HSR (190 m) è sotto il riferimento (365 m), fascia larga P10-P90 185 m - 682 m [E15]; entrambi i dati sono su base provvisoria.\n## Spunti per lo staff\nOggi le regole non segnalano nulla.\n## Qualità del dato e limiti\n- Elia Gariglio ha copertura parziale nella finestra MD-4/MD-2: 1 seduta su 2 disponibili [E16].\n- Alessio Dalmasso: nessun dato nel postpartita, 0 sedute su 1 [E17].\n- Christian Porcu: nessun dato nel postpartita, 0 sedute su 1 [E18].\n- Avvertenza generale: alcuni non titolari non hanno dati della partita del 13/01/2024; il dataset non distingue se non hanno giocato o se il dato manca.",
+ "frasi_con_numeri": 11,
+ "verificate": 11,
+ "tolte": [],
+ "correzioni": [
+  {
+   "frase": "- Filippo Rinaldi: HSR 2 m, molto sotto la fascia larga P10-P90 (4 m - 94 m) [E8].",
+   "motivo": "la frase dice «molto sotto la fascia larga», cioè sotto P10, ma i dati citati dicono: sotto («sopra» e «sotto» senza «molto» vogliono dire fuori dalla fascia centrale P25-P75 ma dentro la fascia larga P10-P90)"
+  },
+  {
+   "frase": "- Edoardo Tosi: HSR 12 m, molto sotto la fascia larga P10-P90 (21 m - 200 m) [E9]; inoltre ACC 20, sotto la fascia centrale P25-P75 (23 - 35) [E11].",
+   "motivo": "la frase dice «molto sotto la fascia larga», cioè sotto P10, ma i dati citati dicono: sotto («sopra» e «sotto» senza «molto» vogliono dire fuori dalla fascia centrale P25-P75 ma dentro la fascia larga P10-P90)"
+  },
+  {
+   "frase": "- Andrea Melis: HSR 16 m, molto sotto la fascia larga P10-P90 (19 m - 193 m) [E10].",
+   "motivo": "la frase dice «molto sotto la fascia larga», cioè sotto P10, ma i dati citati dicono: sotto («sopra» e «sotto» senza «molto» vogliono dire fuori dalla fascia centrale P25-P75 ma dentro la fascia larga P10-P90)"
+  },
+  {
+   "frase": "- Luca Cerutti: ACC 35, molto sopra la fascia larga P10-P90 (11 - 34) [E12].",
+   "motivo": "la frase dice «molto sopra la fascia larga», cioè sopra P90, ma i dati citati dicono: sopra («sopra» e «sotto» senza «molto» vogliono dire fuori dalla fascia centrale P25-P75 ma dentro la fascia larga P10-P90)"
+  }
+ ],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.03136,
+ "secondi": 14.3,
+ "generato_il": "2026-10-28T09:34:14"
+}

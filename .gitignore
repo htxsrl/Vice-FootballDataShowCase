@@ -1,0 +1,19 @@
+# Segreti e dati personali (vedi AGENTS.md, regola 7)
+.env
+.env.*
+!.env.example
+.local/
+
+# Dati grezzi: si scaricano con gli script in scripts/, mai nel repo (data/README.md)
+data/raw/
+data/cache/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store

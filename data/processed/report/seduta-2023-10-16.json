@@ -1,0 +1,15 @@
+{
+ "data": "2023-10-16",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 16/10/2023",
+ "testo": "## Sintesi\n\nLa seduta del 16/10/2023 (MD+2, due giorni dopo la partita) ha coinvolto 17 giocatori e non ha mostrato alcuna uscita dalla fascia larga di riferimento [E1]. L'aderenza al carico abituale risulta quindi piena per tutto il gruppo, anche se va segnalato che per il tipo MD+2 non esiste ancora una fascia storica consolidata data la fase iniziale di stagione.\n\n## Fuori fascia\n\nNessun giocatore risulta fuori dalla fascia larga (P10-P90) in alcuna metrica nella seduta del 16/10/2023, su 17 giocatori presenti [E1].\n\n## Titolari e non titolari\n\nPer i non titolari della partita del 14/10/2023, su 9 giocatori analizzati rispetto all'esito dell'HSR (corsa ad alta velocità) postpartita, 8 risultano senza fascia di riferimento disponibile e 1 non presenta alcun dato [E2]. Non è quindi possibile oggi confrontare il loro carico con il solito individuale, né distinguere i titolari sopra fascia, in assenza di evidenze dedicate a questi ultimi.\n\n## Spunti per lo staff\n\nOggi le regole non segnalano nulla.\n\n## Qualità del dato e limiti\n\nAndrea Melis non ha alcun dato nella finestra postpartita (0 sedute su 1 della squadra) [E3]. Per il tipo di seduta MD+2 non è disponibile una fascia di riferimento storica, per numero ancora insufficiente di sedute simili a inizio stagione; la curva tipica è provvisoria e non genera spunti; alcuni non titolari non hanno dati della partita del 14/10/2023 e il dataset non distingue se non hanno giocato o se il dato semplicemente manca.",
+ "frasi_con_numeri": 4,
+ "verificate": 4,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.0109,
+ "secondi": 8.9,
+ "generato_il": "2026-10-28T09:37:40"
+}

@@ -1,0 +1,20 @@
+{
+ "data": "2023-11-04",
+ "tipo": "seduta",
+ "titolo": "Report della partita del 04/11/2023",
+ "testo": "## Sintesi\nLa seduta del 04/11/2023 (MD, giorno della partita) mostra un'aderenza al carico abituale nel complesso centrata per distanza totale (TD), con percentile mediano di squadra di 49 [E2], mentre corsa ad alta velocità (HSR) e distanza ad alto carico metabolico (HMLD) si posizionano su percentili mediani più bassi, rispettivamente 23 [E3] e 32 [E7]. Dieci giocatori su 14 risultano fuori dalla fascia larga in almeno una metrica [E1].\n## Fuori fascia\n- Filippo Rinaldi: TD 1.759 m, molto sotto la fascia larga (2.615 m - 4.242 m) [E8]; accelerazioni (ACC) 19, molto sotto la fascia larga (27-53) [E9]; HMLD 344 m, molto sotto la fascia larga (506 m - 691 m) [E10].\n- Lorenzo Cortese: TD 6.711 m, molto sotto la fascia larga (7.518 m - 10.934 m) [E11]; HSR 473 m, sotto la fascia centrale (565 m - 856 m) [E22].\n- Mattia Bosio: decelerazioni (DCC) 54, molto sotto la fascia larga (81-106) [E13]; HMLD 1.208 m, molto sotto la fascia larga (1.459 m - 1.964 m) [E14]; HSR 344 m, sotto la fascia centrale (460 m - 716 m) [E18].\n- Matteo Basile: DCC 69, molto sopra la fascia larga (24-51) [E12]; ACC 57, sopra la fascia centrale (38-50) [E20].\n- Michele Valli: ACC 102, molto sopra la fascia larga (67-90) [E15].\n- Samuele Pinna: distanza in sprint (SPR) 307 m, molto sopra la fascia larga (20 m - 249 m) [E17].\n## Titolari e non titolari\nTra i titolari fuori fascia oggi figurano Lorenzo Cortese, Mattia Bosio e Michele Valli, con TD, DCC, HMLD e HSR fuori dai rispettivi range [E11, E13, E14, E18, E15]; Michele Valli risulta molto sopra fascia larga in ACC [E15].\nRiguardo al postpartita della gara del 28/10/2023, su 8 non titolari 7 risultano in linea e 1 molto sotto il solito in HSR [E23]: Elia Gariglio, con 106 m contro un riferimento di 199 m, molto sotto il solito e sotto la fascia larga (127 m - 362 m) [E24].\n## Spunti per lo staff\nOggi le regole non segnalano nulla.\n## Qualità del dato e limiti\nAlcuni non titolari non hanno dati della partita del 28/10/2023: non hanno giocato o il dato manca, e il dataset non distingue i due casi [avvertenza]. I dati di Filippo Rinaldi, Nicolò Serafini e Samuele Pinna sono su basi provvisorie con 5-8 sedute e 7-12 casi [E8, E9, E10, E16, E17, E19, E21]; la finestra di osservazione postpartita non è aperta [E23, E24].",
+ "frasi_con_numeri": 11,
+ "verificate": 11,
+ "tolte": [],
+ "correzioni": [
+  {
+   "frase": "I dati di Filippo Rinaldi, Nicolò Serafini e Samuele Pinna sono su basi provvisorie con 5-8 sedute e 7-12 casi [E8, E9, E10, E16, E19, E21]; la finestra di osservazione postpartita non è aperta [E23, E24].",
+   "motivo": "numeri non presenti nelle evidenze citate: 12"
+  }
+ ],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.03901,
+ "secondi": 16.0,
+ "generato_il": "2026-10-28T09:36:44"
+}

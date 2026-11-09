@@ -1,0 +1,15 @@
+{
+ "data": "2024-01-07",
+ "tipo": "seduta",
+ "titolo": "Report della partita del 07/01/2024",
+ "testo": "## Sintesi\n\nLa seduta del 07/01/2024 (MD, giorno della partita) mostra un'aderenza al carico abituale sotto la mediana su quasi tutte le metriche di squadra: distanza totale (TD) al 41° percentile [E2], corsa ad alta velocità (HSR) al 26° percentile [E3], sprint (SPR) al 33° percentile [E4] e distanza ad alto carico metabolico (HMLD) al 30° percentile [E7]. Accelerazioni (ACC) e decelerazioni (DCC) sono più vicine al solito, rispettivamente al 48° e 36° percentile [E5, E6]. Su 12 giocatori, 2 risultano fuori dalla fascia larga in almeno una metrica e altri 6 ai margini [E1].\n\n## Fuori fascia\n\n- **Edoardo Tosi**: TD molto sotto la fascia larga (7.451 m, fascia 8.526 m–11.156 m) [E14]; HMLD molto sotto la fascia larga (1.219 m, fascia 1.552 m–2.138 m) [E13]; ACC molto sotto la fascia larga (35, fascia 61–93) [E8]; DCC molto sotto la fascia larga (55, fascia 70–108) [E9]; HSR sotto la fascia centrale (346 m, fascia 480 m–726 m) [E17].\n- **Riccardo Benedetti**: HSR molto sotto la fascia larga (83 m, fascia 175 m–334 m) [E10]; HMLD molto sotto la fascia larga (761 m, fascia 982 m–1.558 m) [E12]; DCC molto sotto la fascia larga (33, fascia 41–73) [E11]; SPR molto sotto la fascia larga (0 m, fascia 7 m–195 m) [E15]; TD sotto la fascia centrale (8.526 m, fascia 8.836 m–10.178 m) [E19].\n- **Tommaso Ferrandi**: HSR sotto la fascia centrale (322 m, fascia 428 m–561 m) [E16]; HMLD sotto la fascia centrale (1.639 m, fascia 1.869 m–2.182 m) [E20].\n- **Filippo Rinaldi** (non titolare): ACC sotto la fascia centrale (26, fascia 32–46) [E18].\n\n## Titolari e non titolari\n\nDati di MD+2 relativi alla partita del 16/12/2023: titolari sopra il solito su TD per Tommaso Ferrandi (3.055 m, 84° percentile) [E26], Alessio Dalmasso (3.578 m, 88° percentile) [E28] e Federico Santini (2.912 m, 83° percentile) [E29]; Ferrandi anche sopra su HSR (26 m, 100° percentile) [E27].\nTra i non titolari della partita del 16/12/2023, 3 su 8 valutati risultano molto sotto il solito in HSR postpartita, con mediana del gruppo molto sotto di 9 m contro un riferimento di 268 m [E22]: Samuele Pinna (15 m) [E23], Stefano Guidi (9 m) [E24] e Gabriele Longo (0 m) [E25].\n\n## Spunti per lo staff\n\nOggi le regole non segnalano nulla.\n\n## Qualità del dato e limiti\n\nNicolò Serafini non ha dati nella finestra postpartita (0 sedute su 1 della squadra) [E30]. La finestra postpartita della partita del 16/12/2023 non è più aperta [E22, E23, E24, E25]. Avvertenze generali: la settimana non è regolare (pausa o periodo senza dati), quindi il confronto col solito è indicativo; alcuni non titolari non hanno dati della partita del 16/12/2023 e il dataset non distingue se non hanno giocato o se il dato manca.",
+ "frasi_con_numeri": 10,
+ "verificate": 10,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.03276,
+ "secondi": 14.7,
+ "generato_il": "2026-10-28T09:34:55"
+}

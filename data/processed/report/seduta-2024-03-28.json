@@ -1,0 +1,15 @@
+{
+ "data": "2024-03-28",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 28/03/2024",
+ "testo": "## Sintesi\n\nNella seduta di due giorni dopo il precedente MD-3 (tre giorni prima della partita) (MD-3) del 28/03/2024 la squadra mostra un'aderenza al carico abituale mista: la distanza totale (TD) si colloca su un percentile mediano basso [E2], mentre la corsa ad alta velocità (HSR) risulta su un percentile mediano alto [E3]. Le accelerazioni intense (ACC) sono sotto la mediana abituale del gruppo [E5], mentre decelerazioni intense (DCC) e distanza ad alto carico metabolico (HMLD) restano vicine ai valori di riferimento [E6, E7]. 4 giocatori su 15 risultano fuori dalla fascia larga in almeno una metrica, mentre 11 sono nei margini [E1].\n\n## Fuori fascia\n\n- Tommaso Ferrandi: TD 7.014 m, molto sopra la fascia larga (4.460 m–6.698 m) [E8]; HMLD 1.329 m, molto sopra la fascia larga (704 m–1.267 m) [E10].\n- Nicolò Serafini: HSR 427 m, molto sopra la fascia larga (60 m–259 m) [E9]; distanza in sprint (SPR) 88 m, molto sopra la fascia larga (0 m–74 m) [E13]; ACC 37, sotto la fascia centrale (47–74) [E15].\n- Alessio Dalmasso: SPR 191 m, molto sopra la fascia larga (14 m–171 m) [E11].\n- Luca Cerutti: ACC 38, molto sotto la fascia larga (44–81) [E12]; TD 4.947 m, sotto la fascia centrale (5.437 m–6.684 m) [E18].\n- Pietro Ghio: DCC 35, sotto la fascia centrale (48–68) [E14]; ACC 38, sotto la fascia centrale (49–72) [E17].\n- Andrea Melis: ACC 46, sotto la fascia centrale (55–71) [E16].\n\n## Spunti per lo staff\n\nOggi le regole non segnalano nulla.\n\n## Qualità del dato e limiti\n\n- Dati postpartita (finestra MD-4…MD-2) assenti per Tommaso Ferrandi, Lorenzo Cortese, Andrea Melis, Federico Santini ed Edoardo Tosi: nessuna seduta con dati su 1 seduta della squadra [E19, E20, E21, E22, E23].\n- La finestra MD-4…MD-2 non è ancora conclusa: valori parziali fino al 28/03/2024.\n- Per alcuni non titolari manca il dato della partita del 23/03/2024: il dataset non distingue se non hanno giocato o se il dato è mancante.",
+ "frasi_con_numeri": 8,
+ "verificate": 8,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.02289,
+ "secondi": 10.8,
+ "generato_il": "2026-10-28T09:30:40"
+}

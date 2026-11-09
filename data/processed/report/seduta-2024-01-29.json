@@ -1,0 +1,24 @@
+{
+ "data": "2024-01-29",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 29/01/2024",
+ "testo": "## Sintesi\nLa seduta del 29/01/2024 (MD+2, due giorni dopo la partita) ha visto la squadra muoversi su valori di aderenza mista: la distanza totale (TD) si è mantenuta in linea, con percentile mediano di 63 [E2], mentre la corsa ad alta velocità (HSR) e lo sprint (SPR) sono risultati anch'essi dentro fascia, con percentili mediani rispettivamente di 71 [E3] e 61 [E4]. Le accelerazioni intense (ACC) sono invece scese sotto l'abituale, con percentile mediano di 22 [E5], mentre decelerazioni intense (DCC) e distanza ad alto carico metabolico (HMLD) sono rimaste su valori centrali, con percentili mediani di 40 [E6] e 51 [E7]. Su 16 giocatori, 8 sono risultati fuori dalla fascia larga in almeno una metrica [E1].\n## Fuori fascia\n- **Filippo Rinaldi**: molto sotto fascia larga su TD (1.577 m) [E12], HSR (2 m) [E13], ACC (0) [E14] e HMLD (34 m) [E15].\n- **Alessio Dalmasso**: molto sopra fascia larga su SPR (351 m) [E8] e HMLD (1.172 m) [E9].\n- **Federico Santini**: molto sotto fascia larga su HSR (0 m) [E10] e HMLD (112 m) [E11]; sotto fascia centrale su SPR (0 m) [E19].\n- **Luca Cerutti**: molto sotto fascia larga su TD (1.865 m) [E16]; sotto fascia centrale su ACC (28) [E21].\n- **Matteo Basile**: molto sopra fascia larga su DCC (64) [E17].\n- **Samuele Pinna**: sopra fascia centrale su DCC (75) [E22].\n## Titolari e non titolari\nTra i non titolari, la mediana HSR postpartita è 370 m su 10 valutati, con 2 giocatori molto sotto il loro riferimento abituale (mediana di questo sottogruppo 1 m contro un riferimento di 190 m) [E24]. Federico Santini e Filippo Rinaldi risultano molto sotto il solito per HSR postpartita (0 m e 2 m) [E25, E27], mentre Luca Cerutti è sotto il solito (50 m) [E26]. Tra i titolari, Tommaso Ferrandi è molto sopra fascia larga per HSR a MD+2 (43 m contro fascia fino a 26 m) [E28], ed Edoardo Tosi è sopra fascia centrale per TD (3.422 m) [E18].\n## Spunti per lo staff\n- Valutare se serve un richiamo per Federico Santini: non è partito titolare il 27/01/2024 e nelle sedute postpartita registrate ha fatto 0 m di HSR, sotto la sua fascia storica (129-357 m); della partita non ci sono dati. [E25]\n- Valutare se serve un richiamo per Filippo Rinaldi: non è partito titolare il 27/01/2024 e nelle sedute postpartita registrate ha fatto 2 m di HSR, sotto la sua fascia storica (129-357 m); della partita non ci sono dati. [E27]\nVerificare il carico postpartita registrato oggi per Tommaso Ferrandi: 43 m di HSR a MD+2 [E28], molto sopra la fascia larga dei titolari (fino a 26 m) [E28]. Il dato non misura lo stato di recupero. [E28]\n## Qualità del dato e limiti\nEdoardo Tosi ha copertura parziale nella finestra da MD-4 a MD-2: 1 seduta su 2 della squadra [E29]. Alcuni non titolari non hanno dati della partita del 27/01/2024: il dataset non distingue se non hanno giocato o se il dato manca.",
+ "frasi_con_numeri": 16,
+ "verificate": 16,
+ "tolte": [],
+ "correzioni": [
+  {
+   "frase": "La seduta del 29/01/2024 (MD+2) ha visto la squadra muoversi su valori di aderenza mista: la distanza totale (TD) si è mantenuta in linea, con percentile mediano di 63 [E2], mentre la corsa ad alta velocità (HSR) e lo sprint (SPR) sono risultati leggermente sopra fascia abituale, con percentili mediani rispettivamente di 71 [E3] e 61 [E4].",
+   "motivo": "la frase dice «sopra» ma i dati citati dicono: dentro"
+  },
+  {
+   "frase": "- Verificare il carico postpartita registrato oggi per Tommaso Ferrandi: 43 m di HSR a MD+2, oltre la fascia storica dei titolari (fino a 26 m).",
+   "motivo": "numeri senza evidenza citata"
+  }
+ ],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.05014,
+ "secondi": 18.9,
+ "generato_il": "2026-10-28T09:33:48"
+}

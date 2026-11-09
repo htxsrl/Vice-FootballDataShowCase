@@ -1,0 +1,15 @@
+{
+ "data": "2024-01-24",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 24/01/2024",
+ "testo": "## Sintesi\n\nLa seduta del 24/01/2024, tre giorni prima della partita (MD-3), mostra un carico aderente alla fascia abituale per la maggior parte del gruppo, con percentili mediani di squadra tra 53 e 75 nelle varie metriche [E2, E3, E4, E5, E6, E7]. 5 giocatori su 17 risultano fuori dalla fascia larga in almeno una metrica, con altri 7 ai margini [E1]. Le uscite riguardano soprattutto distanza ad alto carico metabolico (HMLD), distanza in sprint (SPR) e distanza totale (TD).\n\n## Fuori fascia\n\n- Filippo Rinaldi: HMLD 1.330 m, molto sopra la fascia larga (641 m–1.097 m) [E8]; TD 7.170 m, molto sopra la fascia larga (4.862 m–6.703 m) [E9]; decelerazioni (DCC) 77, molto sopra la fascia larga (34–66) [E11].\n- Luca Cerutti: HMLD 1.315 m, molto sopra la fascia larga (671 m–1.257 m) [E10]; SPR 316 m, molto sopra la fascia larga (23 m–280 m) [E14]; HSR (corsa ad alta velocità) 469 m, molto sopra la fascia larga (99 m–435 m) [E16].\n- Samuele Pinna: SPR 350 m, molto sopra la fascia larga (23 m–309 m) [E13]; HSR 489 m, sopra la fascia centrale (247 m–407 m) [E17].\n- Christian Porcu: SPR 313 m, molto sopra la fascia larga (16 m–277 m) [E12].\n- Riccardo Benedetti: HMLD 986 m, molto sopra la fascia larga (453 m–950 m) [E15]; DCC 59, sopra la fascia centrale (33–54) [E21].\n- Federico Santini: HSR 77 m, sotto la fascia centrale (94 m–183 m) [E18].\n\n## Spunti per lo staff\n\nOggi le regole non segnalano nulla.\n\n## Qualità del dato e limiti\n\n- Elia Gariglio non ha dati nella finestra postpartita (0 sedute su 1 disponibile) [E22]; i suoi valori di TD in questa seduta (sopra la fascia centrale, [E19]) vanno letti con questa lacuna in mente.\n- La finestra MD-4…MD-2 non è ancora conclusa: i valori relativi sono parziali fino al 24/01/2024.\n- Alcuni non titolari non hanno dati della partita del 21/01/2024: il dataset non distingue se non hanno giocato o se il dato manca.",
+ "frasi_con_numeri": 8,
+ "verificate": 8,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.02374,
+ "secondi": 11.0,
+ "generato_il": "2026-10-28T09:33:58"
+}

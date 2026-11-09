@@ -1,0 +1,15 @@
+{
+ "data": "2024-02-21",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 21/02/2024",
+ "testo": "## Sintesi\n\nLa seduta del 21/02/2024, in giornata MD-3 (tre giorni prima della partita), mostra un carico marcatamente superiore all'abituale su quasi tutte le metriche di alta intensità: la corsa ad alta velocità (HSR) ha un percentile mediano di squadra di 90 [E3], le accelerazioni (ACC) di 96 [E5] e le decelerazioni (DCC) di 95 [E6]. Anche la distanza ad alto carico metabolico (HMLD, 84) [E7] e la distanza in sprint (SPR, 77) [E4] si collocano sopra la norma, mentre la distanza totale (TD, 64) [E2] resta più vicina all'abituale. In totale 13 giocatori su 17 risultano fuori dalla fascia larga in almeno una metrica [E1].\n\n## Fuori fascia\n\n- Alessio Dalmasso: HSR 395 m, molto sopra la fascia larga (74 m-221 m) [E8]; SPR 257 m, molto sopra (12 m-159 m) [E9]; ACC 91, molto sopra (33-72) [E10]; HMLD 1.157 m, molto sopra (590 m-1.054 m) [E11].\n- Edoardo Tosi: SPR 478 m, molto sopra la fascia larga (79 m-314 m) [E12]; DCC 107, molto sopra (43-79) [E13].\n- Lorenzo Cortese: HSR 550 m, molto sopra la fascia larga (173 m-476 m) [E14].\n- Nicolò Serafini: HSR 396 m, molto sopra la fascia larga (48 m-215 m) [E15].\n- Pietro Ghio: ACC 95, molto sopra la fascia larga (43-79) [E16]; DCC 104, molto sopra (38-80) [E17].\n- Gabriele Longo: TD 6.856 m, sopra la fascia centrale (4.634 m-5.966 m) [E22]; ACC 92, sopra la fascia centrale (49-81) [E21].\n\n## Spunti per lo staff\n\n- Verificare se il programma prevedeva questo carico: la distanza ad alta velocità (HSR) mediana registrata oggi è 376 m, contro i 174 m delle sedute storiche di MD-3. [E23]\n\n## Qualità del dato e limiti\n\n- Samuele Pinna: nessun dato nella finestra da MD-4 a MD-2 [E24].\n- Edoardo Tosi, Christian Porcu, Simone Amato: nessun dato postpartita [E25, E26, E27].\n- La finestra MD-4…MD-2 non è ancora conclusa: i valori sono parziali fino al 21/02/2024.\n- Alcuni non titolari non hanno dati della partita del 18/02/2024: il dataset non distingue se non hanno giocato o se il dato manca.",
+ "frasi_con_numeri": 10,
+ "verificate": 10,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.02585,
+ "secondi": 11.0,
+ "generato_il": "2026-10-28T09:32:27"
+}

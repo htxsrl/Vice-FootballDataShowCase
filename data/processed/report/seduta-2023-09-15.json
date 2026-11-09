@@ -1,0 +1,15 @@
+{
+ "data": "2023-09-15",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 15/09/2023",
+ "testo": "## Sintesi\n\nLa seduta del 15/09/2023, giorno MD-1 (il giorno prima della partita), non evidenzia scostamenti rispetto al carico abituale: nessun giocatore risulta fuori dalla fascia larga in alcuna metrica [E1]. Va segnalato che per il tipo di seduta MD-1 non è ancora disponibile una fascia di riferimento solida, per inizio stagione (vedi Qualità del dato).\n\n## Fuori fascia\n\nNessun giocatore è fuori dalla fascia larga P10-P90 in questa seduta, su 18 giocatori monitorati [E1].\n\n## Verso la partita\n\nNella finestra da quattro giorni prima della partita (MD-4) a due giorni prima della partita (MD-2) in vista della gara del 16/09/2023, nessun giocatore risulta sotto il solito livello di alta velocità (HI (alta intensità)), su 18 giocatori e 2 sedute di squadra, con finestra completa [E2].\n\n## Spunti per lo staff\n\nOggi le regole non segnalano nulla.\n\n## Qualità del dato e limiti\n\n- Luca Cerutti non ha dati nella finestra post-partita: nessun dato su 1 seduta della squadra disponibile [E3].\n- Non esiste ancora una fascia di riferimento per le sedute di tipo MD-1, per troppo poche sedute storiche di questo tipo a inizio stagione.\n- Lo storico ha ancora troppo poche settimane regolari per costruire una curva tipica di carico.\n- Alcuni giocatori non titolari non hanno dati della partita del 10/09/2023: il dataset non distingue se non hanno giocato o se il dato manca.",
+ "frasi_con_numeri": 3,
+ "verificate": 3,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.01037,
+ "secondi": 7.3,
+ "generato_il": "2026-10-28T09:38:54"
+}

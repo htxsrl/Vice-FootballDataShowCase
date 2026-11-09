@@ -1,0 +1,15 @@
+{
+ "data": "2024-04-13",
+ "tipo": "seduta",
+ "titolo": "Report della partita del 13/04/2024",
+ "testo": "## Sintesi\n\nLa seduta del 13/04/2024 (MD, giorno della partita) mostra un'aderenza al carico abituale nella parte alta per la distanza totale (TD), con percentile mediano della squadra 82 [E2], mentre corsa ad alta velocità (HSR), distanza in sprint (SPR) e distanza ad alto carico metabolico (HMLD) si collocano su percentili mediani compresi tra 63 e 69 [E3, E4, E7]. Accelerazioni (ACC) e decelerazioni (DCC) restano più vicine ai valori abituali, con percentili mediani 53 e 54 [E5, E6]. Su 14 giocatori, 9 risultano fuori dalla fascia larga in almeno una metrica [E1].\n\n## Fuori fascia\n\n- Federico Santini: HSR 815 m, molto sopra la fascia larga (370 m–710 m) [E8]; anche TD 12.361 m, molto sopra la fascia larga (9.544 m–11.933 m) [E15].\n- Riccardo Benedetti: TD 8.118 m, molto sotto la fascia larga (8.554 m–10.418 m) [E10]; ACC 36, sotto la fascia centrale (46–64) [E18].\n- Pietro Ghio: TD 5.031 m, molto sopra la fascia larga (228 m–2.885 m) [E12].\n- Gabriele Longo: TD 7.212 m, molto sopra la fascia larga (891 m–6.479 m) [E13]; HMLD 1.538 m, molto sopra la fascia larga (298 m–1.424 m) [E11]; ACC 68, molto sopra la fascia larga (14–61) [E14].\n- Nicolò Serafini: TD 5.698 m, molto sopra la fascia larga (1.640 m–5.164 m) [E17]; HMLD 1.014 m, molto sopra la fascia larga (304 m–960 m) [E16]; DCC 53, sopra la fascia centrale (23–42) [E19].\n- Matteo Basile: ACC 49, molto sotto la fascia larga (61–95) [E9].\n\n## Titolari e non titolari\n\nTra i non titolari post-partita del 06/04/2024, Federico Santini e Simone Amato risultano molto sotto il solito in HSR (4 m e 0 m) [E25, E27], Edoardo Tosi sotto il solito (188 m) [E26]; in generale, su 6 non titolari valutati la mediana HSR è 140 m, con 2 molto sotto rispetto a un riferimento mediano di 256 m [E24]. Tra i titolari della seduta odierna, Federico Santini risulta sopra fascia anche in HMLD (2.505 m) [E21], Luca Cerutti sopra fascia in HMLD (2.085 m) [E22], e Samuele Pinna sopra fascia in SPR (602 m) [E20].\n\n## Spunti per lo staff\n\nOggi le regole non segnalano nulla.\n\n## Qualità del dato e limiti\n\nPietro Ghio e Luca Cerutti non hanno dati nella finestra da MD-4 a MD-2 (nessun dato su 2 sedute) [E28, E29]. Nel post-partita, Elia Gariglio, Pietro Ghio, Luca Cerutti e Christian Porcu non hanno dati (nessun dato su 1 seduta ciascuno) [E30, E31, E32, E33]. Alcuni non titolari non hanno dati della partita del 06/04/2024: non hanno giocato o il dato manca, il dataset non distingue i due casi.",
+ "frasi_con_numeri": 13,
+ "verificate": 13,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.03171,
+ "secondi": 15.9,
+ "generato_il": "2026-10-28T09:29:50"
+}

@@ -1,0 +1,20 @@
+{
+ "data": "2024-01-27",
+ "tipo": "seduta",
+ "titolo": "Report della partita del 27/01/2024",
+ "testo": "## Sintesi\nLa seduta del 27/01/2024 è una partita (MD) con 12 giocatori monitorati. [E1] L'aderenza al carico abituale è nella norma per distanza totale (TD) e decelerazioni (DCC), con percentile mediano di squadra rispettivamente di 70 e 51 [E2, E6], mentre corsa ad alta velocità (HSR) e distanza in sprint (SPR) mostrano percentili mediani più alti, 71 e 69 [E3, E4]. Le accelerazioni intense (ACC) si collocano su un percentile mediano di 45, in linea con l'abituale [E5].\n## Fuori fascia\n- **Alessio Dalmasso**: HSR 605 m, molto sopra la fascia larga P10-P90 (1 m - 428 m) [E8]; SPR 424 m, molto sopra la fascia larga (0 m - 119 m) [E9].\n- **Edoardo Tosi**: TD 11.770 m, molto sopra la fascia larga (7.744 m - 11.056 m) [E10]; HSR 890 m, molto sopra la fascia larga (342 m - 794 m) [E11]; SPR 639 m, molto sopra la fascia larga (107 m - 539 m) [E12]; distanza ad alto carico metabolico (HMLD) 2.201 m, molto sopra la fascia larga (1.434 m - 2.052 m) [E16]; ACC 35, sotto la fascia centrale P25-P75 (67 - 86) [E18].\n- **Luca Cerutti**: TD 7.402 m, molto sopra la fascia larga (1.036 m - 6.509 m) [E14]; SPR 389 m, molto sopra la fascia larga (35 m - 306 m) [E15]; ACC 72, molto sopra la fascia larga (16 - 62) [E17]; HMLD 1.461 m, sopra la fascia centrale (642 m - 1.200 m) [E21].\n- **Elia Gariglio**: DCC 12, molto sotto la fascia larga (21 - 50) [E13]; ACC 26, sotto la fascia centrale (31 - 47) [E22].\n- **Nicolò Serafini**: DCC 67, sotto la fascia centrale (77 - 91) [E19].\n- **Pietro Ghio**: ACC 68, sopra la fascia centrale (42 - 60) [E20].\n## Titolari e non titolari\nDopo la partita del 21/01/2024, su 11 non titolari valutabili 10 risultano in linea con il loro abituale e nessuno molto sotto, con HSR mediano dei valutati di 278 m [E23, E24]. Nella sessione MD+1 del 22/01/2024, Gabriele Longo (titolare) risulta molto sopra il suo livello di squadra sia in TD (4.198 m) sia in HSR (238 m), ma il dato è provvisorio [E25, E26].\n## Spunti per lo staff\nOggi le regole non segnalano nulla.\n## Qualità del dato e limiti\nEdoardo Tosi ha copertura parziale nella finestra MD-4/MD-2 (1 seduta su 2 della squadra) [E27]. Elia Gariglio non ha dati nella finestra postpartita (0 sedute su 1) [E28]. Alcuni non titolari non hanno dati della partita del 21/01/2024: non hanno giocato oppure il dato manca, il dataset non distingue i due casi. I dati di Gabriele Longo in MD+1 sono provvisori.",
+ "frasi_con_numeri": 12,
+ "verificate": 12,
+ "tolte": [],
+ "correzioni": [
+  {
+   "frase": "La seduta del 27/01/2024 è una partita (MD) con 12 giocatori monitorati.",
+   "motivo": "numeri senza evidenza citata"
+  }
+ ],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.04147,
+ "secondi": 15.4,
+ "generato_il": "2026-10-28T09:33:46"
+}

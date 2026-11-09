@@ -1,0 +1,15 @@
+{
+ "data": "2024-01-18",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 18/01/2024",
+ "testo": "## Sintesi\n\nLa seduta del 18/01/2024 (MD-3, tre giorni prima della partita), con 19 giocatori, mostra un'aderenza al carico abituale tendenzialmente sopra la mediana su più metriche: percentile mediano di squadra a 82 per la distanza totale (TD) [E2], a 81 per la distanza ad alto carico metabolico (HMLD) [E7] e a 70 per le decelerazioni (DCC) [E6]. Corsa ad alta velocità (HSR), accelerazioni (ACC) e sprint (SPR) restano più vicine ai livelli abituali, con percentili mediani rispettivamente di 66, 66 e 49 [E3, E5, E4]. 5 giocatori su 19 risultano fuori dalla fascia larga in almeno una metrica [E1].\n\n## Fuori fascia\n\n- **Samuele Pinna**: molto sopra la fascia larga P10-P90 in HSR (548 m, mediana 313 m) [E8], SPR (363 m, mediana 185 m) [E9], HMLD (1.642 m, mediana 1.132 m) [E10], TD (6.825 m, mediana 5.858 m) [E11]; anche ACC sopra la fascia centrale P25-P75 (103, mediana 72) [E21].\n- **Nicolò Serafini**: molto sopra la fascia larga in DCC (77, mediana 54) [E12]; ACC sopra la fascia centrale (80, mediana 58) [E19].\n- **Gabriele Longo**: molto sopra la fascia larga in HMLD (1.443 m, mediana 853 m) [E13] e TD (6.769 m, mediana 5.214 m) [E15]; DCC sopra la fascia centrale (102, mediana 62) [E18].\n- **Andrea Melis**: molto sopra la fascia larga in TD (6.452 m, mediana 5.396 m) [E14].\n- **Filippo Rinaldi**: molto sopra la fascia larga in HMLD (1.095 m, mediana 900 m) [E16].\n- **Federico Santini** e **Pietro Ghio** (fuori dalla fascia centrale, dentro la larga): Santini sopra in TD (6.505 m, mediana 5.532 m) [E17]; Ghio sotto in SPR (0 m, mediana 12 m) [E20].\n\n## Spunti per lo staff\n\nOggi le regole non segnalano nulla.\n\n## Qualità del dato e limiti\n\n- **Elia Gariglio**: copertura parziale nella finestra MD-4…MD-2, 1 seduta su 2 disponibili [E22].\n- **Alessio Dalmasso** e **Christian Porcu**: nessun dato nella finestra postpartita, 0 sedute su 1 [E23, E24].\n- Avvertenza: la finestra MD-4…MD-2 non è ancora conclusa, quindi i valori sono parziali fino al 18/01/2024.\n- Avvertenza: per alcuni non titolari manca il dato della partita del 13/01/2024; il dataset non distingue se non hanno giocato o se il dato è assente.",
+ "frasi_con_numeri": 10,
+ "verificate": 10,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.02563,
+ "secondi": 12.0,
+ "generato_il": "2026-10-28T09:34:14"
+}

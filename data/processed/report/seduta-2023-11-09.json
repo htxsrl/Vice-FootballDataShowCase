@@ -1,0 +1,15 @@
+{
+ "data": "2023-11-09",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 09/11/2023",
+ "testo": "## Sintesi\n\nLa seduta del 09/11/2023 (MD-2, due giorni prima della partita) ha mostrato un carico nettamente sopra l'abituale per quel giorno: la distanza totale (TD) mediana è a percentile 94 [E2] e la distanza ad alta velocità (HSR) mediana a percentile 83 [E3]. Anche accelerazioni (ACC), decelerazioni (DCC) e distanza ad alto carico metabolico (HMLD) mediane si collocano su percentili alti (78, 88 e 90) [E5, E6, E7]. In totale 16 giocatori su 18 risultano fuori dalla fascia larga in almeno una metrica [E1].\n\n## Fuori fascia\n\n- Edoardo Tosi: TD 7.054 m, molto sopra la fascia larga [E10].\n- Filippo Rinaldi: TD 7.114 m, molto sopra la fascia larga [E12].\n- Michele Valli: TD 6.775 m, molto sopra la fascia larga [E15].\n- Elia Gariglio: TD 6.880 m, molto sopra la fascia larga [E11].\n- Lorenzo Cortese: HSR 566 m, molto sopra la fascia larga [E13].\n- Alessio Dalmasso: TD 6.585 m e HMLD 1.044 m, molto sopra la fascia larga [E8, E9].\n\nAltri casi sopra la fascia centrale (ma dentro la larga): Matteo Basile su DCC (72, molto sopra la fascia larga) [E14] e ACC (67, sopra la fascia centrale) [E18]; Stefano Guidi su ACC (67, molto sopra la fascia larga) [E17]; Nicolò Serafini su HSR (364 m, molto sopra la fascia larga) [E16] e TD (6.386 m, sopra la fascia centrale) [E21].\n\n## Verso la partita\n\nNella finestra da MD-4 a MD-2 (finestra completa, 2 sedute) [E23], 2 giocatori risultano sotto il solito nell'alta velocità: Riccardo Benedetti e Pietro Ghio. Entrambi sono sotto la fascia centrale nella distanza in sprint (SPR): Benedetti 8 m contro riferimento 27 m [E24], Ghio 0 m contro riferimento 28 m [E26]. Nella HSR invece entrambi restano dentro la fascia abituale: Benedetti 155 m [E25] e Ghio 137 m [E27].\n\n## Spunti per lo staff\n\n- Verificare se il programma prevedeva questo carico: la distanza totale mediana registrata oggi è 6.452 m, contro i 4.994 m delle sedute storiche di MD-2. [E28]\n- Verificare se il programma prevedeva questo carico: la distanza ad alta velocità (HSR) mediana registrata oggi è 257 m, contro i 156 m delle sedute storiche di MD-2. [E29]\n\n## Qualità del dato e limiti\n\nNessun dato incompleto segnalato per la seduta odierna. Avvertenza generale: alcuni non titolari non hanno dati della partita del 04/11/2023, senza distinzione tra mancata partecipazione e dato assente.",
+ "frasi_con_numeri": 15,
+ "verificate": 15,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.02952,
+ "secondi": 12.0,
+ "generato_il": "2026-10-28T09:36:27"
+}

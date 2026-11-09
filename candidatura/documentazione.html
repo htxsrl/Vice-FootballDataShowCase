@@ -1,0 +1,465 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<title>Vice, il vice-preparatore AI · Documentazione del progetto</title>
+<!-- Bozza del PDF di documentazione per il Football Data Showcase 2026 (campo 11 del form).
+     Si stampa con: TMPDIR=<cartella temporanea> python3 candidatura/genera_pdf.py  (vedi il file per i dettagli).
+     I segnaposto da completare hanno la classe "da-completare". -->
+<style>
+@font-face { font-family: "Newsreader"; font-weight: 400; src: url(fonts/newsreader/newsreader-latin-400-normal.woff2) format("woff2"); }
+@font-face { font-family: "Newsreader"; font-weight: 600; src: url(fonts/newsreader/newsreader-latin-600-normal.woff2) format("woff2"); }
+@font-face { font-family: "Schibsted Grotesk"; font-weight: 400; src: url(fonts/schibsted-grotesk/schibsted-grotesk-latin-400-normal.woff2) format("woff2"); }
+@font-face { font-family: "Schibsted Grotesk"; font-weight: 500; src: url(fonts/schibsted-grotesk/schibsted-grotesk-latin-500-normal.woff2) format("woff2"); }
+@font-face { font-family: "Schibsted Grotesk"; font-weight: 700; src: url(fonts/schibsted-grotesk/schibsted-grotesk-latin-700-normal.woff2) format("woff2"); }
+
+:root {
+  --inchiostro: #172026; --secondario: #5B6770; --tenue: #6F7A83; --linea: #DCE1E5; --linea-forte: #B9C1C8;
+  --carta: #F4F6F8; --titolo: #1D5C63; --lime: #DAF34A;
+}
+@page { size: A4; margin: 18mm 19mm 20mm 19mm; }
+@page copertina { margin: 0; }
+* { box-sizing: border-box; }
+html { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+body { margin: 0; font: 400 10.4pt/1.5 "Newsreader", Georgia, serif; color: var(--inchiostro); hyphens: auto; }
+p { margin: 0 0 7pt; }
+strong { font-weight: 600; }
+a { color: var(--titolo); text-decoration: none; }
+.ui, table, figcaption, .nota { font-family: "Schibsted Grotesk", system-ui, sans-serif; }
+
+/* ---------- copertina ---------- */
+.copertina { page: copertina; height: 297mm; padding: 34mm 24mm 22mm; display: flex; flex-direction: column; break-after: page; }
+.copertina .marchio { display: flex; align-items: center; gap: 14px; }
+.logo { display: grid; place-items: center; width: 58px; height: 58px; border-radius: 10px; background: var(--inchiostro);
+  color: #fff; font: 600 34px/1 "Newsreader", serif; box-shadow: inset 0 -12px 0 var(--lime); }
+.copertina .bando { font: 500 9.5pt/1.3 "Schibsted Grotesk", sans-serif; color: var(--secondario); }
+.copertina h1 { margin: 26mm 0 0; font: 600 54pt/1 "Newsreader", serif; letter-spacing: -0.01em; }
+.copertina .sottotitolo { margin: 5mm 0 0; font: 400 20pt/1.25 "Newsreader", serif; color: var(--titolo); }
+.copertina .frase { margin: 10mm 0 0; max-width: 132mm; font-size: 12.5pt; line-height: 1.5; }
+.copertina dl { margin: auto 0 0; display: grid; grid-template-columns: 34mm 1fr; gap: 3.2mm 6mm;
+  font: 400 9.5pt/1.35 "Schibsted Grotesk", sans-serif; }
+.copertina dt { color: var(--secondario); }
+.copertina dd { margin: 0; }
+.copertina .crediti { margin: 9mm 0 0; padding-top: 4mm; border-top: 1px solid var(--linea); font: 400 8pt/1.4 "Schibsted Grotesk", sans-serif; color: var(--secondario); }
+
+/* ---------- sezioni ---------- */
+section.capitolo { margin-top: 10mm; }
+section.capitolo.pagina { break-before: page; margin-top: 0; }
+table, figcaption, .numeri, .flusso, .nota { hyphens: manual; }
+h1.capitolo { break-after: avoid; margin: 0 0 5mm; font: 600 19pt/1.2 "Newsreader", serif; color: var(--titolo); }
+h1.capitolo .n { display: inline-block; min-width: 9mm; color: var(--tenue); font-weight: 400; }
+h2 { margin: 6mm 0 2.5mm; font: 700 10.8pt/1.3 "Schibsted Grotesk", sans-serif; color: var(--titolo); break-after: avoid; }
+ul, ol { margin: 0 0 7pt; padding-left: 5mm; }
+li { margin-bottom: 2.5pt; }
+
+table { width: 100%; border-collapse: collapse; margin: 2mm 0 5mm; font-size: 8.4pt; line-height: 1.35; }
+thead { display: table-header-group; }
+table { break-inside: avoid; }
+table.lunga { break-inside: auto; }
+tr { break-inside: avoid; }
+th, td { padding: 1.6mm 2.2mm 1.6mm 0; border-bottom: 1px solid var(--linea); text-align: left; vertical-align: top; }
+th { color: var(--secondario); font-weight: 500; border-bottom-color: var(--linea-forte); }
+td.n, th.n { text-align: right; white-space: nowrap; padding-right: 3mm; }
+td.riga, th.riga { white-space: nowrap; padding-right: 4mm; }
+caption { caption-side: bottom; text-align: left; padding-top: 1.5mm; font: 400 7.8pt/1.35 "Schibsted Grotesk", sans-serif; color: var(--secondario); }
+
+.riquadro { margin: 3mm 0 5mm; padding: 3.5mm 4.5mm; border-left: 3px solid var(--titolo); background: var(--carta); break-inside: avoid; }
+.riquadro p:last-child { margin-bottom: 0; }
+.citazione { margin: 2mm 0 0; padding-left: 4mm; border-left: 2px solid var(--linea-forte); color: var(--secondario); }
+.nota { font-size: 8pt; color: var(--secondario); line-height: 1.4; }
+
+figure { margin: 4mm 0 6mm; break-inside: avoid; }
+figure img { display: block; width: 100%; border: 1px solid var(--linea); border-radius: 3px; }
+figure.f75 img, figure.f75 figcaption { width: 78%; margin-left: auto; margin-right: auto; }
+figure.coppia .immagini { display: grid; grid-template-columns: 1fr 1fr; gap: 4mm; align-items: start; }
+figcaption { margin-top: 2mm; font-size: 8pt; line-height: 1.4; color: var(--secondario); }
+figcaption b { color: var(--inchiostro); font-weight: 700; }
+div.affiancata { display: grid; grid-template-columns: 52% 1fr; gap: 6mm; align-items: start; margin: 3mm 0 6mm; break-inside: avoid; }
+div.affiancata figure, div.affiancata table { margin-top: 0; }
+
+.numeri-titolo { margin: 5mm 0 0; font: 400 9pt/1.4 "Schibsted Grotesk", sans-serif; color: var(--secondario); }
+.numeri-titolo strong { color: var(--inchiostro); font-weight: 700; }
+.numeri-titolo + .numeri { margin-top: 2.5mm; }
+.numeri { display: grid; grid-template-columns: repeat(3, 1fr); gap: 4mm; margin: 4mm 0 6mm; break-inside: avoid; }
+.numeri div { padding: 3mm 0 0; border-top: 2px solid var(--inchiostro); }
+.numeri strong { display: block; font: 700 17pt/1.1 "Schibsted Grotesk", sans-serif; }
+.numeri span { display: block; margin-top: 1.5mm; font: 400 8pt/1.35 "Schibsted Grotesk", sans-serif; color: var(--secondario); }
+
+.flusso { display: grid; grid-template-columns: repeat(5, 1fr); gap: 2mm; margin: 3mm 0 5mm; break-inside: avoid;
+  font: 400 8pt/1.35 "Schibsted Grotesk", sans-serif; }
+.flusso div { padding: 2.5mm; background: var(--carta); border-top: 2px solid var(--titolo); }
+.flusso b { display: block; margin-bottom: 1mm; font-weight: 700; }
+
+.da-completare { background: #FFF3B0; padding: 0 1mm; font-family: "Schibsted Grotesk", sans-serif; font-size: 0.9em; }
+.insieme { break-inside: avoid; }
+.riferimenti li { font-size: 8.8pt; margin-bottom: 3pt; break-inside: avoid; }
+</style>
+</head>
+<body>
+
+<!-- ======================= COPERTINA ======================= -->
+<div class="copertina">
+  <div class="marchio"><span class="logo">V</span><span class="bando">Football Data Showcase 2026<br>Wylab · TOP-IX</span></div>
+  <h1>Vice</h1>
+  <p class="sottotitolo">il vice-preparatore AI per la performance fisica</p>
+  <p class="frase">Vice è lo <strong>strumento di supporto decisionale</strong> per i preparatori atletici e il loro staff: risponde alle domande dello staff sulla performance fisica dei giocatori. Ogni risposta arriva con il <strong>grafico costruito per quella domanda</strong>, e <strong>ogni numero citato si ritrova nel grafico con un clic</strong>. Quando arriva una nuova seduta, <strong>Vice segnala da sé cosa merita attenzione</strong>. Le decisioni restano allo staff.</p>
+  <dl>
+    <dt>Ambito</dt><dd>Performance</dd>
+    <dt>Autori</dt><dd>Human Technology Excellence - HTX SRL</dd>
+    <dt>Referente</dt><dd>Ivan Buttignon</dd>
+    <dt>Demo</dt><dd><a href="https://vice.ht-x.com">vice.ht-x.com</a></dd>
+    <dt>Video</dt><dd><span class="da-completare">[link al video della demo, 2-3 minuti]</span></dd>
+    <dt>Codice</dt><dd><a href="https://github.com/htxsrl/Vice-FootballDataShowCase">github.com/htxsrl/Vice-FootballDataShowCase</a></dd>
+    <dt>Data</dt><dd>10/11/2026</dd>
+  </dl>
+  <p class="crediti">Dataset di esempio utilizzati: Zenodo 18986229 (Rodríguez-Fernández, CC BY 4.0).</p>
+</div>
+
+<!-- ======================= 1. IL PROBLEMA ======================= -->
+<section class="capitolo pagina">
+<h1 class="capitolo"><span class="n">1</span>Il problema</h1>
+
+<p>Dopo ogni allenamento e ogni partita lo staff atletico riceve una <strong>grande quantità di dati</strong> su ciascun giocatore. Le unità GPS registrano posizione e velocità e, con accelerometri, giroscopi e magnetometri, anche accelerazioni, frenate e cambi di direzione; da queste misure si ricavano indicatori come la potenza metabolica e molte altre. A seconda del club si aggiungono il tracking ottico delle partite, i test di forza, la frequenza cardiaca. Spesso i dati arrivano da <strong>fornitori diversi</strong>, ognuno con la propria piattaforma e il proprio formato di esportazione.</p>
+
+<p>Da questi dati il preparatore atletico deve ricavare <strong>ogni giorno risposte a domande precise</strong>:</p>
+
+<table>
+  <thead><tr><th class="riga">Quando</th><th>La domanda dello staff</th></tr></thead>
+  <tbody>
+    <tr><td class="riga">Dopo ogni seduta</td><td>Chi si è allontanato dal suo carico abituale, e di quanto?</td></tr>
+    <tr><td class="riga">Dopo la partita</td><td>Chi non ha giocato ha recuperato il lavoro della partita, o serve un richiamo?</td></tr>
+    <tr><td class="riga">Prima della partita</td><td>Qualcuno arriva alla partita con poca corsa ad alta velocità?</td></tr>
+    <tr><td class="riga">Durante la settimana</td><td>Qualcuno è in calo mentre la squadra no?</td></tr>
+    <tr><td class="riga">Dopo un'assenza</td><td>Com'è ripartito chi rientra?</td></tr>
+  </tbody>
+</table>
+
+<p>Per rispondere, ogni valore va confrontato con <strong>lo storico giusto</strong>: lo stesso giocatore, lo stesso ruolo, lo stesso giorno rispetto alla partita. Poi il risultato va spiegato all'allenatore. Le piattaforme dei fornitori e le dashboard mostrano però <strong>molte misure e molti grafici insieme</strong>: molte volte non c'è la risposta precisa che soddisfa la richiesta esatta dello staff, oppure va cercata tra la grande quantità di dati e grafici presentati. Inoltre, il confronto con lo storico giusto va spesso <strong>costruito a mano</strong>.</p>
+
+<p>Il tema tocca due degli ostacoli che la survey 2026 dell'Osservatorio sulla Football Data Analysis di Wylab propone per il settore in Italia: la «<strong>difficoltà di comunicazione tra area tecnica e area analitica</strong>» e la «<strong>mancanza di rigore metodologico</strong>».</p>
+
+</section>
+
+<!-- ======================= 2. VICE ======================= -->
+<section class="capitolo">
+<h1 class="capitolo"><span class="n">2</span>Vice</h1>
+
+<p>Vice è un assistente AI pensato per <strong>un solo ambito, la performance fisica</strong> dei calciatori. <strong>Non è una dashboard</strong>: il preparatore infatti parte da una domanda, la chiede a Vice in linguaggio naturale e Vice <strong>mostra soltanto ciò che serve a rispondere</strong>. Si regge su tre idee.</p>
+
+<h2>2.1 Vice è pro-attivo</h2>
+
+<p>Quando arriva la seduta del giorno, <strong>Vice segnala da sé</strong> cosa merita attenzione prima della seduta successiva o della partita: chi si è allontanato molto dal suo carico abituale, in eccesso o in difetto; chi non ha giocato e dopo la partita ha fatto poca alta velocità; chi arriva alla partita con poco sprint; chi, nelle ultime due settimane, è sotto il suo solito mentre la squadra no; chi rientra dopo un'assenza e chi è tornato nel suo solito. Gli avvisi sono scritti dal codice e sono <strong>pochi, al massimo tre al giorno</strong>, in modo da presentare allo staff solo informazioni veramente rilevanti e significative. Ognuno propone cosa valutare, verificare o approfondire, e si può aprire sulla lavagna, discutere in chat o segnare come visto (Figura 1). <strong>La decisione resta sempre al preparatore atletico e allo staff.</strong></p>
+
+<figure class="f75">
+  <img src="immagini/apertura.jpg" alt="">
+  <figcaption><b>Figura 1. L'apertura di Vice il 19/04/2024.</b> Prima che si carichi la seduta del giorno, Vice ricorda gli avvisi ancora da guardare: Simone Amato e Riccardo Benedetti sotto il loro solito nelle ultime due settimane. Ogni avviso ha tre azioni: mostrarlo sulla lavagna, chiederne conto a Vice, segnarlo come visto.</figcaption>
+</figure>
+
+<h2>2.2 Una risposta precisa, con il suo grafico</h2>
+
+<p>Il preparatore scrive o detta la domanda <strong>con le sue parole</strong>: «Chi è fuori fascia oggi in alta velocità?», «Come sta Cortese?», «I non titolari hanno recuperato il lavoro della partita?». Vice risponde <strong>in poche righe</strong> e, accanto alla chat, porta sulla lavagna <strong>il grafico costruito per quella domanda</strong>: la misura chiesta, il giorno chiesto, il giocatore in evidenza (Figura 2). All'apertura la pagina mostra solo la chat; la lavagna compare quando una risposta ha un grafico, e mostra una vista alla volta.</p>
+
+<h2>2.3 Ogni numero ha la sua prova</h2>
+
+<p>Ogni frase che contiene un numero <strong>cita il dato da cui viene</strong>, con un'etichetta come [E1]. Un clic sull'etichetta porta la lavagna sul grafico giusto e <strong>accende il punto corrispondente</strong> (Figura 2). <strong>I numeri non li scrive il modello linguistico: li calcola il codice.</strong> Prima di mostrare il testo, <strong>un controllo automatico</strong> confronta ogni numero e ogni giudizio («sopra la fascia», «sotto il solito») con i dati citati; le frasi che non tornano vengono corrette o tolte, e il messaggio lo dichiara.</p>
+
+<figure>
+  <img src="immagini/citazione.jpg" alt="">
+  <figcaption><b>Figura 2. Dalla domanda al dato.</b> Il 19/04/2024, caricata la seduta, il preparatore chiede «Chi è fuori fascia oggi in alta velocità?». Vice risponde in poche righe: tre giocatori sopra la loro fascia, ogni numero con la sua citazione, tutte le frasi verificate sui dati. Il clic sulla citazione [E1], «69 m, molto sopra la fascia larga», accende sulla lavagna la riga di Matteo Basile e, sopra il grafico, la prova del numero. Ogni riga è un giocatore: le bande sono la sua fascia storica per quel giorno della settimana, il punto è il valore di oggi.</figcaption>
+</figure>
+
+<div class="insieme">
+<p class="numeri-titolo"><strong>Vice in tre misure, sulla stagione 2023/24</strong> (come sono state ottenute: capitolo 6)</p>
+<div class="numeri">
+  <div><strong>1.494 su 1.494</strong><span>le frasi con numeri nei 142 report che Vice ha scritto per la stagione, tutte verificate sui dati prima di essere mostrate</span></div>
+  <div><strong>28 su 28</strong><span>le domande di prova superate dall'agente: domande dello staff, report, grafici e trabocchetti come il rischio infortuni</span></div>
+  <div><strong>8</strong><span>gli avvisi a settimana, in mediana sulla stagione (al massimo 14): lo staff ne riceve pochi</span></div>
+</div>
+</div>
+
+</section>
+
+<!-- ======================= 3. UNA GIORNATA CON VICE ======================= -->
+<section class="capitolo">
+<h1 class="capitolo"><span class="n">3</span>Una giornata con Vice</h1>
+
+<p>Vice si apre dal browser, senza registrazione: <a href="https://vice.ht-x.com">vice.ht-x.com</a>. La demo si svolge il 19/04/2024, vigilia di una partita, con la stagione precedente già nei dati.</p>
+
+<ol>
+  <li><strong>Caricare la seduta.</strong> Il preparatore trascina nella chat l'export scaricato dalla piattaforma del fornitore. Vice dice cosa ha letto e analizza i numeri del file, anche se un valore è stato cambiato a mano.</li>
+  <li><strong>Leggere avvisi e report.</strong> In testa gli avvisi nati quel giorno; sotto, il report: sintesi, chi è fuori fascia, verso la partita, qualità del dato.</li>
+  <li><strong>Guardare la prova.</strong> «Mostra sulla lavagna» apre il grafico di un avviso; un clic su una citazione accende il dato.</li>
+  <li><strong>Chiedere.</strong> In chat, o tenendo premuto il microfono.</li>
+  <li><strong>Tornare indietro.</strong> Dal calendario si apre qualunque giorno della stagione: le domande successive riguardano quel giorno, e lo si può confrontare con oggi.</li>
+</ol>
+
+<figure class="coppia">
+  <div class="immagini">
+    <img src="immagini/mostra.jpg" alt="">
+    <img src="immagini/settimana.jpg" alt="">
+  </div>
+  <figcaption><b>Figura 3. Due domande, due grafici.</b> A sinistra lo sprint di Simone Amato nelle ultime sedute, aperto da «Mostra sulla lavagna» sul suo avviso: ogni seduta ha la sua fascia per quel giorno della settimana, e la spiegazione dice «più basso del suo solito». A destra la settimana della squadra in alta velocità: una cella per giocatore e seduta, col valore e una freccia per la posizione rispetto alla fascia. I colori sono scelti per restare distinguibili anche da chi non distingue il rosso dal verde.</figcaption>
+</figure>
+
+<table>
+  <thead><tr><th>Operazione</th><th class="n">Tempo</th><th class="n">Costo</th></tr></thead>
+  <tbody>
+    <tr><td>Analisi di una giornata (motore)</td><td class="n">0,5 s in media</td><td class="n">nessuno</td></tr>
+    <tr><td>Avvisi di una seduta caricata</td><td class="n">circa 1 s</td><td class="n">nessuno</td></tr>
+    <tr><td>Report della seduta scritto dal modello</td><td class="n">10-22 s</td><td class="n">0,02-0,06 $</td></tr>
+    <tr><td>Report già pronto, riletto e ricontrollato</td><td class="n">meno di 1 s</td><td class="n">nessuno</td></tr>
+    <tr><td>Domanda in chat</td><td class="n">7-18 s</td><td class="n">0,02-0,04 $</td></tr>
+  </tbody>
+</table>
+
+</section>
+
+<!-- ======================= 4. DUE SETTIMANE DI APRILE, VISTE DA VICE ======================= -->
+<section class="capitolo pagina">
+<h1 class="capitolo"><span class="n">4</span>Due settimane di aprile, viste da Vice</h1>
+
+<p>Gli avvisi di un giocatore, <strong>letti in sequenza</strong>, raccontano ciò che la tabella di un solo giorno non mostra. Ecco quelli di Simone Amato tra la partita del 06/04 e quella del 20/04/2024 (MD è il giorno della partita: MD-3 tre giorni prima, MD+2 due giorni dopo; HSR è la corsa ad alta velocità, oltre 19,8 km/h):</p>
+
+<table>
+  <thead><tr><th class="riga">Giorno</th><th class="riga">Avviso</th><th>Cosa dice Vice (testo del codice, abbreviato)</th></tr></thead>
+  <tbody>
+    <tr><td class="riga">08/04, MD+2</td><td class="riga">Richiamo</td><td>Non è partito titolare e dopo la partita ha fatto 0 m di HSR, sotto la sua fascia (169-377 m): con la partita arriva al 27% del suo riferimento.</td></tr>
+    <tr><td class="riga">10/04, MD-3</td><td class="riga">Calo persistente</td><td>In cinque sedute meno alta velocità, sprint e distanza totale del suo solito, mentre la squadra era nella norma.</td></tr>
+    <tr><td class="riga">11/04, MD-2</td><td class="riga">Settimana sotto il solito</td><td>Finora gli allenamenti valgono in alta velocità il 48% della sua partita, contro una mediana di squadra del 128%.</td></tr>
+    <tr><td class="riga">12/04, MD-1</td><td class="riga">Nota positiva</td><td>Tornato nel suo carico abituale in alta velocità e distanza totale.</td></tr>
+    <tr><td class="riga">15/04, MD+2</td><td class="riga">Tendenza lunga</td><td>Nelle ultime quattro settimane fa meno sprint di due-tre mesi prima (scarto mediano −32%).</td></tr>
+    <tr><td class="riga">17/04, MD-3</td><td class="riga">Calo persistente</td><td>In cinque sedute meno sprint del suo solito, con la squadra nella norma. Resta da guardare il giorno della demo.</td></tr>
+  </tbody>
+</table>
+
+<p>La lettura per lo staff è concreta: <strong>dopo il richiamo l'alta velocità è tornata nel solito, lo sprint no</strong>. Il 19/04, caricata la seduta, Vice aggiunge un carico insolito di Matteo Basile alla vigilia della partita (alta velocità 69 m, fascia larga 2-53 m), un calo della distanza totale di Christian Porcu e il ritorno nel suo solito di Riccardo Benedetti.</p>
+
+</section>
+
+<!-- ======================= 5. COME FUNZIONA ======================= -->
+<section class="capitolo">
+<h1 class="capitolo"><span class="n">5</span>Come funziona</h1>
+
+<div class="flusso">
+  <div><b>1. Dati</b>l'export della seduta, letto e controllato</div>
+  <div><b>2. Motore</b>fasce storiche e analisi, ogni numero con la sua evidenza</div>
+  <div><b>3. Avvisi</b>regole scritte nel codice: cosa guardare oggi</div>
+  <div><b>4. Modello</b>sceglie le analisi e scrive, citando le evidenze</div>
+  <div><b>5. Verifica</b>numeri e giudizi confrontati coi dati prima di mostrarli</div>
+</div>
+
+<p>Le sei misure del GPS (TD, HSR, SPR, ACC, DCC, HMLD) e il dataset su cui la demo le calcola sono descritti nel capitolo 8.</p>
+
+<h2>Il carico abituale: le fasce storiche</h2>
+
+<p>Per ogni misura e giorno rispetto alla partita (e, a MD, MD+1 e MD+2, separando titolari e non titolari) Vice costruisce dallo storico precedente la distribuzione dei valori e ne ricava due fasce: la <strong>fascia centrale</strong>, tra il 25° e il 75° percentile (P25-P75), che descrive il carico abituale, e la <strong>fascia larga</strong>, tra il 10° e il 90° (P10-P90), oltre la quale un valore è poco usuale. I percentili reggono meglio della media su distribuzioni asimmetriche come quelle dello sprint; sono scelte dichiarate, senza significato clinico.</p>
+
+<table>
+  <thead><tr><th>Livello della fascia</th><th>Quando si usa</th><th>Come si calcola</th></tr></thead>
+  <tbody>
+    <tr><td>Personale</td><td>almeno 8 sedute del giocatore in quel giorno</td><td>una distribuzione pesata: le sue sedute pesano n / (n + 8), cioè il 50% con 8 sedute e il 75% con 24; il resto è il ruolo</td></tr>
+    <tr><td>Ruolo</td><td>altrimenti, con almeno 6 casi da almeno 3 sedute diverse</td><td>percentili del ruolo</td></tr>
+    <tr><td>Squadra</td><td>altrimenti, con le stesse soglie</td><td>percentili della squadra</td></tr>
+    <tr><td>Nessuna</td><td>sotto le soglie</td><td>«storico insufficiente», come nelle prime tre settimane</td></tr>
+  </tbody>
+</table>
+
+<p>Un valore esce da un bordo della fascia solo se lo supera di una <strong>tolleranza operativa</strong>, il massimo tra un minimo assoluto e una quota della mediana. Non è l'errore del GPS: per alta velocità, sprint e conteggi non esiste una stima trasferibile (Beato et al., 2018; Varley et al., 2017; Hopkins, 2000). Una fascia costruita su meno di 6 sedute diverse è <strong>provvisoria</strong>: si mostra ma non genera avvisi, perché i giocatori della stessa seduta seguono lo stesso programma e non sono casi indipendenti.</p>
+
+<table>
+  <thead><tr><th>Misura</th><th class="n">TD</th><th class="n">HSR</th><th class="n">SPR</th><th class="n">ACC, DCC</th><th class="n">HMLD</th></tr></thead>
+  <tbody>
+    <tr><td>Tolleranza</td><td class="n">100 m o 3%</td><td class="n">10 m o 10%</td><td class="n">5 m o 20%</td><td class="n">2 o 10%</td><td class="n">30 m o 5%</td></tr>
+  </tbody>
+</table>
+
+<h2>Le analisi</h2>
+
+<table>
+  <thead><tr><th>Analisi</th><th>Domanda</th><th>Cosa confronta</th></tr></thead>
+  <tbody>
+    <tr><td>Seduta</td><td>Chi è fuori dal suo carico abituale oggi?</td><td>ogni giocatore e misura contro la sua fascia; per la squadra il percentile mediano</td></tr>
+    <tr><td>Settimana</td><td>La settimana segue la curva solita?</td><td>la mediana di squadra di ogni seduta contro lo stesso giorno delle settimane passate</td></tr>
+    <tr><td>Alta velocità</td><td>Chi arriva alla partita con poca velocità?</td><td>sprint e HSR da MD-4 a MD-2 contro la somma dei suoi riferimenti giornalieri (Gualtieri et al., 2023; Dello Iacono et al., 2023)</td></tr>
+    <tr><td>Postpartita</td><td>Chi non ha giocato ha recuperato il lavoro?</td><td>i non titolari a MD+1 e MD+2 contro il loro solito, sommando la partita (Clemente et al., 2024)</td></tr>
+    <tr><td>Allenamento e partita</td><td>Quanto della partita stiamo allenando?</td><td>la settimana in % del riferimento di partita: la media del giocatore da titolare, o del ruolo se ha meno di 3 partite (Ammann e Altmann, 2023)</td></tr>
+    <tr><td>Andamento</td><td>Sta calando o crescendo?</td><td>le ultime 4 settimane contro le sue sedute precedenti dello stesso giorno</td></tr>
+  </tbody>
+</table>
+
+<p>Ogni risultato è un insieme di <strong>evidenze</strong>: un identificativo stabile (per esempio <span class="ui">seduta/2024-04-19/9/hsr</span>), il valore arrotondato come si mostra e il contesto (fascia, percentile, tolleranza, numero di casi, copertura dei dati). Un report si basa su 300-650 evidenze.</p>
+
+<h2>Gli avvisi</h2>
+
+<p>Gli avvisi nascono dalle analisi e devono superare <strong>tre filtri</strong>: essere difendibili con i dati disponibili, portare a una scelta concreta dello staff, essere rari e persistenti.</p>
+
+<table class="lunga">
+  <thead><tr><th>Famiglia</th><th>Quando nasce</th></tr></thead>
+  <tbody>
+    <tr><td>Richiamo dopo la partita</td><td>un non titolare ha fatto dopo la partita molta meno alta velocità del solito, e con la partita resta sotto il 60% del suo riferimento</td></tr>
+    <tr><td>Alta velocità prima della partita</td><td>a MD-2 o MD-1, sprint nullo o quasi per chi di solito ne fa, oppure sprint o HSR molto sotto il solito</td></tr>
+    <tr><td>Carico insolito</td><td>vicino alla partita, distanza o HSR oltre il P90 della sua fascia di almeno il 25% (sprint e decelerazioni del 50%)</td></tr>
+    <tr><td>Settimana sopra o sotto il solito</td><td>a MD-2, la sua settimana rispetto ai compagni è lontana da come è di solito</td></tr>
+    <tr><td>Calo persistente</td><td>almeno 3 sedute sotto il suo solito in due settimane, mentre la squadra in quelle sedute era nella norma</td></tr>
+    <tr><td>Rientro dopo un'assenza</td><td>di nuovo dati dopo almeno 3 sedute di squadra senza</td></tr>
+    <tr><td>Scarto di reparto</td><td>nel riassunto settimanale, chi fa sistematicamente meno di tutti i compagni di reparto</td></tr>
+    <tr><td>Note positive</td><td>chi torna nel suo solito dopo un calo o un rientro</td></tr>
+    <tr><td>Qualità del dato</td><td>valori impossibili nel file, o un giocatore senza dati da due sedute</td></tr>
+  </tbody>
+</table>
+
+<p>Il preparatore segna un avviso come visto. Vice lo aggiorna quando ne nasce uno più recente sullo stesso giocatore, lo chiude quando la situazione finisce, per esempio con la nota «tornato nel suo solito», e lo fa scadere alla partita successiva o, per un calo, dopo due settimane. Le soglie sono state tarate sull'intera stagione, guardando ogni giorno col solo suo passato: in mediana <strong>8 avvisi a settimana</strong> e al massimo 14, escluse le segnalazioni sui dati; in 69 giorni di seduta su 151 non nasce alcun avviso. Il rischio di infortunio è <strong>escluso di proposito</strong> (Impellizzeri et al., 2020).</p>
+
+<h2>Il modello linguistico e la verifica</h2>
+
+<p>Vice usa Claude Sonnet 5 di Anthropic attraverso il gateway Hydrogen di HTX, su AWS Bedrock con inferenza in Unione Europea; se il modello non risponde dopo due tentativi, subentra Claude Sonnet 4.6. In chat il modello dispone di <strong>11 strumenti in sola lettura</strong>: le analisi del motore, i limiti dei dati e uno strumento che porta un grafico sulla lavagna. Riceve i risultati come evidenze etichettate ([E3]), con i numeri già scritti da citare così come sono. Per i report riceve in una sola chiamata i dati già calcolati e scrive secondo una struttura fissa.</p>
+
+<p>Prima di mostrare il testo, <strong>un controllo deterministico</strong> lo verifica frase per frase:</p>
+
+<ul>
+  <li><strong>numeri:</strong> ogni numero deve coincidere, entro l'arrotondamento con cui è scritto, con un numero dell'evidenza citata;</li>
+  <li><strong>giudizi:</strong> se una frase dice sopra, sotto, dentro o fuori dalla fascia, almeno un dato citato deve dire lo stesso;</li>
+  <li><strong>suggerimenti:</strong> le frasi che iniziano con «Valutare», «Verificare» o «Approfondire» devono venire dagli avvisi del codice: il modello non ne inventa.</li>
+</ul>
+
+<p>Le frasi che non passano vanno a una sola chiamata di correzione, con il motivo; quelle che non passano ancora <strong>si tolgono</strong>, e il messaggio lo dichiara («N frasi su N verificate sui dati»).</p>
+
+</section>
+
+<!-- ======================= 6. COME LO ABBIAMO VERIFICATO ======================= -->
+<section class="capitolo">
+<h1 class="capitolo"><span class="n">6</span>Come lo abbiamo verificato</h1>
+
+<p>I controlli rispondono a tre domande diverse: il software fa ciò che dichiara? I dati sono coerenti? Le indicazioni sono utili allo staff?</p>
+
+<ul>
+  <li><strong>Software.</strong> 801 test automatici. Un test controlla, su tutti i 151 giorni di seduta, che Vice non veda dati successivi all'oggi. Ogni errore corretto ha il suo test. Una prova automatica dell'interfaccia in Chrome esegue 99 controlli sul copione della demo.</li>
+  <li><strong>Dati.</strong> La replica delle tabelle dell'articolo che descrive il dataset (capitolo 8).</li>
+  <li><strong>Agente.</strong> Un banco di prova di 28 scenari: domande dello staff, report, domande con grafico e domande trabocchetto (rischio infortuni, ACWR, «il migliore», minuti giocati, una data futura, la velocità massima). Nell'ultimo giro completo, del 26/10/2026, li ha superati tutti.</li>
+  <li><strong>Utilità.</strong> Non è ancora misurata. Le regole sono state scelte conoscendo l'intera stagione: è una verifica retrospettiva, non una validazione con uno staff.</li>
+</ul>
+
+<h2>Il postpartita dei non titolari nella stagione</h2>
+
+<table style="width: 64%">
+  <thead><tr><th>Esito (HSR postpartita)</th><th class="n">Casi</th></tr></thead>
+  <tbody>
+    <tr><td>in linea col solito</td><td class="n">108</td></tr>
+    <tr><td>nessuna seduta postpartita registrata</td><td class="n">64</td></tr>
+    <tr><td>senza fascia (storico insufficiente)</td><td class="n">51</td></tr>
+    <tr><td>nessun dato del giocatore</td><td class="n">23</td></tr>
+    <tr><td>sotto il solito</td><td class="n">20</td></tr>
+    <tr><td>molto sotto il solito</td><td class="n">17</td></tr>
+  </tbody>
+  <caption>30 partite, 283 non titolari: una fotografia per partita, a finestra postpartita chiusa.</caption>
+</table>
+
+<p>Dei 17 casi molto sotto il solito, 7 avevano già fatto molta alta velocità in partita, 9 rientrano in episodi di gruppo, che indicano il programma e non il singolo, e 5 hanno fasce provvisorie; un caso può ricadere in più gruppi. Restano <strong>3 richiami individuali</strong> in tutta la stagione. In 108 casi su 291 manca il carico della partita: il dataset non distingue chi non ha giocato da un dato perso, e Vice lo dichiara <strong>invece di contarlo come zero</strong>.</p>
+
+</section>
+
+<!-- ======================= 7. LIMITI E SVILUPPI ======================= -->
+<section class="capitolo">
+<h1 class="capitolo"><span class="n">7</span>Limiti e sviluppi</h1>
+
+<h2>Limiti</h2>
+
+<ul>
+  <li><strong>Dati assenti nel dataset di esempio.</strong> Mancano carico interno (RPE, frequenza cardiaca), durata delle sedute, minuti giocati e velocità massima: niente intensità al minuto, e lo sprint è assoluto, non relativo alla velocità massima del giocatore. Il riferimento di partita, senza i minuti, non equivale a una partita intera.</li>
+  <li><strong>Le fasce sono lo storico, non il programma.</strong> Dicono quanto un carico è abituale, non se era previsto né se è giusto. Si costruiscono sullo storico di ogni squadra e non sono soglie da trasferire ad altri club.</li>
+  <li><strong>Soglie operative.</strong> Percentili, tolleranze e regole degli avvisi sono scelte dichiarate, riviste conoscendo l'intera stagione: non sono soglie fisiologiche né l'errore del GPS.</li>
+  <li><strong>Verifica del testo.</strong> Il controllo riguarda numeri, giudizi di posizione e suggerimenti; una frase interpretativa senza numeri non è verificabile in questo modo.</li>
+  <li><strong>Utilità non misurata.</strong> Nessuno staff ha ancora usato Vice sulla propria stagione.</li>
+</ul>
+
+<h2>Sviluppi</h2>
+
+<ul>
+  <li><strong>Rischio di infortunio:</strong> al momento Vice non valuta il rischio di infortunio di un calciatore in quanto il dataset Zenodo non contiene informazioni sufficienti. L'ACWR è criticato (Impellizzeri et al., 2020) e l'articolo del dataset sconsiglia di usarlo. Il dataset inoltre non ha le righe degli infortunati, quindi un modello non si potrebbe nemmeno verificare. Infatti, con i soli carichi esterni non esiste un metodo di previsione difendibile. Con carico interno, minuti e dati sanitari si potranno affiancare analisi oggi escluse, solo con metodi validati e dati trattati secondo il GDPR.</li>
+  <li><strong>Validazione con uno staff:</strong> una stagione in parallelo al lavoro reale, misurando quali avvisi portano a una scelta e quali no.</li>
+  <li><strong>Altri fornitori e altri dati:</strong> un adattatore per l'export di ciascun fornitore, e le misure oggi assenti, come test di forza, frequenza cardiaca e minuti giocati.</li>
+  <li><strong>Più squadre e più stagioni:</strong> per misurare quanto le regole degli avvisi si trasferiscono.</li>
+</ul>
+
+</section>
+
+<!-- ======================= 8. I DATI UTILIZZATI ======================= -->
+<section class="capitolo">
+<h1 class="capitolo"><span class="n">8</span>I dati utilizzati</h1>
+
+<p>In un club il preparatore scarica l'export della seduta dalla piattaforma del suo fornitore e lo carica in Vice. Un adattatore traduce ogni formato nel <strong>formato interno di Vice</strong> (giocatore, giorno, giorno rispetto alla partita, ruolo, misure), così il motore di analisi <strong>non dipende da chi ha prodotto il dato</strong>. Per simulare il comportamento reale di Vice è stato utilizzato un <strong>dataset pubblico ed anonimo</strong>, Zenodo 18986229.</p>
+
+<table>
+  <thead><tr><th>Dataset</th><th>Cosa simula</th><th>Contenuto</th><th>Licenza</th></tr></thead>
+  <tbody>
+    <tr><td>Zenodo 18986229</td><td>gli export GPS di un club, seduta per seduta</td><td>una stagione (2023/24) di una squadra professionistica: una riga per giocatore e giorno, allenamenti e partite, dati anonimi</td><td>CC BY 4.0</td></tr>
+  </tbody>
+</table>
+
+<h2>Zenodo 18986229: la stagione di un club</h2>
+
+<p>Il dataset accompagna l'articolo di Sierra-Casas et al. (2026). Raccoglie i dati GPS (STATSports Viper a 10 Hz, con accelerometro a 100 Hz) di una squadra arrivata tra le prime quattro del suo campionato: 2.375 righe, 20 giocatori di movimento, 151 giorni di seduta dal 10/09/2023 al 10/05/2024, cioè 121 allenamenti e 30 partite. Ogni riga indica il giorno rispetto alla partita, da MD-5 (cinque giorni prima) a MD+2 (due giorni dopo), e lo stato di titolare. Le misure sono le <strong>sei più usate per il carico esterno</strong>:</p>
+
+<table>
+  <thead><tr><th>Sigla</th><th>Misura</th><th>Definizione</th></tr></thead>
+  <tbody>
+    <tr><td>TD</td><td>Distanza totale</td><td>metri percorsi</td></tr>
+    <tr><td>HSR</td><td>Corsa ad alta velocità</td><td>metri sopra 19,8 km/h, sprint compreso</td></tr>
+    <tr><td>SPR</td><td>Sprint</td><td>metri sopra 25,2 km/h</td></tr>
+    <tr><td>ACC, DCC</td><td>Accelerazioni e decelerazioni intense</td><td>numero di eventi sopra 3 m/s² e sotto −3 m/s²</td></tr>
+    <tr><td>HMLD</td><td>Distanza ad alto carico metabolico</td><td>metri con potenza metabolica sopra 25,5 W/kg</td></tr>
+  </tbody>
+  <caption>Soglie dal testo dell'articolo (§5.3.1). Il riscaldamento è compreso negli allenamenti ed escluso dalle partite.</caption>
+</table>
+
+<p>Nella demo i codici anonimi dei giocatori diventano nomi italiani di fantasia, così come la squadra è di fantasia e si chiama AS New Trieste. Vice rivive la stagione giorno per giorno: <strong>di ogni giorno conosce solo i dati precedenti</strong>, mentre il calendario delle partite è noto in anticipo, come nella realtà. La seduta del giorno della demo arriva solo caricando l'export csv della sessione di allenamento di quel giorno.</p>
+
+<p>Il dataset è stato verificato prima di essere utilizzato:</p>
+
+<ul>
+  <li><strong>Le tabelle dell'articolo si riproducono dai dati.</strong> La Tabella 1 è identica (16 celle su 16). Della Tabella 2, distanza totale, sono identiche 74 celle su 80: le 6 diverse sono un refuso dell'articolo, che per i difensori centrali a MD+1, MD+2 e MD-5 scambia titolari e non titolari, come confermano i rapporti del dataset e la Tabella 3 dello stesso articolo.</li>
+  <li><strong>Alcune colonne contengono informazioni dal futuro, e Vice non le usa.</strong> Lo stato di titolare scritto nei giorni prima della partita è, in 55 righe, già la formazione della partita successiva; i rapporti allenamento/partita sono calcolati sulle medie dell'intera stagione. Vice ricava il titolare dall'ultima partita giocata e ricalcola i rapporti col solo passato.</li>
+  <li><strong>Mancano due periodi</strong> (02/12-15/12/2023 e 28/04-07/05/2024), probabilmente le settimane con due partite che gli autori dichiarano di aver escluso. Anche le righe di infortunati e sedute incomplete sono state tolte: per Vice un dato mancante non vale zero, e il motivo dell'assenza non viene ipotizzato.</li>
+</ul>
+
+</section>
+
+<!-- ======================= 9. RIFERIMENTI E CREDITI ======================= -->
+<section class="capitolo">
+<h1 class="capitolo"><span class="n">9</span>Riferimenti e crediti</h1>
+
+<h2>Dati</h2>
+
+<ul class="riferimenti">
+  <li>Rodríguez-Fernández A. (2026). <em>DATASETTMRatiosoccerseasson</em> [dataset]. Zenodo. DOI 10.5281/zenodo.18986229. Licenza CC BY 4.0. Modifiche di Vice: formato, nomi e numeri di maglia di fantasia, rapporti ricalcolati col solo passato.</li>
+  <li>Sierra-Casas A., Castillo D., Clemente F. M., Rodríguez-Fernández A. (2026). Daily and accumulated training-to-match load ratios in professional soccer: the influence of starting status and playing position across a full competitive season. <em>Data</em> 11(4), 84. DOI 10.3390/data11040084.</li>
+</ul>
+
+<h2>Letteratura</h2>
+
+<ul class="riferimenti">
+  <li>Ammann L., Altmann S. (2023). Training and match load ratios in professional soccer: should we use player- or position-specific match reference values? <em>Frontiers in Sports and Active Living</em> 5:1151828. DOI 10.3389/fspor.2023.1151828.</li>
+  <li>Beato M., Devereux G., Stiff A. (2018). Validity and reliability of Global Positioning System units (STATSports Viper) for measuring distance and peak speed in sports. <em>Journal of Strength and Conditioning Research</em> 32(10):2831-2837. DOI 10.1519/JSC.0000000000002778.</li>
+  <li>Clemente F. M., Pillitteri G., Palucci Vieira L. H., Rabbani A., Zmijewski P., Beato M. (2024). Balancing the load: a narrative review with methodological implications of compensatory training strategies for non-starting soccer players. <em>Biology of Sport</em> 41(4):173-185. DOI 10.5114/biolsport.2024.139071.</li>
+  <li>Dello Iacono A., Beato M., Unnithan V., Shushan T. (2023). Programming high-speed and sprint running exposure in football: beliefs and practices of more than 100 practitioners worldwide. <em>International Journal of Sports Physiology and Performance</em> 18(7):742-757. DOI 10.1123/ijspp.2023-0013.</li>
+  <li>Gualtieri A., Rampinini E., Dello Iacono A., Beato M. (2023). High-speed running and sprinting in professional adult soccer: current thresholds definition, match demands and training strategies. A systematic review. <em>Frontiers in Sports and Active Living</em> 5:1116293. DOI 10.3389/fspor.2023.1116293.</li>
+  <li>Hopkins W. G. (2000). Measures of reliability in sports medicine and science. <em>Sports Medicine</em> 30(1):1-15. DOI 10.2165/00007256-200030010-00001.</li>
+  <li>Impellizzeri F. M., Marcora S. M., Coutts A. J. (2019). Internal and external training load: 15 years on. <em>International Journal of Sports Physiology and Performance</em> 14(2):270-273. DOI 10.1123/ijspp.2018-0935.</li>
+  <li>Impellizzeri F. M., Tenan M. S., Kempton T., Novak A., Coutts A. J. (2020). Acute:chronic workload ratio: conceptual issues and fundamental pitfalls. <em>International Journal of Sports Physiology and Performance</em> 15(6):907-913. DOI 10.1123/ijspp.2019-0864.</li>
+  <li>Varley M. C., Jaspers A., Helsen W. F., Malone J. J. (2017). Methodological considerations when quantifying high-intensity efforts in team sport using Global Positioning System technology. <em>International Journal of Sports Physiology and Performance</em> 12(8):1059-1068. DOI 10.1123/ijspp.2016-0534.</li>
+</ul>
+
+<h2>Software e modelli</h2>
+
+<ul>
+  <li>Python con FastAPI, Uvicorn, pandas, NumPy, PyArrow, httpx e Jinja2;</li>
+  <li>Apache ECharts 5.6.0 per i grafici; font Newsreader e Schibsted Grotesk (SIL Open Font License).</li>
+  <li>Modelli: Claude Sonnet 5 e, come riserva, Claude Sonnet 4.6 di Anthropic, attraverso il gateway Hydrogen di HTX su AWS Bedrock in Unione Europea. Il codice, con test e documentazione, è nel repository pubblico <a href="https://github.com/htxsrl/Vice-FootballDataShowCase">github.com/htxsrl/Vice-FootballDataShowCase</a>.</li>
+</ul>
+
+<p class="nota">Nomi dei giocatori e della squadra di fantasia; dati reali anonimi del dataset Zenodo 18986229 (Rodríguez-Fernández, CC BY 4.0).</p>
+
+</section>
+
+</body>
+</html>

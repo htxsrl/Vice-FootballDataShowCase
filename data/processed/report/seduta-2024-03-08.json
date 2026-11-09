@@ -1,0 +1,16 @@
+{
+ "data": "2024-03-08",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 08/03/2024",
+ "testo": "## Sintesi\n\nLa seduta del 08/03/2024 (MD-1, il giorno prima della partita) ha mostrato per la squadra un'aderenza al carico abituale bassa soprattutto nelle accelerazioni (ACC), con percentile mediano di 5 [E5], e nelle decelerazioni (DCC), con percentile mediano di 15 [E6]. La distanza totale (TD) e la distanza ad alto carico metabolico (HMLD) si collocano su percentili mediani di 23 [E2, E7], mentre la corsa ad alta velocità (HSR) risulta più in linea con il solito, percentile mediano 58 [E3]. 12 giocatori su 17 risultano fuori dalla fascia larga in almeno una metrica, con 5 ai margini del gruppo [E1].\n\n## Fuori fascia\n\n- Matteo Basile: ACC a 6, molto sotto la fascia larga (P10-P90) [E10]\n- Stefano Guidi: ACC a 7, molto sotto la fascia larga [E14]; TD a 2.267 m, sotto la fascia centrale (P25-P75) [E22]\n- Riccardo Benedetti: TD a 1.805 m, molto sotto la fascia larga [E12]; ACC a 12, molto sotto la fascia larga [E13]; DCC a 7, molto sotto la fascia larga [E16]; HMLD a 175 m, sotto la fascia centrale [E20]\n- Pietro Ghio: ACC a 10, molto sotto la fascia larga [E11]; HMLD a 169 m, molto sotto la fascia larga [E15]; HSR a 0 m, sotto la fascia centrale [E19]\n- Federico Santini: ACC a 5, molto sotto la fascia larga [E9]\n- Tommaso Ferrandi: ACC a 13, molto sotto la fascia larga [E17]\n\n## Verso la partita\n\nNella finestra da quattro giorni prima della partita (MD-4) a due giorni prima (MD-2), 2 giocatori su 17 risultano sotto il solito in alta velocità, con finestra di rilevazione completa [E23]. Pietro Ghio ha registrato 13 m di sprint (SPR), dentro la fascia centrale [E24], e 114 m di HSR, sotto la fascia centrale [E25]. Gabriele Longo ha registrato 9 m di SPR, sotto la fascia centrale [E26], e 596 m di HSR, dentro la fascia centrale [E27].\n\n## Spunti per lo staff\n\n- Valutare se serve uno stimolo di velocità per Gabriele Longo: da MD-4 a MD-2 ha registrato 9 m di sprint e 596 m di HSR, contro un riferimento di 72 m e 485 m per quei giorni, prima della partita del 09/03/2024. [E26, E27]\n\n## Qualità del dato e limiti\n\nChristian Porcu non ha dati nella finestra postpartita, nessuna seduta su 1 disponibile per la squadra [E28]. Alcuni non titolari non hanno dati della partita del 02/03/2024: il dataset non distingue se non hanno giocato o se il dato manca.",
+ "frasi_con_numeri": 14,
+ "verificate": 14,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.03056,
+ "secondi": 12.5,
+ "generato_il": "2026-10-28T09:31:44",
+ "corretto_il": "2026-10-28: tolto uno spunto di velocità nato da un difetto della regola (NaN), decisione 53"
+}

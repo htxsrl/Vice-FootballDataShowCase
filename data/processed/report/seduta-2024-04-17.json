@@ -1,0 +1,15 @@
+{
+ "data": "2024-04-17",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 17/04/2024",
+ "testo": "## Sintesi\n\nLa seduta del 17/04/2024, a tre giorni dalla partita (MD-3), mostra un'aderenza al carico abituale nel complesso moderata, con la distanza totale (TD) della squadra attestata su un percentile mediano di 26 e la distanza ad alto carico metabolico (HMLD) su 21 [E2, E7]. La corsa ad alta velocità (HSR) e lo sprint (SPR) si collocano invece più vicino ai valori abituali, con percentili mediani rispettivamente di 51 e 52 [E3, E4]. Su 16 giocatori in seduta, 5 risultano fuori dalla fascia larga in almeno una metrica, con 7 ulteriori ai margini [E1].\n\n## Fuori fascia\n\n- **Simone Amato**: TD 2.726 m, molto sotto la fascia larga (4.335 m–6.513 m) [E16]; HMLD 379 m, molto sotto la fascia larga (673 m–1.144 m) [E13]; SPR 0 m, sotto la fascia centrale (13 m–83 m) [E20].\n- **Elia Gariglio**: HSR 10 m, molto sotto la fascia larga (50 m–211 m) [E8]; HMLD 481 m, molto sotto la fascia larga (719 m–1.100 m) [E12]; TD 4.319 m, molto sotto la fascia larga (4.949 m–6.344 m) [E17]; SPR 0 m, sotto la fascia centrale (26 m–71 m) [E18].\n- **Matteo Basile**: HMLD 674 m, molto sotto la fascia larga (729 m–1.144 m) [E10]; decelerazioni (DCC) 38, molto sotto la fascia larga (49–99) [E9]; accelerazioni (ACC) 31, molto sotto la fascia larga (41–91) [E11].\n- **Pietro Ghio**: HMLD 566 m, molto sotto la fascia larga (632 m–1.017 m) [E15]; TD 4.410 m, sotto la fascia centrale (5.074 m–5.620 m) [E21].\n- **Andrea Melis**: DCC 33, molto sotto la fascia larga (40–77) [E14]; ACC 41, sotto la fascia centrale (55–70) [E22].\n- **Luca Cerutti**: DCC 25, sotto la fascia centrale (35–52) [E19].\n\n## Spunti per lo staff\n\nOggi le regole non segnalano nulla.\n\n## Qualità del dato e limiti\n\n- **Stefano Guidi**: nessun dato nella finestra da MD-4 a MD-2 (0 sedute su 1) [E23].\n- **Gabriele Longo**: nessun dato nella finestra postpartita (0 sedute su 1) [E24].\n- **Christian Porcu**: nessun dato nella finestra postpartita (0 sedute su 1) [E25].\n- La finestra MD-4…MD-2 non è ancora conclusa: i valori sono parziali fino al 17/04/2024.\n- Alcuni non titolari non hanno dati della partita del 13/04/2024: il dataset non distingue se non hanno giocato o se il dato manca.",
+ "frasi_con_numeri": 12,
+ "verificate": 12,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.02656,
+ "secondi": 12.8,
+ "generato_il": "2026-10-28T09:29:09"
+}

@@ -1,0 +1,15 @@
+{
+ "data": "2024-01-03",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 03/01/2024",
+ "testo": "## Sintesi\n\nLa seduta del 03/01/2024 (MD-4, quattro giorni prima della partita) mostra un carico sotto l'aderenza abituale su quasi tutte le metriche di squadra: distanza totale (TD) al percentile mediano 27 [E2], corsa ad alta velocità (HSR) al 24 [E3], sprint (SPR) al 23 [E4] e accelerazioni (ACC) al 12 [E5], con decelerazioni (DCC) più in linea al 50 [E6] e distanza ad alto carico metabolico (HMLD) al 37 [E7]. Su 17 giocatori, 6 risultano fuori dalla fascia larga in almeno una metrica, con 7 ulteriori ai margini [E1].\n\n## Fuori fascia\n\n- **Gabriele Longo**: molto sotto la fascia larga P10-P90 su TD (4.528 m) [E9], HSR (71 m) [E10], SPR (0 m) [E11], ACC (23) [E12] e HMLD (555 m) [E13].\n- **Luca Cerutti**: molto sotto la fascia larga P10-P90 su TD (4.617 m) [E14], HSR (76 m) [E15] e HMLD (616 m) [E16].\n- **Elia Gariglio**: molto sotto la fascia larga P10-P90 su ACC (26) [E8]; sotto la fascia centrale P25-P75 su DCC (31) [E18].\n- **Matteo Basile**: molto sotto la fascia larga P10-P90 su HSR (68 m) [E17]; sotto la fascia centrale P25-P75 su SPR (15 m) [E19] e ACC (47) [E20].\n- **Samuele Pinna**: sotto la fascia centrale P25-P75 su HSR (180 m) [E21].\n- **Simone Amato**: sotto la fascia centrale P25-P75 su SPR (14 m) [E22].\n\n## Spunti per lo staff\n\nOggi le regole non segnalano nulla.\n\n## Qualità del dato e limiti\n\n- Nicolò Serafini non ha dati nella finestra postpartita (0 sedute su 1 della squadra) [E23].\n- Settimana non regolare (pausa o periodo senza dati): il confronto col solito è indicativo.\n- Finestra MD-4…MD-2 non ancora conclusa: valori parziali fino al 03/01/2024.\n- Alcuni non titolari non hanno dati della partita del 16/12/2023: non è distinguibile se non hanno giocato o se il dato manca.\n- Le evidenze individuali [E8]-[E22] sono provvisorie, basate su un numero limitato di casi (8-14) e sedute (3).",
+ "frasi_con_numeri": 10,
+ "verificate": 10,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.02413,
+ "secondi": 10.6,
+ "generato_il": "2026-10-28T09:35:06"
+}

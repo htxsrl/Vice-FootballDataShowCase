@@ -1,0 +1,20 @@
+{
+ "data": "2023-10-30",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 30/10/2023",
+ "testo": "## Sintesi\nLa seduta del 30/10/2023 (MD+2, due giorni dopo la partita) mostra un'aderenza al carico abituale piuttosto disomogenea: 12 giocatori su 18 risultano fuori dalla fascia larga in almeno una metrica [E1]. La distanza totale (TD) è la metrica più scostata, con percentile mediano di squadra a 12 e 9 giocatori sotto la fascia abituale [E2], mentre corsa ad alta velocità (HSR), sprint (SPR), accelerazioni intense (ACC), decelerazioni intense (DCC) e distanza ad alto carico metabolico (HMLD) restano su percentili mediani più centrali (36-59) [E3, E4, E5, E6, E7].\n## Fuori fascia\n- Andrea Melis: TD 1.250 m, molto sotto la fascia larga (1.868 m-3.603 m) [E8]\n- Federico Santini: TD 1.389 m, molto sotto la fascia larga (1.916 m-3.719 m) [E13]\n- Edoardo Tosi: SPR 326 m, molto sopra la fascia larga (10 m-290 m) [E10]; HMLD 1.229 m, molto sopra la fascia larga (591 m-1.095 m) [E11]; HSR 450 m, molto sopra la fascia larga (134 m-378 m) [E9]\n- Gabriele Longo: TD 1.404 m, molto sotto la fascia larga (1.868 m-3.603 m) [E14]\n- Matteo Basile: TD 1.278 m, molto sotto la fascia larga (1.868 m-3.603 m) [E17]\n- Lorenzo Cortese: TD 1.496 m, molto sotto la fascia larga (1.868 m-3.603 m) [E15]\n## Titolari e non titolari\nTra i titolari, diversi nomi mostrano TD molto sotto il solito (Melis, Santini, Longo, Cortese, Basile, Cerutti) [E8, E13, E14, E15, E17, E16], mentre sul fronte DCC alcuni titolari sono sopra la fascia centrale: Dalmasso 15 DCC [E18], Serafini 10 DCC [E19], Longo 11 DCC [E20].\nTra i non titolari, Edoardo Tosi è molto sopra su HSR, SPR e HMLD [E9, E10, E11] ma sotto la fascia centrale su ACC (45, percentile 12) [E21]; Elia Gariglio è molto sotto su HSR (106 m) [E12]; Stefano Guidi è sotto la fascia centrale su ACC (47, percentile 14) [E22]. Nel postpartita, su 8 non titolari della gara del 28/10/2023, 7 sono in linea con il solito e 1 molto sotto il solito su HSR [E23], corrispondente a Elia Gariglio (106 m, riferimento 199 m) [E24].\n## Spunti per lo staff\nOggi le regole non segnalano nulla.\n## Qualità del dato e limiti\nNessun dato incompleto dichiarato nel dataset. Avvertenza: alcuni non titolari non hanno dati della partita del 28/10/2023, perché non hanno giocato o il dato manca, senza possibilità di distinguere la causa. Tutte le evidenze individuali sono etichettate come provvisorie, con basso numero di sedute di riferimento (sedute: \"3\" [E8]) e, in alcuni casi, pochi casi di confronto a livello di ruolo (casi: \"6\" [E18] - \"7\" [E12]).",
+ "frasi_con_numeri": 12,
+ "verificate": 12,
+ "tolte": [],
+ "correzioni": [
+  {
+   "frase": "Tutte le evidenze individuali sono etichettate come provvisorie, con basso numero di sedute di riferimento (3) e, in alcuni casi, pochi casi di confronto a livello di ruolo (6-7).",
+   "motivo": "numeri senza evidenza citata"
+  }
+ ],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.04025,
+ "secondi": 16.3,
+ "generato_il": "2026-10-28T09:37:01"
+}

@@ -1,0 +1,15 @@
+{
+ "data": "2023-11-18",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 18/11/2023",
+ "testo": "## Sintesi\n\nLa seduta del 18/11/2023 (MD-1, il giorno prima della partita) mostra per la squadra percentili mediani bassi su quasi tutte le metriche: distanza totale (TD) al percentile 25 [E2], HSR (corsa ad alta velocità) al 22 [E3], distanza in sprint (SPR) al 31 [E4], accelerazioni (ACC) al 29 [E5], decelerazioni (DCC) al 40 [E6] e distanza ad alto carico metabolico (HMLD) al 28 [E7]. Nessuna metrica risulta sopra il solito, con diversi giocatori sotto la fascia abituale su TD, ACC, HMLD e DCC [E2, E5, E6, E7]. Cinque giocatori su 17 sono fuori dalla fascia larga in almeno una metrica [E1].\n\n## Fuori fascia\n\n- Luca Cerutti: TD 1.526 m, molto sotto la fascia larga 1.686 m-6.492 m [E14]; ACC 7, molto sotto la fascia larga 12-45 [E8]; HMLD 77 m, molto sotto la fascia larga 135 m-550 m [E9]; DCC 4, sotto la fascia centrale 10-28 [E18].\n- Mattia Bosio: TD 1.492 m, molto sotto la fascia larga 1.954 m-4.891 m [E10]; ACC 15, sotto la fascia centrale 26-33 [E20].\n- Alessio Dalmasso: TD 1.864 m, molto sotto la fascia larga 2.187 m-7.089 m [E13]; ACC 18, sotto la fascia centrale 26-41 [E19].\n- Michele Valli: ACC 15, molto sotto la fascia larga 22-57 [E11]; HMLD 189 m, molto sotto la fascia larga 226 m-899 m [E15].\n- Riccardo Benedetti: HMLD 164 m, molto sotto la fascia larga 200 m-714 m [E12]; ACC 17, sotto la fascia centrale 20-53 [E16].\n- Gabriele Longo: HSR 0 m, sotto la fascia centrale 12 m-71 m [E17].\n\n## Verso la partita\n\nNella finestra da MD-4 a MD-2 prima della partita del 19/11/2023, con copertura completa su 2 sedute di squadra, nessun giocatore risulta sotto il solito livello di alta velocità [E21].\n\n## Spunti per lo staff\n\nOggi le regole non segnalano nulla.\n\n## Qualità del dato e limiti\n\nChristian Porcu non ha dati nella finestra postpartita: nessun dato disponibile su 1 seduta della squadra [E22]. Alcuni non titolari non hanno dati della partita del 11/11/2023: non hanno giocato o il dato manca, e il dataset non distingue i due casi.",
+ "frasi_con_numeri": 11,
+ "verificate": 11,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.02385,
+ "secondi": 10.5,
+ "generato_il": "2026-10-28T09:36:01"
+}

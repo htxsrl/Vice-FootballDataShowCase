@@ -1,0 +1,15 @@
+{
+ "data": "2023-09-22",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 22/09/2023",
+ "testo": "## Sintesi\n\nLa seduta del 22/09/2023, due giorni prima della partita del MD-1 (il giorno prima della partita), ha coinvolto 18 giocatori senza segnalazioni di scostamento dal carico abituale: nessun giocatore risulta fuori dalla fascia larga in alcuna metrica [E1]. L'alta velocità registrata nella finestra da quattro giorni prima della partita (MD-4) a due giorni prima della partita (MD-2) non mostra giocatori sotto il solito, su una finestra completa di 2 sedute di squadra [E2].\n\n## Fuori fascia\n\nNessun giocatore è fuori dalla fascia larga P10-P90 in questa seduta, su 18 giocatori monitorati [E1].\n\n## Verso la partita\n\nNessun giocatore risulta sotto il solito livello di alta velocità (HSR) nella finestra da MD-4 a MD-2, su 18 giocatori e 2 sedute di squadra con finestra completa [E2].\n\n## Spunti per lo staff\n\nOggi le regole non segnalano nulla.\n\n## Qualità del dato e limiti\n\n- Non ci sono dati incompleti segnalati per questa seduta.\n- Non esiste ancora una fascia di riferimento per il MD-1: lo storico ha troppo poche sedute di questo tipo, essendo inizio stagione.\n- Le settimane regolari nello storico sono ancora troppo poche per costruire una curva tipica del carico.\n- Alcuni giocatori non titolari non hanno dati della partita del 16/09/2023: il dataset non distingue se non hanno giocato o se il dato manca.",
+ "frasi_con_numeri": 4,
+ "verificate": 4,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.00997,
+ "secondi": 7.1,
+ "generato_il": "2026-10-28T09:38:40"
+}

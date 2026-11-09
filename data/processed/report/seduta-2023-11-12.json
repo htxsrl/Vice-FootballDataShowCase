@@ -1,0 +1,20 @@
+{
+ "data": "2023-11-12",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 12/11/2023",
+ "testo": "## Sintesi\nLa seduta MD+1 (il giorno dopo la partita) del 12/11/2023 mostra un'aderenza al carico abituale nella norma per la maggior parte delle metriche, con distanza ad alta velocità (HSR) e distanza in sprint (SPR) sopra la mediana consueta ([E3, E4]), mentre la distanza totale (TD) risulta su percentili bassi per gran parte del gruppo, con 6 giocatori su 9 sotto fascia ([E2]). 3 giocatori su 9 risultano fuori dalla fascia larga in almeno una metrica ([E1]).\n## Fuori fascia\n- Elia Gariglio: TD 3.356 m, molto sotto la fascia larga (4.070 m - 4.696 m) ([E8])\n- Lorenzo Cortese: TD 3.494 m, molto sotto la fascia larga (3.752 m - 4.848 m) ([E10])\n- Samuele Pinna: SPR 286 m, molto sopra la fascia larga (0 m - 245 m) ([E9])\n- Edoardo Tosi: HMLD (distanza ad alto carico metabolico) 981 m, sopra la fascia centrale (524 m - 834 m) ([E12])\n- Edoardo Tosi: SPR 250 m, sopra la fascia centrale (9 m - 205 m) ([E13])\n- Filippo Rinaldi: DCC (decelerazioni intense) 60, sopra la fascia centrale (43 - 51) ([E11])\n## Titolari e non titolari\nTutte le evidenze disponibili per la seduta MD+1 riguardano giocatori non titolari ([E8], [E9], [E10], [E11], [E12], [E13], [E14], [E15]); non risultano evidenze specifiche per titolari in questa seduta.\n- Elia Gariglio e Lorenzo Cortese: TD molto sotto il loro solito ([E8], [E10])\n- Matteo Basile: TD sotto il suo solito ([E15])\n- Samuele Pinna: SPR molto sopra il suo solito ([E9])\n- Edoardo Tosi: HMLD e SPR sopra il suo solito ([E12], [E13])\n- Mattia Bosio: SPR sopra il suo solito ([E14])\n- Filippo Rinaldi: DCC sopra il suo solito ([E11])\nPer il postpartita, 10 non titolari della partita dell'11/11/2023 sono in corso di valutazione sull'esito dell'HSR, con la finestra ancora aperta e solo 1 seduta di squadra disponibile ([E16]).\n## Spunti per lo staff\nOggi le regole non segnalano nulla.\n## Qualità del dato e limiti\n- Christian Porcu non ha dati nella finestra da MD-4 a MD-2 (0 sedute su 2 della squadra) ([E17])\n- Christian Porcu non ha dati nella finestra postpartita (0 sedute su 1 della squadra) ([E18])\n- Alcuni non titolari non hanno dati della partita dell'11/11/2023: non hanno giocato oppure il dato manca, il dataset non distingue i due casi\nLe evidenze sui singoli giocatori sono etichettate come provvisorie, con 3 sedute di base per il calcolo delle fasce [E8]",
+ "frasi_con_numeri": 17,
+ "verificate": 17,
+ "tolte": [],
+ "correzioni": [
+  {
+   "frase": "- Le evidenze sui singoli giocatori sono etichettate come provvisorie, con 3 sedute di base per il calcolo delle fasce",
+   "motivo": "numeri senza evidenza citata"
+  }
+ ],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.0309,
+ "secondi": 14.1,
+ "generato_il": "2026-10-28T09:36:15"
+}

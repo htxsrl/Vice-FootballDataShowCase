@@ -1,0 +1,15 @@
+{
+ "data": "2023-11-29",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 29/11/2023",
+ "testo": "## Sintesi\n\nLa seduta del 29/11/2023 (MD-3, tre giorni prima della partita) mostra un'aderenza al carico abituale elevata per la distanza totale (TD), con percentile mediano di squadra a 70 [E2], mentre le metriche di alta intensità (HI) risultano nettamente sopra i valori storici: la corsa ad alta velocità (HSR) ha percentile mediano 91 [E3] e la distanza in sprint (SPR) 84 [E4]. Accelerazioni (ACC) e decelerazioni (DCC) restano invece in linea, con percentili mediani rispettivamente 44 [E5] e 48 [E6]. Dieci giocatori su 16 risultano fuori dalla fascia larga in almeno una metrica [E1].\n\n## Fuori fascia\n\n- **Luca Cerutti**: SPR a 352 m, molto sopra la fascia larga (21 m-265 m) [E10]; HSR a 522 m, molto sopra la fascia larga (77 m-429 m) [E9]; HMLD (distanza ad alto carico metabolico) a 1.266 m, sopra la fascia centrale (724 m-1.043 m) [E19].\n- **Samuele Pinna**: TD a 1.207 m, molto sotto la fascia larga (4.503 m-6.605 m) [E12]; HSR a 6 m, molto sotto la fascia larga (163 m-435 m) [E13]; HMLD a 120 m, molto sotto la fascia larga (791 m-1.350 m) [E16]; ACC a 22, molto sotto la fascia larga (51-102) [E14]; DCC a 10, molto sotto la fascia larga (42-99) [E15]; SPR a 0 m, sotto la fascia centrale (130 m-267 m) [E18].\n- **Lorenzo Cortese**: HSR a 494 m, molto sopra la fascia larga (120 m-452 m) [E8].\n- **Riccardo Benedetti**: HSR a 277 m, molto sopra la fascia larga (51 m-180 m) [E17].\n- **Matteo Basile**: SPR a 285 m, molto sopra la fascia larga (42 m-207 m) [E11].\n- **Federico Santini**: HSR a 267 m, sopra la fascia centrale (86 m-180 m) [E21].\n\n## Spunti per lo staff\n\n- Verificare se il programma prevedeva questo carico: la distanza ad alta velocità (HSR) mediana registrata oggi è 308 m, contro i 174 m delle sedute storiche di MD-3. [E23]\n\n## Qualità del dato e limiti\n\n- Samuele Pinna: nessun dato nella finestra postpartita (0 sedute su 1) [E24].\n- Federico Santini: nessun dato nella finestra postpartita (0 sedute su 1) [E25].\n- Finestra MD-4…MD-2 non ancora conclusa: valori parziali fino al 29/11/2023.\n- Alcuni non titolari non hanno dati della partita del 25/11/2023: il dataset non distingue se non hanno giocato o se il dato manca.",
+ "frasi_con_numeri": 12,
+ "verificate": 12,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.0262,
+ "secondi": 11.1,
+ "generato_il": "2026-10-28T09:35:27"
+}

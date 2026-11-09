@@ -1,0 +1,15 @@
+{
+ "data": "2024-01-25",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 25/01/2024",
+ "testo": "# Report seduta 25/01/2024 — MD-2 (due giorni prima della partita)\n\n## Sintesi\nLa seduta di oggi mostra valori molto superiori al carico abituale per la quasi totalità della squadra: il percentile mediano è 100 per distanza totale (TD) [E2], 99 per corsa ad alta velocità (HSR) [E3] e 100 per distanza ad alto carico metabolico (HMLD) [E7]. Su 16 giocatori, 15 risultano sopra la fascia abituale in TD [E2] e in HMLD [E7], 14 sopra in HSR [E3]. L'aderenza al carico abituale di giornata MD-2 è quindi bassa, con quasi tutto il gruppo spostato sopra i propri riferimenti.\n\n## Fuori fascia\n- **Alessio Dalmasso**: TD 7.847 m, molto sopra la fascia larga (4.137 m–6.326 m) [E8]; HSR 435 m, molto sopra la fascia larga (71 m–242 m) [E9]; sprint (SPR) 318 m, molto sopra la fascia larga (6 m–165 m) [E10]; HMLD 1.374 m, molto sopra la fascia larga (564 m–956 m) [E11].\n- **Christian Porcu**: TD 6.958 m, molto sopra la fascia larga (4.122 m–6.314 m) [E12]; HSR 567 m, molto sopra la fascia larga (66 m–471 m) [E13]; SPR 408 m, molto sopra la fascia larga (13 m–258 m) [E14]; accelerazioni intense (ACC) 107, molto sopra la fascia larga (40–86) [E15]; HMLD 1.439 m, molto sopra la fascia larga (521 m–1.102 m) [E16].\n- **Federico Santini**: HSR 406 m, molto sopra la fascia larga (58 m–304 m) [E17].\n- **Nicolò Serafini**: TD 6.406 m, sopra la fascia centrale (4.132 m–6.006 m) [E21].\n- **Filippo Rinaldi**: SPR 58 m, sopra la fascia centrale (4 m–40 m) [E22].\n- **Tommaso Ferrandi**: ACC 71, sopra la fascia centrale (49–63) [E20]; **Simone Amato**: decelerazioni intense (DCC) 72, sopra la fascia centrale (39–60) [E19]; **Alessio Dalmasso**: ACC 67, sopra la fascia centrale (39–56) [E18].\n\nIn totale 15 giocatori su 16 sono fuori dalla fascia larga in almeno una metrica [E1].\n\n## Verso la partita\nNella finestra da MD-4 a MD-2 verso la partita del 27/01/2024, nessun giocatore risulta sotto il solito livello di alta velocità, su 17 giocatori e 2 sedute di squadra [E23]. La copertura della finestra è completa, salvo 1 caso di copertura incompleta segnalato [E23].\n\n## Spunti per lo staff\n- Verificare se il programma prevedeva questo carico: la distanza totale mediana registrata oggi è 6.836 m, contro i 5.202 m delle sedute storiche di MD-2. [E24]\n- Verificare se il programma prevedeva questo carico: la distanza ad alta velocità (HSR) mediana registrata oggi è 396 m, contro i 163 m delle sedute storiche di MD-2. [E25]\n\n## Qualità del dato e limiti\nEdoardo Tosi ha copertura parziale nella finestra da MD-4 a MD-2: 1 seduta su 2 con dati [E26]. Elia Gariglio non ha dati nel postpartita: 0 sedute su 1 [E27]. Alcuni non titolari non hanno dati della partita del 21/01/2024: non è possibile distinguere se non hanno giocato o se il dato manca.",
+ "frasi_con_numeri": 15,
+ "verificate": 15,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.03018,
+ "secondi": 13.8,
+ "generato_il": "2026-10-28T09:34:00"
+}

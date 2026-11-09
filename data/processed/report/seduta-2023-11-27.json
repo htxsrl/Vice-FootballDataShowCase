@@ -1,0 +1,20 @@
+{
+ "data": "2023-11-27",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 27/11/2023",
+ "testo": "# Report seduta 27/11/2023 — MD+2 (due giorni dopo la partita)\n## Sintesi\nLa seduta di oggi (due giorni dopo la partita, MD+2) mostra percentili mediani di squadra bassi per distanza totale (TD), corsa ad alta velocità (HSR) e distanza ad alto carico metabolico (HMLD), rispettivamente al percentile 19, 19 e 18 [E2, E3, E7]. Le metriche di decelerazioni (DCC) e accelerazioni (ACC) restano più in linea, con percentile mediano 68 e 56 [E6, E5]. In totale 5 giocatori su 14 risultano fuori dalla fascia larga in almeno una metrica, con 9 ai margini [E1].\n## Fuori fascia\n- Edoardo Tosi: decelerazioni (DCC) a 22, molto sopra la fascia larga P10-P90 (0-19) [E8].\n- Stefano Guidi: HMLD a 574 m, molto sotto la fascia larga P10-P90 (826 m-1.091 m) [E14]; HSR a 73 m, molto sotto la stessa fascia (189 m-527 m) [E13].\n- Lorenzo Cortese: HMLD a 430 m, molto sotto la fascia larga P10-P90 (512 m-1.076 m) [E15]; HSR a 69 m, molto sotto la fascia larga (110 m-528 m) [E10].\n- Mattia Bosio: HMLD a 537 m, molto sotto la fascia larga P10-P90 (622 m-871 m) [E12]; HSR a 59 m, molto sotto la stessa fascia (158 m-536 m) [E11]; sprint a 38 m, sotto la fascia centrale P25-P75 (93 m-310 m) [E16].\n- Elia Gariglio: HSR a 82 m, molto sotto la fascia larga P10-P90 (120 m-507 m) [E9].\n- Gabriele Longo (titolare): decelerazioni a 12, sopra la fascia centrale P25-P75 (1-7) [E18].\n## Titolari e non titolari\nTra i non titolari della partita del 25/11/2023, 9 giocatori sono stati monitorati sull'HSR postpartita: 4 risultano molto sotto il solito, 3 sotto il solito, 2 senza dato [E21]. Elia Gariglio, Mattia Bosio, Stefano Guidi e Lorenzo Cortese sono molto sotto il loro riferimento di HSR [E22, E23, E24, E25]; Pietro Ghio, Luca Cerutti e Filippo Rinaldi sono sotto il solito [E26, E27, E28]. Non sono segnalati titolari sopra fascia nel periodo postpartita.\n## Spunti per lo staff\nOggi le regole non segnalano nulla.\n## Qualità del dato e limiti\nSamuele Pinna e Federico Santini non hanno alcun dato nella finestra postpartita (0 sedute su 1 disponibile) [E29, E30]. Alcuni non titolari non hanno dati della partita del 25/11/2023: non è possibile distinguere se non hanno giocato o se il dato manca. Tutte le evidenze individuali sono etichettate come provvisorie, con basi di 6-12 casi storici per metrica [E8][E9][E10][E11][E12][E13][E14][E15][E17][E18][E19][E20].",
+ "frasi_con_numeri": 13,
+ "verificate": 13,
+ "tolte": [],
+ "correzioni": [
+  {
+   "frase": "Tutte le evidenze individuali sono etichettate come provvisorie, con basi di 5-12 casi storici per metrica.",
+   "motivo": "numeri senza evidenza citata"
+  }
+ ],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.04627,
+ "secondi": 15.7,
+ "generato_il": "2026-10-28T09:35:35"
+}

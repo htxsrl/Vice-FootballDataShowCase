@@ -1,0 +1,15 @@
+{
+ "data": "2023-10-07",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 07/10/2023",
+ "testo": "## Sintesi\n\nLa seduta del 07/10/2023, giorno MD-1 (il giorno prima della partita), ha fatto segnare un'aderenza al carico abituale sbilanciata verso il basso: la distanza totale (TD) risulta sotto la mediana per tutta la squadra, con percentile mediano a 0 e tutti i 18 giocatori sotto [E2]. Anche accelerazioni intense (ACC), decelerazioni intense (DCC) e distanza ad alto carico metabolico (HMLD) mostrano percentili mediani bassi (18, 12 e 9) [E5, E6, E7], mentre la corsa ad alta velocità (HSR) e la distanza in sprint (SPR) restano dentro fascia per la quasi totalità del gruppo [E3, E4]. Tutti i 18 giocatori presenti risultano fuori dalla fascia larga in almeno una metrica [E1].\n\n## Fuori fascia\n\n- Andrea Melis: TD 1.929 m, molto sotto la fascia larga (2.434 m-3.151 m) [E11].\n- Elia Gariglio: TD 1.679 m, molto sotto la fascia larga (2.185 m-3.258 m) [E14]; ACC 6, molto sotto la fascia larga (9-43) [E15]; HMLD 94 m, molto sotto la fascia larga (157 m-381 m) [E16].\n- Edoardo Tosi: TD 1.991 m, molto sotto la fascia larga (2.434 m-3.151 m) [E12]; ACC 18, molto sotto la fascia larga (22-46) [E13]; DCC 6, sotto la fascia centrale (15-33) [E20]; HMLD 171 m, sotto la fascia centrale (260 m-353 m) [E21].\n- Federico Santini: TD 1.859 m, molto sotto la fascia larga (2.185 m-3.258 m) [E17].\n- Alessio Dalmasso: TD 2.127 m, molto sotto la fascia larga (2.345 m-3.280 m) [E8]; ACC 18, molto sotto la fascia larga (25-44) [E9]; DCC 6, molto sotto la fascia larga (11-45) [E10].\n- Pietro Ghio: HMLD 196 m, sotto la fascia centrale (269 m-370 m) [E22].\n\n## Verso la partita\n\nNella finestra da MD-4 a MD-2 prima della partita dell'08/10/2023, nessun giocatore risulta sotto il solito livello di alta velocità, su 19 giocatori e 3 sedute di squadra [E23]. La copertura della finestra è segnalata come incompleta per 1 caso [E23].\n\n## Spunti per lo staff\n\nOggi le regole non segnalano nulla.\n\n## Qualità del dato e limiti\n\nAndrea Melis ha copertura parziale nella finestra da MD-4 a MD-2, con dati disponibili per 2 sedute su 3 della squadra [E24]. Le evidenze individuali della seduta sono etichettate come provvisorie, con un numero di casi storici da 9 a 12 e 3 sedute di riferimento [E8-E22]. Lo storico presenta poche settimane regolari per costruire la curva tipica, e dopo la partita del 30/09/2023 non risultano sedute postpartita registrate.",
+ "frasi_con_numeri": 13,
+ "verificate": 13,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.02718,
+ "secondi": 13.0,
+ "generato_il": "2026-10-28T09:38:12"
+}

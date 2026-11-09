@@ -1,0 +1,2 @@
+# Solo per lo sviluppo: installate nell'immagine quando il build arg DEV=1 (docker-compose.yml)
+pytest==9.1.1

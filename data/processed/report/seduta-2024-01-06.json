@@ -1,0 +1,15 @@
+{
+ "data": "2024-01-06",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 06/01/2024",
+ "testo": "## Sintesi\n\nLa seduta del 06/01/2024, due giorno prima della partita (MD-1), ha mostrato un'aderenza al carico abituale ben sopra la norma su quasi tutte le metriche: distanza totale (TD) con percentile mediano 84, accelerazioni (ACC) a 93 e decelerazioni (DCC) a 90 [E2, E5, E6]. Anche corsa ad alta velocità (HSR) e distanza ad alto carico metabolico (HMLD) si collocano sopra l'abituale, con mediane di 76 e 81 [E3, E7]. Su 17 giocatori in seduta, 11 risultano fuori dalla fascia larga in almeno una metrica, con 6 ai margini [E1].\n\n## Fuori fascia\n\n- **Mattia Bosio**: HSR 235 m, distanza in sprint (SPR) 192 m e ACC 77, tutti \"molto sopra\" la fascia larga personale e di ruolo [E9, E10, E11].\n- **Nicolò Serafini**: HSR 204 m, SPR 142 m, ACC 88 e DCC 62, tutti \"molto sopra\" la fascia larga [E12, E13, E14, E15].\n- **Samuele Pinna**: DCC 60, \"molto sopra\" la fascia larga [E16].\n- **Simone Amato**: HSR 89 m, \"molto sopra\" la fascia larga di ruolo [E17].\n- **Matteo Basile**: ACC 62, \"molto sopra\" la fascia larga personale e di ruolo [E8].\n- **Tommaso Ferrandi**: DCC 43 e ACC 53, \"sopra\" la fascia centrale [E21, E22].\n\n## Verso la partita\n\nDa MD-4 a MD-2 prima della partita del 07/01/2024, 4 giocatori su 17 risultano sotto il solito in alta velocità [E23]. Gabriele Longo è \"molto sotto\" la fascia larga in HSR con 262 m [E29]; Mattia Bosio è \"sotto\" la fascia centrale in HSR con 181 m [E27], ma \"dentro\" in SPR con 77 m [E26]. Luca Cerutti è \"sotto\" la fascia centrale in HSR con 246 m [E31], mentre in SPR è \"dentro\" con 137 m [E30]. Riccardo Benedetti è \"sotto\" la fascia centrale in SPR con 7 m [E24], ma \"dentro\" in HSR con 139 m [E25].\n\n## Spunti per lo staff\n\n- Verificare se il carico di MD-1 di Nicolò Serafini era previsto: oggi 204 m di distanza ad alta velocità (HSR), oltre la fascia storica delle sue rifiniture (fino a 76 m). [E12]\n- Verificare se il carico di MD-1 di Mattia Bosio era previsto: oggi 235 m di distanza ad alta velocità (HSR), oltre la fascia storica delle sue rifiniture (fino a 64 m). [E9]\n\n## Qualità del dato e limiti\n\nNicolò Serafini non ha dati nella finestra postpartita (0 sedute su 1 della squadra) [E32]. Diverse evidenze della finestra MD-4/MD-2 sono segnalate come provvisorie, calcolate con somma dei riferimenti giornalieri [E24-E31]. La settimana non è regolare per pausa o periodo senza dati, quindi il confronto col solito è indicativo; inoltre alcuni non titolari non hanno dati della partita del 16/12/2023, senza distinzione tra non aver giocato e dato mancante.",
+ "frasi_con_numeri": 16,
+ "verificate": 16,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.0334,
+ "secondi": 13.6,
+ "generato_il": "2026-10-28T09:34:57"
+}

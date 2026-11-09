@@ -1,0 +1,15 @@
+{
+ "data": "2024-02-27",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 27/02/2024",
+ "testo": "## Sintesi\n\nLa seduta del 27/02/2024, quattro giorni prima della partita (MD-4), mostra un'aderenza al carico abituale nel complesso in linea con i valori di squadra, con percentili mediani compresi tra 34 e 62 per le varie metriche [E2, E3, E4, E5, E6, E7]. Cinque giocatori su 16 risultano fuori dalla fascia larga in almeno una metrica, con altri 7 ai margini [E1]. I casi più marcati riguardano scostamenti sia verso l'alto che verso il basso rispetto alla mediana abituale, in particolare sulla distanza in sprint, sulla corsa ad alta velocità (HSR) e sulle decelerazioni intense (DCC) [E8, E9, E10].\n\n## Fuori fascia\n\n- Tommaso Ferrandi: distanza in sprint 211 m, molto sopra la fascia larga (8 m-88 m) [E9]; distanza totale (TD) 4.542 m, molto sotto la fascia larga (4.885 m-6.724 m) [E11]; distanza ad alto carico metabolico (HMLD) 635 m, molto sotto la fascia larga (694 m-1.105 m) [E13].\n- Luca Cerutti: accelerazioni (ACC) 34, molto sotto la fascia larga (44-86) [E12]; HSR 116 m, molto sotto la fascia larga (171 m-452 m) [E14]; TD 4.841 m, sotto la fascia centrale (5.429 m-6.004 m) [E20].\n- Elia Gariglio: HSR 44 m, molto sotto la fascia larga (82 m-224 m) [E8].\n- Matteo Basile: decelerazioni (DCC) 77, molto sopra la fascia larga (41-70) [E10].\n- Edoardo Tosi: ACC 38, molto sotto la fascia larga (44-78) [E15].\n- Pietro Ghio: DCC 63, sopra la fascia centrale (37-53) [E18].\n\n## Spunti per lo staff\n\nOggi le regole non segnalano nulla.\n\n## Qualità del dato e limiti\n\nNon risultano dati incompleti segnalati per i singoli giocatori. Sono presenti due avvertenze generali: la finestra MD-4…MD-2 non è ancora conclusa, quindi i valori sono parziali fino al 27/02/2024; dopo la partita del 24/02/2024 non risultano sedute postpartita (MD+1) registrate.",
+ "frasi_con_numeri": 8,
+ "verificate": 8,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.02194,
+ "secondi": 10.2,
+ "generato_il": "2026-10-28T09:32:11"
+}

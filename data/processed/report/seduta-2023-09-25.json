@@ -1,0 +1,15 @@
+{
+ "data": "2023-09-25",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 25/09/2023",
+ "testo": "## Sintesi\n\nLa seduta del 25/09/2023, due giorni dopo la partita (MD+2), non mostra giocatori fuori dalla fascia larga su nessuna metrica [E1]. Non è ancora possibile confrontare il carico con un andamento tipico dell'MD+2, perché lo storico ha ancora troppo poche sedute di questo tipo [E1]. Per i non titolari della partita del 23/09/2023, la finestra di confronto sull'HSR (corsa ad alta velocità) postpartita non risulta aperta [E2].\n\n## Fuori fascia\n\nNessun giocatore è fuori dalla fascia larga P10-P90 in questa seduta: 0 giocatori su 19 in seduta [E1].\n\n## Titolari e non titolari\n\nI non titolari della partita del 23/09/2023 risultano 10 su una seduta di squadra, per l'esito dell'HSR postpartita, tutti senza fascia di riferimento disponibile [E2]. Non essendo la finestra aperta, non è possibile dire se il loro carico sia in linea con l'abituale o sopra/sotto fascia [E2].\n\n## Spunti per lo staff\n\n- Oggi le regole non segnalano nulla.\n\n## Qualità del dato e limiti\n\n- Nessuna fascia di riferimento per l'MD+2: lo storico contiene ancora troppo poche sedute di questo tipo, essendo inizio stagione.\n- Troppo poche settimane regolari nello storico per costruire una curva tipica di carico.\n- Alcuni non titolari non hanno dati della partita del 23/09/2023: il dataset non distingue se non hanno giocato o se il dato manca.",
+ "frasi_con_numeri": 3,
+ "verificate": 3,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.01004,
+ "secondi": 7.4,
+ "generato_il": "2026-10-28T09:38:39"
+}

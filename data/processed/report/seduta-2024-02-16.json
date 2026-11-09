@@ -1,0 +1,15 @@
+{
+ "data": "2024-02-16",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 16/02/2024",
+ "testo": "## Sintesi\n\nLa seduta del 16/02/2024 (MD-2, due giorni prima della partita) mostra un carico generalmente molto sotto l'abituale: la distanza totale (TD) mediana registrata è stata di 1.986 m contro i 5.397 m delle sedute storiche di MD-2 [E30], e anche la corsa ad alta velocità (HSR) mediana è stata di 64 m contro i 163 m abituali [E31]. Tutti i 16 giocatori in seduta risultano fuori dalla fascia larga in almeno una metrica [E1], con TD, HSR, accelerazioni intense (ACC), decelerazioni intense (DCC) e distanza ad alto carico metabolico (HMLD) con percentile mediano di squadra tra 0 e 14 [E2, E3, E5, E6, E7].\n\n## Fuori fascia\n\n- Alessio Dalmasso: molto sotto la fascia larga in TD (2.026 m) [E8], HSR (23 m) [E9], ACC (23) [E10] e HMLD (268 m) [E11].\n- Elia Gariglio: molto sotto la fascia larga in TD (1.532 m) [E14], ACC (18) [E15], DCC (16) [E16] e HMLD (182 m) [E17].\n- Andrea Melis: molto sotto la fascia larga in TD (1.974 m) [E12] e HSR (67 m) [E13].\n- Stefano Guidi: sotto la fascia centrale in HSR (63 m) [E20].\n- Pietro Ghio: sotto la fascia centrale in DCC (35) [E22].\n- Filippo Rinaldi: sotto la fascia centrale in DCC (33) [E19].\n\n## Verso la partita\n\nNella finestra da MD-4 a MD-2 verso la partita del 18/02/2024, 3 giocatori su 17 risultano sotto il solito in alta velocità [E23]. Tommaso Ferrandi è sotto in sprint (45 m) [E24] e molto sotto in HSR (147 m) [E25]. Riccardo Benedetti è sotto in sprint (0 m) [E26] ma dentro fascia in HSR (213 m) [E27]. Filippo Rinaldi è dentro fascia in sprint (18 m) [E28] ma sotto in HSR (181 m) [E29].\n\n## Spunti per lo staff\n\n- Verificare se il programma prevedeva questo carico: la distanza totale mediana registrata oggi è 1.986 m, contro i 5.397 m delle sedute storiche di MD-2. [E30]\n- Verificare se il programma prevedeva questo carico: la distanza ad alta velocità (HSR) mediana registrata oggi è 64 m, contro i 163 m delle sedute storiche di MD-2. [E31]\n- Valutare se serve uno stimolo di velocità per Riccardo Benedetti: da MD-4 a MD-2 ha registrato 0 m di sprint e 213 m di HSR, contro un riferimento di 38 m e 298 m per quei giorni, prima della partita del 18/02/2024. [E26, E27]\n\n## Qualità del dato e limiti\n\nChristian Porcu ha copertura parziale nella finestra da MD-4 a MD-2, con dati disponibili per 2 sedute su 3 [E32]. Alcuni non titolari non hanno dati della partita dell'11/02/2024: il dataset non distingue se non hanno giocato o se il dato manca.",
+ "frasi_con_numeri": 16,
+ "verificate": 16,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.03222,
+ "secondi": 12.7,
+ "generato_il": "2026-10-28T09:32:49"
+}

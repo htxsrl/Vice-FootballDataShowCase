@@ -1,0 +1,232 @@
+{
+  "conteggi": {
+    "righe": 2375,
+    "giocatori": 20,
+    "giorni_di_seduta": 151,
+    "giorni_di_allenamento": 121,
+    "partite_con_dati_gps": 30,
+    "partite_in_calendario": 32,
+    "partite_senza_dati_gps": [
+      "2023-12-02",
+      "2024-05-11"
+    ],
+    "microcicli_dataset": 31,
+    "dal": "2023-09-10",
+    "al": "2024-05-10",
+    "righe_per_giorno_md": {
+      "-5": 100,
+      "-4": 184,
+      "-3": 517,
+      "-2": 381,
+      "-1": 489,
+      "0": 419,
+      "1": 130,
+      "2": 155
+    },
+    "righe_per_ruolo": {
+      "centrocampista": 626,
+      "esterno": 598,
+      "difensore centrale": 526,
+      "attaccante": 322,
+      "terzino": 303
+    }
+  },
+  "integrita": {
+    "duplicati_giocatore_giorno": 0,
+    "valori_nulli": {
+      "td": 0,
+      "hsr": 0,
+      "spr": 0,
+      "acc": 0,
+      "dcc": 0,
+      "hmld": 0
+    },
+    "valori_negativi": {
+      "td": 0,
+      "hsr": 0,
+      "spr": 0,
+      "acc": 0,
+      "dcc": 0,
+      "hmld": 0
+    },
+    "giocatori_con_piu_ruoli": 0
+  },
+  "zeri_e_valori_bassi": {
+    "hsr_zero": 86,
+    "hsr_zero_per_giorno_md": {
+      "-3": 4,
+      "-2": 1,
+      "-1": 18,
+      "0": 6,
+      "1": 21,
+      "2": 36
+    },
+    "spr_zero": 541,
+    "td_sotto_500_m": [
+      {
+        "data": "2023-09-10",
+        "giocatore_id": 12,
+        "giorno_md": 0,
+        "td": 256.0
+      },
+      {
+        "data": "2023-10-14",
+        "giocatore_id": 12,
+        "giorno_md": 0,
+        "td": 163.0
+      },
+      {
+        "data": "2023-11-25",
+        "giocatore_id": 8,
+        "giorno_md": 0,
+        "td": 459.0
+      },
+      {
+        "data": "2024-03-17",
+        "giocatore_id": 19,
+        "giorno_md": 0,
+        "td": 448.0
+      }
+    ]
+  },
+  "valori_estremi_q3_piu_3iqr": {
+    "td": 28,
+    "hsr": 12,
+    "spr": 29,
+    "acc": 2,
+    "dcc": 0,
+    "hmld": 5
+  },
+  "calendario": {
+    "giorni_md_coerenti_prima_della_partita": 1.0,
+    "giorni_md_coerenti_dopo_la_partita": 1.0,
+    "giorni_tra_partite": {
+      "6": 9,
+      "7": 12,
+      "8": 7,
+      "14": 2,
+      "22": 1
+    },
+    "settimane_con_due_partite": 0
+  },
+  "titolare": {
+    "righe_con_titolare_noto": 2375,
+    "concordanza_con_estatus": 0.9713684210526315,
+    "righe_discordanti": 68,
+    "discordanti_dove_estatus_anticipa_la_partita_successiva": 55
+  },
+  "mediane_per_giorno_md_e_titolare": [
+    {
+      "giorno_md": -5,
+      "titolare": false,
+      "td": 4510.0,
+      "hsr": 96.0,
+      "spr": 18.0
+    },
+    {
+      "giorno_md": -5,
+      "titolare": true,
+      "td": 4367.0,
+      "hsr": 99.0,
+      "spr": 16.0
+    },
+    {
+      "giorno_md": -4,
+      "titolare": false,
+      "td": 5582.0,
+      "hsr": 198.0,
+      "spr": 55.0
+    },
+    {
+      "giorno_md": -4,
+      "titolare": true,
+      "td": 5436.0,
+      "hsr": 176.0,
+      "spr": 57.0
+    },
+    {
+      "giorno_md": -3,
+      "titolare": false,
+      "td": 5606.0,
+      "hsr": 201.0,
+      "spr": 59.0
+    },
+    {
+      "giorno_md": -3,
+      "titolare": true,
+      "td": 5538.0,
+      "hsr": 188.0,
+      "spr": 66.0
+    },
+    {
+      "giorno_md": -2,
+      "titolare": false,
+      "td": 5261.0,
+      "hsr": 156.0,
+      "spr": 41.0
+    },
+    {
+      "giorno_md": -2,
+      "titolare": true,
+      "td": 5150.0,
+      "hsr": 152.0,
+      "spr": 51.0
+    },
+    {
+      "giorno_md": -1,
+      "titolare": false,
+      "td": 2907.0,
+      "hsr": 39.0,
+      "spr": 0.0
+    },
+    {
+      "giorno_md": -1,
+      "titolare": true,
+      "td": 2942.0,
+      "hsr": 41.0,
+      "spr": 8.0
+    },
+    {
+      "giorno_md": 0,
+      "titolare": false,
+      "td": 3517.0,
+      "hsr": 256.0,
+      "spr": 87.0
+    },
+    {
+      "giorno_md": 0,
+      "titolare": true,
+      "td": 9776.0,
+      "hsr": 483.0,
+      "spr": 214.0
+    },
+    {
+      "giorno_md": 1,
+      "titolare": false,
+      "td": 4357.0,
+      "hsr": 247.0,
+      "spr": 83.0
+    },
+    {
+      "giorno_md": 1,
+      "titolare": true,
+      "td": 1700.0,
+      "hsr": 0.0,
+      "spr": 0.0
+    },
+    {
+      "giorno_md": 2,
+      "titolare": false,
+      "td": 4540.0,
+      "hsr": 243.0,
+      "spr": 119.0
+    },
+    {
+      "giorno_md": 2,
+      "titolare": true,
+      "td": 2307.0,
+      "hsr": 0.0,
+      "spr": 0.0
+    }
+  ]
+}

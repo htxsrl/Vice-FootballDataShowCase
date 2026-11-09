@@ -1,0 +1,20 @@
+{
+ "data": "2024-03-26",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 26/03/2024",
+ "testo": "## Sintesi\nLa seduta del 26/03/2024 (MD-5, cinque giorni prima della partita) mostra per la squadra un'aderenza al carico abituale nella norma per distanza totale (TD) con percentile mediano 63 [E2] e per distanza ad alto carico metabolico (HMLD) con percentile mediano 52 [E7]. La corsa ad alta velocità (HSR) risulta su valori mediani bassi, con percentile mediano 21 e 6 giocatori sotto la mediana su 15 [E3], mentre accelerazioni (ACC) e decelerazioni (DCC) si collocano su percentili mediani più alti, rispettivamente 56 [E5] e 73 [E6]. In generale 4 giocatori su 15 risultano fuori dalla fascia larga in almeno una metrica, con 9 giocatori ai margini [E1].\n## Fuori fascia\n- Christian Porcu: ACC a 101, molto sopra la fascia larga [E8].\n- Samuele Pinna: ACC a 96, molto sopra la fascia larga [E11].\n- Lorenzo Cortese: ACC a 91, molto sopra la fascia larga [E9].\n- Pietro Ghio: ACC a 69, molto sopra la fascia larga [E10]; HSR a 24 m, molto sotto la fascia larga [E12].\n- Edoardo Tosi: DCC a 83, sopra la fascia centrale [E13].\n- Filippo Rinaldi: DCC a 70, sopra la fascia centrale [E17].\nAltri casi sotto fascia centrale non tra i primi 6: Riccardo Benedetti su HSR a 30 m [E14], Luca Cerutti su HSR a 51 m [E15], Andrea Melis su HMLD a 405 m [E16].\n## Spunti per lo staff\nOggi le regole non segnalano nulla.\n## Qualità del dato e limiti\n- Dati postpartita assenti (nessun dato, 0 sedute su 1) per: Tommaso Ferrandi [E18], Lorenzo Cortese [E19], Andrea Melis [E20], Federico Santini [E21], Edoardo Tosi [E22].\nTutte le evidenze individuali per giocatore sono provvisorie, con 5 sedute di riferimento [E8].\n- La finestra MD-4…MD-2 non è ancora conclusa: valori parziali fino al 26/03/2024.\n- Nessuna seduta registrata da MD-4 a MD-2 prima della partita del 31/03/2024.\n- Per alcuni non titolari manca il dato della partita del 23/03/2024: il dataset non distingue se non hanno giocato o se il dato è assente.",
+ "frasi_con_numeri": 12,
+ "verificate": 12,
+ "tolte": [],
+ "correzioni": [
+  {
+   "frase": "- Tutte le evidenze individuali per giocatore sono provvisorie, con 5 sedute di riferimento.",
+   "motivo": "numeri senza evidenza citata"
+  }
+ ],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.03173,
+ "secondi": 13.1,
+ "generato_il": "2026-10-28T09:30:52"
+}

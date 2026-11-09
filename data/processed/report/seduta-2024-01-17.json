@@ -1,0 +1,20 @@
+{
+ "data": "2024-01-17",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 17/01/2024",
+ "testo": "## Sintesi\nLa seduta del 17/01/2024 (MD-4, quattro giorni prima della partita) si colloca in linea con il carico abituale della squadra per la maggior parte delle metriche, con distanza totale (TD) a percentile mediano 66 [E2] e distanza ad alta velocità (HSR) a percentile mediano 49 [E3]. Le accelerazioni (ACC) mostrano invece un'aderenza più bassa, con percentile mediano 29 e 6 giocatori sotto fascia [E5]. 6 giocatori su 18 risultano fuori dalla fascia larga in almeno una metrica [E1].\n## Fuori fascia\n- **Matteo Basile**: distanza ad alto carico metabolico (HMLD) 497 m, molto sotto la fascia larga (541 m–1.035 m) [E8].\n- **Riccardo Benedetti**: ACC 28, molto sotto la fascia larga (33–63) [E11].\n- **Filippo Rinaldi**: ACC 39, molto sotto la fascia larga (49–75) [E9].\n- **Nicolò Serafini**: ACC 41, molto sotto la fascia larga (49–75) [E10].\n- **Christian Porcu**: distanza in sprint 270 m, molto sopra la fascia larga (6 m–195 m) [E12].\n- **Samuele Pinna**: HSR 408 m, molto sopra la fascia larga (76 m–381 m) [E13]; TD 6.588 m, sopra la fascia centrale (4.977 m–5.964 m) [E15].\n## Spunti per lo staff\nOggi le regole non segnalano nulla.\n## Qualità del dato e limiti\n- **Elia Gariglio**: nessun dato nella finestra da MD-4 a MD-2 (0 sedute su 1) [E19].\n- **Alessio Dalmasso**: nessun dato postpartita (0 sedute su 1) [E20].\n- **Christian Porcu**: nessun dato postpartita (0 sedute su 1) [E21].\n- La finestra MD-4…MD-2 non è ancora conclusa: i valori sono parziali fino al 17/01/2024.\n- Alcuni non titolari non hanno dati della partita del 13/01/2024: il dataset non distingue se non hanno giocato o se il dato manca.\n- Tutte le evidenze individuali sono su base provvisoria, con 4 sedute disponibili [E8] e numero di casi variabile per metrica (da 11 [E8] a 19 [E9]).",
+ "frasi_con_numeri": 12,
+ "verificate": 12,
+ "tolte": [],
+ "correzioni": [
+  {
+   "frase": "- Tutte le evidenze individuali sono su base provvisoria, con 4 sedute disponibili e numero di casi variabile per metrica (da 11 a 19).",
+   "motivo": "numeri senza evidenza citata"
+  }
+ ],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.03104,
+ "secondi": 12.0,
+ "generato_il": "2026-10-28T09:34:23"
+}

@@ -1,0 +1,15 @@
+{
+ "data": "2024-01-26",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 26/01/2024",
+ "testo": "## Sintesi\n\nLa seduta MD-1 (il giorno prima della partita) del 26/01/2024 mostra un carico complessivo sopra l'abituale: il percentile mediano di squadra è 88 per la distanza totale (TD), 92 per la corsa ad alta velocità (HSR) e 85 per la distanza ad alto carico metabolico (HMLD) [E2, E3, E7]. Su 16 giocatori, 11 risultano fuori dalla fascia larga in almeno una metrica, con 5 ai margini [E1]. Accelerazioni (ACC) e decelerazioni (DCC) restano invece più in linea, con percentili mediani di 58 e 54 [E5, E6].\n\n## Fuori fascia\n\n- **Pietro Ghio**: HSR 221 m, molto sopra la fascia larga (6 m–79 m) [E10].\n- **Riccardo Benedetti**: HSR 212 m, molto sopra la fascia larga (2 m–81 m) [E11]; distanza in sprint (SPR) 60 m, molto sopra la fascia larga (0 m–13 m) [E14]; ACC 18, sotto la fascia centrale (27–42) [E18].\n- **Federico Santini**: HSR 162 m, molto sopra la fascia larga (6 m–105 m) [E8].\n- **Simone Amato**: TD 3.700 m, molto sopra la fascia larga (1.883 m–3.436 m) [E16]; HSR 137 m, molto sopra la fascia larga (1 m–84 m) [E17].\n- **Matteo Basile**: TD 1.552 m, molto sotto la fascia larga (2.263 m–3.660 m) [E12]; HMLD 115 m, molto sotto la fascia larga (195 m–590 m) [E9]; ACC 14, molto sotto la fascia larga (22–47) [E13]; DCC 13, molto sotto la fascia larga (18–52) [E15].\n- **Gabriele Longo** e **Stefano Guidi**: HMLD rispettivamente 541 m e 549 m, sopra la fascia centrale (208 m–387 m e 282 m–420 m) [E20, E22].\n\n## Verso la partita\n\nNella finestra da MD-4 a MD-2 nessun giocatore risulta sotto il solito livello di alta velocità, su 17 giocatori monitorati [E23]. La copertura dati è completa per la finestra, salvo un'eccezione segnalata nella qualità del dato [E23].\n\n## Spunti per lo staff\n\n- Verificare se il programma prevedeva questo carico: la distanza ad alta velocità (HSR) mediana registrata oggi è 136 m, contro i 40 m delle sedute storiche di MD-1. [E24]\n- Verificare se il carico di MD-1 di Federico Santini era previsto: oggi 162 m di HSR, oltre la fascia storica delle sue rifiniture (fino a 105 m). [E8]\n- Verificare se il carico di MD-1 di Pietro Ghio era previsto: oggi 221 m di HSR, oltre la fascia storica delle sue rifiniture (fino a 79 m). [E10]\n\n## Qualità del dato e limiti\n\nEdoardo Tosi ha copertura parziale nella finestra da MD-4 a MD-2, con 1 seduta su 2 disponibili [E25]. Elia Gariglio non ha dati nella finestra postpartita, 0 sedute su 1 [E26]. Alcuni non titolari non hanno dati della partita del 21/01/2024: non hanno giocato o il dato manca, il dataset non distingue i due casi.",
+ "frasi_con_numeri": 15,
+ "verificate": 15,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.02911,
+ "secondi": 12.5,
+ "generato_il": "2026-10-28T09:33:46"
+}

@@ -1,0 +1,15 @@
+{
+ "data": "2024-02-03",
+ "tipo": "seduta",
+ "titolo": "Report della partita del 03/02/2024",
+ "testo": "## Sintesi\n\nLa seduta del 03/02/2024 (MD, giorno della partita) mostra un'aderenza al carico abituale nella norma per la maggior parte del gruppo: il percentile mediano di squadra è dentro fascia per distanza totale (TD) [E2], sprint [E4], accelerazioni (ACC) [E5] e decelerazioni (DCC) [E6], con una tendenza leggermente sopra per distanza ad alto carico metabolico (HMLD) [E7] e corsa ad alta velocità (HSR) [E3]. Su 13 giocatori in seduta, 2 risultano fuori dalla fascia larga e altri 7 ai margini [E1].\n\n## Fuori fascia\n\n- **Matteo Basile**: DCC a 135, molto sopra la fascia larga (69-119) [E8]; HMLD a 2.098 m, molto sopra la fascia larga (1.262 m-1.808 m) [E9]; TD a 10.391 m, molto sopra la fascia larga (6.856 m-9.452 m) [E11].\n- **Federico Santini**: DCC a 107, molto sopra la fascia larga (74-96) [E10]; HMLD a 2.332 m, sopra la fascia centrale (1.783 m-2.187 m) [E12].\n- **Christian Porcu**: TD a 7.247 m, sotto la fascia centrale (7.678 m-9.427 m) [E13].\n- **Alessio Dalmasso**: TD a 8.855 m, sotto la fascia centrale (9.165 m-10.641 m) [E14].\n- **Luca Cerutti**: TD a 9.560 m, sopra la fascia centrale (7.707 m-9.153 m) [E15].\n- **Lorenzo Cortese**: HSR a 240 m, sotto la fascia centrale (295 m-500 m) [E16].\n\n## Titolari e non titolari\n\nTra i non titolari della partita del 27/01/2024, su 11 valutati per HSR postpartita: 7 in linea, 1 sotto il solito, 2 molto sotto il solito e 1 senza dato [E17]. La mediana dell'HSR postpartita dei non titolari è 370 m, con 2 giocatori molto sotto [E18]: Federico Santini a 0 m, molto sotto il solito rispetto al riferimento di 190 m [E19], e Filippo Rinaldi a 2 m, molto sotto il solito [E21]. Luca Cerutti risulta sotto il solito con 50 m [E20]. Tra i titolari in MD+2, Tommaso Ferrandi è molto sopra con 43 m di HSR (fascia larga 0 m-26 m) [E22] ed Edoardo Tosi è sopra con 3.422 m di TD (fascia larga 1.511 m-3.343 m) [E23].\n\n## Spunti per lo staff\n\nOggi le regole non segnalano nulla.\n\n## Qualità del dato e limiti\n\nAndrea Melis non ha alcun dato nella finestra postpartita (0 sedute su 1 della squadra) [E24]. Alcuni non titolari non hanno dati della partita del 27/01/2024: non è possibile distinguere se non hanno giocato o se il dato manca.",
+ "frasi_con_numeri": 13,
+ "verificate": 13,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.02673,
+ "secondi": 12.0,
+ "generato_il": "2026-10-28T09:33:24"
+}

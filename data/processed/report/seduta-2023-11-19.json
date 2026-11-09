@@ -1,0 +1,15 @@
+{
+ "data": "2023-11-19",
+ "tipo": "seduta",
+ "titolo": "Report della partita del 19/11/2023",
+ "testo": "## Sintesi\n\nLa seduta del 19/11/2023 (MD, giorno della partita) mostra un'aderenza al carico abituale nel complesso in linea, con percentili mediani di squadra compresi tra 52 e 58 su tutte le metriche [E2, E3, E4, E5, E6, E7]. Su 16 giocatori, 8 risultano fuori dalla fascia larga in almeno una metrica, con 3 ai margini [E1]. Il quadro generale è quindi di sostanziale aderenza, con alcune individualità marcatamente fuori fascia.\n\n## Fuori fascia\n\n- Federico Santini: TD (distanza totale) 7.083 m, molto sopra la fascia larga (1.801 m-4.144 m) [E13]; decelerazioni 53, molto sopra la fascia larga (20-40) [E14]; HMLD (distanza ad alto carico metabolico) 1.259 m, molto sopra la fascia larga (319 m-660 m) [E15].\n- Edoardo Tosi: TD 1.180 m, molto sotto la fascia larga (2.311 m-5.252 m) [E8]; HSR (corsa ad alta velocità) 0 m, molto sotto la fascia larga (118 m-585 m) [E9]; distanza in sprint 0 m, molto sotto la fascia larga (29 m-337 m) [E10]; HMLD 94 m, molto sotto la fascia larga (460 m-1.142 m) [E11].\n- Nicolò Serafini: TD 5.151 m, molto sopra la fascia larga (1.801 m-4.144 m) [E16]; decelerazioni 52, molto sopra la fascia larga (20-40) [E17].\n- Samuele Pinna: TD 6.525 m, sopra la fascia centrale (1.413 m-4.652 m) [E22]; distanza in sprint 302 m, sopra la fascia centrale (64 m-143 m) [E20].\n- Elia Gariglio: HSR 41 m, molto sotto la fascia larga (58 m-408 m) [E12].\n- Gabriele Longo: accelerazioni 104, sopra la fascia centrale (58-88) [E19]; distanza in sprint 82 m, sotto la fascia centrale (200 m-399 m) [E21].\n\n## Titolari e non titolari\n\n- Tra i titolari, Matteo Basile mostra decelerazioni sopra la fascia centrale (82-97), con valore 111 [E18].\n- Gabriele Longo (titolare) presenta accelerazioni sopra la fascia centrale [E19] e distanza in sprint sotto la fascia centrale [E21].\n- Tra i non titolari, Federico Santini, Nicolò Serafini e Samuele Pinna mostrano carichi sopra il loro solito su più metriche [E13, E14, E15, E16, E17, E20, E22]; Edoardo Tosi ed Elia Gariglio mostrano invece carichi molto sotto il loro solito [E8, E9, E10, E11, E12].\n- Per la partita del 11/11/2023, su 11 non titolari analizzati per esito HSR postpartita, 9 risultano in linea e 2 senza dato [E23].\n\n## Spunti per lo staff\n\nOggi le regole non segnalano nulla.\n\n## Qualità del dato e limiti\n\n- Federico Santini: nessun dato nella finestra da MD-2 a MD-2 (0 sedute su 2 della squadra) [E24] e nessun dato in finestra postpartita (0 su 1) [E25].\n- Christian Porcu: nessun dato in finestra postpartita (0 su 1) [E26].\n- Alcuni non titolari non hanno dati della partita del 11/11/2023: il dataset non distingue se non hanno giocato o se il dato manca.",
+ "frasi_con_numeri": 14,
+ "verificate": 14,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.02855,
+ "secondi": 13.1,
+ "generato_il": "2026-10-28T09:35:55"
+}

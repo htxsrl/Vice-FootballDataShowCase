@@ -1,0 +1,20 @@
+{
+ "data": "2024-04-18",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 18/04/2024",
+ "testo": "## Sintesi\nLa seduta del 18/04/2024, in MD-2 (due giorni prima della partita), mostra un'aderenza al carico abituale nella norma per distanza totale (TD), con percentile mediano squadra di 53 [E2]. Le metriche di alta intensità risultano invece dentro il solito: corsa ad alta velocità (HSR) a percentile mediano 65 [E3], sprint (SPR) a 74 [E4] e distanza ad alto carico metabolico (HMLD) a 51 [E7]. Accelerazioni (ACC) e decelerazioni (DCC) restano invece in linea, con percentili mediani rispettivamente di 36 [E5] e 54 [E6].\n## Fuori fascia\n- Lorenzo Cortese: HSR 658 m, molto sopra la fascia larga P10-P90 (100 m–550 m) [E8].\n- Edoardo Tosi: HSR 594 m, molto sopra la fascia larga (118 m–496 m) [E10]; HMLD 1.430 m, molto sopra la fascia larga (493 m–1.240 m) [E11]; SPR 409 m, molto sopra la fascia larga (46 m–367 m) [E14].\n- Andrea Melis: ACC 73, molto sopra la fascia larga (42–67) [E12]; HMLD 1.174 m, molto sopra la fascia larga (280 m–1.104 m) [E13]; HSR 449 m, molto sopra la fascia larga (76 m–422 m) [E15].\n- Gabriele Longo: HSR 430 m, molto sopra la fascia larga (80 m–403 m) [E16].\n- Pietro Ghio: HSR 183 m, molto sopra la fascia larga (40 m–161 m) [E17].\n- Riccardo Benedetti: HSR 24 m, molto sotto la fascia larga (47 m–230 m) [E9].\n## Verso la partita\nNella finestra da MD-4 a MD-2 prima della partita del 20/04/2024, con finestra completa su 2 sedute squadra, 1 giocatore su 17 risulta sotto il solito in alta velocità [E23]: Riccardo Benedetti, con SPR a 0 m, sotto la fascia centrale P25-P75 (8 m–57 m) [E24], mentre il suo HSR nella stessa finestra è dentro fascia a 152 m [E25].\n## Spunti per lo staff\nOggi le regole non segnalano nulla.\n## Qualità del dato e limiti\n- Stefano Guidi: nessun dato nella finestra da MD-4 a MD-2 (0 sedute su 2) [E26].\n- Matteo Basile: copertura parziale nella finestra da MD-4 a MD-2 (1 seduta su 2) [E27].\n- Gabriele Longo: nessun dato postpartita (0 sedute su 1) [E28].\n- Christian Porcu: nessun dato postpartita (0 sedute su 1) [E29].\n- Alcuni non titolari non hanno dati della partita del 13/04/2024: non hanno giocato o il dato manca, il dataset non distingue i due casi.",
+ "frasi_con_numeri": 14,
+ "verificate": 14,
+ "tolte": [],
+ "correzioni": [
+  {
+   "frase": "Le metriche di alta intensità risultano invece sopra il solito: corsa ad alta velocità (HSR) a percentile mediano 65 [E3], sprint (SPR) a 74 [E4] e distanza ad alto carico metabolico (HMLD) a 51 [E7].",
+   "motivo": "la frase dice «sopra» ma i dati citati dicono: dentro"
+  }
+ ],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.04234,
+ "secondi": 16.6,
+ "generato_il": "2026-10-28T09:29:13"
+}

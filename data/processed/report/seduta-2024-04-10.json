@@ -1,0 +1,20 @@
+{
+ "data": "2024-04-10",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 10/04/2024",
+ "testo": "## Sintesi\nLa seduta del 10/04/2024 (MD-3, tre giorni prima della partita) mostra per la squadra percentili mediani compresi tra 47 [E6] e 74 [E2] nelle principali metriche, con TD (distanza totale) a 74 [E2], HSR (corsa ad alta velocità) a 67 [E3] e HMLD (distanza ad alto carico metabolico) a 66 [E7], in linea con il carico abituale per la maggior parte del gruppo. Su 16 giocatori, 4 risultano fuori dalla fascia larga in almeno una metrica e 8 ai margini [E1].\n## Fuori fascia\n- **Simone Amato**: TD 4.049 m, molto sotto la fascia larga (4.345 m–6.528 m) [E16]; DCC (decelerazioni intense) 22, molto sotto la fascia larga (40–81) [E13]; ACC (accelerazioni intense) 33, molto sotto la fascia larga (45–95) [E15]; HMLD 560 m, molto sotto la fascia larga (701 m–1.145 m) [E14].\n- **Stefano Guidi**: TD 3.260 m, molto sotto la fascia larga (4.652 m–6.316 m) [E8]; DCC 23, molto sotto la fascia larga (34–64) [E10]; HMLD 491 m, molto sotto la fascia larga (681 m–1.052 m) [E11].\n- **Andrea Melis**: TD 7.391 m, molto sopra la fascia larga (4.430 m–6.338 m) [E9]; HMLD 1.251 m, molto sopra la fascia larga (629 m–1.146 m) [E12].\n- **Riccardo Benedetti**: ACC 29, molto sotto la fascia larga (35–71) [E17].\n- **Edoardo Tosi**: distanza in sprint 403 m, sopra la fascia centrale (125 m–274 m) [E21]; HSR 532 m, sopra la fascia centrale (222 m–390 m) [E22].\n- **Federico Santini**: TD 6.531 m, sopra la fascia centrale (4.824 m–6.042 m) [E18].\n## Spunti per lo staff\n- Approfondire con lo staff lo scostamento di Simone Amato: negli ultimi tre allenamenti (05/04/2024, 08/04/2024 e 10/04/2024) la distanza ad alta velocità (HSR) è rimasta sotto la sua fascia storica. [E23, E24, E25]\n## Qualità del dato e limiti\n- Elia Gariglio: nessun dato nella finestra postpartita (0 sedute su 1) [E26].\n- Christian Porcu: nessun dato nella finestra postpartita (0 sedute su 1) [E27].\n- La finestra MD-4…MD-2 non è ancora conclusa: valori parziali fino al 10/04/2024.\n- Alcuni non titolari non hanno dati della partita del 06/04/2024: non è possibile distinguere se non hanno giocato o se il dato manca.",
+ "frasi_con_numeri": 11,
+ "verificate": 11,
+ "tolte": [],
+ "correzioni": [
+  {
+   "frase": "La seduta del 10/04/2024 (MD-3) mostra per la squadra percentili mediani compresi tra 47 e 74 nelle principali metriche, con TD a 74 [E2], HSR a 67 [E3] e HMLD a 66 [E7], in linea con il carico abituale per la maggior parte del gruppo.",
+   "motivo": "numeri non presenti nelle evidenze citate: 47"
+  }
+ ],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.0388,
+ "secondi": 13.4,
+ "generato_il": "2026-10-28T09:30:01"
+}

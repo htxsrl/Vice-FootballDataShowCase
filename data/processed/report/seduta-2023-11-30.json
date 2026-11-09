@@ -1,0 +1,15 @@
+{
+ "data": "2023-11-30",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 30/11/2023",
+ "testo": "## Sintesi\n\nLa seduta del 30/11/2023, in due giorni prima della partita (MD-2), si è svolta in linea con il carico abituale per la distanza totale (TD), con percentile mediano di squadra 48 e tutti i 17 giocatori dentro fascia [E2]. La corsa ad alta velocità (HSR), le accelerazioni (ACC) e la distanza ad alto carico metabolico (HMLD) mostrano percentili mediani più alti (66, 76, 68), segno di una seduta orientata su intensità e cambi di ritmo [E3, E5, E7]. 4 giocatori su 17 risultano fuori dalla fascia larga in almeno una metrica, mentre altri 8 sono ai margini [E1].\n\n## Fuori fascia\n\n- **Stefano Guidi**: decelerazioni (DCC) 58, molto sopra la fascia larga (30-51) [E9]; HMLD 974 m, molto sopra la fascia larga (501 m-906 m) [E10]; HSR 231 m, molto sopra la fascia larga (57 m-158 m) [E11].\n- **Riccardo Benedetti**: HSR 231 m, molto sopra la fascia larga (57 m-172 m) [E12]; HMLD 865 m, molto sopra la fascia larga (450 m-815 m) [E15]; ACC 59, sopra la fascia centrale (38-52) [E16].\n- **Filippo Rinaldi**: ACC 69, molto sopra la fascia larga (38-58) [E14].\n- **Simone Amato**: ACC 10, molto sotto la fascia larga (31-66) [E8]; DCC 15, molto sotto la fascia larga (26-64) [E13]; HMLD 453 m, sotto la fascia centrale (545 m-908 m) [E19].\n- **Samuele Pinna**: ACC 88, sopra la fascia centrale (51-71) [E18].\n- **Alessio Dalmasso**: DCC 52, sopra la fascia centrale (35-48) [E20].\n\n## Verso la partita\n\nNella finestra da MD-4 a MD-2 prima della partita del 02/12/2023, su 17 giocatori 1 solo risulta sotto il solito per l'alta velocità: Samuele Pinna [E21]. La sua distanza in sprint (SPR) nella finestra è 166 m, dentro la fascia larga (54 m-596 m) [E22]; la sua HSR è 317 m, sotto, con riferimento personale di 569 m e fascia larga 275 m-904 m [E23].\n\n## Spunti per lo staff\n\nOggi le regole non segnalano nulla.\n\n## Qualità del dato e limiti\n\n- Simone Amato ha copertura parziale nella finestra MD-4/MD-2: solo 1 seduta su 2 [E24].\n- Samuele Pinna, Federico Santini e Simone Amato non hanno dati nella finestra postpartita (0 sedute su 1) [E25, E26, E27].\n- Alcuni non titolari non hanno dati della partita del 25/11/2023: non hanno giocato o il dato manca, il dataset non distingue i due casi.",
+ "frasi_con_numeri": 12,
+ "verificate": 12,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.02673,
+ "secondi": 12.1,
+ "generato_il": "2026-10-28T09:35:25"
+}

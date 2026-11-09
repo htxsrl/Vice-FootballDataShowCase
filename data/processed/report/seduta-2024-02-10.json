@@ -1,0 +1,32 @@
+{
+ "data": "2024-02-10",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 10/02/2024",
+ "testo": "## Sintesi\nLa seduta del 10/02/2024, in giornata MD-1 (il giorno prima della partita), mostra percentili mediani di squadra centrali o poco sotto la mediana per quasi tutte le metriche: distanza totale (TD) a 51 [E2], corsa ad alta velocità (HSR) a 46 [E3], sprint (SPR) a 37 [E4], accelerazioni (ACC) a 61 [E5], decelerazioni (DCC) a 70 [E6] e distanza ad alto carico metabolico (HMLD) a 55 [E7]. Nessun giocatore risulta fuori dalla fascia larga P10-P90 in almeno una metrica, anche se 7 si trovano ai margini [E1].\n## Fuori fascia\n## Verso la partita\nNella finestra da MD-4 a MD-2 prima della partita dell'11/02/2024, nessun giocatore risulta sotto il solito livello di alta velocità, su 18 giocatori e 2 sedute di squadra con finestra completa [E13].\n## Spunti per lo staff\nOggi le regole non segnalano nulla.\n## Qualità del dato e limiti\n- Riccardo Benedetti ha copertura parziale nella finestra MD-4/MD-2: 1 seduta su 2 della squadra [E14].\n- Pietro Ghio ha copertura parziale nella finestra MD-4/MD-2: 1 seduta su 2 della squadra [E15].\n- Dopo la partita del 03/02/2024 non risultano sedute postpartita registrate.\n- Alcuni non titolari non hanno dati della partita del 03/02/2024: non è possibile distinguere se non hanno giocato o se il dato manca.",
+ "frasi_con_numeri": 5,
+ "verificate": 5,
+ "tolte": [
+  "- Tommaso Ferrandi: HSR a 0 m, sotto la fascia larga (8 m - 123 m), percentile 0 [E8]; HMLD a 214 m, sotto la fascia larga (226 m - 515 m), percentile 8 [E9].",
+  "- Lorenzo Cortese: HSR a 185 m, sopra la fascia larga (3 m - 210 m), percentile 89 [E10].",
+  "- Stefano Guidi: ACC a 47, sopra la fascia larga (22 - 58), percentile 86 [E11]; DCC a 38, sopra la fascia larga (9 - 43), percentile 86 [E12]."
+ ],
+ "correzioni": [
+  {
+   "frase": "- Tommaso Ferrandi: HSR a 0 m, molto sotto la fascia larga (8 m - 123 m), percentile 0 [E8]; HMLD a 214 m, molto sotto la fascia larga (226 m - 515 m), percentile 8 [E9].",
+   "motivo": "la frase dice «molto sotto la fascia larga», cioè sotto P10, ma i dati citati dicono: sotto («sopra» e «sotto» senza «molto» vogliono dire fuori dalla fascia centrale P25-P75 ma dentro la fascia larga P10-P90)"
+  },
+  {
+   "frase": "- Lorenzo Cortese: HSR a 185 m, molto sopra la fascia larga (3 m - 210 m), percentile 89 [E10].",
+   "motivo": "la frase dice «molto sopra la fascia larga», cioè sopra P90, ma i dati citati dicono: sopra («sopra» e «sotto» senza «molto» vogliono dire fuori dalla fascia centrale P25-P75 ma dentro la fascia larga P10-P90)"
+  },
+  {
+   "frase": "- Stefano Guidi: ACC a 47, molto sopra la fascia larga (22 - 58), percentile 86 [E11]; DCC a 38, molto sopra la fascia larga (9 - 43), percentile 86 [E12].",
+   "motivo": "la frase dice «molto sopra la fascia larga», cioè sopra P90, ma i dati citati dicono: sopra («sopra» e «sotto» senza «molto» vogliono dire fuori dalla fascia centrale P25-P75 ma dentro la fascia larga P10-P90)"
+  }
+ ],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.02779,
+ "secondi": 12.5,
+ "generato_il": "2026-10-28T09:33:04"
+}

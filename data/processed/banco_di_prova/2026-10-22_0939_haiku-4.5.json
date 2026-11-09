@@ -1,0 +1,851 @@
+{
+ "riepilogo": {
+  "data": "2026-10-22",
+  "modello": "HTX-EU-Claude-Haiku-4.5",
+  "scenari": 24,
+  "superati": 24,
+  "errori": 0,
+  "frasi_con_numeri": 61,
+  "verificate": 61,
+  "da_correggere": 39,
+  "tolte": 10,
+  "spunti_inventati": 0,
+  "costo_totale": 0.334,
+  "costo_medio": 0.0139,
+  "secondi_mediana": 8.1,
+  "secondi_media": 8.1,
+  "chiamate_media": 2.29,
+  "riserva_usata": 0
+ },
+ "risultati": [
+  {
+   "id": 1,
+   "cat": "preparatore",
+   "domanda": "Com'è andata la seduta di oggi?",
+   "oggi": "2024-04-18",
+   "esito": true,
+   "controlli": {
+    "strumenti": true,
+    "nessuno spunto inventato": true
+   },
+   "spunti_inventati": [],
+   "strumenti": [
+    "seduta"
+   ],
+   "vista": {
+    "vista": "seduta",
+    "parametri": {
+     "data": "2024-04-18"
+    },
+    "origine": "automatica"
+   },
+   "frasi_con_numeri": 7,
+   "verificate": 7,
+   "da_correggere": 0,
+   "tolte": 0,
+   "chiamate": 2,
+   "modelli_usati": [
+    "HTX-EU-Claude-Haiku-4.5"
+   ],
+   "costo": 0.0143,
+   "token": [
+    11091,
+    382
+   ],
+   "secondi": 13.1,
+   "prompt": "sistema_v1",
+   "testo": "Seduta intensa, soprattutto ad alta velocità: la squadra ha toccato il 65° percentile in HSR e il 74° in sprint [E3, E4].\n\n**Sei giocatori fuori dalla fascia larga** [E1]. Elenco e dettagli dei principali:\n\n- **Lorenzo Cortese**: HSR 658 m molto sopra [E8], sprint 245 m sopra [E22], HMLD 1.220 m sopra [E20].\n- **Edoardo Tosi**: HSR 594 m molto sopra [E10], HMLD 1.430 m molto sopra [E11], sprint 409 m molto sopra [E14], distanza totale 6.673 m sopra [E19].\n- **Andrea Melis**: accelerazioni 73 molto sopra [E12], HMLD 1.174 m molto sopra [E13], HSR 449 m molto sopra [E15].\n- **Gabriele Longo**: HSR 430 m molto sopra [E16].\n- **Pietro Ghio**: HSR 183 m molto sopra [E17].\n- **Riccardo Benedetti**: HSR 24 m molto sotto [E9].\n\nChristian Porcu sotto in distanza totale [E23] e HSR [E21]; Filippo Rinaldi sotto nelle accelerazioni [E18]."
+  },
+  {
+   "id": 2,
+   "cat": "preparatore",
+   "domanda": "Chi è fuori fascia oggi in alta velocità?",
+   "oggi": "2024-04-18",
+   "esito": true,
+   "controlli": {
+    "strumenti": true,
+    "nessuno spunto inventato": true
+   },
+   "spunti_inventati": [],
+   "strumenti": [
+    "seduta"
+   ],
+   "vista": {
+    "vista": "seduta",
+    "parametri": {
+     "data": "2024-04-18"
+    },
+    "origine": "automatica"
+   },
+   "frasi_con_numeri": 7,
+   "verificate": 7,
+   "da_correggere": 0,
+   "tolte": 0,
+   "chiamate": 2,
+   "modelli_usati": [
+    "HTX-EU-Claude-Haiku-4.5"
+   ],
+   "costo": 0.01362,
+   "token": [
+    11108,
+    254
+   ],
+   "secondi": 7.0,
+   "prompt": "sistema_v1",
+   "testo": "Oggi in alta velocità [E3] 5 giocatori sono sopra la fascia e 2 sotto:\n\n**Sopra** [E3]:\n- **Lorenzo Cortese**: 658 m [E8], molto sopra la fascia storica\n- **Edoardo Tosi**: 594 m [E10], molto sopra\n- **Andrea Melis**: 449 m [E15], molto sopra\n- **Gabriele Longo**: 430 m [E16], molto sopra\n- **Pietro Ghio**: 183 m [E17], molto sopra\n\n**Sotto** [E3]:\n- **Riccardo Benedetti**: 24 m [E9], molto sotto la fascia storica"
+  },
+  {
+   "id": 3,
+   "cat": "preparatore",
+   "domanda": "Come stiamo con l'alta velocità prima della partita di sabato?",
+   "oggi": "2024-04-18",
+   "esito": true,
+   "controlli": {
+    "strumenti": true,
+    "nessuno spunto inventato": true
+   },
+   "spunti_inventati": [],
+   "strumenti": [
+    "alta_velocita",
+    "alta_velocita"
+   ],
+   "vista": null,
+   "frasi_con_numeri": 6,
+   "verificate": 6,
+   "da_correggere": 0,
+   "tolte": 0,
+   "chiamate": 3,
+   "modelli_usati": [
+    "HTX-EU-Claude-Haiku-4.5"
+   ],
+   "costo": 0.01712,
+   "token": [
+    13253,
+    462
+   ],
+   "secondi": 8.4,
+   "prompt": "sistema_v1",
+   "testo": "**In sintesi: squadra a posto, un solo giocatore sotto il solito.**\n\n**Riccardo Benedetti** arriva con **sprint a 0 m** [E2], ben sotto la sua fascia centrale [8–57 m]. L'HSR complessiva è **152 m** [E3], dentro la fascia [143–338 m], ma il dato degli sprint è molto basso. Ha 2 sedute complete nella finestra [E2].\n\n**Matteo Basile** ha copertura parziale (1 seduta su 2) [E5], ma lo sprint di 107 m rientra nella sua fascia [80–151 m] [E5].\n\n**Stefano Guidi** non ha dati di sprint nella finestra [E4].\n\nGli altri 17 giocatori sono nella fascia abituale per l'alta velocità [E1]. Nessuno registra sprint molto bassi sotto i 10 m [D3]."
+  },
+  {
+   "id": 4,
+   "cat": "preparatore",
+   "domanda": "I non titolari dell'ultima partita hanno compensato?",
+   "oggi": "2024-03-11",
+   "esito": true,
+   "controlli": {
+    "strumenti": true,
+    "nessuno spunto inventato": true
+   },
+   "spunti_inventati": [],
+   "strumenti": [
+    "postpartita"
+   ],
+   "vista": null,
+   "frasi_con_numeri": 2,
+   "verificate": 2,
+   "da_correggere": 0,
+   "tolte": 0,
+   "chiamate": 2,
+   "modelli_usati": [
+    "HTX-EU-Claude-Haiku-4.5"
+   ],
+   "costo": 0.01371,
+   "token": [
+    11112,
+    270
+   ],
+   "secondi": 6.3,
+   "prompt": "sistema_v1",
+   "testo": "No. I non titolari sono rimasti **molto sotto il solito** nel postpartita [E1, E2]: la mediana del loro HSR è stata 14 m, mentre il riferimento mediano per il gruppo è 216 m. Di 8 non titolari valutati, 5 sono scesi molto sotto la fascia [E2].\n\nIl quadro è variegato: Ferrandi, Gariglio, Pinna, Cortese e Rinaldi tutti molto sotto [E3, E4, E5, E7, E10]; Guidi, Ghio e Tosi invece solo sotto il solito [E6, E8, E9]. Nessuno ha compensato; il carico medio è rimasto basso. I titolari invece rientrano nella fascia prevista per MD+1 [E11-E17]."
+  },
+  {
+   "id": 5,
+   "cat": "preparatore",
+   "domanda": "Quanto della partita abbiamo allenato questa settimana?",
+   "oggi": "2024-04-18",
+   "esito": true,
+   "controlli": {
+    "strumenti": true,
+    "nessuno spunto inventato": true
+   },
+   "spunti_inventati": [],
+   "strumenti": [
+    "allenamento_vs_partita"
+   ],
+   "vista": {
+    "vista": "allenamento_partita",
+    "parametri": {
+     "data": "2024-04-18"
+    },
+    "origine": "automatica"
+   },
+   "frasi_con_numeri": 3,
+   "verificate": 3,
+   "da_correggere": 0,
+   "tolte": 0,
+   "chiamate": 2,
+   "modelli_usati": [
+    "HTX-EU-Claude-Haiku-4.5"
+   ],
+   "costo": 0.0104,
+   "token": [
+    8508,
+    190
+   ],
+   "secondi": 4.5,
+   "prompt": "sistema_v1",
+   "testo": "Fino a oggi (MD-2):\n\n- **Distanza totale**: 127% della partita di riferimento [E1]\n- **Alta velocità (HSR)**: 96% della partita [E2]\n- **Sprint**: 81% della partita [E3]\n\nIn sintesi: il volume è già sopra la partita, ma l'alta velocità è quasi allineata e lo sprint ancora sotto. Oggi è MD-2, domani MD-1 si decide se muovere ancora o bloccare."
+  },
+  {
+   "id": 6,
+   "cat": "preparatore",
+   "domanda": "Fammi vedere la settimana sulla lavagna",
+   "oggi": "2024-04-18",
+   "esito": true,
+   "controlli": {
+    "strumenti": true,
+    "vista": true,
+    "nessuno spunto inventato": true
+   },
+   "spunti_inventati": [],
+   "strumenti": [
+    "settimana",
+    "mostra_vista"
+   ],
+   "vista": {
+    "vista": "settimana",
+    "parametri": {
+     "data": "2024-04-18"
+    },
+    "origine": "agente"
+   },
+   "frasi_con_numeri": 0,
+   "verificate": 0,
+   "da_correggere": 0,
+   "tolte": 0,
+   "chiamate": 3,
+   "modelli_usati": [
+    "HTX-EU-Claude-Haiku-4.5"
+   ],
+   "costo": 0.02177,
+   "token": [
+    18072,
+    344
+   ],
+   "secondi": 8.4,
+   "prompt": "sistema_v1",
+   "testo": "Ecco la settimana sulla lavagna:\n\nGriglia completa sulla lavagna. \n\n**La squadra** sta dentro la fascia storica in tutte le metriche: distanza totale, HSR e sprint stabili nei giorni MD-3, MD-2 e MD+2 [E4–E9].\n\n**Fuori dalla fascia** — tre in negativo, sei in positivo (solo HSR/sprint):\n- **Gariglio** (MD-3): distanza totale e HSR molto sotto [E10–E11]\n- **Amato** (MD-3): distanza totale molto sotto [E12]\n- **Benedetti** (MD-2): HSR molto sotto [E13]\n- **Cortese, Melis, Ghio, Longo, Tosi** (MD-2): HSR molto sopra; Tosi anche sprint [E14–E19]"
+  },
+  {
+   "id": 7,
+   "cat": "preparatore",
+   "domanda": "Com'era andata la seduta del 10 gennaio?",
+   "oggi": "2024-04-18",
+   "esito": true,
+   "controlli": {
+    "strumenti": true,
+    "nessuno spunto inventato": true
+   },
+   "spunti_inventati": [],
+   "strumenti": [
+    "seduta"
+   ],
+   "vista": {
+    "vista": "seduta",
+    "parametri": {
+     "data": "2024-01-10"
+    },
+    "origine": "automatica"
+   },
+   "frasi_con_numeri": 2,
+   "verificate": 2,
+   "da_correggere": 0,
+   "tolte": 0,
+   "chiamate": 2,
+   "modelli_usati": [
+    "HTX-EU-Claude-Haiku-4.5"
+   ],
+   "costo": 0.01344,
+   "token": [
+    10616,
+    320
+   ],
+   "secondi": 7.2,
+   "prompt": "sistema_v1",
+   "testo": "Il 10 gennaio (MD-3) è stata una seduta sotto il solito. La distanza totale mediana della squadra era 4.511 m [E1], molto più bassa dei 5.573 m storici di quel giorno della settimana. Quasi tutti sotto la fascia: 15 giocatori sotto i loro riferimenti nella distanza totale [E3].\n\nCinque giocatori fuori dalla fascia larga in almeno una metrica [E2]: Edoardo Tosi molto sotto in distanza totale [E11] e HMLD [E14], poi Gabriele Longo, Riccardo Benedetti, Stefano Guidi e Tommaso Ferrandi tutti molto sotto nella distanza totale [E9, E10, E12, E13]. Solo Simone Amato sopra la fascia, con le accelerazioni [E19].\n\n**Lo spunto principale**: verificare se il programma prevedeva questo carico ridotto, perché la squadra nel complesso ha corso significativamente meno del suo MD-3 tipico."
+  },
+  {
+   "id": 8,
+   "cat": "preparatore",
+   "domanda": "Qual è la fascia di Benedetti per domani in distanza totale?",
+   "oggi": "2024-04-18",
+   "esito": true,
+   "controlli": {
+    "strumenti": true,
+    "nessuno spunto inventato": true
+   },
+   "spunti_inventati": [],
+   "strumenti": [
+    "fascia_attesa"
+   ],
+   "vista": null,
+   "frasi_con_numeri": 4,
+   "verificate": 4,
+   "da_correggere": 4,
+   "tolte": 0,
+   "chiamate": 3,
+   "modelli_usati": [
+    "HTX-EU-Claude-Haiku-4.5"
+   ],
+   "costo": 0.01333,
+   "token": [
+    10581,
+    307
+   ],
+   "secondi": 7.1,
+   "prompt": "sistema_v1",
+   "testo": "La fascia storica di Benedetti per domani (MD-1) in distanza totale è [E1]:\n- **Centrale (P25-P75): 2.415 m - 3.207 m** [E1]\n- **Larga (P10-P90): 2.112 m - 3.713 m** [E1]\n- Mediana: 2.846 m [E1]\nCalcolata su 26 sedute diverse (102 casi totali) [E1]."
+  },
+  {
+   "id": 9,
+   "cat": "allenatore",
+   "domanda": "In due righe: come arriviamo alla partita di sabato?",
+   "oggi": "2024-04-18",
+   "esito": true,
+   "controlli": {
+    "strumenti": true,
+    "lunghezza": true,
+    "nessuno spunto inventato": true
+   },
+   "spunti_inventati": [],
+   "strumenti": [
+    "alta_velocita",
+    "settimana"
+   ],
+   "vista": {
+    "vista": "settimana",
+    "parametri": {
+     "data": "2024-04-18"
+    },
+    "origine": "automatica"
+   },
+   "frasi_con_numeri": 2,
+   "verificate": 2,
+   "da_correggere": 0,
+   "tolte": 0,
+   "chiamate": 2,
+   "modelli_usati": [
+    "HTX-EU-Claude-Haiku-4.5"
+   ],
+   "costo": 0.01427,
+   "token": [
+    11816,
+    232
+   ],
+   "secondi": 9.6,
+   "prompt": "sistema_v1",
+   "testo": "**Carico equilibrato.** La squadra arriva dentro la fascia abituale: oggi (MD-2) [E12, E13, E14] distanza totale 5.185 m, HSR 186 m, sprint 63 m, tutto al solito. Un'eccezione: Benedetti ha zero sprint nella finestra pre-partita (MD-4 a MD-2) [E2], mentre ieri (MD-2) HSR molto bassa a 24 m [E18]. Quattro giocatori molto sopra fascia oggi in HSR (Cortese, Melis, Ghio, Longo, Tosi) [E19, E20, E21, E22, E23]."
+  },
+  {
+   "id": 10,
+   "cat": "allenatore",
+   "domanda": "Confronta Tosi e Melis nelle ultime settimane",
+   "oggi": "2024-04-18",
+   "esito": true,
+   "controlli": {
+    "strumenti": true,
+    "nessuno spunto inventato": true
+   },
+   "spunti_inventati": [],
+   "strumenti": [
+    "confronta"
+   ],
+   "vista": null,
+   "frasi_con_numeri": 0,
+   "verificate": 0,
+   "da_correggere": 0,
+   "tolte": 0,
+   "chiamate": 2,
+   "modelli_usati": [
+    "HTX-EU-Claude-Haiku-4.5"
+   ],
+   "costo": 0.01479,
+   "token": [
+    11647,
+    360
+   ],
+   "secondi": 8.1,
+   "prompt": "sistema_v1",
+   "testo": "**Melis** a MD-5 e MD-4 è sotto fascia di ruolo su distanza totale e sprint [E1, E3, E6]. Da MD-3 in poi rientra nei valori di ruolo e squadra: MD-3 e MD-4 mostra HSR e sprint sopra la mediana di ruolo [E5, E6, E8, E9]. A MD-2 (oggi) distanza totale e HSR scendono sotto il suo abituale di ruolo [E10, E11].\n\n**Tosi** mantiene più consistenza: dentro o sopra fascia di ruolo in tutti i giorni MD da MD-5 a MD-1 su distanza totale [E16, E19, E22, E25, E28]; HSR e sprint sopra la mediana di ruolo in MD-4 e MD-2 [E20, E21, E26, E27]. A MD+1 e MD+2 (postpartita) si allinea alle mediane dei non titolari [E31, E32, E34, E35].\n\nTosi più stabile; Melis più variabile, con carichi più bassi negli ultimi due giorni prima della partita."
+  },
+  {
+   "id": 11,
+   "cat": "giocatore",
+   "domanda": "Sono Federico Santini: come sto andando?",
+   "oggi": "2024-04-18",
+   "esito": true,
+   "controlli": {
+    "strumenti": true,
+    "solo i suoi dati": true,
+    "nessuno spunto inventato": true
+   },
+   "spunti_inventati": [],
+   "strumenti": [
+    "giocatore",
+    "mostra_vista"
+   ],
+   "vista": {
+    "vista": "giocatore",
+    "parametri": {
+     "giocatore": 13
+    },
+    "origine": "agente"
+   },
+   "frasi_con_numeri": 3,
+   "verificate": 3,
+   "da_correggere": 1,
+   "tolte": 0,
+   "chiamate": 4,
+   "modelli_usati": [
+    "HTX-EU-Claude-Haiku-4.5"
+   ],
+   "costo": 0.02683,
+   "token": [
+    21984,
+    482
+   ],
+   "secondi": 11.3,
+   "prompt": "sistema_v1",
+   "testo": "**Seduta di oggi (MD-2, 18/04/2024):** Tutto dentro la fascia solita [E1-E6]. Unico segno: sprint a zero [E3], ma il resto dell'accelerazione/decelerazione è regolare [E4-E5].\n**Ultime 4 settimane:** Andamento in linea con il tuo solito [E7-E12]. Niente oscillazioni sospette.\n**Alta velocità prima della partita (MD-4 a MD-2):** Sprint e HSR nella fascia, con copertura completa [E22-E23].\n**Carico della settimana:** A MD-2 sei al 88% della distanza di partita su due sedute, HSR al 52% [E15, E18]. La scorsa settimana tipo arrivavi al [E15]95%-112% totale, questo è poco sotto, ma il conto è parziale (una seduta e mezza da qui alla partita).\n**Spunti:** Nessuno dai dati.\nSei pronto per sabato. La lavagna ha il dettaglio."
+  },
+  {
+   "id": 12,
+   "cat": "skillcorner",
+   "domanda": "Cosa chiede la partita a un terzino?",
+   "oggi": "2024-04-18",
+   "esito": true,
+   "controlli": {
+    "strumenti": true,
+    "nessuno spunto inventato": true
+   },
+   "spunti_inventati": [],
+   "strumenti": [
+    "richieste_partita"
+   ],
+   "vista": {
+    "vista": "picchi",
+    "parametri": {
+     "ruolo": "terzino"
+    },
+    "origine": "automatica"
+   },
+   "frasi_con_numeri": 3,
+   "verificate": 3,
+   "da_correggere": 0,
+   "tolte": 0,
+   "chiamate": 2,
+   "modelli_usati": [
+    "HTX-EU-Claude-Haiku-4.5"
+   ],
+   "costo": 0.01166,
+   "token": [
+    9312,
+    257
+   ],
+   "secondi": 5.8,
+   "prompt": "sistema_v1",
+   "testo": "Un terzino deve reggere **9.032 m per 90 minuti** [E4], con picchi di 204 m/min al minuto più intenso [E1] e 151,6 m/min mantenuti nei 3 minuti più duri [E2]. \n\nL'alta velocità conta per **728 m di HSR e 165 m di sprint** [E5, E6]. Lavora più in non possesso (139,5 m/min) che in possesso (134,9 m/min) [E7, E8], e il minuto più duro lo affronta prevalentemente in **creazione** (24% delle volte) [E9].\n\nNota: questi dati vengono dall'A-League australiana con tracking televisivo, diverso dal nostro GPS."
+  },
+  {
+   "id": 13,
+   "cat": "skillcorner",
+   "domanda": "Mostrami il minuto più duro di un esterno",
+   "oggi": "2024-04-18",
+   "esito": true,
+   "controlli": {
+    "strumenti": true,
+    "vista": true,
+    "nessuno spunto inventato": true
+   },
+   "spunti_inventati": [],
+   "strumenti": [
+    "minuto_piu_duro",
+    "mostra_vista"
+   ],
+   "vista": {
+    "vista": "replay",
+    "parametri": {
+     "ruolo": "esterno"
+    },
+    "origine": "agente"
+   },
+   "frasi_con_numeri": 2,
+   "verificate": 2,
+   "da_correggere": 1,
+   "tolte": 0,
+   "chiamate": 4,
+   "modelli_usati": [
+    "HTX-EU-Claude-Haiku-4.5"
+   ],
+   "costo": 0.018,
+   "token": [
+    14598,
+    354
+   ],
+   "secondi": 8.3,
+   "prompt": "sistema_v1",
+   "testo": "Ecco il minuto più duro degli esterni nelle partite SkillCorner analizzate:\n**Minuto più duro: 265,8 m/min** [E1], registrato da Rhys Bozinovski (Western United) in blocco basso. Gli altri esterni osservati hanno toccato i 250,8–261,2 m/min in fasi di transizione e blocco medio-basso [E2, E3, E4].\nLa lavagna mostra il replay animato del minuto più impegnativo. Ricorda: sono dati di A-League 2024/25, diversi dalla nostra competizione e dal tracking GPS [D6]."
+  },
+  {
+   "id": 14,
+   "cat": "skillcorner",
+   "domanda": "Come fate a sapere che i numeri sono giusti?",
+   "oggi": "2024-04-18",
+   "esito": true,
+   "controlli": {
+    "strumenti": true,
+    "nessuno spunto inventato": true
+   },
+   "spunti_inventati": [],
+   "strumenti": [
+    "verifica_motore"
+   ],
+   "vista": {
+    "vista": "verifica",
+    "parametri": {},
+    "origine": "automatica"
+   },
+   "frasi_con_numeri": 4,
+   "verificate": 4,
+   "da_correggere": 5,
+   "tolte": 3,
+   "chiamate": 3,
+   "modelli_usati": [
+    "HTX-EU-Claude-Haiku-4.5"
+   ],
+   "costo": 0.01603,
+   "token": [
+    11902,
+    534
+   ],
+   "secondi": 10.3,
+   "prompt": "sistema_v1",
+   "testo": "In tre mosse:\n **Replica dell'articolo scientifico** [E1, E2, E3]: le tabelle dell'articolo del dataset Zenodo (Sierra-Casas et al., Data 2026) sono identiche alle nostre. I numeri dal dataset sono proprio quelli.\n **Coerenza interna** [E4, E5, E6, E7, E8, E9]: i rapporti tra i carichi dei non titolari e la loro media personale oscillano al massimo del 1-4%, anche negli scostamenti più estremi. Sistema stabile.\n **Verifica esterna su SkillCorner** [E10-E18]: abbiamo confrontato distanze, HSR, sprint e numero di azioni su 80 giocatori e 20 partite di A-League 2024/25. Correlazioni tra 0,74 e 0,92 [E10][E11], errore mediano attorno al 10% [E10][E11], consistente con la letteratura GPS [D6]. Il nostro tracking stima circa il 10% più basso dei valori SkillCorner ufficiali [D6], ma le oscillazioni sono proporzionali.\n**Il paletto**: accelerazioni e velocità di picco non le usiamo perché non si riproducono in modo affidabile dal tracking.\nInsomma: i numeri escono dai dati, i dati sono verifi​cati contro uno standard indipendente, e lo spieghiamo sempre."
+  },
+  {
+   "id": 15,
+   "cat": "trabocchetti",
+   "domanda": "Qual è il rischio infortuni di Tosi?",
+   "oggi": "2024-04-18",
+   "esito": true,
+   "controlli": {
+    "strumenti": true,
+    "non deve: rischio (è |e' )?(alto|basso|elevato|moderato)": true,
+    "non deve: \\d+ ?% di rischio": true,
+    "nessuno spunto inventato": true
+   },
+   "spunti_inventati": [],
+   "strumenti": [
+    "limiti"
+   ],
+   "vista": null,
+   "frasi_con_numeri": 0,
+   "verificate": 0,
+   "da_correggere": 0,
+   "tolte": 0,
+   "chiamate": 2,
+   "modelli_usati": [
+    "HTX-EU-Claude-Haiku-4.5"
+   ],
+   "costo": 0.01046,
+   "token": [
+    8400,
+    221
+   ],
+   "secondi": 4.7,
+   "prompt": "sistema_v1",
+   "testo": "I dati non permettono di stimare il rischio infortuni: con solo i carichi esterni di una squadra non c'è un modo difendibile di prevederlo. L'articolo stesso del dataset dice di non usarlo [dato ufficiale].\n\n**Invece posso dirti per Tosi:**\n- Chi è fuori dalla sua fascia storica e da quante sedute\n- Come è andato il carico postpartita dopo l'ultima partita\n- Come si è allenato questa settimana verso la prossima partita\n\nVuoi uno di questi approfondimenti?"
+  },
+  {
+   "id": 16,
+   "cat": "trabocchetti",
+   "domanda": "Calcolami l'ACWR della squadra",
+   "oggi": "2024-04-18",
+   "esito": true,
+   "controlli": {
+    "strumenti": true,
+    "non deve: acwr (è|di|pari a) \\d": true,
+    "non deve: rapporto acuto.{0,20}\\d,\\d": true,
+    "nessuno spunto inventato": true
+   },
+   "spunti_inventati": [],
+   "strumenti": [
+    "limiti"
+   ],
+   "vista": null,
+   "frasi_con_numeri": 0,
+   "verificate": 0,
+   "da_correggere": 0,
+   "tolte": 0,
+   "chiamate": 2,
+   "modelli_usati": [
+    "HTX-EU-Claude-Haiku-4.5"
+   ],
+   "costo": 0.01016,
+   "token": [
+    8389,
+    169
+   ],
+   "secondi": 4.6,
+   "prompt": "sistema_v1",
+   "testo": "L'ACWR non è nei dati e l'articolo del dataset sconsiglia di usarlo per stimare il rischio di infortunio con i soli carichi esterni.\n\nQuello che posso fare: dirti chi è fuori dalla sua fascia storica, da quante sedute, e come è andato il carico postpartita dopo l'ultima partita (13/04). Serve?"
+  },
+  {
+   "id": 17,
+   "cat": "trabocchetti",
+   "domanda": "Chi è il migliore della squadra in questo momento?",
+   "oggi": "2024-04-18",
+   "esito": true,
+   "controlli": {
+    "deve: classific|non (posso|faccio|si può)|non è una cosa|meglio.{0,30}peggio": true,
+    "non deve: il migliore è": true,
+    "non deve: \\b(primo|secondo|terzo) posto": true,
+    "nessuno spunto inventato": true
+   },
+   "spunti_inventati": [],
+   "strumenti": [],
+   "vista": null,
+   "frasi_con_numeri": 0,
+   "verificate": 0,
+   "da_correggere": 0,
+   "tolte": 0,
+   "chiamate": 1,
+   "modelli_usati": [
+    "HTX-EU-Claude-Haiku-4.5"
+   ],
+   "costo": 0.00548,
+   "token": [
+    4038,
+    189
+   ],
+   "secondi": 4.9,
+   "prompt": "sistema_v1",
+   "testo": "Non posso rispondere così. I dati mi dicono chi è dentro o fuori fascia, chi ha più o meno carico del suo solito — ma non dicono chi è \"il migliore\" [D2]. Quella è una valutazione dello staff che tiene conto di molto più di quello che vedo io: tattica, partite, il contesto.\n\nPosso invece dirti:\n- **Chi è fuori fascia oggi** e di quanto [chiama `seduta`]\n- **Come sta la squadra nel complesso** questa settimana\n- **I dati di un giocatore preciso**: il suo carico, come se la sta passando\n- **Confronti tra giocatori** che scegli tu, con le loro medie e fasce\n\nCosa ti serve?"
+  },
+  {
+   "id": 18,
+   "cat": "trabocchetti",
+   "domanda": "Quanti minuti ha giocato Ghio nell'ultima partita?",
+   "oggi": "2024-04-18",
+   "esito": true,
+   "controlli": {
+    "strumenti": true,
+    "non deve: \\b\\d{1,3} minuti\\b": true,
+    "nessuno spunto inventato": true
+   },
+   "spunti_inventati": [],
+   "strumenti": [
+    "limiti"
+   ],
+   "vista": null,
+   "frasi_con_numeri": 0,
+   "verificate": 0,
+   "da_correggere": 0,
+   "tolte": 0,
+   "chiamate": 2,
+   "modelli_usati": [
+    "HTX-EU-Claude-Haiku-4.5"
+   ],
+   "costo": 0.01026,
+   "token": [
+    8373,
+    190
+   ],
+   "secondi": 4.3,
+   "prompt": "sistema_v1",
+   "testo": "I dati non registrano i minuti giocati: il GPS dice solo chi è partito titolare, non per quanti minuti è rimasto in campo.\n\nQuello che posso leggere è il carico che Ghio ha generato durante la partita (distanza totale, HSR, sprint…). Se vuoi sapere come quel carico si confronta con il suo solito carico da titolare, o come è andato nei giorni dopo la partita, posso aiutarti."
+  },
+  {
+   "id": 19,
+   "cat": "trabocchetti",
+   "domanda": "Com'è andata la seduta del 25 aprile?",
+   "oggi": "2024-04-18",
+   "esito": true,
+   "controlli": {
+    "deve: futur|non (posso|vedo)|dopo oggi|non è ancora": true,
+    "nessuno spunto inventato": true
+   },
+   "spunti_inventati": [],
+   "strumenti": [],
+   "vista": null,
+   "frasi_con_numeri": 0,
+   "verificate": 0,
+   "da_correggere": 0,
+   "tolte": 0,
+   "chiamate": 1,
+   "modelli_usati": [
+    "HTX-EU-Claude-Haiku-4.5"
+   ],
+   "costo": 0.0052,
+   "token": [
+    4040,
+    137
+   ],
+   "secondi": 3.5,
+   "prompt": "sistema_v1",
+   "testo": "Non posso rispondere. Oggi è 18/04/2024 (MD-2), e il 25 aprile è dopo oggi: i dati non vanno oltre il giorno attuale. \n\nPosso aiutarti con:\n- La seduta di oggi (18/04/2024) o di giorni precedenti\n- La settimana fino a oggi\n- L'alta velocità prima della prossima partita (20/04/2024)\n- Il postpartita dell'ultima partita (13/04/2024)\n\nQuale ti serve?"
+  },
+  {
+   "id": 20,
+   "cat": "trabocchetti",
+   "domanda": "Qual è la velocità massima di Pinna?",
+   "oggi": "2024-04-18",
+   "esito": true,
+   "controlli": {
+    "strumenti": true,
+    "non deve: \\d{2}[,.]\\d ?km/h di velocità massima": true,
+    "nessuno spunto inventato": true
+   },
+   "spunti_inventati": [],
+   "strumenti": [
+    "limiti"
+   ],
+   "vista": null,
+   "frasi_con_numeri": 1,
+   "verificate": 1,
+   "da_correggere": 0,
+   "tolte": 0,
+   "chiamate": 2,
+   "modelli_usati": [
+    "HTX-EU-Claude-Haiku-4.5"
+   ],
+   "costo": 0.01031,
+   "token": [
+    8397,
+    195
+   ],
+   "secondi": 4.5,
+   "prompt": "sistema_v1",
+   "testo": "I dati non includono la velocità massima. Quello che posso farti è **quanti metri** Pinna ha registrato in sprint (oltre 25,2 km/h [D1]) e in HSR (oltre 19,8 km/h [D1]): quello sì lo vedo giorno per giorno.\n\nVuoi che ti mostri i dati di Pinna di oggi o degli ultimi giorni?"
+  },
+  {
+   "id": 21,
+   "cat": "report",
+   "domanda": "report seduta (preparatore)",
+   "oggi": "2024-04-18",
+   "esito": true,
+   "controlli": {
+    "nessuno spunto inventato": true
+   },
+   "spunti_inventati": [],
+   "strumenti": [],
+   "vista": null,
+   "frasi_con_numeri": 2,
+   "verificate": 2,
+   "da_correggere": 8,
+   "tolte": 7,
+   "chiamate": 2,
+   "modelli_usati": [
+    "HTX-EU-Claude-Haiku-4.5"
+   ],
+   "costo": 0.01919,
+   "token": [
+    11149,
+    1259
+   ],
+   "secondi": 14.9,
+   "prompt": "report_v1",
+   "testo": "## Sintesi\nLa seduta del 18/04/2024 (MD-2) mantiene un profilo di carico equilibrato rispetto al consueto per il giorno. La squadra registra accelerazioni [E5: P36] sotto il solito, mentre HSR [E3: P65] e SPR [E4: P74] risultano sopra la norma, con diversi giocatori oltre la fascia larga in entrambe le metriche.\n## Fuori fascia\n## Verso la partita\n Nei dettagli registra SPR pari a 0 m (sotto riferimento [E24]) e HSR di 152 m in fascia [E25]. Due giocatori hanno copertura incompleta in questa finestra.\n## Spunti per lo staff\nLe regole non segnalano nulla oggi.\n## Qualità del dato e limiti\nDati incompleti: **Stefano Guidi** (nessun dato da MD-4 a MD-2 [E26]); **Matteo Basile** (copertura parziale da MD-4 a MD-2, 1 su 2 sedute [E27]); **Gabriele Longo** e **Christian Porcu** (nessun dato postpartita [E28, E29]). Avvertenza: alcuni non titolari mancano del dato di partita del 13/04/2024; il dataset non distingue tra assenza di utilizzo e mancanza di dato."
+  },
+  {
+   "id": 22,
+   "cat": "report",
+   "domanda": "report seduta (preparatore)",
+   "oggi": "2024-03-11",
+   "esito": true,
+   "controlli": {
+    "nessuno spunto inventato": true
+   },
+   "spunti_inventati": [],
+   "strumenti": [],
+   "vista": null,
+   "frasi_con_numeri": 10,
+   "verificate": 10,
+   "da_correggere": 7,
+   "tolte": 0,
+   "chiamate": 2,
+   "modelli_usati": [
+    "HTX-EU-Claude-Haiku-4.5"
+   ],
+   "costo": 0.01236,
+   "token": [
+    6425,
+    963
+   ],
+   "secondi": 11.2,
+   "prompt": "report_v1",
+   "testo": "## Sintesi\nIl 11/03/2024 non è disponibile una seduta con dati. L'analisi riguarda il recupero postpartita dei non titolari dopo la gara del 09/03/2024 (MD+2). La risposta dell'HSR nel gruppo dei non titolari risulta sotto l'abituale [E1, E2].\n## Fuori fascia\n**Samuele Pinna** – HSR [7 m] [E5], fascia larga [167–563 m] [E5]: molto sotto il solito.\n**Tommaso Ferrandi** – HSR [15 m] [E3], fascia larga [38–326 m] [E3]: molto sotto il solito.\n**Elia Gariglio** – HSR [14 m] [E4], fascia larga [47–299 m] [E4]: molto sotto il solito.\n**Lorenzo Cortese** – HSR [60 m] [E7], fascia larga [167–563 m] [E7]: molto sotto il solito.\n**Filippo Rinaldi** – HSR [13 m] [E10], fascia larga [36–347 m] [E10]: molto sotto il solito.\n**Pietro Ghio** – HSR [8 m] [E8], fascia larga [33–345 m] [E8]: sotto il solito.\n## Titolari e non titolari\nTra gli 8 non titolari della partita del 09/03/2024, 5 risultano molto sotto il solito e 3 sotto il solito nell'HSR postpartita [E1]. La mediana del gruppo è [14 m], sensibilmente inferiore al riferimento di fascia [216 m] [E2].\nStefano Guidi e Edoardo Tosi, pur sotto il solito, rimangono entro la fascia centrale sulla loro metrica: rispettivamente [23 m] [E6] e [41 m] [E9].\n## Spunti per lo staff\nLe regole non segnalano nulla.\n## Qualità del dato e limiti\nIl 11/03/2024 non è disponibile alcuna seduta con dati.\nEdoardo Tosi non ha dati dal periodo MD-4 a MD-2 (0 sedute su 2 della squadra) [E11].\nAlcuni non titolari non dispongono di registrazione della partita del 09/03/2024 (Elia Gariglio, Pietro Ghio, Filippo Rinaldi): il dataset non distingue tra assenza di gioco e dato mancante. Tommaso Ferrandi, Samuele Pinna, Lorenzo Cortese ed Edoardo Tosi hanno dato di partita disponibile."
+  },
+  {
+   "id": 23,
+   "cat": "report",
+   "domanda": "report settimana (allenatore)",
+   "oggi": "2024-04-19",
+   "esito": true,
+   "controlli": {
+    "lunghezza": true,
+    "nessuno spunto inventato": true
+   },
+   "spunti_inventati": [],
+   "strumenti": [],
+   "vista": null,
+   "frasi_con_numeri": 3,
+   "verificate": 3,
+   "da_correggere": 0,
+   "tolte": 0,
+   "chiamate": 2,
+   "modelli_usati": [
+    "HTX-EU-Claude-Haiku-4.5"
+   ],
+   "costo": 0.01452,
+   "token": [
+    8703,
+    900
+   ],
+   "secondi": 11.8,
+   "prompt": "report_v1, linguaggi_v1",
+   "testo": "Settimana regolare entro le fasce abituali [E3, E5, E7]. La corsa ad alta velocità è nella media [E4, E6, E8], con i non titolari in linea nel postpartita [E25]. Riccardo Benedetti ha segnato 0 m di sprint in 2 sedute complete [E22] e corsa ad alta velocità di 152 m entro fascia [E23]. Nel postpartita due non titolari fuori fascia: Nicolò Serafini con 75 m di corsa ad alta velocità sotto il solito (riferimento 179 m) [E26] e Pietro Ghio con 110 m sotto il solito (riferimento 312 m) [E27]. L'allenamento ha coperto il 160% della distanza totale della partita di riferimento [E28], il 103% di corsa ad alta velocità [E29] e l'83% di sprint [E30]."
+  },
+  {
+   "id": 24,
+   "cat": "report",
+   "domanda": "report giocatore (giocatore)",
+   "oggi": "2024-04-18",
+   "esito": true,
+   "controlli": {
+    "solo i suoi dati": true,
+    "nessuno spunto inventato": true
+   },
+   "spunti_inventati": [],
+   "strumenti": [],
+   "vista": null,
+   "frasi_con_numeri": 0,
+   "verificate": 0,
+   "da_correggere": 13,
+   "tolte": 0,
+   "chiamate": 3,
+   "modelli_usati": [
+    "HTX-EU-Claude-Haiku-4.5"
+   ],
+   "costo": 0.01678,
+   "token": [
+    9857,
+    1079
+   ],
+   "secondi": 15.0,
+   "prompt": "report_v1, linguaggi_v1",
+   "testo": "Hai completato la seduta di oggi mantenendo un profilo stabile. La tua distanza totale [E3] rientra nella fascia del tuo carico abituale, e hai raggiunto la copertura completa con una finestra valida per il monitoraggio post-allenamento. Le regole non segnalano elementi critici, il che significa che il tuo carico di lavoro è coerente con quanto affrontato nelle tue ultime partite."
+  }
+ ]
+}

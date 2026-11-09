@@ -1,0 +1,15 @@
+{
+ "data": "2024-03-30",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 30/03/2024",
+ "testo": "## Sintesi\n\nLa seduta del 30/03/2024 (MD-1, il giorno prima della partita) mostra un'aderenza al carico abituale, con distanza totale (TD) al percentile mediano 56 e distanza ad alto carico metabolico (HMLD) al percentile mediano 62, tutti i 14 giocatori dentro fascia su entrambe le metriche [E2, E7]. La corsa ad alta velocità (HSR) si attesta al percentile mediano 56 e le accelerazioni (ACC) al 68, con la maggior parte del gruppo entro i range abituali [E3, E5]. Un solo giocatore risulta fuori dalla fascia larga, mentre altri 6 sono ai margini [E1].\n\n## Fuori fascia\n\n- Lorenzo Cortese: ACC a 46, molto sopra la fascia larga (17-43) [E8].\n- Christian Porcu: ACC a 50, sopra la fascia centrale (22-38) [E9].\n- Stefano Guidi: distanza in sprint (SPR) a 14 m, sopra la fascia centrale (0 m-7 m) [E10].\n- Luca Cerutti: ACC a 35, sopra la fascia centrale (17-31) [E11].\n- Edoardo Tosi: decelerazioni (DCC) a 38, sopra la fascia centrale (19-31) [E13].\n- Riccardo Benedetti: ACC a 18, sotto la fascia centrale (23-39) [E12].\n\n## Verso la partita\n\nNella finestra da quattro giorni prima della partita (MD-4) a MD-2 nessun giocatore risulta sotto il proprio solito livello di alta velocità, su 15 giocatori monitorati e 2 sedute di squadra, con copertura completa della finestra [E14].\n\n## Spunti per lo staff\n\n- Approfondire con lo staff lo scostamento di Alessio Dalmasso: negli ultimi tre allenamenti (27/03/2024, 28/03/2024 e 30/03/2024) la distanza ad alta velocità (HSR) è rimasta sopra la sua fascia storica. [E15, E16, E17]\n\n## Qualità del dato e limiti\n\nCinque giocatori non hanno dati nella finestra postpartita (nessuna seduta su 1 disponibile): Tommaso Ferrandi, Lorenzo Cortese, Andrea Melis, Federico Santini, Edoardo Tosi [E18, E19, E20, E21, E22]. Il dataset non distingue se l'assenza di dati per alcuni non titolari dipenda dal mancato impiego in partita o da dati non rilevati.",
+ "frasi_con_numeri": 12,
+ "verificate": 12,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.01987,
+ "secondi": 11.2,
+ "generato_il": "2026-10-28T09:30:39"
+}

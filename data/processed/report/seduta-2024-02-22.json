@@ -1,0 +1,15 @@
+{
+ "data": "2024-02-22",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 22/02/2024",
+ "testo": "## Sintesi\n\nLa seduta MD-2 (due giorni prima della partita) del 22/02/2024 risulta in linea con il carico abituale per la maggior parte della squadra: i percentili mediani di TD (distanza totale), HSR (corsa ad alta velocità), SPR (sprint), ACC (accelerazioni intense), DCC (decelerazioni intense) e HMLD (distanza ad alto carico metabolico) si collocano tutti intorno alla mediana [E2, E3, E4, E5, E6, E7]. Su 17 giocatori, 4 sono risultati fuori dalla fascia larga in almeno una metrica [E1].\n\n## Fuori fascia\n\n- Andrea Melis: ACC a 76, molto sopra la fascia larga (41-66) [E8]; anche SPR a 281 m, sopra la fascia centrale (57 m-192 m) [E13].\n- Filippo Rinaldi: ACC a 74, molto sopra la fascia larga (37-68) [E9].\n- Pietro Ghio: HSR a 18 m, molto sotto la fascia larga (55 m-205 m) [E10].\n- Riccardo Benedetti: DCC a 20, molto sotto la fascia larga (27-52) [E11]; ACC a 31, sotto la fascia centrale (39-54) [E16].\n- Alessio Dalmasso: DCC a 30, sotto la fascia centrale (35-51) [E12].\n- Federico Santini: DCC a 26, sotto la fascia centrale (35-51) [E14].\n\n## Verso la partita\n\nNella finestra da MD-4 a MD-2 (2 sedute, finestra completa) 1 giocatore su 18 risulta sotto il solito per alta velocità: Pietro Ghio [E17]. Il suo SPR nella finestra è 0 m, sotto la fascia centrale (7 m-53 m) rispetto a un riferimento di 25 m [E18]; la sua HSR nella stessa finestra è invece 306 m, dentro la fascia centrale (144 m-304 m) [E19].\n\n## Spunti per lo staff\n\nOggi le regole non segnalano nulla.\n\n## Qualità del dato e limiti\n\nSamuele Pinna non ha dati nella finestra da MD-4 a MD-2 (0 sedute su 2) [E20]. Edoardo Tosi, Christian Porcu e Simone Amato non hanno dati nel postpartita (0 sedute su 1) [E21, E22, E23]. Alcuni non titolari non hanno dati della partita del 18/02/2024: il dataset non distingue se non hanno giocato o se il dato manca.",
+ "frasi_con_numeri": 11,
+ "verificate": 11,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.02176,
+ "secondi": 9.9,
+ "generato_il": "2026-10-28T09:32:22"
+}

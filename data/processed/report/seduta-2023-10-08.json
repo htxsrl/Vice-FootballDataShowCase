@@ -1,0 +1,26 @@
+{
+ "data": "2023-10-08",
+ "tipo": "seduta",
+ "titolo": "Report della partita del 08/10/2023",
+ "testo": "## Sintesi\nLa seduta di MD (giorno della partita) del 08/10/2023 mostra un'aderenza al carico abituale nella norma per la maggior parte della squadra, con 9 giocatori su 15 fuori dalla fascia larga in almeno una metrica [E1]. La distanza totale (TD) si colloca al percentile mediano 82 della squadra, con 8 giocatori sopra il loro riferimento abituale [E2], mentre la corsa ad alta velocità (HSR) resta più contenuta, al percentile mediano 32, con 5 giocatori sotto [E3].\n## Fuori fascia\n- **Gabriele Longo**: molto sopra fascia larga su TD (12.812 m) [E9], HSR (1.064 m) [E10], decelerazioni intense (DCC) (146) [E11] e distanza ad alto carico metabolico (HMLD) (2.799 m) [E12]; anche sopra fascia centrale su accelerazioni intense (ACC) (105) [E18].\n- **Alessio Dalmasso** e **Riccardo Benedetti**: molto sopra fascia larga su TD, entrambi a 11.791 m [E8, E14].\n- **Michele Valli**: molto sopra fascia larga su DCC (109) [E13].\n- **Samuele Pinna**: molto sotto fascia larga su HSR (0 m) [E15], SPR (sprint) (0 m) [E16] e HMLD (177 m) [E17].\n- **Federico Santini**: sotto fascia centrale su HSR (280 m) [E20]; **Matteo Basile** sotto fascia centrale su ACC (70) [E19].\n## Titolari e non titolari\n Tra i non titolari, Samuele Pinna è molto sotto su HSR, SPR e HMLD [E15, E16, E17], Nicolò Serafini sotto fascia centrale su SPR (26 m) [E21] e Stefano Guidi sotto fascia centrale su DCC (8) [E22]. Sul fronte postpartita della gara del 30/09/2023, la finestra risulta chiusa e per 10 non titolari non risultano sedute registrate [E23].\n## Spunti per lo staff\nOggi le regole non segnalano nulla.\n## Qualità del dato e limiti\n- Andrea Melis ha copertura parziale nella finestra da MD-4 a MD-2: 2 sedute su 3 della squadra [E24].\n- Storico con poche settimane regolari, insufficiente per costruire una curva tipica robusta.\n- Dopo la partita del 30/09/2023 non risultano sedute postpartita registrate per i non titolari.\nMolte evidenze individuali sono su base provvisoria con numero di casi limitato (sotto le 6 sedute diverse) [D2].",
+ "frasi_con_numeri": 11,
+ "verificate": 11,
+ "tolte": [
+  "Tra i titolari, oltre ai casi già segnalati (Longo, Dalmasso, Benedetti, Valli sopra il loro abituale), Matteo Basile risulta sotto fascia centrale su ACC [E19] e Federico Santini sotto fascia centrale su HSR [E20]."
+ ],
+ "correzioni": [
+  {
+   "frase": "Tra i titolari, oltre ai casi già segnalati (Longo, Dalmasso, Benedetti, Valli sopra il loro abituale), Matteo Basile risulta sotto fascia centrale su ACC [E19] e Federico Santini sotto fascia centrale su HSR [E20].",
+   "motivo": "la frase dice «sopra» ma i dati citati dicono: sotto"
+  },
+  {
+   "frase": "- Molte evidenze individuali sono su base provvisoria con numero di casi limitato (4 sedute).",
+   "motivo": "numeri senza evidenza citata"
+  }
+ ],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.03783,
+ "secondi": 15.0,
+ "generato_il": "2026-10-28T09:38:13"
+}

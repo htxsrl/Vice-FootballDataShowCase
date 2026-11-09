@@ -1,0 +1,15 @@
+{
+ "data": "2024-02-14",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 14/02/2024",
+ "testo": "## Sintesi\n\nLa seduta del 14/02/2024 (MD-4, quattro giorni prima della partita) mostra un'aderenza al carico abituale nella norma per distanza totale (TD) e decelerazioni (DCC), con percentile mediano di squadra rispettivamente di 49 e 41 [E2, E6]. Corsa ad alta velocità (HSR) e distanza in sprint (SPR) risultano invece più elevate del solito, con percentile mediano di 63 e 72 [E3, E4], mentre le accelerazioni (ACC) si posizionano su valori più bassi, con percentile mediano di 30 [E5]. Nove giocatori su 17 risultano fuori dalla fascia larga in almeno una metrica, di cui 6 ai margini [E1].\n\n## Fuori fascia\n\n- Alessio Dalmasso: molto sopra la fascia larga P10-P90 in TD (6.723 m, scarto 805 m) [E8], HSR (376 m) [E9], SPR (215 m) [E10], ACC (77) [E11] e distanza ad alto carico metabolico (HMLD) (1.190 m) [E12].\n- Simone Amato: molto sopra la fascia larga P10-P90 in HSR (470 m) [E14] e HMLD (1.128 m) [E15]; sopra la fascia centrale P25-P75 in TD (6.193 m) [E21].\n- Tommaso Ferrandi: molto sotto la fascia larga P10-P90 in HMLD (556 m) [E16] e ACC (27) [E17].\n- Matteo Basile: molto sopra la fascia larga P10-P90 in SPR (230 m) [E13]; sotto la fascia centrale P25-P75 in ACC (36) [E22].\n- Christian Porcu: sopra la fascia centrale P25-P75 in SPR (291 m) [E19].\n- Nicolò Serafini e Federico Santini: sotto la fascia centrale P25-P75 in ACC (34 e 38) [E18, E20].\n\n## Spunti per lo staff\n\nOggi le regole non segnalano nulla.\n\n## Qualità del dato e limiti\n\nNessun dato incompleto segnalato per i giocatori monitorati. Si segnala che la finestra MD-4…MD-2 non è ancora conclusa: i valori sono parziali fino al 14/02/2024. Alcuni non titolari non presentano dati della partita dell'11/02/2024: il dataset non distingue se non hanno giocato o se il dato manca.",
+ "frasi_con_numeri": 9,
+ "verificate": 9,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.02315,
+ "secondi": 9.9,
+ "generato_il": "2026-10-28T09:32:51"
+}

@@ -1,0 +1,15 @@
+{
+ "data": "2024-02-23",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 23/02/2024",
+ "testo": "## Sintesi\n\nLa seduta del giorno prima della partita (MD-1) ha mostrato un'aderenza al carico abituale elevata nella corsa ad alta velocità (HSR), con percentile mediano di squadra a 80 e 10 giocatori sopra la fascia abituale [E3]. Anche la distanza ad alto carico metabolico (HMLD) si è attestata su valori alti, percentile mediano 79 con 9 giocatori sopra [E7]. Accelerazioni (ACC) e decelerazioni (DCC) sono rimaste più in linea con il solito, con percentili mediani rispettivamente di 58 e 71 [E5, E6].\n\n## Fuori fascia\n\n- Christian Porcu: distanza in sprint 128 m, molto sopra la fascia larga (0 m-66 m) [E9]; HSR 205 m, molto sopra la fascia larga (2 m-128 m) [E11].\n- Andrea Melis: HSR 196 m, molto sopra la fascia larga (13 m-178 m) [E12]; distanza in sprint 125 m, molto sopra la fascia larga (0 m-102 m) [E8].\n- Simone Amato: distanza in sprint 21 m, molto sopra la fascia larga (0 m-8 m) [E10].\n- Lorenzo Cortese: HMLD 516 m, sopra la fascia centrale (258 m-423 m) [E15].\n- Matteo Basile: HMLD 498 m, sopra la fascia centrale (262 m-382 m) [E17]; ACC 46, sopra la fascia centrale (27-38) [E14].\n- Riccardo Benedetti: HSR 104 m, sopra la fascia centrale (6 m-53 m) [E16].\n\n## Verso la partita\n\nNella finestra da MD-4 a MD-2, su 18 giocatori monitorati solo Pietro Ghio risulta sotto il solito [E18]. La sua distanza in sprint nella finestra è 0 m, sotto la fascia abituale, con riferimento personale a 25 m [E19]; la HSR nello stesso periodo è invece dentro fascia, 306 m contro un riferimento di 227 m [E20].\n\n## Spunti per lo staff\n\n- Verificare se il carico di MD-1 di Christian Porcu era previsto: oggi 205 m di distanza ad alta velocità (HSR), oltre la fascia storica delle sue rifiniture (fino a 128 m). [E11]\n- Verificare se il carico di MD-1 di Andrea Melis era previsto: oggi 196 m di distanza ad alta velocità (HSR), oltre la fascia storica delle sue rifiniture (fino a 178 m). [E12]\n- Approfondire con lo staff lo scostamento di Andrea Melis: negli ultimi tre allenamenti (21/02/2024, 22/02/2024 e 23/02/2024) la distanza ad alta velocità (HSR) è rimasta sopra la sua fascia storica. [E21, E22, E12]\n\n## Qualità del dato e limiti\n\nSamuele Pinna non ha dati nella finestra da MD-4 a MD-2 (0 sedute su 2) [E23]. Edoardo Tosi, Christian Porcu e Simone Amato non hanno dati nella finestra postpartita (0 sedute su 1) [E24, E25, E26]. Alcuni non titolari non hanno dati della partita del 18/02/2024: il dataset non distingue se non hanno giocato o se il dato manca.",
+ "frasi_con_numeri": 16,
+ "verificate": 16,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.0273,
+ "secondi": 12.9,
+ "generato_il": "2026-10-28T09:32:24"
+}

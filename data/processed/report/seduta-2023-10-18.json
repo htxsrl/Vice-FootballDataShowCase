@@ -1,0 +1,15 @@
+{
+ "data": "2023-10-18",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 18/10/2023",
+ "testo": "## Sintesi\n\nLa seduta del 18/10/2023, quattro giorni prima della prossima partita (MD-4), ha coinvolto 19 giocatori senza segnalazioni di scostamento dal carico abituale [E1]. Nessun giocatore risulta fuori dalla fascia larga in alcuna metrica [E1]. Va però considerato che per le sedute di tipo MD-4 non è ancora disponibile una fascia di riferimento affidabile, essendo inizio stagione.\n\n## Fuori fascia\n\nNessun giocatore è risultato fuori dalla fascia larga in questa seduta [E1].\n\n## Spunti per lo staff\n\nOggi le regole non segnalano nulla.\n\n## Qualità del dato e limiti\n\n- Lorenzo Cortese non ha dati nella finestra postpartita: nessun dato disponibile su 1 seduta della squadra [E2].\n- Andrea Melis non ha dati nella finestra postpartita: nessun dato disponibile su 1 seduta della squadra [E3].\n- Non esiste ancora una fascia di riferimento per le sedute MD-4: lo storico contiene ancora troppo poche sedute di questo tipo (inizio stagione).\n- La curva tipica di carico è ancora provvisoria, con poche settimane regolari di dati: non se ne traggono spunti.\n- La finestra MD-4…MD-2 non è ancora conclusa: i valori relativi sono parziali fino al 18/10/2023.\n- Alcuni non titolari non hanno dati della partita del 14/10/2023: il dataset non distingue se non hanno giocato o se il dato manca.",
+ "frasi_con_numeri": 3,
+ "verificate": 3,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.0101,
+ "secondi": 7.3,
+ "generato_il": "2026-10-28T09:37:36"
+}

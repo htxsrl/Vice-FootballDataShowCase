@@ -1,0 +1,15 @@
+{
+ "data": "2024-03-02",
+ "tipo": "seduta",
+ "titolo": "Report della partita del 02/03/2024",
+ "testo": "## Sintesi\n\nLa seduta del 02/03/2024 è una partita (MD), con distanza totale (TD) sulla mediana di squadra al 31° percentile e corsa ad alta velocità (HSR) al 40° percentile [E2, E3]. La maggior parte dei giocatori resta dentro la fascia abituale, ma 4 giocatori su 15 risultano fuori fascia larga in almeno una metrica [E1].\n\n## Fuori fascia\n\n- Pietro Ghio: TD 7.516 m, molto sotto fascia larga (8.517 m–10.907 m) [E10].\n- Filippo Rinaldi: TD 1.289 m, molto sotto fascia larga (1.676 m–4.624 m) [E8].\n- Matteo Basile: accelerazioni (ACC) 103, molto sopra fascia larga (64–93) [E9].\n- Riccardo Benedetti: ACC 72, molto sopra fascia larga (40–66) [E11].\n- Filippo Rinaldi: HSR 7 m, sotto fascia centrale (79 m–299 m) [E12].\n- Filippo Rinaldi: distanza ad alto carico metabolico (HMLD) 173 m, sotto fascia centrale (366 m–683 m) [E15].\n\nDecelerazioni (DCC) di Matteo Basile sopra fascia centrale (90–115) con valore 130 [E13]. HMLD e HSR di Stefano Guidi sopra fascia centrale, rispettivamente 1.577 m (centrale 1.090 m–1.461 m) e 432 m (centrale 202 m–342 m) [E14, E16].\n\n## Titolari e non titolari\n\nTra i titolari, Matteo Basile e Riccardo Benedetti risultano molto sopra la fascia abituale nelle ACC [E9, E11]; Pietro Ghio molto sotto in TD [E10]. Stefano Guidi sopra fascia centrale in HSR e HMLD [E14, E16]. Tra i non titolari, Filippo Rinaldi è molto sotto in TD e sotto fascia centrale in HSR e HMLD [E8, E12, E15].\n\nSui non titolari della partita del 24/02/2024, per 10 giocatori non risultano sedute postpartita registrate, quindi non è disponibile un confronto sull'esito HSR postpartita [E17].\n\n## Spunti per lo staff\n\nOggi le regole non segnalano nulla.\n\n## Qualità del dato e limiti\n\nSamuele Pinna ha copertura parziale nella finestra da MD-4 a MD-2 (1 seduta su 2 della squadra) [E18]. Christian Porcu non ha nessun dato nella stessa finestra (0 su 2) [E19].\n\nDopo la partita del 24/02/2024 non risultano sedute postpartita registrate. Per alcuni non titolari manca il dato della partita del 24/02/2024: il dataset non distingue se non hanno giocato o se il dato manca.",
+ "frasi_con_numeri": 16,
+ "verificate": 16,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.02236,
+ "secondi": 11.7,
+ "generato_il": "2026-10-28T09:32:00"
+}

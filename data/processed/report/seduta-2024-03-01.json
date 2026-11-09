@@ -1,0 +1,15 @@
+{
+ "data": "2024-03-01",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 01/03/2024",
+ "testo": "## Sintesi\n\nLa seduta del 01/03/2024, giorno MD-1 (il giorno prima della partita), mostra una squadra complessivamente aderente al carico abituale: distanza totale (TD) con percentile mediano 74 [E2], corsa ad alta velocità (HSR) a 47 [E3] e distanza in sprint (SPR) a 38 [E4], mentre accelerazioni intense (ACC) e decelerazioni intense (DCC) risultano più elevate, con percentili mediani rispettivamente 76 [E5] e 70 [E6]. Solo 1 giocatore su 17 è risultato fuori dalla fascia larga in almeno una metrica [E1].\n\n## Fuori fascia\n\n- Alessio Dalmasso: ACC a 58, molto sopra la fascia larga P10-P90 (19-52) [E8]; DCC a 46, sopra la fascia centrale P25-P75 (22-38) [E10]; TD a 4.169 m, sopra la fascia centrale P25-P75 (2.865 m-3.799 m) [E11].\n- Tommaso Ferrandi: HSR a 0 m, sotto la fascia centrale P25-P75 (11 m-69 m) [E9].\n- Samuele Pinna: TD a 3.733 m, sopra la fascia centrale P25-P75 (2.374 m-3.094 m) [E12].\n- Simone Amato: distanza ad alto carico metabolico (HMLD) a 481 m, sopra la fascia centrale P25-P75 (276 m-426 m) [E13].\n\n## Verso la partita\n\nNella finestra da MD-4 a MD-2 prima della partita del 02/03/2024, nessun giocatore risulta sotto il solito livello di alta velocità: 0 giocatori su 17 [E14]. La finestra è segnalata come completa [E14], pur con una copertura incompleta per 1 caso.\n\n## Spunti per lo staff\n\nOggi le regole non segnalano nulla.\n\n## Qualità del dato e limiti\n\nSamuele Pinna presenta una copertura parziale nella finestra da MD-4 a MD-2, con dati disponibili per 1 seduta su 2 della squadra [E15]. Si segnala che dopo la partita del 24/02/2024 non risultano sedute postpartita registrate, e che alcuni non titolari non hanno dati della partita del 24/02/2024, senza che il dataset distingua se non hanno giocato o se il dato manchi.",
+ "frasi_con_numeri": 9,
+ "verificate": 9,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.01835,
+ "secondi": 9.5,
+ "generato_il": "2026-10-28T09:32:01"
+}

@@ -1,0 +1,15 @@
+{
+ "data": "2024-03-31",
+ "tipo": "seduta",
+ "titolo": "Report della partita del 31/03/2024",
+ "testo": "## Sintesi\n\nLa seduta del 31/03/2024, giorno di partita (MD), mostra un carico complessivo in linea con l'abituale di giornata per la distanza totale (TD), con percentile mediano di squadra 60 [E2], mentre la corsa ad alta velocità (HSR) si colloca su un percentile mediano 49 [E3]. 8 giocatori su 12 risultano fuori dalla fascia larga in almeno una metrica [E1].\n\n## Fuori fascia\n\n- Christian Porcu: distanza totale 546 m, molto sotto la fascia larga (1.125 m - 6.461 m) [E13]; HSR 0 m, molto sotto la fascia larga (139 m - 590 m) [E11]; distanza ad alto carico metabolico (HMLD) 80 m, molto sotto la fascia larga (310 m - 1.418 m) [E12].\n- Matteo Basile: distanza totale 11.217 m, molto sopra la fascia larga (7.210 m - 10.271 m) [E10].\n- Federico Santini: HMLD 2.633 m, molto sopra la fascia larga (1.748 m - 2.473 m) [E8]; distanza totale 12.294 m, molto sopra la fascia larga (9.542 m - 11.797 m) [E16].\n- Luca Cerutti: distanza totale 11.400 m, molto sopra la fascia larga (7.669 m - 9.822 m) [E15].\n- Filippo Rinaldi: distanza totale 1.166 m, molto sotto la fascia larga (1.498 m - 4.835 m) [E9]; HSR 1 m, sotto la fascia centrale (78 m - 403 m) [E18].\n- Riccardo Benedetti: HMLD 1.637 m, molto sopra la fascia larga (974 m - 1.480 m) [E14].\n\n## Titolari e non titolari\n\nTra i titolari, oltre ai casi molto sopra già citati, Matteo Basile [E20] e Luca Cerutti [E21] risultano sopra la fascia centrale in HMLD. Tra i non titolari, Nicolò Serafini registra accelerazioni molto sotto la fascia larga (22-58) con 16 [E17]; Christian Porcu sprint 0 m, sotto la fascia centrale (78 m - 294 m) [E19].\n\nSul postpartita della gara del 23/03/2024, 6 non titolari risultano in linea con il solito per HSR, 1 sotto il solito, 5 senza dato [E23]. Matteo Basile (non titolare in quella gara) ha HSR postpartita 138 m, sotto il solito [E25].\n\n## Spunti per lo staff\n\nOggi le regole non segnalano nulla.\n\n## Qualità del dato e limiti\n\nDati postpartita della gara del 23/03/2024 assenti per Tommaso Ferrandi [E26], Lorenzo Cortese [E27], Andrea Melis [E28], Federico Santini [E29] ed Edoardo Tosi [E30]. Alcuni non titolari non hanno dati della partita del 23/03/2024: non hanno giocato o il dato manca, il dataset non distingue i due casi. La finestra postpartita risulta chiusa [E23].",
+ "frasi_con_numeri": 11,
+ "verificate": 11,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.02881,
+ "secondi": 12.9,
+ "generato_il": "2026-10-28T09:30:32"
+}

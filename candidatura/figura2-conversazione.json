@@ -1,0 +1,82 @@
+{
+ "id": "cmw92pu85icg2",
+ "giorno": "2024-04-19",
+ "titolo": "Chi è fuori fascia oggi in alta velocità?",
+ "messaggi": [
+  {
+   "tipo": "utente",
+   "testo": "Chi è fuori fascia oggi in alta velocità?"
+  },
+  {
+   "tipo": "vice",
+   "testo": "**Tre giocatori sopra la loro fascia in alta velocità (HSR) oggi** [E8]:\n\n- **Matteo Basile**: 69 m, molto sopra la fascia larga (2-53 m) [E1]\n- **Alessio Dalmasso**: 154 m, sopra la fascia centrale (32-116 m) [E13]\n- **Federico Santini**: 95 m, sopra la fascia centrale (21-85 m) [E14]\n\nNessuno sotto fascia. Da segnalare: per Basile il distacco è ampio (69 m contro una fascia larga che arriva fino a 53 m) [E1] — verificare se era previsto.",
+   "evidenze": {
+    "E1": {
+     "id": "seduta/2024-04-19/18/hsr",
+     "etichetta": "Distanza ad alta velocità (HSR) di Matteo Basile, 19/04/2024 (MD-1)",
+     "valore": 69,
+     "unita": "m",
+     "valore_testo": "69 m",
+     "grafico": "seduta/18/hsr",
+     "giocatore_id": 18
+    },
+    "E8": {
+     "id": "seduta/2024-04-19/squadra/hsr",
+     "etichetta": "Distanza ad alta velocità (HSR): percentile mediano della squadra, 19/04/2024",
+     "valore": 52,
+     "unita": "percentile",
+     "valore_testo": "52",
+     "grafico": "seduta/squadra/hsr",
+     "giocatore_id": null
+    },
+    "E13": {
+     "id": "seduta/2024-04-19/4/hsr",
+     "etichetta": "Distanza ad alta velocità (HSR) di Alessio Dalmasso, 19/04/2024 (MD-1)",
+     "valore": 154,
+     "unita": "m",
+     "valore_testo": "154 m",
+     "grafico": "seduta/4/hsr",
+     "giocatore_id": 4
+    },
+    "E14": {
+     "id": "seduta/2024-04-19/13/hsr",
+     "etichetta": "Distanza ad alta velocità (HSR) di Federico Santini, 19/04/2024 (MD-1)",
+     "valore": 95,
+     "unita": "m",
+     "valore_testo": "95 m",
+     "grafico": "seduta/13/hsr",
+     "giocatore_id": 13
+    }
+   },
+   "definizioni": {},
+   "esito": {
+    "frasi_con_numeri": 5,
+    "verificate": 5,
+    "tolte": [],
+    "badge": "frasi verificate: 5/5"
+   },
+   "vista": {
+    "vista": "seduta",
+    "parametri": {
+     "data": "2024-04-19",
+     "metrica": "hsr"
+    }
+   },
+   "ms": 10796.900000095367,
+   "modello": "HTX-EU-Claude-Sonnet-5",
+   "avvisi": null
+  }
+ ],
+ "storia": [
+  {
+   "role": "user",
+   "content": "Chi è fuori fascia oggi in alta velocità?"
+  },
+  {
+   "role": "assistant",
+   "content": "**Tre giocatori sopra la loro fascia in alta velocità (HSR) oggi** [E8]:\n\n- **Matteo Basile**: 69 m, molto sopra la fascia larga (2-53 m) [E1]\n- **Alessio Dalmasso**: 154 m, sopra la fascia centrale (32-116 m) [E13]\n- **Federico Santini**: 95 m, sopra la fascia centrale (21-85 m) [E14]\n\nNessuno sotto fascia. Da segnalare: per Basile il distacco è ampio (69 m contro una fascia larga che arriva fino a 53 m) [E1] — verificare se era previsto."
+  }
+ ],
+ "creata": 1794217416194,
+ "aggiornata": 1794217416194
+}

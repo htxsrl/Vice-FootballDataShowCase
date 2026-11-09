@@ -1,0 +1,15 @@
+{
+ "data": "2024-02-19",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 19/02/2024",
+ "testo": "## Sintesi\n\nLa seduta di MD+1 (il giorno dopo la partita) mostra un carico nettamente sopra l'abituale per tutta la squadra: distanza totale (TD) con percentile mediano 97 e distanza ad alto carico metabolico (HMLD) con percentile mediano 94 [E2, E7]. Anche la corsa ad alta velocità (HSR) risulta sopra fascia con percentile mediano 87 [E3], mentre sprint (57), accelerazioni intense (ACC, 45) e decelerazioni intense (DCC, 79) restano più vicine ai valori abituali [E4, E5, E6]. Tutti i 7 giocatori in seduta risultano fuori dalla fascia larga in almeno una metrica [E1].\n\n## Fuori fascia\n\n- Elia Gariglio: TD 8.887 m, molto sopra la fascia larga (3.882 m-7.799 m) [E8]; HSR 46 m, sotto la fascia centrale (158 m-267 m) [E20].\n- Filippo Rinaldi: TD 8.877 m, molto sopra la fascia larga (3.882 m-7.799 m) [E9]; HMLD 1.385 m, molto sopra la fascia larga (499 m-1.131 m) [E15].\n- Pietro Ghio: DCC 86, molto sopra la fascia larga (40-76) [E10]; TD 8.663 m, molto sopra la fascia larga (3.272 m-8.123 m) [E13].\n- Lorenzo Cortese: TD 8.164 m, molto sopra la fascia larga (3.528 m-6.954 m) [E11]; HSR 623 m, molto sopra la fascia larga (150 m-464 m) [E12]; HMLD 1.709 m, molto sopra la fascia larga (551 m-1.378 m) [E14].\n- Luca Cerutti: TD 7.881 m, molto sopra la fascia larga (3.528 m-6.954 m) [E17]; HMLD 1.415 m, sopra la fascia centrale (709 m-943 m) [E18].\n- Nicolò Serafini: HSR 350 m, molto sopra la fascia larga (33 m-303 m) [E16].\n\n## Titolari e non titolari\n\nTutti i giocatori analizzati oggi appartengono al gruppo non titolari [E8-E22], con carico ben sopra il loro abituale di MD+1: la TD mediana dei non titolari è 8.320 m contro i 4.358 m delle sedute storiche di MD+1 [E24]. Non sono disponibili evidenze specifiche sui titolari in questa seduta.\n\n## Spunti per lo staff\n\n- Verificare se il programma prevedeva questo carico: la distanza totale mediana dei non titolari registrata oggi è 8.320 m, contro i 4.358 m delle sedute storiche di MD+1. [E24]\n- Approfondire con lo staff lo scostamento di Elia Gariglio: negli ultimi tre allenamenti (16/02/2024, 17/02/2024 e 19/02/2024) la distanza ad alta velocità (HSR) è rimasta sotto la sua fascia storica. [E25, E26, E20]\n\n## Qualità del dato e limiti\n\nChristian Porcu ha copertura parziale nella finestra MD-4/MD-2 (2 sedute su 3) [E27] e nessun dato nella finestra postpartita (0 su 1 seduta) [E28]. Alcuni non titolari non hanno dati della partita del 18/02/2024: il dataset non distingue se non hanno giocato o se il dato manca.",
+ "frasi_con_numeri": 13,
+ "verificate": 13,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.0289,
+ "secondi": 18.3,
+ "generato_il": "2026-10-28T09:32:41"
+}

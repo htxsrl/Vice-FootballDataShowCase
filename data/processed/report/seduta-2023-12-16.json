@@ -1,0 +1,15 @@
+{
+ "data": "2023-12-16",
+ "tipo": "seduta",
+ "titolo": "Report della partita del 16/12/2023",
+ "testo": "## Sintesi\n\nLa seduta del 16/12/2023, giorno di partita (MD), mostra un'aderenza al carico abituale sopra la norma su più metriche: la distanza totale (TD) ha un percentile mediano di squadra di 81 [E2], la corsa ad alta velocità (HSR) di 77 [E3] e la distanza ad alto carico metabolico (HMLD) di 86 [E7]. Sei giocatori su 13 risultano fuori dalla fascia larga in almeno una metrica [E1].\n\n## Fuori fascia\n\n- Alessio Dalmasso: HSR 576 m, molto sopra la fascia larga (130 m - 403 m) [E8]; HMLD 1.776 m, molto sopra la fascia larga (1.064 m - 1.556 m) [E9].\n- Samuele Pinna: TD 8.909 m, HSR 1.023 m, distanza in sprint (SPR) 746 m, accelerazioni (ACC) 87, HMLD 2.077 m, tutti molto sopra le rispettive fasce larghe [E11, E12, E13, E14, E15].\n- Stefano Guidi: TD 5.273 m e HMLD 933 m, molto sopra le rispettive fasce larghe [E16, E17].\n- Riccardo Benedetti: SPR 0 m, molto sotto la fascia larga (12 m - 192 m) [E10].\n- Edoardo Tosi: HSR 841 m e SPR 561 m, sopra la fascia centrale (rispettivamente 479 m - 706 m e 153 m - 466 m) [E18, E19]; TD 11.281 m, sopra la fascia centrale (9.827 m - 10.568 m) [E22].\n- Federico Santini: HSR 734 m, sopra la fascia centrale (393 m - 556 m) [E20].\n\n## Titolari e non titolari\n\nNon sono disponibili dati distinti sul confronto postpartita tra titolari e non titolari (sezione \"postpartita\" vuota). Dalle evidenze disponibili, tra i titolari Alessio Dalmasso, Edoardo Tosi e Federico Santini risultano sopra il loro solito su HSR e/o HMLD [E8, E9, E18, E19, E20, E22], mentre Riccardo Benedetti è sotto su SPR [E10]. Tra i non titolari, Samuele Pinna e Stefano Guidi mostrano carichi molto sopra il loro abituale su più metriche [E11, E12, E13, E14, E15, E16, E17], mentre Simone Amato è sotto la fascia centrale sulle ACC [E21].\n\n## Spunti per lo staff\n\nOggi le regole non segnalano nulla.\n\n## Qualità del dato e limiti\n\nNon sono dichiarati dati incompleti specifici per singoli giocatori. Si segnala: settimana non regolare, con confronto al solito indicativo; nessuna seduta registrata da MD-4 a MD-2 prima della partita del 16/12/2023; la partita del 02/12/2023 non ha dati GPS, per cui titolari e non titolari di quella data sono sconosciuti.",
+ "frasi_con_numeri": 10,
+ "verificate": 10,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.02581,
+ "secondi": 12.1,
+ "generato_il": "2026-10-28T09:35:16"
+}

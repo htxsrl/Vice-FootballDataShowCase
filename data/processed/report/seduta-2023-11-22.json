@@ -1,0 +1,15 @@
+{
+ "data": "2023-11-22",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 22/11/2023",
+ "testo": "## Sintesi\n\nLa seduta del 22/11/2023 (MD-3, tre giorni prima della partita) mostra un'aderenza al carico abituale nel complesso moderata, con distanza totale (TD) e accelerazioni (ACC) sotto la mediana di squadra per gran parte del gruppo ([E2], [E5]), mentre corsa ad alta velocità (HSR) e distanza in sprint (SPR) restano più vicine ai valori abituali ([E3], [E4]). Dieci giocatori su 19 risultano fuori dalla fascia larga in almeno una metrica, con 8 di questi ai margini della fascia ([E1]).\n\n## Fuori fascia\n\n- **Federico Santini**: distanza totale (TD) 2.918 m, molto sotto fascia larga (3.964 m–6.428 m) [E10]; accelerazioni (ACC) 15, molto sotto fascia larga (31–75) [E11]; decelerazioni (DCC) 18, molto sotto fascia larga (30–83) [E12]; distanza ad alto carico metabolico (HMLD) 314 m, molto sotto fascia larga (563 m–1.152 m) [E13].\n- **Alessio Dalmasso**: distanza in sprint (SPR) 172 m, molto sopra fascia larga (7 m–128 m) [E8]; accelerazioni (ACC) 30, molto sotto fascia larga (37–79) [E9].\n- **Filippo Rinaldi**: accelerazioni (ACC) 22, molto sotto fascia larga (41–86) [E14]; distanza ad alto carico metabolico (HMLD) 637 m, sotto fascia centrale (789 m–992 m) [E22].\n- **Riccardo Benedetti**: accelerazioni (ACC) 20, molto sotto fascia larga (38–74) [E17]; decelerazioni (DCC) 21, sotto fascia centrale (37–54) [E18].\n- **Gabriele Longo**: accelerazioni (ACC) 30, molto sotto fascia larga (45–92) [E15].\n- **Luca Cerutti**: accelerazioni (ACC) 30, molto sotto fascia larga (45–83) [E16].\n\n## Spunti per lo staff\n\nOggi le regole non segnalano nulla.\n\n## Qualità del dato e limiti\n\nNessun dato incompleto dichiarato per questa seduta. Avvertenze: la finestra MD-4…MD-2 non è ancora conclusa, quindi i valori sono parziali fino al 22/11/2023; dopo la partita del 19/11/2023 non risultano sedute postpartita registrate; alcuni non titolari non hanno dati della partita del 19/11/2023, senza che il dataset distingua se non hanno giocato o se il dato manca.",
+ "frasi_con_numeri": 8,
+ "verificate": 8,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.02422,
+ "secondi": 14.0,
+ "generato_il": "2026-10-28T09:35:53"
+}

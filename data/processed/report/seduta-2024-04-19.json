@@ -1,0 +1,15 @@
+{
+ "data": "2024-04-19",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 19/04/2024",
+ "testo": "## Sintesi\n\nLa seduta MD-1 (il giorno prima della partita) del 19/04/2024 è risultata in linea con il carico abituale della squadra per la maggior parte delle metriche, con percentili mediani intorno a 42-62 per TD (distanza totale), HSR (corsa ad alta velocità), sprint, ACC (accelerazioni intense) e HMLD (distanza ad alto carico metabolico) [E2, E3, E4, E5, E7]. Le decelerazioni mostrano invece un percentile mediano molto basso, 16, con 8 giocatori su 16 sotto la fascia centrale [E6]. Su 16 giocatori in seduta, 3 sono fuori dalla fascia larga in almeno una metrica, con altri 8 ai margini [E1].\n\n## Fuori fascia\n\n- **Matteo Basile**: distanza in sprint 34 m, molto sopra la fascia larga (0 m-23 m) [E9]; HSR 69 m, molto sopra la fascia larga (2 m-53 m) [E10].\n- **Riccardo Benedetti**: decelerazioni 5, molto sotto la fascia larga (10-37) [E8].\n- **Christian Porcu**: decelerazioni 7, molto sotto la fascia larga (11-34) [E11]; HMLD 182 m, sotto la fascia centrale (247 m-416 m) [E12].\n- **Nicolò Serafini**: decelerazioni 8, sotto la fascia centrale (16-32) [E13].\n- **Lorenzo Cortese**: decelerazioni 11, sotto la fascia centrale (15-25) [E14].\n- **Simone Amato**: decelerazioni 14, sotto la fascia centrale (17-33) [E15].\n\n## Verso la partita\n\nNella finestra da MD-4 a MD-2 prima della partita del 20/04/2024, su 17 giocatori 1 risulta sotto il suo solito in alta velocità: Riccardo Benedetti [E17]. Per lui la distanza in sprint nella finestra è 0 m, sotto la fascia centrale (8 m-57 m) [E18], mentre la HSR è 152 m, dentro la fascia (riferimento 223 m) [E19].\n\n## Qualità del dato e limiti\n\nStefano Guidi non ha dati nella finestra MD-4/MD-2 (0 sedute su 2) [E20]; Matteo Basile ha copertura parziale nella stessa finestra (1 seduta su 2) [E21]. Gabriele Longo e Christian Porcu non hanno dati postpartita (0 sedute su 1) [E22, E23]. Alcuni non titolari non hanno dati della partita del 13/04/2024: il dataset non distingue se non hanno giocato o se il dato manca.",
+ "frasi_con_numeri": 13,
+ "verificate": 13,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v4",
+ "costo": 0.02298,
+ "secondi": 10.5,
+ "generato_il": "2026-10-29T11:45:06"
+}

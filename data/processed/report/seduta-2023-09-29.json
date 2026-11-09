@@ -1,0 +1,15 @@
+{
+ "data": "2023-09-29",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 29/09/2023",
+ "testo": "## Sintesi\n\nLa seduta MD-1 (il giorno prima della partita) del 29/09/2023 ha coinvolto 16 giocatori senza segnalazioni di scostamento dal carico abituale: nessun giocatore risulta fuori dalla fascia larga in alcuna metrica [E1]. Il quadro di alta velocità nella finestra verso la partita è coerente con il solito, senza riduzioni rilevate [E2].\n\n## Fuori fascia\n\nNessun giocatore è fuori dalla fascia larga P10-P90 in questa seduta: 0 giocatori su 16 segnalati [E1].\n\n## Verso la partita\n\nNella finestra da MD-4 a MD-2 prima della partita del 30/09/2023, 0 giocatori su 19 risultano sotto il solito livello di corsa ad alta velocità (HSR), con finestra di osservazione completa e nessuna copertura incompleta [E2].\n\n## Spunti per lo staff\n\nOggi le regole non segnalano nulla.\n\n## Qualità del dato e limiti\n\nNon risultano giocatori con dati incompleti per la seduta odierna [E1, E2]. Vanno però considerate tre avvertenze del motore: non esiste ancora una fascia di riferimento per le sedute MD-1, poiché nello storico ci sono ancora troppo poche sedute di questo tipo essendo inizio stagione; ci sono troppo poche settimane regolari nello storico per costruire la curva tipica; alcuni non titolari non hanno dati della partita del 23/09/2023, senza che il dataset distingua se non hanno giocato o se il dato manca.",
+ "frasi_con_numeri": 3,
+ "verificate": 3,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.0099,
+ "secondi": 7.5,
+ "generato_il": "2026-10-28T09:38:26"
+}

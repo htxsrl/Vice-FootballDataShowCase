@@ -1,0 +1,15 @@
+{
+ "data": "2023-10-19",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 19/10/2023",
+ "testo": "## Sintesi\n\nLa seduta di tre giorni prima della partita (MD-3) del 19/10/2023 mostra un'aderenza al carico abituale molto bassa per la distanza totale (TD), con il percentile mediano della squadra a 0 e tutti i 19 giocatori sotto la mediana abituale [E2]. Le altre metriche si collocano su percentili mediani più contenuti ma non critici: HSR (corsa ad alta velocità) a 29 [E3], distanza in sprint (SPR) a 44 [E4], accelerazioni (ACC) a 12 [E5], decelerazioni (DCC) a 9 [E6] e distanza ad alto carico metabolico (HMLD) a 16 [E7]. In totale 16 giocatori su 19 risultano fuori dalla fascia larga in almeno una metrica, con 3 segnalati ai margini [E1].\n\n## Fuori fascia\n\n- **Elia Gariglio**: TD 3.795 m, molto sotto la fascia larga P10-P90 [E9]; ACC 34, molto sotto la fascia larga [E10]; DCC 25, molto sotto la fascia larga [E11]; HMLD 418 m, molto sotto la fascia larga [E12]; HSR 16 m, sotto la fascia centrale P25-P75 [E20].\n- **Federico Santini**: TD 3.840 m, molto sotto la fascia larga [E13]; HMLD 643 m, molto sotto la fascia larga [E14].\n- **Filippo Rinaldi**: TD 4.294 m, molto sotto la fascia larga [E15]; ACC 36, molto sotto la fascia larga [E16]; DCC 24, molto sotto la fascia larga [E17].\n- **Alessio Dalmasso**: TD 4.418 m, molto sotto la fascia larga [E8]; ACC 33, sotto la fascia centrale [E18].\n- **Luca Cerutti**: ACC 49, sotto la fascia centrale [E21].\n- **Lorenzo Cortese**: DCC 37, sotto la fascia centrale [E22].\n\nSegnalato anche Gabriele Longo: SPR 0 m, sotto la fascia centrale [E19].\n\n## Spunti per lo staff\n\nOggi le regole non segnalano nulla.\n\n## Qualità del dato e limiti\n\n- Lorenzo Cortese e Andrea Melis non hanno dati nella finestra postpartita (nessun dato su 1 seduta della squadra) [E23, E24].\n- La curva tipica è ancora provvisoria, con poche settimane regolari: nessuno spunto derivato dalla curva.\n- La finestra MD-4…MD-2 non è ancora conclusa: i valori sono parziali fino al 19/10/2023.\n- Alcuni non titolari non hanno dati della partita del 14/10/2023; il dataset non distingue se non hanno giocato o se il dato manca.\n- Tutte le evidenze individuali [E8-E22] sono etichettate come provvisorie, basate su 5 sedute.",
+ "frasi_con_numeri": 12,
+ "verificate": 12,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.02585,
+ "secondi": 11.2,
+ "generato_il": "2026-10-28T09:37:32"
+}

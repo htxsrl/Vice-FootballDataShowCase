@@ -1,0 +1,15 @@
+{
+ "data": "2024-01-02",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 02/01/2024",
+ "testo": "## Sintesi\n\nLa seduta del 02/01/2024, a cinque giorni dalla prossima partita (MD-5), non evidenzia alcun giocatore fuori dalla fascia larga su nessuna metrica [E1]. Tuttavia manca ancora una fascia di riferimento specifica per il MD-5, perché lo storico ha troppo poche sedute di questo tipo in questo avvio di stagione, quindi il confronto con il carico abituale resta indicativo.\n\n## Fuori fascia\n\nNessun giocatore risulta fuori dalla fascia larga P10-P90 in questa seduta, su 16 giocatori presenti [E1].\n\n## Spunti per lo staff\n\nOggi le regole non segnalano nulla.\n\n## Qualità del dato e limiti\n\n- Nicolò Serafini non ha alcun dato nella finestra postpartita (0 sedute su 1 disponibile per la squadra) [E2].\n- Non esiste ancora una fascia di riferimento per le sedute MD-5, per carenza storica di sedute di questo tipo a inizio stagione.\n- La settimana corrente non è regolare (pausa o periodo senza dati): il confronto col carico abituale va letto con cautela.\n- La finestra MD-4…MD-2 non è ancora conclusa: i valori relativi sono parziali fino al 02/01/2024.\n- Non risulta nessuna seduta registrata da MD-4 a MD-2 in vista della partita del 07/01/2024.\n- Alcuni giocatori non titolari non hanno dati della partita del 16/12/2023: non è distinguibile se non hanno giocato o se il dato manca.",
+ "frasi_con_numeri": 3,
+ "verificate": 3,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.01001,
+ "secondi": 7.9,
+ "generato_il": "2026-10-28T09:35:03"
+}

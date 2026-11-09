@@ -1,0 +1,20 @@
+{
+ "data": "2023-12-18",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 18/12/2023",
+ "testo": "## Sintesi\nLa seduta del 18/12/2023 (MD+2, due giorni dopo la partita) ha coinvolto 16 giocatori, con 10 di loro fuori dalla fascia larga in almeno una metrica [E1]. Il carico di squadra è risultato nella norma per distanza totale (TD, percentile mediano 67) [E2] e per corsa ad alta velocità (HSR, percentile mediano 49) [E3], mentre la distanza ad alto carico metabolico (HMLD) si è attestata su un percentile mediano più basso (32), con 7 giocatori sotto [E7]. Le accelerazioni (ACC) mostrano invece un'aderenza elevata, percentile mediano 83, con 10 giocatori sopra [E5].\n## Fuori fascia\n- Gabriele Longo: TD 2.519 m, molto sotto fascia larga (3.830 m-5.756 m) [E15]; HSR 0 m, molto sotto fascia larga (72 m-523 m) [E16]; ACC 33, molto sotto fascia larga (49-105) [E17].\n- Andrea Melis: TD 3.531 m, molto sotto fascia larga (4.340 m-5.878 m) [E10]; HMLD 386 m, molto sotto fascia larga (620 m-1.216 m) [E13]; decelerazioni (DCC) 8, molto sotto fascia larga (32-66) [E12]; ACC 17, molto sotto fascia larga (35-93) [E11].\n- Alessio Dalmasso: HMLD 402 m, molto sopra fascia larga (24 m-285 m) [E9]; ACC 39, molto sopra fascia larga (2-24) [E8].\n- Federico Santini: HMLD 245 m, molto sopra fascia larga (10 m-171 m) [E14]; HSR 27 m, sopra fascia centrale (0 m-2 m) [E18].\n- Matteo Basile: HMLD 148 m, sopra fascia centrale (40 m-110 m) [E19].\n- Mattia Bosio: HMLD 530 m, sotto fascia centrale (641 m-790 m) [E20].\n## Titolari e non titolari\nTra i non titolari, Samuele Pinna, Stefano Guidi e Gabriele Longo risultano molto sotto il solito nell'HSR postpartita [E25, E26, E27]; a livello di gruppo, 3 giocatori su 8 valutati sono molto sotto, con mediana HSR postpartita 166 m [E23, E24]. Tra i titolari, Tommaso Ferrandi (TD 3.055 m, percentile 84) [E28], Alessio Dalmasso (TD 3.578 m, percentile 88) [E29] e Federico Santini (TD 2.912 m, percentile 83) [E30] sono sopra fascia centrale per TD; Ferrandi e Santini anche sopra fascia centrale per HSR [E22, E18].\n## Spunti per lo staff\nVerificare il carico postpartita registrato oggi per Luca Cerutti: 3.330 m di distanza totale a MD+2 [E31], oltre la fascia storica larga dei titolari (fino a 3.180 m) [E31]. Il dato non misura lo stato di recupero. [E31]\n## Qualità del dato e limiti\nNessun dato incompleto segnalato per i giocatori in elenco. Avvertenze: settimana non regolare, confronto col solito indicativo; nessuna seduta registrata da MD-4 a MD-2 prima della partita del 16/12/2023; alcuni non titolari non hanno dati della partita, senza distinzione tra non convocati e dato mancante.",
+ "frasi_con_numeri": 12,
+ "verificate": 12,
+ "tolte": [],
+ "correzioni": [
+  {
+   "frase": "- Verificare il carico postpartita registrato oggi per Luca Cerutti: 3.330 m di distanza totale a MD+2, oltre la fascia storica dei titolari (fino a 3.180 m).",
+   "motivo": "numeri senza evidenza citata"
+  }
+ ],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.0484,
+ "secondi": 16.2,
+ "generato_il": "2026-10-28T09:35:13"
+}

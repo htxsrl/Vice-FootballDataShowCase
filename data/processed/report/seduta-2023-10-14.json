@@ -1,0 +1,20 @@
+{
+ "data": "2023-10-14",
+ "tipo": "seduta",
+ "titolo": "Report della partita del 14/10/2023",
+ "testo": "## Sintesi\nLa seduta del 14/10/2023 (MD, giorno della partita) coinvolge 16 giocatori, con percentili mediani di squadra nella parte bassa del range per quasi tutte le metriche: distanza totale (TD) al percentile 41 [E2], corsa ad alta velocità (HSR) al percentile 34 [E3], sprint (SPR) al percentile 40 [E4], distanza ad alto carico metabolico (HMLD) al percentile 25 [E7]. Accelerazioni (ACC) e decelerazioni (DCC) restano più centrate, con percentili mediani rispettivamente 46 [E5] e 56 [E6]. 7 giocatori su 16 risultano fuori dalla fascia larga in almeno una metrica [E1].\n## Fuori fascia\n- Edoardo Tosi: HSR 794 m, molto sopra la fascia larga (278 m - 745 m) [E8]; HMLD 2.026 m, molto sopra la fascia larga (1.294 m - 1.882 m) [E9]; DCC 112, sopra la fascia centrale (76-93) [E18].\n- Pietro Ghio: TD 163 m, molto sotto la fascia larga (978 m - 4.490 m) [E14]; HMLD 16 m, molto sotto la fascia larga (208 m - 1.000 m) [E16]; DCC 0, molto sotto la fascia larga (9-60) [E15]; SPR 0 m, sotto la fascia centrale (65 m - 186 m) [E21].\n- Mattia Bosio: TD 4.811 m, molto sopra la fascia larga (2.525 m - 4.636 m) [E12]; ACC 58, molto sopra la fascia larga (26-54) [E13].\n- Samuele Pinna: SPR 293 m, molto sopra la fascia larga (20 m - 140 m) [E17].\n- Gabriele Longo: SPR 136 m, molto sotto la fascia larga (202 m - 606 m) [E10].\n- Luca Cerutti: DCC 43, molto sotto la fascia larga (52-134) [E11].\nAnche Stefano Guidi (TD 8.366 m, sotto fascia centrale 9.569 m - 10.817 m [E20]) e Filippo Rinaldi (TD 2.601 m, sotto fascia centrale 2.834 m - 3.980 m [E19]) risultano fuori fascia centrale ma non compaiono tra i giocatori più marcati [E1].\n## Titolari e non titolari\nIl quadro postpartita della partita del 08/10/2023 non ha finestra aperta [E23]. Su 9 non titolari di quella gara, 8 sono senza fascia di confronto e 1 è senza alcun dato per l'esito HSR postpartita [E23].\n## Spunti per lo staff\nOggi le regole non segnalano nulla.\n## Qualità del dato e limiti\nSimone Amato non ha dati nella finestra postpartita (0 sedute su 1 della squadra) [E24]. La curva tipica è ancora provvisoria per poche settimane regolari, quindi nessuno spunto generato dalla curva. Alcuni non titolari non hanno dati della partita del 08/10/2023: il dataset non distingue se non hanno giocato o se il dato manca.",
+ "frasi_con_numeri": 11,
+ "verificate": 11,
+ "tolte": [],
+ "correzioni": [
+  {
+   "frase": "Anche Stefano Guidi (TD 8.366 m, sotto fascia centrale 9.569 m - 10.817 m [E20]) e Filippo Rinaldi (TD 2.601 m, sotto fascia centrale 2.834 m - 3.980 m [E19]) risultano fuori fascia centrale ma non compaiono tra i 7 più marcati.",
+   "motivo": "numeri non presenti nelle evidenze citate: 7"
+  }
+ ],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.0387,
+ "secondi": 15.5,
+ "generato_il": "2026-10-28T09:37:48"
+}

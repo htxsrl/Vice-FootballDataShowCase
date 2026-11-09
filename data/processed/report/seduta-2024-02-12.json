@@ -1,0 +1,15 @@
+{
+ "data": "2024-02-12",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 12/02/2024",
+ "testo": "## Sintesi\n\nLa seduta di MD+1 (il giorno dopo la partita) mostra un carico nettamente sopra l'abituale per i non titolari: TD (distanza totale) mediana a percentile 100 ([E2]) e HMLD (distanza ad alto carico metabolico) mediana a percentile 100 ([E7]), con HSR (corsa ad alta velocità) a percentile 79 ([E3]) e decelerazioni a percentile 83 ([E6]). Sprint (percentile 32, [E4]) e accelerazioni (percentile 65, [E5]) risultano invece più contenute rispetto alle altre metriche. 9 giocatori su 11 risultano fuori dalla fascia larga in almeno una metrica ([E1]).\n\n## Fuori fascia\n\n- Filippo Rinaldi: TD 8.517 m, molto sopra la fascia larga (3.804 m–4.962 m) ([E16]); HMLD 1.431 m, molto sopra la fascia larga (488 m–937 m) ([E17]).\n- Alessio Dalmasso: TD 8.803 m, molto sopra la fascia larga (3.272 m–4.854 m) ([E8]); HMLD 1.374 m, molto sopra la fascia larga (475 m–967 m) ([E9]).\n- Christian Porcu: TD 6.805 m, molto sopra la fascia larga (3.494 m–4.981 m) ([E10]); HSR 437 m e sprint 323 m, molto sopra le rispettive fasce larghe ([E11], [E12]); HMLD 1.232 m, molto sopra la fascia larga (506 m–953 m) ([E13]).\n- Elia Gariglio: TD 6.722 m, molto sopra la fascia larga (3.804 m–4.962 m) ([E14]); HMLD 1.064 m, molto sopra la fascia larga (488 m–937 m) ([E15]).\n- Lorenzo Cortese: TD 5.038 m, sopra la fascia centrale (3.816 m–4.366 m) ([E18]); accelerazioni 46, sotto la fascia centrale (57–67) ([E19]).\n- Luca Cerutti: TD 4.918 m, sopra la fascia centrale (3.816 m–4.366 m) ([E22]); accelerazioni 47, sotto la fascia centrale (57–67) ([E20]).\n\nAnche Gabriele Longo presenta accelerazioni a 50, sotto la fascia centrale (57–67) ([E21]).\n\n## Titolari e non titolari\n\nIl carico postpartita riguarda 11 giocatori non titolari della partita del 11/02/2024, con finestra ancora aperta ([E23]). La distanza totale mediana dei non titolari in questa seduta è 7.788 m, contro i 4.276 m delle sedute storiche di MD+1 ([E24]).\n\n## Spunti per lo staff\n\n- Verificare se il programma prevedeva questo carico: la distanza totale mediana dei non titolari registrata oggi è 7.788 m, contro i 4.276 m delle sedute storiche di MD+1. [E24]\n\n## Qualità del dato e limiti\n\n- Riccardo Benedetti: copertura parziale nella finestra da MD-4 a MD-2, 1 seduta su 2 disponibili ([E25]).\n- Pietro Ghio: copertura parziale nella finestra da MD-4 a MD-2, 1 seduta su 2 disponibili ([E26]).\n- Alcuni non titolari non hanno dati della partita del 11/02/2024: non hanno giocato o il dato manca, il dataset non distingue i due casi.",
+ "frasi_con_numeri": 14,
+ "verificate": 14,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.02832,
+ "secondi": 12.0,
+ "generato_il": "2026-10-28T09:33:02"
+}

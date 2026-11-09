@@ -1,0 +1,20 @@
+{
+ "data": "2023-10-20",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 20/10/2023",
+ "testo": "## Sintesi\nLa seduta del 20/10/2023 (MD-2, due giorni prima della partita) mostra un'aderenza al carico abituale nettamente bassa su quasi tutte le metriche: 14 giocatori su 18 sono fuori dalla fascia larga in almeno una metrica [E1]. Il percentile mediano di squadra è basso su distanza totale (TD), corsa ad alta velocità (HSR), distanza in sprint (SPR) e distanza ad alto carico metabolico (HMLD) [E2, E3, E4, E7], mentre accelerazioni (ACC) e decelerazioni (DCC) restano più vicine al solito [E5, E6].\n## Fuori fascia\n- Elia Gariglio: HMLD 414 m, molto sotto la fascia larga (563 m-1.146 m) [E11]; ACC 32, molto sotto la fascia larga (44-74) [E9]; DCC 23, molto sotto la fascia larga (33-65) [E10]; HSR 55 m, molto sotto la fascia larga (89 m-296 m) [E8].\n- Federico Santini: TD 3.609 m, molto sotto la fascia larga (3.938 m-6.395 m) [E12]; SPR 0 m, molto sotto la fascia larga (9 m-132 m) [E13].\n- Filippo Rinaldi: TD 3.628 m, molto sotto la fascia larga (3.938 m-6.395 m) [E14]; HSR 38 m, molto sotto la fascia larga (89 m-296 m) [E15]; SPR 0 m, molto sotto la fascia larga (9 m-132 m) [E16]; HMLD 468 m, molto sotto la fascia larga (563 m-1.146 m) [E17].\n- Edoardo Tosi: HSR 108 m, sotto la fascia centrale (279 m-375 m) [E18].\n- Gabriele Longo: SPR 0 m, sotto la fascia centrale (49 m-240 m) [E20].\n- Lorenzo Cortese: SPR 15 m, sotto la fascia centrale (49 m-240 m) [E21].\n## Verso la partita\nNella finestra da MD-4 a MD-2 verso la partita del 22/10/2023, nessun giocatore risulta sotto il solito livello di alta velocità, su 19 giocatori e 3 sedute di squadra con finestra completa [E23]. Un giocatore ha copertura parziale in questa finestra (vedi qualità del dato) [E24].\n## Spunti per lo staff\nOggi le regole non segnalano nulla.\n## Qualità del dato e limiti\nSimone Amato ha copertura parziale nella finestra da MD-4 a MD-2: 2 sedute su 3 della squadra [E24]. Lorenzo Cortese e Andrea Melis non hanno dati nella finestra postpartita: 0 sedute su 1 della squadra [E25, E26]. Le evidenze individuali sono su curva provvisoria (5 sedute [E8], livello ruolo [E8]), quindi da leggere con cautela; la curva tipica è ancora provvisoria e non genera spunti propri; alcuni non titolari non hanno dati della partita del 14/10/2023 [E25] e il dataset non distingue se non hanno giocato o se il dato manca.",
+ "frasi_con_numeri": 11,
+ "verificate": 11,
+ "tolte": [],
+ "correzioni": [
+  {
+   "frase": "Le evidenze individuali sono su curva provvisoria (5 sedute, livello ruolo), quindi da leggere con cautela; la curva tipica è ancora provvisoria e non genera spunti propri; alcuni non titolari non hanno dati della partita del 14/10/2023 e il dataset non distingue se non hanno giocato o se il dato manca.",
+   "motivo": "numeri senza evidenza citata"
+  }
+ ],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.04054,
+ "secondi": 15.6,
+ "generato_il": "2026-10-28T09:37:31"
+}

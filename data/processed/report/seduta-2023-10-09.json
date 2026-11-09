@@ -1,0 +1,15 @@
+{
+ "data": "2023-10-09",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 09/10/2023",
+ "testo": "## Sintesi\n\nLa seduta del 09/10/2023 (MD+1, il giorno dopo la partita) ha coinvolto 15 giocatori e nessuno risulta fuori dalla fascia larga in alcuna metrica [E1]. Non sono disponibili fasce di riferimento specifiche per sedute MD+1, per cui l'aderenza al carico abituale per questo tipo di giorno non è verificabile con criteri storici consolidati.\n\n## Fuori fascia\n\nNessun giocatore è fuori dalla fascia larga P10-P90 in nessuna metrica della seduta odierna [E1].\n\n## Titolari e non titolari\n\nPer i non titolari della partita dell'08/10/2023, la valutazione dell'esito dell'HSR (corsa ad alta velocità) postpartita riguarda 9 giocatori, con la finestra postpartita ancora aperta e una sola seduta della squadra disponibile da quando si è giocato [E2].\n\n## Spunti per lo staff\n\nOggi le regole non segnalano nulla.\n\n## Qualità del dato e limiti\n\nAndrea Melis presenta copertura parziale nella finestra da MD-4 a MD-2, con dati disponibili per 2 sedute su 3 della squadra [E3]. Simone Amato non ha alcun dato nella finestra postpartita, con 0 sedute coperte su 1 della squadra [E4]. Non esiste ancora una fascia di riferimento per le sedute MD+1 per carenza storica di sedute di questo tipo, trattandosi di inizio stagione. La curva tipica è provvisoria e non produce ancora spunti attendibili. Alcuni non titolari non hanno dati della partita dell'08/10/2023: il dataset non distingue se non hanno giocato o se il dato manca.",
+ "frasi_con_numeri": 4,
+ "verificate": 4,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.0108,
+ "secondi": 7.8,
+ "generato_il": "2026-10-28T09:37:59"
+}

@@ -1,0 +1,15 @@
+{
+ "data": "2024-02-15",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 15/02/2024",
+ "testo": "## Sintesi\n\nNella seduta di due giorni prima della partita (MD-3) del 15/02/2024, la squadra ha mostrato un'aderenza al carico abituale elevata sul fronte accelerazioni (ACC) e decelerazioni (DCC), con percentili mediani rispettivamente di 87 e 79 [E5, E6], mentre la distanza totale (TD), la corsa ad alta velocità (HSR) e lo sprint (SPR) si sono collocati su percentili mediani più bassi, tra 26 e 31 [E2, E3, E4]. La distanza ad alto carico metabolico (HMLD) si è attestata su un percentile mediano di 62 [E7]. Sei giocatori su 17 risultano fuori dalla fascia larga in almeno una metrica, con 8 ulteriori giocatori ai margini [E1].\n\n## Fuori fascia\n\n- Matteo Basile: ACC 102, molto sopra la fascia larga (42-89) [E8]; DCC 112, molto sopra la fascia larga (47-87) [E9]; SPR 36 m, sotto la fascia centrale (75 m-166 m) [E16].\n- Filippo Rinaldi: DCC 86, molto sopra la fascia larga (36-71) [E10]; ACC 84, sopra la fascia centrale (47-63) [E19].\n- Tommaso Ferrandi: HSR 51 m, molto sotto la fascia larga (79 m-330 m) [E13].\n- Elia Gariglio: TD 4.358 m, molto sotto la fascia larga (4.980 m-6.392 m) [E14].\n- Stefano Guidi: ACC 84, molto sopra la fascia larga (44-75) [E11].\n- Federico Santini: ACC 83, molto sopra la fascia larga (29-67) [E12]; HMLD 1.167 m, sopra la fascia centrale (697 m-988 m) [E15].\n\n## Spunti per lo staff\n\nOggi le regole non segnalano nulla.\n\n## Qualità del dato e limiti\n\n- Nessun dato incompleto segnalato per i giocatori in seduta.\n- La finestra MD-4…MD-2 non è ancora conclusa: i valori sono parziali fino al 15/02/2024.\n- Alcuni non titolari non hanno dati della partita dell'11/02/2024: il dataset non distingue se non hanno giocato o se il dato manca.",
+ "frasi_con_numeri": 9,
+ "verificate": 9,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.02096,
+ "secondi": 9.9,
+ "generato_il": "2026-10-28T09:32:51"
+}

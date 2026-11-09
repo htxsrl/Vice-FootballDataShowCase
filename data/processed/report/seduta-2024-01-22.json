@@ -1,0 +1,22 @@
+{
+ "data": "2024-01-22",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 22/01/2024",
+ "testo": "## Sintesi\nLa seduta del 22/01/2024 (MD+1, il giorno dopo la partita) mostra una mediana squadra su percentili medio-alti per la maggior parte delle metriche, con distanza totale (TD) al percentile 59 [E2], HSR (corsa ad alta velocità) al 52 [E3] e distanza ad alto carico metabolico (HMLD) all'80 [E7]. Su 11 giocatori, 4 risultano fuori dalla fascia larga in almeno una metrica [E1]. L'aderenza al carico abituale è generalmente nella fascia attesa, con alcune eccezioni marcate.\n## Fuori fascia\n- **Gabriele Longo**: molto sopra fascia larga su TD (4.198 m) [E8], HSR (238 m) [E9], sprint (37 m) [E10], HMLD (845 m) [E11], decelerazioni (DCC, 44) [E15] e accelerazioni (ACC, 62) [E16]; dato su base squadra, provvisorio (3 sedute).\n- **Pietro Ghio**: molto sotto fascia larga su TD (3.240 m) [E12].\n- **Stefano Guidi**: molto sotto fascia larga su TD (3.276 m) [E14].\n- **Simone Amato**: molto sopra fascia larga su ACC (88) [E13]; sopra fascia centrale su DCC (54) [E18] e HMLD (844 m) [E20].\n- **Samuele Pinna**: sotto fascia centrale su TD (3.429 m) [E17].\n- **Matteo Basile**: sopra fascia centrale su TD (4.435 m) [E21].\n## Titolari e non titolari\nTra i non titolari, Pietro Ghio e Stefano Guidi mostrano TD molto sotto il loro solito di ruolo [E12, E14], mentre Samuele Pinna è sotto fascia centrale [E17]. Al contrario, Simone Amato, Alessio Dalmasso e Matteo Basile mostrano valori sopra il loro solito su ACC/DCC/HMLD/sprint [E13, E18, E20, E19, E21]. Tra i titolari, Gabriele Longo è molto sopra fascia larga su tutte le metriche rilevate [E8, E9, E10, E11, E15, E16]; la finestra postpartita è ancora aperta, con 11 giocatori non titolari in corso di osservazione dopo la partita del 21/01/2024 [E22].\n## Spunti per lo staff\nOggi le regole non segnalano nulla.\n## Qualità del dato e limiti\nElia Gariglio ha copertura parziale nella finestra MD-4/MD-2 (1 seduta su 2 della squadra) [E23] e nessun dato nella finestra postpartita (0 su 1) [E24]. Alcuni non titolari non hanno dati della partita del 21/01/2024: il dataset non distingue se non hanno giocato o se il dato manca.",
+ "frasi_con_numeri": 12,
+ "verificate": 12,
+ "tolte": [
+  "I valori di Gabriele Longo sono su base squadra e provvisori (3 sedute, 19 casi), da considerare con cautela."
+ ],
+ "correzioni": [
+  {
+   "frase": "I valori di Gabriele Longo sono su base squadra e provvisori (3 sedute, 19 casi), da considerare con cautela.",
+   "motivo": "numeri senza evidenza citata"
+  }
+ ],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.0375,
+ "secondi": 13.7,
+ "generato_il": "2026-10-28T09:34:02"
+}

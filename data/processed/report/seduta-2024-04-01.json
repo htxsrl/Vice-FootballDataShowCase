@@ -1,0 +1,15 @@
+{
+ "data": "2024-04-01",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 01/04/2024",
+ "testo": "## Sintesi\n\nLa seduta MD+1 (il giorno dopo la partita) dell'01/04/2024 mostra un carico aderente al solito per distanza totale (TD) e per distanza ad alto carico metabolico (HMLD), con percentile mediano di squadra rispettivamente di 50 [E2] e 49 [E7]. Le accelerazioni (ACC) e le decelerazioni (DCC) risultano invece sopra l'abituale, con percentile mediano di 88 [E5] e 83 [E6], mentre la corsa ad alta velocità (HSR) si colloca sotto, con percentile mediano di 22 [E3] e 5 giocatori su 8 sotto fascia [E3].\n\n## Fuori fascia\n\n- Lorenzo Cortese: ACC a 98, molto sopra la fascia larga P10-P90 (46-87) [E8].\n- Christian Porcu: ACC a 99, molto sopra la fascia larga P10-P90 (46-89) [E9].\n- Pietro Ghio: DCC a 84, sopra la fascia centrale P25-P75 (53-72) [E10].\n- Edoardo Tosi: TD a 5.431 m, sopra la fascia centrale P25-P75 (4.084 m-4.860 m) [E11].\n- Edoardo Tosi: DCC a 67, sopra la fascia centrale P25-P75 (44-59) [E13].\n- Nicolò Serafini: SPR (sprint) a 0 m, sotto la fascia centrale P25-P75 (9 m-92 m) [E12]; ACC a 84, sopra la fascia centrale P25-P75 (49-66) [E14].\n\nIn totale 2 giocatori su 8 sono fuori dalla fascia larga in almeno una metrica (Porcu, Cortese), con altri 6 ai margini [E1].\n\n## Titolari e non titolari\n\nTutte le evidenze disponibili riguardano non titolari [E8, E9, E10, E11, E12, E13, E14]: nessun dato postpartita è segnalato per i titolari in questa seduta.\n\nPer il postpartita, la finestra sull'HSR dei non titolari è aperta con 8 giocatori in corso di valutazione, su 1 seduta di squadra disputata finora [E15]: non sono ancora disponibili esiti conclusivi.\n\n## Spunti per lo staff\n\nOggi le regole non segnalano nulla.\n\n## Qualità del dato e limiti\n\nNon sono segnalati dati incompleti specifici nella lista dedicata. Resta valida l'avvertenza generale: alcuni non titolari non hanno dati della partita del 31/03/2024, perché non hanno giocato o perché il dato manca, senza che il dataset distingua i due casi.",
+ "frasi_con_numeri": 10,
+ "verificate": 10,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.0194,
+ "secondi": 11.4,
+ "generato_il": "2026-10-28T09:30:29"
+}

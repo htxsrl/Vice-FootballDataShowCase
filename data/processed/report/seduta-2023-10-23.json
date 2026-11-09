@@ -1,0 +1,15 @@
+{
+ "data": "2023-10-23",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 23/10/2023",
+ "testo": "## Sintesi\n\nLa seduta MD+1 (il giorno dopo la partita) del 23/10/2023 ha coinvolto 9 giocatori e non mostra nessuno fuori dalla fascia larga in alcuna metrica [E1]. Non è disponibile una fascia di riferimento per le sedute MD+1 (il giorno dopo la partita), per cui l'aderenza al carico abituale di questo specifico tipo di seduta non è verificabile al momento.\n\n## Fuori fascia\n\nNessun giocatore risulta fuori dalla fascia larga in questa seduta [E1].\n\n## Titolari e non titolari\n\nRisultano 9 non titolari della partita del 22/10/2023 per l'esito della corsa ad alta velocità (HSR) postpartita, su 1 seduta della squadra disputata finora in questa finestra [E2]. La finestra post-partita è ancora aperta, quindi il quadro sui non titolari potrà aggiornarsi con le prossime sedute [E2].\n\n## Spunti per lo staff\n\nOggi le regole non segnalano nulla.\n\n## Qualità del dato e limiti\n\nSimone Amato presenta copertura parziale nella finestra da due giorni prima della partita (MD-2) a quattro giorni prima (MD-4), con dati disponibili su 2 sedute su 3 della squadra [E3].\n\nNon esiste ancora una fascia di riferimento per le sedute MD+1, poiché lo storico contiene ancora poche sedute di questo tipo essendo inizio stagione. Alcuni non titolari non hanno dati della partita del 22/10/2023: il dataset non distingue se non hanno giocato o se il dato manca.",
+ "frasi_con_numeri": 3,
+ "verificate": 3,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.01021,
+ "secondi": 7.9,
+ "generato_il": "2026-10-28T09:37:21"
+}

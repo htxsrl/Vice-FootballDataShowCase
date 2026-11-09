@@ -1,0 +1,15 @@
+{
+ "data": "2024-03-06",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 06/03/2024",
+ "testo": "## Sintesi\n\nLa seduta del 06/03/2024, tre giorni prima della partita (MD-3), si colloca su livelli di carico in linea con l'abituale per la maggior parte della squadra, con distanza totale (TD) a percentile mediano 64 [E2] e accelerazioni (ACC) a percentile mediano 83 [E5]. Corsa ad alta velocità (HSR) e sprint (SPR) risultano invece su percentili mediani più contenuti, 47 [E3] e 37 [E4]. Su 17 giocatori, 6 risultano fuori dalla fascia larga in almeno una metrica [E1].\n\n## Fuori fascia\n\n- Riccardo Benedetti: HSR 21 m, molto sotto la fascia larga P10-P90 (53 m-221 m) [E8].\n- Tommaso Ferrandi: TD 4.157 m, molto sotto la fascia larga P10-P90 (4.543 m-6.703 m) [E12].\n- Filippo Rinaldi: decelerazioni (DCC) 92, molto sopra la fascia larga P10-P90 (36-76) [E9]; HMLD (distanza ad alto carico metabolico) 1.168 m, molto sopra la fascia larga P10-P90 (671 m-1.099 m) [E13]; TD 6.757 m, sopra la fascia centrale P25-P75 (5.388 m-6.288 m) [E17].\n- Christian Porcu: ACC 107, molto sopra la fascia larga P10-P90 (46-91) [E11].\n- Lorenzo Cortese: ACC 104, molto sopra la fascia larga P10-P90 (52-93) [E14].\n- Nicolò Serafini: DCC 85, molto sopra la fascia larga P10-P90 (33-70) [E10].\n\n## Spunti per lo staff\n\nOggi le regole non segnalano nulla.\n\n## Qualità del dato e limiti\n\n- Christian Porcu non ha dati nella finestra postpartita (0 sedute su 1 disponibile) [E20].\n- La finestra MD-4…MD-2 non è ancora conclusa: i valori relativi sono parziali fino al 06/03/2024.\n- Alcuni non titolari non hanno dati della partita del 02/03/2024: il dataset non distingue se non hanno giocato o se il dato manca.",
+ "frasi_con_numeri": 10,
+ "verificate": 10,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.0209,
+ "secondi": 10.0,
+ "generato_il": "2026-10-28T09:31:52"
+}

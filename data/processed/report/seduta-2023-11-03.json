@@ -1,0 +1,15 @@
+{
+ "data": "2023-11-03",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 03/11/2023",
+ "testo": "## Sintesi\n\nLa seduta MD-1 (il giorno prima della partita) del 03/11/2023 mostra un'aderenza al carico abituale nella media-alta per la squadra, con percentili mediani compresi tra 57 e 70 su tutte le metriche [E2, E3, E4, E5, E6, E7]. La corsa ad alta velocità (HSR) e la distanza in sprint (SPR) sono le metriche con più giocatori sopra il solito, rispettivamente 6 e 4 su 17 [E3, E4]. Sei giocatori su 17 risultano fuori dalla fascia larga in almeno una metrica, con 5 di questi ai margini [E1].\n\n## Fuori fascia\n\n- **Gabriele Longo**: distanza totale 1.210 m, molto sotto la fascia larga (1.689 m–3.241 m) [E9]; accelerazioni (ACC) 8, molto sotto la fascia larga (13–37) [E10].\n- **Elia Gariglio**: distanza in sprint 82 m, molto sopra la fascia larga (0 m–20 m) [E8]; HSR 107 m, molto sopra la fascia larga (3 m–64 m) [E13]; distanza totale 3.193 m, molto sopra la fascia larga (1.850 m–3.075 m) [E16]; ACC 38, sopra la fascia centrale (20–32) [E20].\n- **Michele Valli**: distanza totale 3.310 m, molto sopra la fascia larga (1.941 m–3.193 m) [E11]; ACC 48, molto sopra la fascia larga (21–42) [E14]; decelerazioni (DCC) 39, sopra la fascia centrale (15–32) [E18].\n- **Federico Santini**: HSR 110 m, molto sopra la fascia larga (3 m–64 m) [E12]; ACC 38, sopra la fascia centrale (20–32) [E21].\n- **Samuele Pinna**: distanza in sprint 91 m, molto sopra la fascia larga (0 m–77 m) [E17].\n- **Tommaso Ferrandi**: distanza in sprint 50 m, molto sopra la fascia larga (0 m–20 m) [E15].\n\n## Verso la partita\n\nNella finestra da quattro giorni prima della partita (MD-4) a due giorni prima (MD-2), 3 giocatori su 18 risultano sotto il solito in alta velocità [E23]. Nicolò Serafini ha registrato 0 m di SPR, sotto la fascia centrale (15 m–126 m), mentre l'HSR (149 m) resta dentro fascia [E24, E25]. Andrea Melis ha SPR dentro fascia (133 m) ma HSR sotto la fascia centrale (356 m–705 m) con 249 m [E26, E27]. Gabriele Longo ha sia SPR (0 m) che HSR (127 m) sotto la fascia centrale nei rispettivi riferimenti [E28, E29].\n\n## Spunti per lo staff\n\n- Verificare se il carico di MD-1 di Michele Valli era previsto: oggi 3.310 m di distanza totale, oltre la fascia storica delle sue rifiniture (fino a 3.193 m). [E11]\n- Verificare se il carico di MD-1 di Federico Santini era previsto: oggi 110 m di HSR, oltre la fascia storica delle sue rifiniture (fino a 64 m). [E12]\n- Valutare se serve uno stimolo di velocità per Nicolò Serafini: da MD-4 a MD-2 ha registrato 0 m di sprint e 149 m di HSR, contro un riferimento di 49 m e 261 m per quei giorni, prima della partita del 04/11/2023. [E24, E25]\n\n## Qualità del dato e limiti\n\nNon risultano dati incompleti segnalati per la seduta odierna. Alcuni non titolari non hanno dati della partita del 28/10/2023: non hanno giocato o il dato manca, il dataset non distingue i due casi.",
+ "frasi_con_numeri": 16,
+ "verificate": 16,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.03346,
+ "secondi": 13.1,
+ "generato_il": "2026-10-28T09:36:45"
+}

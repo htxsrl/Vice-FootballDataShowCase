@@ -1,0 +1,15 @@
+{
+ "data": "2023-10-22",
+ "tipo": "seduta",
+ "titolo": "Report della partita del 22/10/2023",
+ "testo": "## Sintesi\n\nLa seduta del 22/10/2023, giorno di partita (MD), mostra un'aderenza al carico abituale nel complesso dentro fascia per la maggior parte della squadra, con percentili mediani che vanno da 31 per le accelerazioni (ACC) a 81 per la distanza totale (TD) [E2, E5]. Su 13 giocatori, 6 risultano fuori dalla fascia larga in almeno una metrica [E1]. La distanza ad alta velocità (HSR) e la distanza ad alto carico metabolico (HMLD) presentano percentili mediani più alti, rispettivamente 68 e 69, con diversi giocatori sopra la loro fascia abituale [E3, E7].\n\n## Fuori fascia\n\n- **Lorenzo Cortese**: TD a 6.434 m, molto sopra la fascia larga (750 m - 5.795 m) [E17]; HSR a 626 m, molto sopra la fascia larga (64 m - 477 m) [E9].\n- **Tommaso Ferrandi**: HMLD a 2.588 m, molto sopra la fascia larga (1.574 m - 2.237 m) [E15]; distanza in sprint (SPR) a 390 m, molto sopra la fascia larga (33 m - 281 m) [E14]; TD a 12.650 m, molto sopra la fascia larga (8.978 m - 11.954 m) [E16]; ACC a 57, sotto la fascia centrale (66 - 94) [E22].\n- **Michele Valli**: HMLD a 2.334 m, molto sopra la fascia larga (1.382 m - 1.975 m) [E13]; HSR a 796 m, sopra la fascia centrale (374 m - 723 m) [E19].\n- **Mattia Bosio**: TD a 5.198 m, molto sopra la fascia larga (2.263 m - 4.783 m) [E11]; HMLD a 1.025 m, molto sopra la fascia larga (396 m - 926 m) [E12].\n- **Matteo Basile**: decelerazioni (DCC) a 111, molto sopra la fascia larga (80 - 97) [E10]; HSR a 450 m, sotto la fascia centrale (540 m - 746 m) [E18].\n- **Alessio Dalmasso**: ACC a 34, molto sotto la fascia larga (40 - 70) [E8].\n\nSi segnalano inoltre sotto fascia centrale: Nicolò Serafini su SPR (8 m, fascia 69 m - 273 m) [E20] e Riccardo Benedetti su SPR (8 m, fascia 27 m - 153 m) [E21].\n\n## Titolari e non titolari\n\nTra i titolari, Tommaso Ferrandi mostra carico molto sopra la fascia abituale su TD, HMLD e SPR [E14, E15, E16]; Michele Valli e Matteo Basile mostrano rispettivamente HMLD/HSR sopra e DCC molto sopra [E13, E19, E10].\n\nTra i non titolari, Lorenzo Cortese e Mattia Bosio mostrano carico molto sopra il loro solito su più metriche (TD, HSR, HMLD) [E17, E9, E11, E12]. Sul postpartita della partita del 14/10/2023, 8 non titolari su 10 risultano senza fascia nell'esito HSR, 2 senza dato [E23].\n\n## Spunti per lo staff\n\nOggi le regole non segnalano nulla.\n\n## Qualità del dato e limiti\n\nSimone Amato ha copertura parziale nella finestra da MD-4 a MD-2 (2 sedute su 3) [E24]. Lorenzo Cortese e Andrea Melis non hanno alcun dato nella finestra postpartita (0 sedute su 1) [E25, E26]. La curva tipica è provvisoria per poche settimane regolari di dati, quindi non genera spunti; alcuni non titolari non hanno dati della partita del 14/10/2023, senza possibilità di distinguere se non hanno giocato o se il dato manca.",
+ "frasi_con_numeri": 15,
+ "verificate": 15,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.03023,
+ "secondi": 14.7,
+ "generato_il": "2026-10-28T09:37:28"
+}

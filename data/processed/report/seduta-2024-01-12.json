@@ -1,0 +1,15 @@
+{
+ "data": "2024-01-12",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 12/01/2024",
+ "testo": "## Sintesi\n\nLa seduta del 12/01/2024, giornata MD-1 (il giorno prima della partita), mostra un'aderenza al carico abituale nella parte bassa delle fasce per la maggior parte delle metriche di squadra: la distanza totale (TD) si ferma a un percentile mediano di 21 [E2], la distanza ad alta velocità (HSR) a 42 [E3], la distanza in sprint (SPR) a 36 [E4]. Anche accelerazioni intense (ACC), decelerazioni intense (DCC) e distanza ad alto carico metabolico (HMLD) si collocano su percentili mediani bassi, rispettivamente 46, 33 e 29 [E5, E6, E7]. Su 16 giocatori in seduta, 2 risultano fuori dalla fascia larga e altri 8 ai margini [E1].\n\n## Fuori fascia\n\n- Filippo Rinaldi: TD 1.417 m, molto sotto la fascia larga (2.283 m - 4.031 m) [E8]; ACC 9, molto sotto la fascia larga (20-55) [E10]; HMLD 181 m, molto sotto la fascia larga (216 m - 570 m) [E12]; DCC 14, sotto la fascia centrale (18-33) [E17].\n- Nicolò Serafini: TD 1.417 m, molto sotto la fascia larga (1.993 m - 5.158 m) [E9]; ACC 9, molto sotto la fascia larga (18-63) [E11].\n- Tommaso Ferrandi: TD 2.236 m, sotto la fascia centrale (2.534 m - 3.599 m) [E16].\n- Samuele Pinna: DCC 8, sotto la fascia centrale (15-29) [E15].\n- Stefano Guidi: HSR 3 m, sotto la fascia centrale (21 m - 68 m) [E14].\n- Luca Cerutti: DCC 3, sotto la fascia centrale (7-21) [E13].\n\n## Verso la partita\n\nNella finestra da MD-4 a MD-2 prima della partita del 13/01/2024, con copertura completa su 2 sedute di squadra, 1 giocatore su 18 risulta sotto il solito in alta velocità: Lorenzo Cortese [E18]. La sua distanza in SPR è 58 m, sotto la fascia centrale (98 m - 302 m) [E19], mentre la sua HSR è 373 m, dentro fascia rispetto al riferimento di 569 m [E20].\n\n## Spunti per lo staff\n\nOggi le regole non segnalano nulla.\n\n## Qualità del dato e limiti\n\nNon sono segnalati dati incompleti specifici per la seduta odierna. Va considerato che alcuni non titolari non hanno dati relativi alla partita del 07/01/2024: il dataset non distingue se non hanno giocato oppure se il dato manca per altri motivi.",
+ "frasi_con_numeri": 11,
+ "verificate": 11,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.02327,
+ "secondi": 11.1,
+ "generato_il": "2026-10-28T09:34:34"
+}

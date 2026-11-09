@@ -1,0 +1,15 @@
+{
+ "data": "2024-04-06",
+ "tipo": "seduta",
+ "titolo": "Report della partita del 06/04/2024",
+ "testo": "## Sintesi\n\nLa seduta di partita del 06/04/2024 mostra percentili mediani di squadra sopra la mediana su quasi tutte le metriche, con distanza totale (TD) al percentile 63 [E2], distanza in sprint (SPR) al 68 [E4] e distanza ad alto carico metabolico (HMLD) al 62 [E7]; corsa ad alta velocità (HSR) è più vicina alla mediana, al percentile 55 [E3]. Su 14 giocatori, 4 risultano fuori dalla fascia larga in almeno una metrica e altri 7 sono ai margini [E1].\n\n## Fuori fascia\n\n- Matteo Basile: distanza totale 10.814 m, molto sopra la fascia larga (7.282 m-10.410 m) [E9].\n- Stefano Guidi: accelerazioni (ACC) 42, molto sopra la fascia larga (2-39) [E10].\n- Federico Santini: HMLD 1.015 m, molto sopra la fascia larga (197 m-972 m) [E11].\n- Simone Amato: distanza in sprint (SPR) 11 m, molto sotto la fascia larga (37 m-269 m) [E8].\n- Andrea Melis: SPR 629 m, sopra la fascia centrale (261 m-521 m) [E12]; HSR 795 m, sopra la fascia centrale (421 m-722 m) [E13].\n- Stefano Guidi: SPR 136 m, sopra la fascia centrale (0 m-35 m) [E15].\n\n## Titolari e non titolari\n\n- Tra i titolari, Matteo Basile è molto sopra il suo solito in distanza totale (10.814 m) [E9] e sopra in decelerazioni (DCC) con 133 [E14]; Andrea Melis è sopra in SPR (629 m) [E12] e HSR (795 m) [E13].\n- Tra i non titolari, Stefano Guidi è molto sopra in ACC (42) [E10] e sopra in SPR (136 m) [E15]; Federico Santini è molto sopra in HMLD (1.015 m) [E11]; Simone Amato è molto sotto in SPR (11 m) [E8]; Christian Porcu è sotto la fascia centrale in HSR (140 m) [E16].\n- Sul postpartita della gara del 31/03/2024, 5 non titolari su 11 risultano sotto il solito in HSR [E17]; tra i valutati con dato completo, Samuele Pinna [E19], Lorenzo Cortese [E20], Pietro Ghio [E21], Filippo Rinaldi [E22] e Christian Porcu [E23] sono tutti sotto il solito in HSR postpartita.\n\n## Spunti per lo staff\n\nOggi le regole non segnalano nulla.\n\n## Qualità del dato e limiti\n\n- Stefano Guidi: nessun dato nella finestra MD-4 (quattro giorni prima della partita)/MD-2 (0 sedute su 2) [E24] e nessun dato nel postpartita (0 su 1) [E26].\n- Andrea Melis: copertura parziale in MD-4/MD-2 (1 seduta su 2) [E25].\n- Gabriele Longo e Simone Amato: nessun dato nel postpartita (0 su 1) [E27, E28].\n- Alcuni non titolari non hanno dati della partita del 31/03/2024: non hanno giocato o il dato manca, il dataset non distingue i due casi.",
+ "frasi_con_numeri": 14,
+ "verificate": 14,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.02858,
+ "secondi": 17.2,
+ "generato_il": "2026-10-28T09:30:17"
+}

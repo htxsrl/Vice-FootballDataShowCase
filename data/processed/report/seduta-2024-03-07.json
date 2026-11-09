@@ -1,0 +1,16 @@
+{
+ "data": "2024-03-07",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 07/03/2024",
+ "testo": "## Sintesi\n\nLa seduta di MD-2 (due giorni prima della partita) mostra la squadra su livelli di carico in linea con l'abituale per la maggior parte dei giocatori, con percentili mediani compresi tra 64 e 79 su TD (distanza totale), HSR (corsa ad alta velocità), SPR (sprint), ACC (accelerazioni intense), DCC (decelerazioni intense) e HMLD (distanza ad alto carico metabolico) [E2, E3, E4, E5, E6, E7]. Su 17 giocatori, 9 risultano fuori dalla fascia larga in almeno una metrica, con 5 di questi ai margini [E1]. Nessuna metrica di squadra presenta casi \"sotto\" rilevanti, segno che l'aderenza al carico abituale è stata nel complesso mantenuta.\n\n## Fuori fascia\n\n- Federico Santini: HMLD 1.330 m, molto sopra la fascia larga (492 m–1.165 m) [E8]; anche TD 6.522 m, molto sopra la fascia larga (3.616 m–6.321 m) [E13].\n- Lorenzo Cortese: HSR 591 m, molto sopra la fascia larga (95 m–526 m) [E9]; HMLD 1.409 m, molto sopra la fascia larga (446 m–1.165 m) [E12]; TD 6.006 m, sopra la fascia centrale (4.417 m–5.678 m) [E19].\n- Nicolò Serafini: DCC 74, molto sopra la fascia larga (26–66) [E10].\n- Filippo Rinaldi: DCC 70, molto sopra la fascia larga (32–62) [E11].\n- Simone Amato: ACC 100, molto sopra la fascia larga (19–82) [E15]; TD 6.458 m, sopra la fascia centrale (3.984 m–5.637 m) [E22].\n- Christian Porcu: SPR 329 m, molto sopra la fascia larga (12 m–268 m) [E16].\n\nAltri fuori fascia: Matteo Basile, ACC 21, molto sotto la fascia larga (35–66) [E14]; Pietro Ghio, ACC 69, molto sopra la fascia larga (36–60) [E17], e DCC 67, sopra la fascia centrale (37–52) [E18].\n\n## Verso la partita\n\nDa MD-4 a MD-2 per la partita del 09/03/2024, 2 giocatori su 17 risultano sotto il solito: Pietro Ghio e Gabriele Longo [E23]. Ghio registra 13 m di SPR, dentro la fascia centrale (7 m–54 m) [E24], e 114 m di HSR, sotto rispetto al riferimento di 220 m, con fascia centrale 151 m–306 m [E25]. Longo registra 9 m di SPR, sotto rispetto al riferimento di 72 m, con fascia centrale 32 m–134 m [E26], ma 596 m di HSR dentro la fascia larga (194 m–879 m) [E27].\n\n## Spunti per lo staff\n\n- Valutare se serve uno stimolo di velocità per Gabriele Longo: da MD-4 a MD-2 ha registrato 9 m di sprint e 596 m di HSR, contro un riferimento di 72 m e 485 m per quei giorni, prima della partita del 09/03/2024. [E26, E27]\n- Approfondire con lo staff lo scostamento di Nicolò Serafini: negli ultimi tre allenamenti (04/03/2024, 06/03/2024 e 07/03/2024) la distanza ad alta velocità (HSR) è rimasta sopra la sua fascia storica. [E28, E29, E30]\n\n## Qualità del dato e limiti\n\nChristian Porcu non ha dati nella finestra postpartita (0 sedute su 1 disponibile) [E31]. Alcuni non titolari non hanno dati relativi alla partita del 02/03/2024: il dataset non distingue se non hanno giocato o se il dato manca.",
+ "frasi_con_numeri": 16,
+ "verificate": 16,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.03352,
+ "secondi": 14.7,
+ "generato_il": "2026-10-28T09:31:49",
+ "corretto_il": "2026-10-28: tolto uno spunto di velocità nato da un difetto della regola (NaN), decisione 53"
+}

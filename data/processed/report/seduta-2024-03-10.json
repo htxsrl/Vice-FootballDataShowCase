@@ -1,0 +1,20 @@
+{
+ "data": "2024-03-10",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 10/03/2024",
+ "testo": "## Sintesi\nLa seduta MD+1 (il giorno dopo la partita) del 10/03/2024 mostra un carico distribuito su percentili bassi per la maggior parte delle metriche di volume e alta velocità, mentre accelerazioni e decelerazioni restano in linea con l'abituale. Il percentile mediano di squadra è basso per distanza totale (TD) [E2], per corsa ad alta velocità (HSR) [E3], per sprint (SPR) [E4] e per distanza ad alto carico metabolico (HMLD) [E7], mentre accelerazioni intense (ACC) [E5] e decelerazioni intense (DCC) [E6] restano dentro la fascia abituale per la gran parte dei giocatori. 13 giocatori su 15 risultano fuori dalla fascia larga in almeno una metrica [E1].\n## Fuori fascia\n- Matteo Basile: TD 1.128 m, molto sotto la fascia larga (1.606 m–3.079 m) [E15]\n- Andrea Melis: TD 1.301 m, molto sotto la fascia larga (1.606 m–3.079 m) [E9]\n- Nicolò Serafini: TD 1.298 m, molto sotto la fascia larga (1.606 m–3.079 m) [E16]\n- Luca Cerutti: TD 1.328 m, molto sotto la fascia larga (1.606 m–3.079 m) [E14]\n- Alessio Dalmasso: TD 1.418 m, molto sotto la fascia larga (1.606 m–3.079 m) [E8]\n- Samuele Pinna: HSR 7 m, molto sotto la fascia larga (167 m–563 m) [E17]\n## Titolari e non titolari\nTra i titolari, Basile, Melis, Serafini, Cerutti e Dalmasso mostrano TD molto sotto il loro abituale di squadra [E15, E9, E16, E14, E8]; nessun titolare risulta sopra fascia oggi.\nTra i non titolari, HSR e SPR sono molto sotto o sotto per diversi giocatori (Gariglio, Rinaldi, Cortese, Pinna, Ghio, Guidi, Ferrandi) [E10, E11, E12, E17, E18, E19, E21, E22]; la finestra postpartita è ancora aperta, con 8 non titolari in corso di valutazione sull'esito HSR [E23].\n## Spunti per lo staff\n- Verificare se il programma prevedeva questo carico: la distanza ad alta velocità (HSR) mediana dei non titolari registrata oggi è 14 m, contro i 278 m delle sedute storiche di MD+1. [E24]\n## Qualità del dato e limiti\n- Edoardo Tosi non ha dati nella finestra da MD-4 a MD-2 (0 sedute su 2 della squadra) [E25].\n- Alcuni non titolari non hanno dati della partita del 09/03/2024: non è possibile distinguere se non hanno giocato o se il dato manca.\n- Le evidenze su TD dei titolari (E8, E9, E14, E15, E16) sono provvisorie, basate su 4 sedute storiche [E8].",
+ "frasi_con_numeri": 12,
+ "verificate": 12,
+ "tolte": [],
+ "correzioni": [
+  {
+   "frase": "- Le evidenze su TD dei titolari (E8, E9, E14, E15, E16) sono provvisorie, basate su 4 sedute storiche.",
+   "motivo": "numeri senza evidenza citata"
+  }
+ ],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.03872,
+ "secondi": 14.0,
+ "generato_il": "2026-10-28T09:31:34"
+}

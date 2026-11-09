@@ -1,0 +1,15 @@
+{
+ "data": "2024-01-08",
+ "tipo": "seduta",
+ "titolo": "Report della seduta del 08/01/2024",
+ "testo": "## Sintesi\n\nLa seduta del 08/01/2024 (MD+1, il giorno dopo la partita) mostra un'aderenza al carico abituale nella parte bassa delle fasce per quasi tutte le metriche di squadra, con percentili mediani compresi tra 16 e 46 [E2, E3, E4, E5, E6, E7]. Nessun giocatore risulta sopra fascia, mentre 2 giocatori su 10 sono fuori dalla fascia larga in almeno una metrica e altri 4 sono ai margini [E1]. Il quadro generale indica una seduta di scarico rispetto al solito, coerente con il giorno successivo alla partita.\n\n## Fuori fascia\n\n- Elia Gariglio: accelerazioni (ACC) 32, molto sotto la fascia larga (41-71) [E8]; decelerazioni (DCC) 25, molto sotto la fascia larga (30-59) [E9].\n- Elia Gariglio: HMLD (distanza ad alto carico metabolico) 485 m, sotto la fascia centrale (524 m-756 m) [E16].\n- Gabriele Longo: distanza in sprint (SPR) 20 m, molto sotto la fascia larga (56 m-284 m) [E10]; ACC 32, molto sotto la fascia larga (51-85) [E11].\n- Gabriele Longo: HMLD 422 m, molto sotto la fascia larga (620 m-924 m) [E12]; DCC 32, sotto la fascia centrale (42-67) [E13]; HSR (corsa ad alta velocità) 122 m, sotto la fascia centrale (273 m-364 m) [E15]; TD (distanza totale) 3.563 m, sotto la fascia centrale (3.878 m-4.463 m) [E17].\n- Lorenzo Cortese: SPR 30 m, sotto la fascia centrale (80 m-260 m) [E14].\n\n## Titolari e non titolari\n\nTutti i 10 giocatori in seduta sono non titolari rispetto alla finestra postpartita aperta, con l'HSR postpartita ancora in corso di rilevazione (1 seduta su 10 in corso) [E18].\nNon risultano titolari sopra fascia nella seduta odierna; le evidenze fuori fascia riguardano esclusivamente il gruppo dei non titolari [E8, E9, E10, E11, E12, E13, E14, E15, E16, E17].\n\n## Spunti per lo staff\n\nOggi le regole non segnalano nulla.\n\n## Qualità del dato e limiti\n\nNon sono dichiarati dati incompleti specifici, ma alcuni non titolari non hanno dati della partita del 07/01/2024: non hanno giocato o il dato manca, e il dataset non distingue tra i due casi.\nLe evidenze individuali su Gariglio, Longo e Cortese sono etichettate come provvisorie, con basi di 4 sedute e 7-8 casi a livello di ruolo [E8, E9, E10, E11, E12, E13, E14, E15, E16, E17].",
+ "frasi_con_numeri": 10,
+ "verificate": 10,
+ "tolte": [],
+ "correzioni": [],
+ "modello": "HTX-EU-Claude-Sonnet-5",
+ "prompt": "report_v3",
+ "costo": 0.02211,
+ "secondi": 11.4,
+ "generato_il": "2026-10-28T09:34:46"
+}
